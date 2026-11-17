@@ -36,9 +36,16 @@ function decodeHtml(s) {
     .replace(/&nbsp;/g, ' ');
 }
 
+const FETCH_HEADERS = {
+  'User-Agent':
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  Accept: 'application/json,text/plain,*/*',
+  'Accept-Language': 'en-US,en;q=0.9',
+};
+
 async function fetchAllProducts() {
   const firstUrl = `${API}?per_page=${PER_PAGE}&page=1`;
-  const first = await fetch(firstUrl);
+  const first = await fetch(firstUrl, { headers: FETCH_HEADERS });
   if (!first.ok) throw new Error(`API ${first.status} ${first.statusText}`);
   const totalPages = Number(first.headers.get('X-WP-TotalPages') || 1);
   const total = Number(first.headers.get('X-WP-Total') || 0);
@@ -47,7 +54,7 @@ async function fetchAllProducts() {
 
   for (let page = 2; page <= totalPages; page++) {
     console.log(`Fetching page ${page}/${totalPages}...`);
-    const res = await fetch(`${API}?per_page=${PER_PAGE}&page=${page}`);
+    const res = await fetch(`${API}?per_page=${PER_PAGE}&page=${page}`, { headers: FETCH_HEADERS });
     if (!res.ok) throw new Error(`API page ${page}: ${res.status}`);
     items = items.concat(await res.json());
     await new Promise((r) => setTimeout(r, 120));

@@ -1,13 +1,14 @@
 name: Daily stock scrape
 
+# pcbuilders.lk API blocks GitHub Actions IPs (403).
+# Daily scrape must run on your PC via scripts/refresh-and-push.ps1
+# This workflow only redeploys Pages if you push data manually.
+
 on:
-  schedule:
-    # 18:30 UTC = 00:00 Sri Lanka (IST +5:30) roughly midnight
-    - cron: '30 18 * * *'
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -16,38 +17,16 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  scrape-and-deploy:
+  deploy-only:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Scrape stock + compute daily diffs
-        run: node scripts/scrape.mjs
-
-      - name: Commit updated data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
-          if git diff --staged --quiet; then
-            echo "No data changes"
-          else
-            git commit -m "chore: stock snapshot $(date -u +%Y-%m-%d)"
-            git push
-          fi
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: .
-
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - id: deployment
         uses: actions/deploy-pages@v4
