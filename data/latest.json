@@ -1,14 +1,14 @@
 {
   "date": "2026-11-17",
-  "scraped_at": "2026-11-17T11:22:35.563Z",
+  "scraped_at": "2026-11-17T12:56:09.809Z",
   "counts": {
-    "products": 1107,
-    "qty_known": 540,
+    "products": 1105,
+    "qty_known": 539,
     "qty_hidden": 42,
-    "backorder": 525,
+    "backorder": 524,
     "out_of_stock": 0,
-    "sum_qty": 1224,
-    "total_value": 35664590
+    "sum_qty": 1223,
+    "total_value": 35689790
   },
   "products": [
     {
@@ -2849,8 +2849,8 @@
     {
       "id": 61120,
       "name": "ASUS P523 ROG GLADIUS III CORE ERGONOMIC GAMING MOUSE (3 YEARS WARRANTY)",
-      "sku": "MOU-NEW-ASUS-P523-ROG-GLADIUS-III-CORE",
-      "permalink": "https://pcbuilders.lk/asus-p523-rog-gladius-iii-core-ergonomic-gaming-mouse-3-years-warranty/",
+      "sku": "MOU-NEW-ASUS-P523-ROG-GLADIUS-III-CORE-ERGONOMIC",
+      "permalink": "https://pcbuilders.lk/asus-mou-new-asus-p523-rog-gladius-iii-core/",
       "price_lkr": 17500,
       "is_in_stock": true,
       "stock_text": "2 in stock",
@@ -2858,12 +2858,12 @@
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/asus-rog-gladius-iii-core-gaming-mouse-500x625.png",
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-11-17T172641.796.png",
       "categories": "Gaming Peripherals, Mouse"
     },
     {
       "id": 61118,
-      "name": "ASUS P524 ROG HARPE ACE Wired ESPORTS GAMING MOUSE (3 YEARS WARRANTY)",
+      "name": "ASUS P524 ROG Harpe Mini Core Gaming Mouse (3 YEARS WARRANTY)",
       "sku": "MOU-NEW-ASUS-P524-ROG-HARPE-MINI-CORE",
       "permalink": "https://pcbuilders.lk/asus-mou-new-asus-p524-rog-harpe-mini-core/",
       "price_lkr": 19000,
@@ -2873,7 +2873,7 @@
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/asus-rog-harpe-ace-mini-wireless-gaming-mouse-500x625.png",
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-11-17T172014.037.png",
       "categories": "Gaming Peripherals, Mouse"
     },
     {
@@ -5217,6 +5217,21 @@
       "categories": "Motherboards, PC Components"
     },
     {
+      "id": 47842,
+      "name": "NZXT C1000 Gold Core 1000 Watt 80 PLUS Gold Fully Modular Power Supply (10 YEARS WARRANTY)",
+      "sku": "PSU-NEW-NZXT-C1000-GOLD-CORE-1000-WATT",
+      "permalink": "https://pcbuilders.lk/nzxt-psu-new-nzxt-c1000-gold-core-1000-watt-gold/",
+      "price_lkr": 49500,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-45.png",
+      "categories": "Power Supplies, PC Components"
+    },
+    {
       "id": 47756,
       "name": "ONIKUMA T209 OWS Bluetooth Earphone with Charging Case, Cyberpunk Design (1 years warranty)",
       "sku": "GEN-NEW-ONIKUMA-T209-OWS-BLUETOOTH-EARPHONE-CHAR",
@@ -6537,21 +6552,6 @@
       "categories": "Chargers, Mobile, Mobile Accessories"
     },
     {
-      "id": 35672,
-      "name": "WIWU WI-W009 15W QI Standard Magsafe Magnetic Fast Charging Wireless Charger (6 MONTHS WARRANTY)",
-      "sku": "GEN-NEW-WIWU-WI-W009-15W-QI-STANDARD-MAGSAFE-MAG",
-      "permalink": "https://pcbuilders.lk/wiwu-wi-w009/",
-      "price_lkr": 2300,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-68.png",
-      "categories": "Chargers, Mobile, Mobile Accessories"
-    },
-    {
       "id": 35654,
       "name": "INTEL CORE I5 – 8400 PROCESSOR (USED ITEM)",
       "sku": "CPU-USED-INTEL-CORE-I5&#8212;8400",
@@ -7059,21 +7059,6 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/05/image-removebg-preview-77-447x500.png",
-      "categories": "PC Cases, PC Components"
-    },
-    {
-      "id": 31604,
-      "name": "RAIDMAX INFINITA I610 WOOD ARGB MID-TOWER GAMING CASE BLACK",
-      "sku": "CASE-NEW-RAIDMAX-INFINITA-I610-WOOD-ARGB-BLACK",
-      "permalink": "https://pcbuilders.lk/raidmax-case-new-raidmax-infinita-i610-wood-argb-black-black/",
-      "price_lkr": 22000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/05/65.png",
       "categories": "PC Cases, PC Components"
     },
     {
@@ -12534,21 +12519,6 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-47.png",
-      "categories": "Power Supplies, PC Components"
-    },
-    {
-      "id": 47842,
-      "name": "NZXT C1000 Gold Core 1000 Watt 80 PLUS Gold Fully Modular Power Supply (10 YEARS WARRANTY)",
-      "sku": "PSU-NEW-NZXT-C1000-GOLD-CORE-1000-WATT",
-      "permalink": "https://pcbuilders.lk/nzxt-psu-new-nzxt-c1000-gold-core-1000-watt-gold/",
-      "price_lkr": 49500,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-45.png",
       "categories": "Power Supplies, PC Components"
     },
     {
