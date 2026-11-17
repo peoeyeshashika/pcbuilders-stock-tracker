@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>PCBuilders.lk Stock Tracker</title>
+<style>
+  :root {
+    --bg: #0f1419;
+    --panel: #1a222c;
+    --line: #2a3544;
+    --text: #e8eef5;
+    --muted: #8b9bb0;
+    --accent: #3dd68c;
+    --warn: #f5a524;
+    --danger: #f04438;
+    --link: #6cb6ff;
+    --up: #3dd68c;
+    --down: #f04438;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Segoe UI", system-ui, sans-serif;
+    background: radial-gradient(1200px 600px at 10% -10%, #1b2a3a 0%, var(--bg) 55%);
+    color: var(--text);
+    min-height: 100vh;
+  }
+  header {
+    position: sticky; top: 0; z-index: 20;
+    backdrop-filter: blur(10px);
+    background: rgba(15,20,25,.9);
+    border-bottom: 1px solid var(--line);
+    padding: 14px 20px 0;
+  }
+  .wrap { max-width: 1200px; margin: 0 auto; }
+  h1 { margin: 0 0 4px; font-size: 1.25rem; font-weight: 650; }
+  .sub { color: var(--muted); font-size: .85rem; margin-bottom: 12px; }
+  .tabs { display: flex; gap: 6px; }
+  .tab {
+    border: 1px solid var(--line);
+    background: transparent;
+    color: var(--muted);
+    border-radius: 10px 10px 0 0;
+    padding: 10px 16px;
+    cursor: pointer;
+    font: inherit;
+    border-bottom: none;
+  }
+  .tab.active {
+    background: var(--panel);
+    color: var(--text);
+  }
+  .panel { display: none; padding: 16px 20px 40px; max-width: 1200px; margin: 0 auto; }
+  .panel.active { display: block; }
+  .controls {
+    display: grid;
+    grid-template-columns: 1.4fr .8fr .7fr .7fr auto;
+    gap: 10px;
+    margin: 12px 0 0;
+  }
+  .controls-day {
+    display: grid;
+    grid-template-columns: .7fr 1fr auto;
+    gap: 10px;
+    margin: 12px 0 0;
+  }
+  @media (max-width: 900px) {
+    .controls, .controls-day { grid-template-columns: 1fr 1fr; }
+  }
+  input, select, button {
+    width: 100%;
+    border: 1px solid var(--line);
+    background: var(--panel);
+    color: var(--text);
+    border-radius: 10px;
+    padding: 10px 12px;
+    font: inherit;
+  }
+  button { cursor: pointer; background: #243041; }
+  button:hover { border-color: var(--accent); }
+  .stats {
+    display: flex; flex-wrap: wrap; gap: 10px;
+    margin: 16px 0 0;
+  }
+  .stat {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 10px 14px;
+    min-width: 130px;
+  }
+  .stat b { display: block; font-size: 1.05rem; }
+  .stat span { color: var(--muted); font-size: .75rem; }
+  .stat.down b { color: var(--down); }
+  .stat.up b { color: var(--up); }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    overflow: hidden;
+    margin-top: 14px;
+  }
+  th, td {
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--line);
+    text-align: left;
+    vertical-align: middle;
+    font-size: .9rem;
+  }
+  th {
+    background: #222b36;
+    color: var(--muted);
+    font-weight: 600;
+    cursor: pointer;
+    user-select: none;
+  }
+  tr:hover td { background: rgba(255,255,255,.03); }
+  .thumb {
+    width: 44px; height: 44px; object-fit: contain;
+    background: #10161d; border-radius: 8px;
+  }
+  a { color: var(--link); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .qty { font-weight: 700; font-variant-numeric: tabular-nums; }
+  .qty.low { color: var(--warn); }
+  .qty.ok { color: var(--accent); }
+  .qty.out { color: var(--danger); }
+  .delta-down { color: var(--down); font-weight: 700; }
+  .delta-up { color: var(--up); font-weight: 700; }
+  .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 999px;
+    font-size: .75rem;
+    border: 1px solid var(--line);
+    color: var(--muted);
+  }
+  .badge.in { color: var(--accent); border-color: rgba(61,214,140,.35); }
+  .badge.out { color: var(--danger); border-color: rgba(240,68,56,.35); }
+  .muted { color: var(--muted); font-size: .8rem; }
+  .empty { text-align: center; padding: 40px; color: var(--muted); }
+  .section-title {
+    margin: 22px 0 0;
+    font-size: 1rem;
+    font-weight: 650;
+  }
+  .note {
+    margin-top: 10px;
+    padding: 12px 14px;
+    border: 1px dashed var(--line);
+    border-radius: 12px;
+    color: var(--muted);
+    font-size: .9rem;
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>PCBuilders.lk — Stock Tracker</h1>
+    <div class="sub" id="subtitle">Loading…</div>
+    <div class="tabs">
+      <button class="tab active" data-tab="stock" type="button">Stock</button>
+      <button class="tab" data-tab="daily" type="button">Daily Changes</button>
+    </div>
+  </div>
+</header>
+
+<section class="panel active" id="panel-stock">
+  <div class="controls">
+    <input id="q" type="search" placeholder="Search name, SKU, category..." />
+    <select id="cat"><option value="">All categories</option></select>
+    <select id="stockFilter">
+      <option value="">All stock</option>
+      <option value="qty">Exact qty known</option>
+      <option value="low">Low (qty ≤ 2)</option>
+      <option value="hidden">In stock (qty hidden)</option>
+      <option value="backorder">Backorder</option>
+      <option value="out">Out of stock</option>
+    </select>
+    <select id="sort">
+      <option value="qty-desc">Qty high → low</option>
+      <option value="qty-asc">Qty low → high</option>
+      <option value="name-asc">Name A → Z</option>
+      <option value="price-desc">Price high → low</option>
+      <option value="price-asc">Price low → high</option>
+      <option value="value-desc">Line value high → low</option>
+    </select>
+    <button id="exportStock" type="button">Export CSV</button>
+  </div>
+  <div class="stats" id="stockStats"></div>
+  <table>
+    <thead>
+      <tr>
+        <th style="width:56px"></th>
+        <th data-sort="name">Product</th>
+        <th data-sort="categories">Category</th>
+        <th data-sort="price_lkr">Price</th>
+        <th data-sort="qty">Qty</th>
+        <th data-sort="line_value">Line value</th>
+        <th>Status</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody id="stockRows"></tbody>
+  </table>
+  <div class="empty" id="stockEmpty" hidden>No products match.</div>
+</section>
+
+<section class="panel" id="panel-daily">
+  <div class="controls-day">
+    <select id="daySelect"></select>
+    <select id="dayMode">
+      <option value="both">Decreases + Increases</option>
+      <option value="down">Decreases only</option>
+      <option value="up">Increases only</option>
+    </select>
+    <button id="exportDay" type="button">Export day CSV</button>
+  </div>
+  <div class="stats" id="dayStats"></div>
+  <div class="note" id="dayNote" hidden></div>
+
+  <h2 class="section-title" id="downTitle">Decreases (stock අඩු වුණේ)</h2>
+  <table>
+    <thead>
+      <tr>
+        <th style="width:56px"></th>
+        <th>Product</th>
+        <th>From → To</th>
+        <th>Δ Qty</th>
+        <th>Price</th>
+        <th>Value lost</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody id="downRows"></tbody>
+  </table>
+  <div class="empty" id="downEmpty" hidden>No decreases this day.</div>
+
+  <h2 class="section-title" id="upTitle">Increases (stock වැඩි වුණේ)</h2>
+  <table>
+    <thead>
+      <tr>
+        <th style="width:56px"></th>
+        <th>Product</th>
+        <th>From → To</th>
+        <th>Δ Qty</th>
+        <th>Price</th>
+        <th>Value gained</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody id="upRows"></tbody>
+  </table>
+  <div class="empty" id="upEmpty" hidden>No increases this day.</div>
+</section>
+
+<script src="./data/app-data.js"></script>
+<script>
+const LATEST = window.STOCK_LATEST || { products: [], counts: {}, date: '—', baseline: true };
+const HISTORY = Array.isArray(window.STOCK_HISTORY) ? window.STOCK_HISTORY : [];
+
+const money = (n) => {
+  if (n == null || n === '' || Number.isNaN(Number(n))) return '—';
+  return 'LKR ' + Number(n).toLocaleString('en-LK', { maximumFractionDigits: 0 });
+};
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+const qtyClass = (qty, known) => {
+  if (!known) return 'out';
+  if (qty <= 2) return 'low';
+  return 'ok';
+};
+
+document.getElementById('subtitle').textContent =
+  `Snapshot ${LATEST.date || '—'} · scraped ${LATEST.scraped_at ? new Date(LATEST.scraped_at).toLocaleString() : '—'} · exact qty only for daily value math`;
+
+/* tabs */
+document.querySelectorAll('.tab').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t === btn));
+    document.querySelectorAll('.panel').forEach(p => p.classList.toggle('active', p.id === 'panel-' + btn.dataset.tab));
+  });
+});
+
+/* -------- Stock tab -------- */
+const q = document.getElementById('q');
+const cat = document.getElementById('cat');
+const stockFilter = document.getElementById('stockFilter');
+const sort = document.getElementById('sort');
+const stockRows = document.getElementById('stockRows');
+const stockEmpty = document.getElementById('stockEmpty');
+const stockStats = document.getElementById('stockStats');
+
+const cats = [...new Set((LATEST.products || []).flatMap(p => (p.categories || '').split(',').map(s => s.trim()).filter(Boolean)))].sort();
+cats.forEach(c => {
+  const o = document.createElement('option');
+  o.value = c; o.textContent = c; cat.appendChild(o);
+});
+
+function filteredStock() {
+  const term = q.value.trim().toLowerCase();
+  const c = cat.value;
+  const s = stockFilter.value;
+  let list = (LATEST.products || []).filter(p => {
+    if (term) {
+      const hay = `${p.name||''} ${p.sku||''} ${p.categories||''}`.toLowerCase();
+      if (!hay.includes(term)) return false;
+    }
+    if (c && !(p.categories || '').split(',').map(x => x.trim()).includes(c)) return false;
+    const qty = p.qty == null ? null : Number(p.qty);
+    if (s === 'qty' && !p.qty_known) return false;
+    if (s === 'hidden' && p.status !== 'in_stock_hidden') return false;
+    if (s === 'backorder' && p.status !== 'backorder') return false;
+    if (s === 'out' && p.status !== 'out_of_stock') return false;
+    if (s === 'low' && !(p.qty_known && qty != null && qty <= 2)) return false;
+    return true;
+  }).map(p => ({ ...p, line_value: p.qty_known ? (Number(p.qty)||0) * (Number(p.price_lkr)||0) : null }));
+
+  const [key, dir] = sort.value.split('-');
+  list.sort((a,b) => {
+    let av = a[key], bv = b[key];
+    if (key === 'name' || key === 'categories') {
+      av = (av||'').toLowerCase(); bv = (bv||'').toLowerCase();
+      return dir === 'asc' ? av.localeCompare(bv) : bv.localeCompare(av);
+    }
+    av = Number(av); bv = Number(bv);
+    if (Number.isNaN(av)) av = -1;
+    if (Number.isNaN(bv)) bv = -1;
+    return dir === 'asc' ? av - bv : bv - av;
+  });
+  return list;
+}
+
+function renderStockStats(list) {
+  const known = list.filter(p => p.qty_known);
+  const totalQty = known.reduce((s,p) => s + (Number(p.qty)||0), 0);
+  const totalValue = known.reduce((s,p) => s + ((Number(p.qty)||0) * (Number(p.price_lkr)||0)), 0);
+  stockStats.innerHTML = `
+    <div class="stat"><b>${list.length}</b><span>Products shown</span></div>
+    <div class="stat"><b>${known.length}</b><span>Exact qty known</span></div>
+    <div class="stat"><b>${totalQty.toLocaleString()}</b><span>Sum of known units</span></div>
+    <div class="stat"><b>${money(totalValue)}</b><span>Total value (qty × price)</span></div>
+    <div class="stat"><b>${(LATEST.products||[]).length}</b><span>Full catalog</span></div>
+  `;
+}
+
+function renderStock() {
+  const list = filteredStock();
+  renderStockStats(list);
+  stockRows.innerHTML = '';
+  stockEmpty.hidden = list.length > 0;
+  const frag = document.createDocumentFragment();
+  list.forEach(p => {
+    const tr = document.createElement('tr');
+    const img = p.image ? `<img class="thumb" src="${esc(p.image)}" alt="" loading="lazy" />` : '';
+    let statusLabel = p.stock_text || '';
+    if (p.status === 'out_of_stock') statusLabel = 'Out of stock';
+    else if (p.status === 'backorder') statusLabel = statusLabel || 'Available on backorder';
+    else if (p.status === 'in_stock_hidden') statusLabel = 'In stock (qty hidden)';
+    tr.innerHTML = `
+      <td>${img}</td>
+      <td><div>${esc(p.name)}</div><div class="muted">${esc(p.sku)}</div></td>
+      <td class="muted">${esc(p.categories || '—')}</td>
+      <td>${money(p.price_lkr)}</td>
+      <td class="qty ${qtyClass(p.qty, p.qty_known)}">${p.qty_known ? p.qty : '—'}</td>
+      <td>${p.qty_known ? money(p.line_value) : '—'}</td>
+      <td><span class="badge ${p.status === 'out_of_stock' ? 'out' : 'in'}">${esc(statusLabel)}</span></td>
+      <td><a href="${esc(p.permalink)}" target="_blank" rel="noopener">Open</a></td>`;
+    frag.appendChild(tr);
+  });
+  stockRows.appendChild(frag);
+}
+
+function exportCsv(rows, cols, filename) {
+  const lines = [cols.join(',')].concat(rows.map(p => cols.map(c => {
+    let v = p[c]; if (v == null) v = '';
+    return `"${String(v).replace(/"/g, '""')}"`;
+  }).join(',')));
+  const blob = new Blob([lines.join('\n')], { type: 'text/csv;charset=utf-8' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = filename;
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+['input','change'].forEach(evt => {
+  q.addEventListener(evt, renderStock);
+  cat.addEventListener(evt, renderStock);
+  stockFilter.addEventListener(evt, renderStock);
+  sort.addEventListener(evt, renderStock);
+});
+document.getElementById('exportStock').addEventListener('click', () => {
+  const list = filteredStock();
+  exportCsv(list, ['id','name','sku','categories','price_lkr','qty','line_value','status','permalink'], 'pcbuilders-stock.csv');
+});
+document.querySelectorAll('#panel-stock th[data-sort]').forEach(th => {
+  th.addEventListener('click', () => {
+    const key = th.dataset.sort === 'line_value' ? 'value' : th.dataset.sort;
+    const mapKey = th.dataset.sort === 'line_value' ? 'value' : key;
+    const cur = sort.value;
+    const sortKey = th.dataset.sort === 'line_value' ? 'value' : th.dataset.sort;
+    if (cur.startsWith(sortKey + '-')) sort.value = sortKey + (cur.endsWith('asc') ? '-desc' : '-asc');
+    else sort.value = sortKey + (sortKey === 'name' || sortKey === 'categories' ? '-asc' : '-desc');
+    renderStock();
+  });
+});
+
+/* -------- Daily tab -------- */
+const daySelect = document.getElementById('daySelect');
+const dayMode = document.getElementById('dayMode');
+const dayStats = document.getElementById('dayStats');
+const dayNote = document.getElementById('dayNote');
+const downRows = document.getElementById('downRows');
+const upRows = document.getElementById('upRows');
+const downEmpty = document.getElementById('downEmpty');
+const upEmpty = document.getElementById('upEmpty');
+
+function fillDays() {
+  daySelect.innerHTML = '';
+  if (!HISTORY.length) {
+    const o = document.createElement('option');
+    o.value = '';
+    o.textContent = LATEST.baseline ? `Baseline ${LATEST.date} (no compare yet)` : 'No history yet';
+    daySelect.appendChild(o);
+    return;
+  }
+  [...HISTORY].reverse().forEach(h => {
+    const o = document.createElement('option');
+    o.value = h.date;
+    o.textContent = `${h.date}  (vs ${h.compared_to})`;
+    daySelect.appendChild(o);
+  });
+}
+
+function currentDay() {
+  return HISTORY.find(h => h.date === daySelect.value) || null;
+}
+
+function renderDay() {
+  const day = currentDay();
+  const mode = dayMode.value;
+
+  if (!day) {
+    dayStats.innerHTML = '';
+    dayNote.hidden = false;
+    dayNote.textContent = LATEST.baseline
+      ? `අද (${LATEST.date}) baseline snapshot එක save වුණා. ඊළඟ scrape එකෙන් පටන් Daily Changes (අඩු/වැඩි + value) පේනවා.`
+      : 'තවම daily history නෑ. Scrape එක ආයෙ run කරන්න.';
+    downRows.innerHTML = '';
+    upRows.innerHTML = '';
+    downEmpty.hidden = false;
+    upEmpty.hidden = false;
+    document.getElementById('downTitle').style.display = '';
+    document.getElementById('upTitle').style.display = '';
+    return;
+  }
+
+  dayNote.hidden = true;
+  const t = day.totals || {};
+  dayStats.innerHTML = `
+    <div class="stat down"><b>${money(t.decrease_value)}</b><span>Decrease value (qty↓ × price)</span></div>
+    <div class="stat up"><b>${money(t.increase_value)}</b><span>Increase value (qty↑ × price)</span></div>
+    <div class="stat down"><b>${(t.decrease_units||0).toLocaleString()}</b><span>Units decreased · ${t.decrease_items||0} items</span></div>
+    <div class="stat up"><b>${(t.increase_units||0).toLocaleString()}</b><span>Units increased · ${t.increase_items||0} items</span></div>
+    <div class="stat"><b>${money(t.net_value)}</b><span>Net value (up − down)</span></div>
+    <div class="stat"><b>${day.compared_to} → ${day.date}</b><span>Compared range</span></div>
+  `;
+
+  const showDown = mode !== 'up';
+  const showUp = mode !== 'down';
+  document.getElementById('downTitle').style.display = showDown ? '' : 'none';
+  document.getElementById('upTitle').style.display = showUp ? '' : 'none';
+  downRows.parentElement.style.display = showDown ? '' : 'none';
+  upRows.parentElement.style.display = showUp ? '' : 'none';
+
+  const downs = day.decreases || [];
+  const ups = day.increases || [];
+
+  downRows.innerHTML = '';
+  upRows.innerHTML = '';
+  downEmpty.hidden = !showDown || downs.length > 0;
+  upEmpty.hidden = !showUp || ups.length > 0;
+  downEmpty.style.display = showDown ? '' : 'none';
+  upEmpty.style.display = showUp ? '' : 'none';
+
+  const mkRows = (items, tbody, down) => {
+    const frag = document.createDocumentFragment();
+    items.forEach(p => {
+      const tr = document.createElement('tr');
+      const img = p.image ? `<img class="thumb" src="${esc(p.image)}" alt="" loading="lazy" />` : '';
+      tr.innerHTML = `
+        <td>${img}</td>
+        <td><div>${esc(p.name)}</div><div class="muted">${esc(p.sku)}</div></td>
+        <td>${p.from} → ${p.to}</td>
+        <td class="${down ? 'delta-down' : 'delta-up'}">${down ? p.delta : '+' + p.delta}</td>
+        <td>${money(p.price_lkr)}</td>
+        <td class="${down ? 'delta-down' : 'delta-up'}">${money(p.value)}</td>
+        <td><a href="${esc(p.permalink)}" target="_blank" rel="noopener">Open</a></td>`;
+      frag.appendChild(tr);
+    });
+    tbody.appendChild(frag);
+  };
+  if (showDown) mkRows(downs, downRows, true);
+  if (showUp) mkRows(ups, upRows, false);
+}
+
+daySelect.addEventListener('change', renderDay);
+dayMode.addEventListener('change', renderDay);
+document.getElementById('exportDay').addEventListener('click', () => {
+  const day = currentDay();
+  if (!day) return;
+  const mode = dayMode.value;
+  let rows = [];
+  if (mode !== 'up') rows = rows.concat((day.decreases||[]).map(r => ({...r, direction:'decrease'})));
+  if (mode !== 'down') rows = rows.concat((day.increases||[]).map(r => ({...r, direction:'increase'})));
+  exportCsv(rows, ['direction','id','name','sku','from','to','delta','price_lkr','value','permalink'], `pcbuilders-changes-${day.date}.csv`);
+});
+
+fillDays();
+renderStock();
+renderDay();
+</script>
+</body>
+</html>
