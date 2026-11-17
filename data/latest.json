@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "scraped_at": "2026-11-17T12:56:09.809Z",
+  "scraped_at": "2026-11-17T12:59:27.217Z",
   "counts": {
     "products": 1105,
     "qty_known": 539,
@@ -16587,6 +16587,6 @@
       "categories": "PC Cases, PC Components"
     }
   ],
-  "baseline": true,
-  "previous_date": null
+  "baseline": false,
+  "previous_date": "2026-11-17 open"
 }
