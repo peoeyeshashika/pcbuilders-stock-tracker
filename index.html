@@ -164,6 +164,7 @@
     <div class="sub" id="subtitle">Loading…</div>
     <div class="tabs">
       <button class="tab active" data-tab="stock" type="button">Stock</button>
+      <button class="tab" data-tab="live" type="button">Live Movement</button>
       <button class="tab" data-tab="daily" type="button">Daily Changes</button>
     </div>
   </div>
@@ -208,6 +209,37 @@
     <tbody id="stockRows"></tbody>
   </table>
   <div class="empty" id="stockEmpty" hidden>No products match.</div>
+</section>
+
+<section class="panel" id="panel-live">
+  <div class="note">PC එකේ poll එක <b>සෑම මිනිත්තු 10කටම</b> වතාවක්. qty වෙනස් වුණාම මෙතන timestamp එක්ක පේනවා, live site එකත් update වෙනවා.</div>
+  <div class="stats" id="liveStats"></div>
+  <div class="controls-day" style="margin-top:12px">
+    <select id="liveMode">
+      <option value="both">All movements</option>
+      <option value="down">Decreases only</option>
+      <option value="up">Increases only</option>
+    </select>
+    <select id="liveDay">
+      <option value="">All days</option>
+    </select>
+    <button id="exportLive" type="button">Export events CSV</button>
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Time</th>
+        <th style="width:56px"></th>
+        <th>Product</th>
+        <th>From → To</th>
+        <th>Δ Qty</th>
+        <th>Value</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody id="liveRows"></tbody>
+  </table>
+  <div class="empty" id="liveEmpty" hidden>තවම live movement events නෑ — ඊළඟ poll එකේ qty වෙනස් වුණොත් මෙතන එනවා.</div>
 </section>
 
 <section class="panel" id="panel-daily">
@@ -262,6 +294,7 @@
 <script>
 const LATEST = window.STOCK_LATEST || { products: [], counts: {}, date: '—', baseline: true };
 const HISTORY = Array.isArray(window.STOCK_HISTORY) ? window.STOCK_HISTORY : [];
+const EVENTS = Array.isArray(window.STOCK_EVENTS) ? window.STOCK_EVENTS : [];
 
 const money = (n) => {
   if (n == null || n === '' || Number.isNaN(Number(n))) return '—';
@@ -275,7 +308,7 @@ const qtyClass = (qty, known) => {
 };
 
 document.getElementById('subtitle').textContent =
-  `Snapshot ${LATEST.date || '—'} · scraped ${LATEST.scraped_at ? new Date(LATEST.scraped_at).toLocaleString() : '—'} · exact qty only for daily value math`;
+  `Last check ${LATEST.scraped_at ? new Date(LATEST.scraped_at).toLocaleString() : '—'} · polls every ${LATEST.poll_interval_minutes || 10} min · exact qty only`;
 
 /* tabs */
 document.querySelectorAll('.tab').forEach(btn => {
@@ -409,6 +442,70 @@ document.querySelectorAll('#panel-stock th[data-sort]').forEach(th => {
   });
 });
 
+/* -------- Live movement tab -------- */
+const liveMode = document.getElementById('liveMode');
+const liveDay = document.getElementById('liveDay');
+const liveRows = document.getElementById('liveRows');
+const liveEmpty = document.getElementById('liveEmpty');
+const liveStats = document.getElementById('liveStats');
+
+(function fillLiveDays() {
+  const days = [...new Set(EVENTS.map(e => e.date).filter(Boolean))].sort().reverse();
+  days.forEach(d => {
+    const o = document.createElement('option');
+    o.value = d; o.textContent = d; liveDay.appendChild(o);
+  });
+  if (LATEST.date) liveDay.value = LATEST.date;
+})();
+
+function filteredEvents() {
+  const mode = liveMode.value;
+  const day = liveDay.value;
+  return [...EVENTS].reverse().filter(e => {
+    if (day && e.date !== day) return false;
+    if (mode === 'down' && e.direction !== 'decrease') return false;
+    if (mode === 'up' && e.direction !== 'increase') return false;
+    return true;
+  });
+}
+
+function renderLive() {
+  const list = filteredEvents();
+  const downs = list.filter(e => e.direction === 'decrease');
+  const ups = list.filter(e => e.direction === 'increase');
+  const downVal = downs.reduce((s,e) => s + (Number(e.value)||0), 0);
+  const upVal = ups.reduce((s,e) => s + (Number(e.value)||0), 0);
+  liveStats.innerHTML = `
+    <div class="stat"><b>${list.length}</b><span>Events shown</span></div>
+    <div class="stat down"><b>${money(downVal)}</b><span>Decrease value</span></div>
+    <div class="stat up"><b>${money(upVal)}</b><span>Increase value</span></div>
+    <div class="stat"><b>every ${LATEST.poll_interval_minutes || 10} min</b><span>Poll interval</span></div>
+  `;
+  liveRows.innerHTML = '';
+  liveEmpty.hidden = list.length > 0;
+  const frag = document.createDocumentFragment();
+  list.forEach(e => {
+    const tr = document.createElement('tr');
+    const down = e.direction === 'decrease';
+    const img = e.image ? `<img class="thumb" src="${esc(e.image)}" alt="" loading="lazy" />` : '';
+    tr.innerHTML = `
+      <td class="muted">${e.at ? new Date(e.at).toLocaleString() : '—'}</td>
+      <td>${img}</td>
+      <td><div>${esc(e.name)}</div><div class="muted">${esc(e.sku)}</div></td>
+      <td>${e.from} → ${e.to}</td>
+      <td class="${down ? 'delta-down' : 'delta-up'}">${down ? e.delta : '+' + e.delta}</td>
+      <td class="${down ? 'delta-down' : 'delta-up'}">${money(e.value)}</td>
+      <td><a href="${esc(e.permalink)}" target="_blank" rel="noopener">Open</a></td>`;
+    frag.appendChild(tr);
+  });
+  liveRows.appendChild(frag);
+}
+liveMode.addEventListener('change', renderLive);
+liveDay.addEventListener('change', renderLive);
+document.getElementById('exportLive').addEventListener('click', () => {
+  exportCsv(filteredEvents(), ['at','date','direction','id','name','sku','from','to','delta','price_lkr','value','permalink'], 'pcbuilders-live-events.csv');
+});
+
 /* -------- Daily tab -------- */
 const daySelect = document.getElementById('daySelect');
 const dayMode = document.getElementById('dayMode');
@@ -522,6 +619,7 @@ document.getElementById('exportDay').addEventListener('click', () => {
 
 fillDays();
 renderStock();
+renderLive();
 renderDay();
 </script>
 </body>

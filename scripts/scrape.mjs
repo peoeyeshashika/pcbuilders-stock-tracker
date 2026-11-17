@@ -181,11 +181,61 @@ function diffSnapshots(prev, curr, date, comparedTo) {
   };
 }
 
-function writeAppData(latest, history) {
-  const js = `window.STOCK_LATEST = ${JSON.stringify(latest)};\nwindow.STOCK_HISTORY = ${JSON.stringify(history)};\n`;
+function loadJson(file, fallback) {
+  if (!fs.existsSync(file)) return fallback;
+  try {
+    return JSON.parse(fs.readFileSync(file, 'utf8'));
+  } catch {
+    return fallback;
+  }
+}
+
+function writeAppData(latest, history, events) {
+  const js =
+    `window.STOCK_LATEST = ${JSON.stringify(latest)};\n` +
+    `window.STOCK_HISTORY = ${JSON.stringify(history)};\n` +
+    `window.STOCK_EVENTS = ${JSON.stringify(events)};\n`;
   fs.writeFileSync(path.join(DATA, 'app-data.js'), js, 'utf8');
   fs.writeFileSync(path.join(DATA, 'latest.json'), JSON.stringify(latest, null, 2), 'utf8');
   fs.writeFileSync(path.join(DATA, 'history.json'), JSON.stringify(history, null, 2), 'utf8');
+  fs.writeFileSync(path.join(DATA, 'events.json'), JSON.stringify(events, null, 2), 'utf8');
+}
+
+function pollDiffEvents(prevSnap, currSnap) {
+  if (!prevSnap?.products) return [];
+  const a = byId(prevSnap.products);
+  const b = byId(currSnap.products);
+  const events = [];
+  const at = currSnap.scraped_at;
+  const date = currSnap.date;
+
+  for (const [id, newP] of b) {
+    const oldP = a.get(id);
+    if (!oldP) continue;
+    if (!oldP.qty_known || !newP.qty_known) continue;
+    const from = Number(oldP.qty);
+    const to = Number(newP.qty);
+    if (Number.isNaN(from) || Number.isNaN(to) || from === to) continue;
+    const delta = to - from;
+    const price = newP.price_lkr ?? oldP.price_lkr ?? 0;
+    events.push({
+      at,
+      date,
+      direction: delta < 0 ? 'decrease' : 'increase',
+      id,
+      name: newP.name || oldP.name,
+      sku: newP.sku || oldP.sku,
+      from,
+      to,
+      delta,
+      price_lkr: price,
+      value: Math.abs(delta) * (Number(price) || 0),
+      permalink: newP.permalink || oldP.permalink,
+      image: newP.image || oldP.image,
+      categories: newP.categories || oldP.categories,
+    });
+  }
+  return events;
 }
 
 async function main() {
@@ -216,47 +266,100 @@ async function main() {
     products,
   };
 
+  const openPath = path.join(SNAPSHOTS, `${date}.open.json`);
   const snapPath = path.join(SNAPSHOTS, `${date}.json`);
+  const lastPath = path.join(DATA, 'last.json');
+  const openExists = fs.existsSync(openPath);
+  const lastSnap = loadJson(lastPath, null);
+
+  // Instant movement: compare vs previous poll (last.json)
+  const newEvents = pollDiffEvents(lastSnap, snapshot);
+  let events = loadJson(path.join(DATA, 'events.json'), []);
+  if (!Array.isArray(events)) events = [];
+  if (newEvents.length) {
+    events = events.concat(newEvents);
+    // keep ~30 days / 8000 events max
+    const cutoff = Date.now() - 30 * 24 * 60 * 60 * 1000;
+    events = events
+      .filter((e) => e?.at && new Date(e.at).getTime() >= cutoff)
+      .slice(-8000);
+  }
+
+  if (!openExists) {
+    fs.writeFileSync(openPath, JSON.stringify(snapshot), 'utf8');
+    console.log(`Saved day-open baseline: ${openPath}`);
+  }
+
   fs.writeFileSync(snapPath, JSON.stringify(snapshot), 'utf8');
-  console.log(`Saved snapshot: ${snapPath}`);
+  fs.writeFileSync(lastPath, JSON.stringify(snapshot), 'utf8');
+  console.log(`Saved latest snapshot: ${snapPath}`);
 
-  const dates = listSnapshotDates();
-  const prevDate = [...dates].reverse().find((d) => d < date) || null;
+  let history = loadJson(path.join(DATA, 'history.json'), []);
+  if (!Array.isArray(history)) history = [];
 
-  let history = [];
-  const historyPath = path.join(DATA, 'history.json');
-  if (fs.existsSync(historyPath)) {
-    try {
-      history = JSON.parse(fs.readFileSync(historyPath, 'utf8'));
-      if (!Array.isArray(history)) history = [];
-    } catch {
-      history = [];
+  // Daily totals = day-open → now (or previous calendar day if first poll today)
+  let compareLabel = null;
+  let dayPrev = null;
+  if (openExists) {
+    dayPrev = loadJson(openPath, null);
+    compareLabel = `${date} open`;
+  } else {
+    const dates = listSnapshotDates().filter((d) => d !== date);
+    const prevDate = [...dates].reverse().find((d) => d < date) || null;
+    if (prevDate) {
+      dayPrev = loadSnapshot(prevDate);
+      compareLabel = prevDate;
     }
   }
 
-  if (prevDate) {
-    const prev = loadSnapshot(prevDate);
-    const day = diffSnapshots(prev, snapshot, date, prevDate);
+  let hasCompare = false;
+  if (dayPrev) {
+    const day = diffSnapshots(dayPrev, snapshot, date, compareLabel);
     history = history.filter((h) => h.date !== date);
     history.push(day);
     history.sort((a, b) => a.date.localeCompare(b.date));
+    hasCompare = true;
     console.log(
-      `Diff vs ${prevDate}: ↓${day.totals.decrease_units} units (LKR ${day.totals.decrease_value}) | ↑${day.totals.increase_units} units (LKR ${day.totals.increase_value})`
+      `Day vs ${compareLabel}: ↓${day.totals.decrease_units} u (LKR ${day.totals.decrease_value}) | ↑${day.totals.increase_units} u (LKR ${day.totals.increase_value})`
     );
   } else {
-    console.log('Baseline day — no previous snapshot to compare. Changes start from next scrape.');
+    console.log('Baseline day — waiting for next poll to detect movement.');
   }
+
+  console.log(
+    newEvents.length
+      ? `LIVE changes this poll: ${newEvents.length} (↓${newEvents.filter((e) => e.direction === 'decrease').length} ↑${newEvents.filter((e) => e.direction === 'increase').length})`
+      : 'LIVE changes this poll: 0'
+  );
 
   const latest = {
     date,
     scraped_at: snapshot.scraped_at,
     counts: snapshot.counts,
     products: snapshot.products,
-    baseline: !prevDate,
-    previous_date: prevDate,
+    baseline: !hasCompare,
+    previous_date: compareLabel,
+    poll_interval_minutes: 10,
+    live_changes_this_poll: newEvents.length,
   };
 
-  writeAppData(latest, history);
+  writeAppData(latest, history, events);
+
+  // Signal for push script
+  fs.writeFileSync(
+    path.join(DATA, 'poll-meta.json'),
+    JSON.stringify(
+      {
+        scraped_at: snapshot.scraped_at,
+        changed: newEvents.length > 0,
+        change_count: newEvents.length,
+      },
+      null,
+      2
+    ),
+    'utf8'
+  );
+
   console.log(`Products: ${products.length} | Exact qty: ${known.length} | Value: LKR ${totalValue.toLocaleString('en-LK')}`);
 }
 
