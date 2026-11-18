@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-18T09:35:54.616Z",
+  "scraped_at": "2026-11-18T09:41:00.424Z",
   "counts": {
     "products": 1101,
     "qty_known": 534,
     "qty_hidden": 42,
     "backorder": 525,
     "out_of_stock": 0,
-    "sum_qty": 1210,
-    "total_value": 35047890
+    "sum_qty": 1209,
+    "total_value": 35046090
   },
   "products": [
     {
@@ -5928,8 +5928,8 @@
       "permalink": "https://pcbuilders.lk/casing-cool-new-fans-4-pro-white-pwm-white/",
       "price_lkr": 1800,
       "is_in_stock": true,
-      "stock_text": "6 in stock",
-      "qty": 6,
+      "stock_text": "5 in stock",
+      "qty": 5,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16530,5 +16530,5 @@
   "baseline": false,
   "previous_date": "2026-11-18 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }
