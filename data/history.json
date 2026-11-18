@@ -19,7 +19,7 @@
   {
     "date": "2026-11-18",
     "compared_to": "2026-11-18 open",
-    "generated_at": "2026-11-18T06:30:43.423Z",
+    "generated_at": "2026-11-18T06:40:42.425Z",
     "decreases": [
       {
         "id": 39579,
@@ -35,6 +35,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4856__1_-removebg-preview.png"
       },
       {
+        "id": 20380,
+        "name": "PROLINK UPS PRO1201SFC (2 YEARS BOARD & 1 YEARS BATTERY)",
+        "sku": "GEN-NEW-PROLINK-UPS-PRO1201SFC-2-YEARS-BOARD-1-Y",
+        "from": 5,
+        "to": 4,
+        "delta": -1,
+        "price_lkr": 23000,
+        "value": 23000,
+        "permalink": "https://pcbuilders.lk/prolink-gen-new-prolink-ups-pro1201sfc-2-years-board-1-y/",
+        "categories": "PC Components, UPS",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2023/10/1068-20230322063323-ups_3__1.png"
+      },
+      {
         "id": 48155,
         "name": "Gamdias Boreas M2-51D ARGB CPU Air Black Cooler (3 YEARS WARRANTY)",
         "sku": "COOL-NEW-GAMDIAS-BOREAS-M2-51D-ARGB-AIR-BLACK",
@@ -46,18 +59,31 @@
         "permalink": "https://pcbuilders.lk/gamdias-cool-new-gamdias-boreas-m2-51d-argb-air-black-black/",
         "categories": "Air Coolers, PC Components, CPU Cooling",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-22T135827.408.png"
+      },
+      {
+        "id": 49876,
+        "name": "PWM & ARGB LED CONTROLLER HUB 9 PORTS (6 MONTHS WARRANTY)",
+        "sku": "GEN-NEW-PWM-ARGB-LED-HUB-9-PORTS",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 3000,
+        "value": 3000,
+        "permalink": "https://pcbuilders.lk/pwm-gen-new-pwm-argb-led-hub-9-ports/",
+        "categories": "ARGB Controllers, PC Components, PC Lighting",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-09T162931.469.png"
       }
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 2,
+      "decrease_items": 4,
       "increase_items": 0,
-      "decrease_units": 2,
+      "decrease_units": 4,
       "increase_units": 0,
-      "decrease_value": 65500,
+      "decrease_value": 91500,
       "increase_value": 0,
-      "net_units": -2,
-      "net_value": -65500
+      "net_units": -4,
+      "net_value": -91500
     }
   }
 ]

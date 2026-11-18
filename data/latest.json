@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-18T06:30:43.401Z",
+  "scraped_at": "2026-11-18T06:40:42.404Z",
   "counts": {
     "products": 1105,
     "qty_known": 538,
     "qty_hidden": 42,
     "backorder": 525,
     "out_of_stock": 0,
-    "sum_qty": 1220,
-    "total_value": 35421790
+    "sum_qty": 1218,
+    "total_value": 35395790
   },
   "products": [
     {
@@ -4668,8 +4668,8 @@
       "permalink": "https://pcbuilders.lk/pwm-gen-new-pwm-argb-led-hub-9-ports/",
       "price_lkr": 3000,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -8133,8 +8133,8 @@
       "permalink": "https://pcbuilders.lk/prolink-gen-new-prolink-ups-pro1201sfc-2-years-board-1-y/",
       "price_lkr": 23000,
       "is_in_stock": true,
-      "stock_text": "5 in stock",
-      "qty": 5,
+      "stock_text": "4 in stock",
+      "qty": 4,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16590,5 +16590,5 @@
   "baseline": false,
   "previous_date": "2026-11-18 open",
   "poll_interval_minutes": 10,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 2
 }
