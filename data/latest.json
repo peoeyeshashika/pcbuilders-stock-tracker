@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-18T09:20:56.542Z",
+  "scraped_at": "2026-11-18T09:25:54.220Z",
   "counts": {
     "products": 1101,
     "qty_known": 534,
     "qty_hidden": 42,
     "backorder": 525,
     "out_of_stock": 0,
-    "sum_qty": 1213,
-    "total_value": 35055490
+    "sum_qty": 1210,
+    "total_value": 35047890
   },
   "products": [
     {
@@ -528,8 +528,8 @@
       "permalink": "https://pcbuilders.lk/ugreen-acc-new-ugreen-4-port-usb3-0-5gbps-hub-with-type-c-po/",
       "price_lkr": 4500,
       "is_in_stock": true,
-      "stock_text": "3 in stock",
-      "qty": 3,
+      "stock_text": "2 in stock",
+      "qty": 2,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -2763,8 +2763,8 @@
       "permalink": "https://pcbuilders.lk/meetion-mou-new-meetion-m371-rgb-gaming/",
       "price_lkr": 1600,
       "is_in_stock": true,
-      "stock_text": "3 in stock",
-      "qty": 3,
+      "stock_text": "2 in stock",
+      "qty": 2,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -8568,8 +8568,8 @@
       "permalink": "https://pcbuilders.lk/fantech-vigil-mp356/",
       "price_lkr": 1500,
       "is_in_stock": true,
-      "stock_text": "4 in stock",
-      "qty": 4,
+      "stock_text": "3 in stock",
+      "qty": 3,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16530,5 +16530,5 @@
   "baseline": false,
   "previous_date": "2026-11-18 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 3
 }

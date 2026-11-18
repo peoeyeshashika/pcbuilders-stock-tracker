@@ -78,5 +78,53 @@
     "permalink": "https://pcbuilders.lk/ugreen-to-lightning-1-white/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-28T164654.097.png",
     "categories": "Mobile Cables, Mobile, Mobile Accessories"
+  },
+  {
+    "at": "2026-11-18T09:25:54.220Z",
+    "date": "2026-11-18",
+    "direction": "decrease",
+    "id": 65435,
+    "name": "UGREEN 4-Port USB3.0 5Gbps Hub with Type-C Power Port – CM219 – 50985 (18 Months Warranty)",
+    "sku": "ACC-NEW-UGREEN-4-PORT-USB3-0-5GBPS-HUB-WITH-TYPE-C-PO",
+    "from": 3,
+    "to": 2,
+    "delta": -1,
+    "price_lkr": 4500,
+    "value": 4500,
+    "permalink": "https://pcbuilders.lk/ugreen-acc-new-ugreen-4-port-usb3-0-5gbps-hub-with-type-c-po/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-11T112050.110.png",
+    "categories": "USB Hubs"
+  },
+  {
+    "at": "2026-11-18T09:25:54.220Z",
+    "date": "2026-11-18",
+    "direction": "decrease",
+    "id": 61169,
+    "name": "MEETION M371 RGB Backlit Wired Gaming Mouse (1 YEAR WARRANTY)",
+    "sku": "MOU-NEW-MEETION-M371-RGB-GAMING",
+    "from": 3,
+    "to": 2,
+    "delta": -1,
+    "price_lkr": 1600,
+    "value": 1600,
+    "permalink": "https://pcbuilders.lk/meetion-mou-new-meetion-m371-rgb-gaming/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/m371-meetion-official.png",
+    "categories": "Gaming Peripherals, Mouse"
+  },
+  {
+    "at": "2026-11-18T09:25:54.220Z",
+    "date": "2026-11-18",
+    "direction": "decrease",
+    "id": 19531,
+    "name": "FANTECH VIGIL MP356 GAMING MOUSEPAD",
+    "sku": "GEN-NEW-FANTECH-VIGIL-MP356-GAMING-MOUSEPAD",
+    "from": 4,
+    "to": 3,
+    "delta": -1,
+    "price_lkr": 1500,
+    "value": 1500,
+    "permalink": "https://pcbuilders.lk/fantech-vigil-mp356/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2024/05/image-removebg-preview-14-2.png",
+    "categories": "Gaming Peripherals, Mouse Mats"
   }
 ]
