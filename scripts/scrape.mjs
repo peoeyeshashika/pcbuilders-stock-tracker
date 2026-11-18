@@ -82,15 +82,25 @@ async function fetchJson(url) {
   if (res.status === 403) {
     console.log('403 from Cloudflare — solving via FlareSolverr...');
     const solution = await flareSolve(url);
-    // Prefer body from solver when present
+    // Prefer body from solver when present (may be raw JSON or <pre>JSON</pre>)
     if (solution.response) {
+      let body = String(solution.response).trim();
+      const pre = body.match(/<pre[^>]*>([\s\S]*?)<\/pre>/i);
+      if (pre) body = pre[1].trim();
+      // strip other simple HTML wrappers if any
+      body = body.replace(/^<[^>]+>/, '').replace(/<\/[^>]+>$/, '').trim();
       try {
-        const parsed = JSON.parse(solution.response);
+        const parsed = JSON.parse(body);
+        const hdrObj = solution.headers || {};
+        const getH = (k) =>
+          hdrObj[k] ||
+          hdrObj[k.toLowerCase()] ||
+          hdrObj[k.replace(/(^|-)(\w)/g, (_, a, b) => a + b.toUpperCase())];
         return {
           json: parsed,
           headers: new Headers({
-            'x-wp-total': String(parsed?.length || ''),
-            'x-wp-totalpages': '1',
+            'x-wp-total': String(getH('x-wp-total') || (Array.isArray(parsed) ? parsed.length : '')),
+            'x-wp-totalpages': String(getH('x-wp-totalpages') || '1'),
           }),
           fromFlareBody: true,
         };
