@@ -19,7 +19,7 @@
   {
     "date": "2026-11-18",
     "compared_to": "2026-11-18 open",
-    "generated_at": "2026-11-18T09:41:00.445Z",
+    "generated_at": "2026-11-18T09:45:55.975Z",
     "decreases": [
       {
         "id": 39579,
@@ -61,6 +61,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-22T135827.408.png"
       },
       {
+        "id": 42281,
+        "name": "casing fans – 4 pro white – pwm",
+        "sku": "COOL-NEW-FANS&amp;#8212;4-PRO-WHITE&amp;#8212;PWM",
+        "from": 6,
+        "to": 2,
+        "delta": -4,
+        "price_lkr": 1800,
+        "value": 7200,
+        "permalink": "https://pcbuilders.lk/casing-cool-new-fans-4-pro-white-pwm-white/",
+        "categories": "Case Fans, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/12/image-removebg-preview-2025-12-21T155611.810.png"
+      },
+      {
         "id": 65435,
         "name": "UGREEN 4-Port USB3.0 5Gbps Hub with Type-C Power Port – CM219 – 50985 (18 Months Warranty)",
         "sku": "ACC-NEW-UGREEN-4-PORT-USB3-0-5GBPS-HUB-WITH-TYPE-C-PO",
@@ -100,19 +113,6 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-09T162931.469.png"
       },
       {
-        "id": 42281,
-        "name": "casing fans – 4 pro white – pwm",
-        "sku": "COOL-NEW-FANS&amp;#8212;4-PRO-WHITE&amp;#8212;PWM",
-        "from": 6,
-        "to": 5,
-        "delta": -1,
-        "price_lkr": 1800,
-        "value": 1800,
-        "permalink": "https://pcbuilders.lk/casing-cool-new-fans-4-pro-white-pwm-white/",
-        "categories": "Case Fans, PC Components",
-        "image": "https://pcbuilders.lk/wp-content/uploads/2025/12/image-removebg-preview-2025-12-21T155611.810.png"
-      },
-      {
         "id": 61169,
         "name": "MEETION M371 RGB Backlit Wired Gaming Mouse (1 YEAR WARRANTY)",
         "sku": "MOU-NEW-MEETION-M371-RGB-GAMING",
@@ -143,12 +143,12 @@
     "totals": {
       "decrease_items": 9,
       "increase_items": 0,
-      "decrease_units": 9,
+      "decrease_units": 12,
       "increase_units": 0,
-      "decrease_value": 105400,
+      "decrease_value": 110800,
       "increase_value": 0,
-      "net_units": -9,
-      "net_value": -105400
+      "net_units": -12,
+      "net_value": -110800
     }
   }
 ]
