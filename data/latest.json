@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-17T21:40:32.350Z",
+  "scraped_at": "2026-11-18T05:23:24.796Z",
   "counts": {
     "products": 1105,
     "qty_known": 538,
     "qty_hidden": 42,
     "backorder": 525,
     "out_of_stock": 0,
-    "sum_qty": 1222,
-    "total_value": 35683290
+    "sum_qty": 1220,
+    "total_value": 35583790
   },
   "products": [
     {
@@ -5178,13 +5178,13 @@
       "permalink": "https://pcbuilders.lk/gamdias-cool-new-gamdias-boreas-m2-51d-argb-air-black-black/",
       "price_lkr": 12000,
       "is_in_stock": true,
-      "stock_text": "3 in stock",
-      "qty": 3,
+      "stock_text": "2 in stock",
+      "qty": 2,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-22T135827.408.png",
-      "categories": "Air Coolers, CPU Cooling, PC Components"
+      "categories": "Air Coolers, PC Components, CPU Cooling"
     },
     {
       "id": 48091,
@@ -6228,8 +6228,8 @@
       "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-5700x-2/",
       "price_lkr": 53500,
       "is_in_stock": true,
-      "stock_text": "4 in stock",
-      "qty": 4,
+      "stock_text": "3 in stock",
+      "qty": 3,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -6880,6 +6880,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/07/image-removebg-preview-2025-07-25T163418.674.png",
       "categories": "Earbuds, Mobile, Mobile Accessories"
+    },
+    {
+      "id": 33933,
+      "name": "BASEUS 30000MAH 30W STAR-LORD DIGITAL DISPLAY FAST CHARGING POWER BANK (6 MONTHS WARRANTY)",
+      "sku": "GEN-NEW-BASEUS-30000MAH-30W-STAR-LORD-DIGITAL-DI",
+      "permalink": "https://pcbuilders.lk/baseus-gen-new-baseus-30000mah-30w-star-lord-digital-di/",
+      "price_lkr": 18500,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2025/07/image-removebg-preview-25-1.png",
+      "categories": "Power Banks, Mobile, Mobile Accessories"
     },
     {
       "id": 33900,
@@ -8155,21 +8170,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/09/image-removebg-preview-2023-09-05T210415.203.png",
       "categories": "Graphics Cards, PC Components"
-    },
-    {
-      "id": 19900,
-      "name": "MSI B550M Pro VDH (Wi-Fi) Motherboard (3 YEARS WARRANTY)",
-      "sku": "MB-NEW-MSI-B550M-PRO-VDH-WI-FI",
-      "permalink": "https://pcbuilders.lk/msi-mb-new-msi-b550m-pro-vdh-wi-fi/",
-      "price_lkr": 52500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-82-2.png",
-      "categories": "Motherboards, PC Components"
     },
     {
       "id": 19872,
@@ -16590,5 +16590,5 @@
   "baseline": false,
   "previous_date": "2026-11-18 open",
   "poll_interval_minutes": 10,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 2
 }

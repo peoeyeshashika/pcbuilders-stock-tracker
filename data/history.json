@@ -19,18 +19,45 @@
   {
     "date": "2026-11-18",
     "compared_to": "2026-11-18 open",
-    "generated_at": "2026-11-17T21:40:32.375Z",
-    "decreases": [],
+    "generated_at": "2026-11-18T05:23:24.858Z",
+    "decreases": [
+      {
+        "id": 39579,
+        "name": "AMD RYZEN 7 5700X PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+        "sku": "CPU-NEW-AMD-RYZEN-7-5700X-2",
+        "from": 4,
+        "to": 3,
+        "delta": -1,
+        "price_lkr": 53500,
+        "value": 53500,
+        "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-5700x-2/",
+        "categories": "PC Components, Processors, AMD",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4856__1_-removebg-preview.png"
+      },
+      {
+        "id": 48155,
+        "name": "Gamdias Boreas M2-51D ARGB CPU Air Black Cooler (3 YEARS WARRANTY)",
+        "sku": "COOL-NEW-GAMDIAS-BOREAS-M2-51D-ARGB-AIR-BLACK",
+        "from": 3,
+        "to": 2,
+        "delta": -1,
+        "price_lkr": 12000,
+        "value": 12000,
+        "permalink": "https://pcbuilders.lk/gamdias-cool-new-gamdias-boreas-m2-51d-argb-air-black-black/",
+        "categories": "Air Coolers, PC Components, CPU Cooling",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-22T135827.408.png"
+      }
+    ],
     "increases": [],
     "totals": {
-      "decrease_items": 0,
+      "decrease_items": 2,
       "increase_items": 0,
-      "decrease_units": 0,
+      "decrease_units": 2,
       "increase_units": 0,
-      "decrease_value": 0,
+      "decrease_value": 65500,
       "increase_value": 0,
-      "net_units": 0,
-      "net_value": 0
+      "net_units": -2,
+      "net_value": -65500
     }
   }
 ]
