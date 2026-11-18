@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-18T08:00:38.157Z",
+  "scraped_at": "2026-11-18T08:10:34.465Z",
   "counts": {
-    "products": 1103,
-    "qty_known": 536,
+    "products": 1102,
+    "qty_known": 535,
     "qty_hidden": 42,
     "backorder": 525,
     "out_of_stock": 0,
-    "sum_qty": 1215,
-    "total_value": 35076290
+    "sum_qty": 1214,
+    "total_value": 35057790
   },
   "products": [
     {
@@ -6850,21 +6850,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/07/image-removebg-preview-2025-07-25T163418.674.png",
       "categories": "Earbuds, Mobile, Mobile Accessories"
-    },
-    {
-      "id": 33933,
-      "name": "BASEUS 30000MAH 30W STAR-LORD DIGITAL DISPLAY FAST CHARGING POWER BANK (6 MONTHS WARRANTY)",
-      "sku": "GEN-NEW-BASEUS-30000MAH-30W-STAR-LORD-DIGITAL-DI",
-      "permalink": "https://pcbuilders.lk/baseus-gen-new-baseus-30000mah-30w-star-lord-digital-di/",
-      "price_lkr": 18500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/07/image-removebg-preview-25-1.png",
-      "categories": "Power Banks, Mobile, Mobile Accessories"
     },
     {
       "id": 33900,
