@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-18T12:20:55.134Z",
+  "scraped_at": "2026-11-18T12:26:00.589Z",
   "counts": {
     "products": 1091,
     "qty_known": 530,
@@ -12777,21 +12777,6 @@
       "categories": "PC Cases, PC Components"
     },
     {
-      "id": 43919,
-      "name": "256GB NVME (USED ITEM)",
-      "sku": "SSD-USED-256GB-NVME",
-      "permalink": "https://pcbuilders.lk/used-256gb-ssd-used-256gb-nvme-256gb/",
-      "price_lkr": 12500,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-27T204701.730-500x433.png",
-      "categories": "PC Components, Storage, NVMe SSD"
-    },
-    {
       "id": 43680,
       "name": "CORSAIR PC DIY Precision Toolkit",
       "sku": "GEN-NEW-CORSAIR-PC-DIY-PRECISION-TOOLKIT",
@@ -13509,6 +13494,21 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-25T121614.880.png",
+      "categories": "Liquid Coolers, CPU Cooling, PC Components"
+    },
+    {
+      "id": 37394,
+      "name": "Deepcool LS520S ZERO DARK Liquid CPU Cooler (5 YEARS WARRANTY)",
+      "sku": "COOL-NEW-DEEPCOOL-LS520S-ZERO-DARK-LIQUID",
+      "permalink": "https://pcbuilders.lk/deepcool-cool-new-deepcool-ls520s-zero-dark-liquid/",
+      "price_lkr": 31000,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-25T120546.717.png",
       "categories": "Liquid Coolers, CPU Cooling, PC Components"
     },
     {
