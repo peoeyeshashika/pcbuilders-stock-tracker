@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-18T05:50:38.233Z",
+  "scraped_at": "2026-11-18T06:00:58.461Z",
   "counts": {
-    "products": 1105,
-    "qty_known": 538,
+    "products": 1104,
+    "qty_known": 537,
     "qty_hidden": 42,
     "backorder": 525,
     "out_of_stock": 0,
-    "sum_qty": 1220,
-    "total_value": 35583790
+    "sum_qty": 1219,
+    "total_value": 35414790
   },
   "products": [
     {
@@ -144,21 +144,6 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T160142.462.png",
-      "categories": "New Laptops"
-    },
-    {
-      "id": 65802,
-      "name": "CHUWI MiniBook X U300 LAPTOP (2 YEARS WARRANTY)",
-      "sku": "LAP-NEW-CHUWI-MINIBOOK-X-U300-LAPTOP",
-      "permalink": "https://pcbuilders.lk/chuwi-lap-new-chuwi-hi10-max-u5-2-in-1-laptop-tablet-copy-512gb/",
-      "price_lkr": 169000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T155014.752.png",
       "categories": "New Laptops"
     },
     {
