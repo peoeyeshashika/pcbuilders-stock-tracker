@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-18T08:20:36.767Z",
+  "scraped_at": "2026-11-18T08:25:34.864Z",
   "counts": {
-    "products": 1102,
-    "qty_known": 535,
+    "products": 1101,
+    "qty_known": 534,
     "qty_hidden": 42,
     "backorder": 525,
     "out_of_stock": 0,
-    "sum_qty": 1214,
-    "total_value": 35057790
+    "sum_qty": 1213,
+    "total_value": 35055490
   },
   "products": [
     {
@@ -8560,21 +8560,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2026-06-21T161610.409.png",
       "categories": "Gaming &amp; Desk Setup, GPU Holders &amp; Mounts"
-    },
-    {
-      "id": 19532,
-      "name": "FANTECH VIGIL MP456 GAMING MOUSEPAD",
-      "sku": "GEN-NEW-FANTECH-VIGIL-MP456-GAMING-MOUSEPAD",
-      "permalink": "https://pcbuilders.lk/fantech-vigil-mp456/",
-      "price_lkr": 2300,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/05/image-removebg-preview-19-2.png",
-      "categories": "Gaming Peripherals, Mouse Mats"
     },
     {
       "id": 19531,
