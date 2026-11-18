@@ -43,22 +43,106 @@ const FETCH_HEADERS = {
   'Accept-Language': 'en-US,en;q=0.9',
 };
 
+const FLARESOLVERR_URL = process.env.FLARESOLVERR_URL || 'http://127.0.0.1:8191/v1';
+
+let sessionCookies = '';
+let sessionUA = FETCH_HEADERS['User-Agent'];
+
+async function flareSolve(url) {
+  const res = await fetch(FLARESOLVERR_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      cmd: 'request.get',
+      url,
+      maxTimeout: 120000,
+    }),
+  });
+  if (!res.ok) throw new Error(`FlareSolverr HTTP ${res.status}`);
+  const data = await res.json();
+  if (data.status !== 'ok' || !data.solution) {
+    throw new Error(`FlareSolverr failed: ${data.message || JSON.stringify(data).slice(0, 300)}`);
+  }
+  const cookies = (data.solution.cookies || [])
+    .map((c) => `${c.name}=${c.value}`)
+    .join('; ');
+  sessionCookies = cookies;
+  sessionUA = data.solution.userAgent || sessionUA;
+  return data.solution;
+}
+
+async function fetchJson(url) {
+  const headers = {
+    ...FETCH_HEADERS,
+    'User-Agent': sessionUA,
+  };
+  if (sessionCookies) headers.Cookie = sessionCookies;
+
+  let res = await fetch(url, { headers });
+  if (res.status === 403) {
+    console.log('403 from Cloudflare — solving via FlareSolverr...');
+    const solution = await flareSolve(url);
+    // Prefer body from solver when present
+    if (solution.response) {
+      try {
+        const parsed = JSON.parse(solution.response);
+        return {
+          json: parsed,
+          headers: new Headers({
+            'x-wp-total': String(parsed?.length || ''),
+            'x-wp-totalpages': '1',
+          }),
+          fromFlareBody: true,
+        };
+      } catch {
+        // fall through to cookie retry
+      }
+    }
+    headers.Cookie = sessionCookies;
+    headers['User-Agent'] = sessionUA;
+    res = await fetch(url, { headers });
+  }
+  if (!res.ok) throw new Error(`API ${res.status} ${res.statusText} for ${url}`);
+  return { json: await res.json(), headers: res.headers, fromFlareBody: false };
+}
+
 async function fetchAllProducts() {
   const firstUrl = `${API}?per_page=${PER_PAGE}&page=1`;
-  const first = await fetch(firstUrl, { headers: FETCH_HEADERS });
-  if (!first.ok) throw new Error(`API ${first.status} ${first.statusText}`);
-  const totalPages = Number(first.headers.get('X-WP-TotalPages') || 1);
-  const total = Number(first.headers.get('X-WP-Total') || 0);
-  let items = await first.json();
-  console.log(`Total products: ${total} | Pages: ${totalPages}`);
+  const first = await fetchJson(firstUrl);
+  let items = first.json;
+  if (!Array.isArray(items)) throw new Error('API did not return a product array');
+
+  let totalPages = Number(first.headers.get('X-WP-TotalPages') || first.headers.get('x-wp-totalpages') || 1);
+  let total = Number(first.headers.get('X-WP-Total') || first.headers.get('x-wp-total') || items.length);
+
+  // If FlareSolverr returned only page body without WP headers, keep paging via API+cookies
+  if (!totalPages || Number.isNaN(totalPages)) totalPages = 1;
+  console.log(`Total products: ${total || items.length} | Pages: ${totalPages}`);
 
   for (let page = 2; page <= totalPages; page++) {
     console.log(`Fetching page ${page}/${totalPages}...`);
-    const res = await fetch(`${API}?per_page=${PER_PAGE}&page=${page}`, { headers: FETCH_HEADERS });
-    if (!res.ok) throw new Error(`API page ${page}: ${res.status}`);
-    items = items.concat(await res.json());
-    await new Promise((r) => setTimeout(r, 120));
+    const pageUrl = `${API}?per_page=${PER_PAGE}&page=${page}`;
+    const got = await fetchJson(pageUrl);
+    if (!Array.isArray(got.json)) throw new Error(`Bad page ${page}`);
+    items = items.concat(got.json);
+    await new Promise((r) => setTimeout(r, 150));
   }
+
+  // If headers missing and we only got one page of 100, keep fetching until short page
+  if ((totalPages === 1 || first.fromFlareBody) && items.length >= PER_PAGE) {
+    let page = 2;
+    for (;;) {
+      console.log(`Fetching extra page ${page}...`);
+      const got = await fetchJson(`${API}?per_page=${PER_PAGE}&page=${page}`);
+      if (!Array.isArray(got.json) || got.json.length === 0) break;
+      items = items.concat(got.json);
+      if (got.json.length < PER_PAGE) break;
+      page += 1;
+      if (page > 50) break;
+      await new Promise((r) => setTimeout(r, 150));
+    }
+  }
+
   return items;
 }
 

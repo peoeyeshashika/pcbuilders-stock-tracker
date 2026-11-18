@@ -5,6 +5,12 @@ cd "$(dirname "$0")/.."
 git config user.name "${GIT_USER_NAME:-pcb-stock-bot}"
 git config user.email "${GIT_USER_EMAIL:-bot@users.noreply.github.com}"
 
+# Ensure remote uses deploy key if present
+if [[ -f /root/.ssh/pcb_stock_deploy ]]; then
+  export GIT_SSH_COMMAND='ssh -i /root/.ssh/pcb_stock_deploy -o StrictHostKeyChecking=no'
+  git remote set-url origin git@github.com:peoeyeshashika/pcbuilders-stock-tracker.git 2>/dev/null || true
+fi
+
 git add data
 if git diff --staged --quiet; then
   echo "No data changes"
