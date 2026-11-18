@@ -19,7 +19,7 @@
   {
     "date": "2026-11-18",
     "compared_to": "2026-11-18 open",
-    "generated_at": "2026-11-18T07:00:49.431Z",
+    "generated_at": "2026-11-18T07:10:38.968Z",
     "decreases": [
       {
         "id": 39579,
@@ -61,6 +61,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-22T135827.408.png"
       },
       {
+        "id": 37548,
+        "name": "UGREEN Type-C to Lightning 1 Meter 20w PD fast charging 3A Max white – US171 – 10493 (1 YEARS WARRANTY)",
+        "sku": "GEN-NEW-UGREEN-TYPE-C-TO-LIGHTNING-1-METER-20W-P",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 4500,
+        "value": 4500,
+        "permalink": "https://pcbuilders.lk/ugreen-to-lightning-1-white/",
+        "categories": "Mobile Cables, Mobile, Mobile Accessories",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-28T164654.097.png"
+      },
+      {
         "id": 49876,
         "name": "PWM & ARGB LED CONTROLLER HUB 9 PORTS (6 MONTHS WARRANTY)",
         "sku": "GEN-NEW-PWM-ARGB-LED-HUB-9-PORTS",
@@ -76,14 +89,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 4,
+      "decrease_items": 5,
       "increase_items": 0,
-      "decrease_units": 4,
+      "decrease_units": 5,
       "increase_units": 0,
-      "decrease_value": 91500,
+      "decrease_value": 96000,
       "increase_value": 0,
-      "net_units": -4,
-      "net_value": -91500
+      "net_units": -5,
+      "net_value": -96000
     }
   }
 ]

@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-18T07:00:49.408Z",
+  "scraped_at": "2026-11-18T07:10:38.945Z",
   "counts": {
-    "products": 1105,
-    "qty_known": 538,
+    "products": 1104,
+    "qty_known": 537,
     "qty_hidden": 42,
     "backorder": 525,
     "out_of_stock": 0,
-    "sum_qty": 1218,
-    "total_value": 35395790
+    "sum_qty": 1216,
+    "total_value": 35146290
   },
   "products": [
     {
@@ -144,21 +144,6 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T160142.462.png",
-      "categories": "New Laptops"
-    },
-    {
-      "id": 65797,
-      "name": "CHUWI HI10 MAX U5 2 IN 1 TABLET | WITH Hi10 keyboard , HIPEN H7 | (2 YEARS WARRANTY)",
-      "sku": "LAP-NEW-CHUWI-HI10-MAX-U5-2-IN-1-TABLET-WITH-HI10-KEY",
-      "permalink": "https://pcbuilders.lk/chuwi-lap-new-chuwi-hi10-max-u5-2-in-1-laptop-tablet-512gb/",
-      "price_lkr": 245000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T153810.683-500x484.png",
       "categories": "New Laptops"
     },
     {
@@ -6453,8 +6438,8 @@
       "permalink": "https://pcbuilders.lk/ugreen-to-lightning-1-white/",
       "price_lkr": 4500,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16590,5 +16575,5 @@
   "baseline": false,
   "previous_date": "2026-11-18 open",
   "poll_interval_minutes": 10,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }
