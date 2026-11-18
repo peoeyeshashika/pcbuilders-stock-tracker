@@ -212,7 +212,7 @@
 </section>
 
 <section class="panel" id="panel-live">
-  <div class="note">PC එකේ poll එක <b>සෑම මිනිත්තු 10කටම</b> වතාවක්. qty වෙනස් වුණාම මෙතන timestamp එක්ක පේනවා, live site එකත් update වෙනවා.</div>
+  <div class="note">PC එකේ poll එක <b>සෑම මිනිත්තු 5කටම</b> වතාවක්. හැම poll එකකදීම live site එකේ Last check update වෙනවා. qty වෙනස් වුණාම මෙතන timestamp එක්ක පේනවා.</div>
   <div class="stats" id="liveStats"></div>
   <div class="controls-day" style="margin-top:12px">
     <select id="liveMode">
@@ -308,7 +308,7 @@ const qtyClass = (qty, known) => {
 };
 
 document.getElementById('subtitle').textContent =
-  `Last check ${LATEST.scraped_at ? new Date(LATEST.scraped_at).toLocaleString() : '—'} · polls every ${LATEST.poll_interval_minutes || 10} min · exact qty only`;
+  `Last check ${LATEST.scraped_at ? new Date(LATEST.scraped_at).toLocaleString() : '—'} · polls every ${LATEST.poll_interval_minutes || 5} min · exact qty only`;
 
 /* tabs */
 document.querySelectorAll('.tab').forEach(btn => {
@@ -479,7 +479,7 @@ function renderLive() {
     <div class="stat"><b>${list.length}</b><span>Events shown</span></div>
     <div class="stat down"><b>${money(downVal)}</b><span>Decrease value</span></div>
     <div class="stat up"><b>${money(upVal)}</b><span>Increase value</span></div>
-    <div class="stat"><b>every ${LATEST.poll_interval_minutes || 10} min</b><span>Poll interval</span></div>
+    <div class="stat"><b>every ${LATEST.poll_interval_minutes || 5} min</b><span>Poll interval</span></div>
   `;
   liveRows.innerHTML = '';
   liveEmpty.hidden = list.length > 0;

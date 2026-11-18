@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-18T08:10:34.465Z",
+  "scraped_at": "2026-11-18T08:14:02.161Z",
   "counts": {
     "products": 1102,
     "qty_known": 535,
@@ -16544,6 +16544,6 @@
   ],
   "baseline": false,
   "previous_date": "2026-11-18 open",
-  "poll_interval_minutes": 10,
+  "poll_interval_minutes": 5,
   "live_changes_this_poll": 0
 }

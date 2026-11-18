@@ -339,7 +339,7 @@ async function main() {
     products: snapshot.products,
     baseline: !hasCompare,
     previous_date: compareLabel,
-    poll_interval_minutes: 10,
+    poll_interval_minutes: 5,
     live_changes_this_poll: newEvents.length,
   };
 
