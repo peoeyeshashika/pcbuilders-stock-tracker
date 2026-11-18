@@ -206,5 +206,21 @@
     "permalink": "https://pcbuilders.lk/msi-mb-new-msi-a520m-a-pro/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-37-1.png",
     "categories": "PC Components, Motherboards"
+  },
+  {
+    "at": "2026-11-18T12:30:59.330Z",
+    "date": "2026-11-18",
+    "direction": "increase",
+    "id": 23085,
+    "name": "ASUS PRIME H510M – A MOTHERBOARD (USED ITEM)",
+    "sku": "MB-USED-ASUS-PRIME-H510M-A",
+    "from": 1,
+    "to": 2,
+    "delta": 1,
+    "price_lkr": 20000,
+    "value": 20000,
+    "permalink": "https://pcbuilders.lk/used-asus-mb-used-asus-prime-h510m-a/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2024/08/p1.png",
+    "categories": "PC Components, Motherboards"
   }
 ]

@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-18T12:26:00.589Z",
+  "scraped_at": "2026-11-18T12:30:59.330Z",
   "counts": {
-    "products": 1091,
-    "qty_known": 530,
+    "products": 1093,
+    "qty_known": 533,
     "qty_hidden": 42,
-    "backorder": 519,
+    "backorder": 518,
     "out_of_stock": 0,
-    "sum_qty": 1199,
-    "total_value": 34781190
+    "sum_qty": 1212,
+    "total_value": 35010190
   },
   "products": [
     {
@@ -5637,6 +5637,21 @@
       "categories": "Action Figures"
     },
     {
+      "id": 43919,
+      "name": "256GB NVME (USED ITEM)",
+      "sku": "SSD-USED-256GB-NVME",
+      "permalink": "https://pcbuilders.lk/used-256gb-ssd-used-256gb-nvme-256gb/",
+      "price_lkr": 12500,
+      "is_in_stock": true,
+      "stock_text": "10 in stock",
+      "qty": 10,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-27T204701.730-500x433.png",
+      "categories": "PC Components, Storage, NVMe SSD"
+    },
+    {
       "id": 43832,
       "name": "MSI MAG 325QF E18V 31.5&#8221; inch WQHD (2560 x 1440) 180Hz 0.5ms Adaptive-Sync Gaming Monitor (3 YEARS WARRANTY)",
       "sku": "MON-NEW-MSI-MAG-325QF-E18V-31-5-INCH-WQHD-2560-X",
@@ -7347,6 +7362,21 @@
       "categories": "PC Components, Power Supplies"
     },
     {
+      "id": 27060,
+      "name": "INTEL I5 – 9400 DESKTOP PROCESSOR (USED ITEM)",
+      "sku": "CPU-USED-INTEL-I5-9400-DESKTOP",
+      "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-i5-9400-desktop/",
+      "price_lkr": 24000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebg-preview-ps-21-300x300.png",
+      "categories": "PC Components, Processors, INTEL"
+    },
+    {
       "id": 26883,
       "name": "COMPUTER DVI – I TO HDMI CONVETER",
       "sku": "GEN-NEW-COMPUTER-DVI&amp;#8212;I-TO-HDMI-CONVETER",
@@ -7435,6 +7465,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/11/111.2.png",
       "categories": "PC Components, Motherboards"
+    },
+    {
+      "id": 25885,
+      "name": "INTEL CORE I5 – 12600K PROCESSOR (USED ITEM)",
+      "sku": "CPU-USED-INTEL-CORE-I5-12600K",
+      "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-core-i5-12600k/",
+      "price_lkr": 60000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebg-preview-2024-03-08T102339.141.png",
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 25900,
@@ -7683,8 +7728,8 @@
       "permalink": "https://pcbuilders.lk/used-asus-mb-used-asus-prime-h510m-a/",
       "price_lkr": 20000,
       "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
+      "stock_text": "2 in stock",
+      "qty": 2,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -13512,21 +13557,6 @@
       "categories": "Liquid Coolers, CPU Cooling, PC Components"
     },
     {
-      "id": 37394,
-      "name": "Deepcool LS520S ZERO DARK Liquid CPU Cooler (5 YEARS WARRANTY)",
-      "sku": "COOL-NEW-DEEPCOOL-LS520S-ZERO-DARK-LIQUID",
-      "permalink": "https://pcbuilders.lk/deepcool-cool-new-deepcool-ls520s-zero-dark-liquid/",
-      "price_lkr": 31000,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-25T120546.717.png",
-      "categories": "Liquid Coolers, CPU Cooling, PC Components"
-    },
-    {
       "id": 37183,
       "name": "ONIKUMA L7 Wireless Mini Bluetooth Speaker (1 YEAR WARRANTY)",
       "sku": "GEN-NEW-ONIKUMA-L7-WIRELESS-MINI-BLUETOOTH-SPEAK",
@@ -16380,5 +16410,5 @@
   "baseline": false,
   "previous_date": "2026-11-18 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }

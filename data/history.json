@@ -19,7 +19,7 @@
   {
     "date": "2026-11-18",
     "compared_to": "2026-11-18 open",
-    "generated_at": "2026-11-18T12:26:00.609Z",
+    "generated_at": "2026-11-18T12:30:59.351Z",
     "decreases": [
       {
         "id": 18890,
@@ -178,16 +178,30 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2024/05/image-removebg-preview-14-2.png"
       }
     ],
-    "increases": [],
+    "increases": [
+      {
+        "id": 23085,
+        "name": "ASUS PRIME H510M – A MOTHERBOARD (USED ITEM)",
+        "sku": "MB-USED-ASUS-PRIME-H510M-A",
+        "from": 1,
+        "to": 2,
+        "delta": 1,
+        "price_lkr": 20000,
+        "value": 20000,
+        "permalink": "https://pcbuilders.lk/used-asus-mb-used-asus-prime-h510m-a/",
+        "categories": "PC Components, Motherboards",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/08/p1.png"
+      }
+    ],
     "totals": {
       "decrease_items": 12,
-      "increase_items": 0,
+      "increase_items": 1,
       "decrease_units": 15,
-      "increase_units": 0,
+      "increase_units": 1,
       "decrease_value": 239300,
-      "increase_value": 0,
-      "net_units": -15,
-      "net_value": -239300
+      "increase_value": 20000,
+      "net_units": -14,
+      "net_value": -219300
     }
   }
 ]
