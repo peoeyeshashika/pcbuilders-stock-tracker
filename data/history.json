@@ -19,8 +19,21 @@
   {
     "date": "2026-11-18",
     "compared_to": "2026-11-18 open",
-    "generated_at": "2026-11-18T10:05:55.204Z",
+    "generated_at": "2026-11-18T10:10:54.288Z",
     "decreases": [
+      {
+        "id": 18890,
+        "name": "AMD RYZEN 7 7800X3D PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+        "sku": "CPU-NEW-AMD-RYZEN-7-7800X3D",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 98000,
+        "value": 98000,
+        "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-7800x3d/",
+        "categories": "PC Components, Processors, AMD",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/02/1728141-amd-ryzen-3d-vcache-7-right-1260x709-1-500x558.webp"
+      },
       {
         "id": 39579,
         "name": "AMD RYZEN 7 5700X PROCESSOR (TRAY) (3 YEARS WARRANTY)",
@@ -141,14 +154,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 9,
+      "decrease_items": 10,
       "increase_items": 0,
-      "decrease_units": 12,
+      "decrease_units": 13,
       "increase_units": 0,
-      "decrease_value": 110800,
+      "decrease_value": 208800,
       "increase_value": 0,
-      "net_units": -12,
-      "net_value": -110800
+      "net_units": -13,
+      "net_value": -208800
     }
   }
 ]

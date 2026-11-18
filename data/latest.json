@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-18T10:05:55.186Z",
+  "scraped_at": "2026-11-18T10:10:54.267Z",
   "counts": {
-    "products": 1101,
-    "qty_known": 534,
+    "products": 1100,
+    "qty_known": 533,
     "qty_hidden": 42,
     "backorder": 525,
     "out_of_stock": 0,
-    "sum_qty": 1206,
-    "total_value": 35040690
+    "sum_qty": 1204,
+    "total_value": 34887690
   },
   "products": [
     {
@@ -5172,21 +5172,6 @@
       "categories": "Air Coolers, PC Components, CPU Cooling"
     },
     {
-      "id": 48091,
-      "name": "MSI B650 GAMING PLUS (WI-FI) DDR5 MOTHERBOARD (USED ITEM)",
-      "sku": "MB-USED-MSI-B650-GAMING-PLUS-WI-FI-DDR5",
-      "permalink": "https://pcbuilders.lk/used-msi-mb-used-msi-b650-gaming-plus-wi-fi-ddr5/",
-      "price_lkr": 55000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/image-removebg-preview-12.png",
-      "categories": "PC Components, Motherboards"
-    },
-    {
       "id": 47842,
       "name": "NZXT C1000 Gold Core 1000 Watt 80 PLUS Gold Fully Modular Power Supply (10 YEARS WARRANTY)",
       "sku": "PSU-NEW-NZXT-C1000-GOLD-CORE-1000-WATT",
@@ -8358,13 +8343,13 @@
       "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-7800x3d/",
       "price_lkr": 98000,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/02/1728141-amd-ryzen-3d-vcache-7-right-1260x709-1-500x558.webp",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 18888,
@@ -16530,5 +16515,5 @@
   "baseline": false,
   "previous_date": "2026-11-18 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }
