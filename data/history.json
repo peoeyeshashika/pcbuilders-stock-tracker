@@ -19,7 +19,7 @@
   {
     "date": "2026-11-18",
     "compared_to": "2026-11-18 open",
-    "generated_at": "2026-11-18T08:30:38.738Z",
+    "generated_at": "2026-11-18T08:57:47.707Z",
     "decreases": [
       {
         "id": 39579,
@@ -36,7 +36,7 @@
       },
       {
         "id": 20380,
-        "name": "PROLINK UPS PRO1201SFC (2 YEARS BOARD & 1 YEARS BATTERY)",
+        "name": "PROLINK UPS PRO1201SFC (2 YEARS BOARD &#038; 1 YEARS BATTERY)",
         "sku": "GEN-NEW-PROLINK-UPS-PRO1201SFC-2-YEARS-BOARD-1-Y",
         "from": 5,
         "to": 4,
@@ -75,7 +75,7 @@
       },
       {
         "id": 49876,
-        "name": "PWM & ARGB LED CONTROLLER HUB 9 PORTS (6 MONTHS WARRANTY)",
+        "name": "PWM &#038; ARGB LED CONTROLLER HUB 9 PORTS (6 MONTHS WARRANTY)",
         "sku": "GEN-NEW-PWM-ARGB-LED-HUB-9-PORTS",
         "from": 2,
         "to": 1,

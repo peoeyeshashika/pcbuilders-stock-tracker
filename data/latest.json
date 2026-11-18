@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-18T08:30:38.716Z",
+  "scraped_at": "2026-11-18T08:57:47.687Z",
   "counts": {
     "products": 1101,
     "qty_known": 534,
@@ -594,7 +594,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-11T101843.224.png",
-      "categories": "HDMI Cables, Cables &amp; Adapters"
+      "categories": "HDMI Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 65392,
@@ -643,7 +643,7 @@
     },
     {
       "id": 65325,
-      "name": "MEETION IKEY C210  KEYBOARD & MOUSE COMBO (1 YEARS WARRANTY)",
+      "name": "MEETION IKEY C210  KEYBOARD &#038; MOUSE COMBO (1 YEARS WARRANTY)",
       "sku": "GEN-NEW-MEETION-IKEY-C210-KEYBOARD-MOUSE-COMBO",
       "permalink": "https://pcbuilders.lk/meetion-gen-new-meetion-ikey-c210-keyboard-mouse-combo/",
       "price_lkr": 9000,
@@ -939,7 +939,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/ttracing-swift-x-pro-black-gaming-chair-ttrswiftxp-002.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 64920,
@@ -954,7 +954,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/ttracing-swift-x-pro-red-gaming-chair-ttrswiftxp-001.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 64918,
@@ -969,7 +969,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/ttracing-swift-x-black-2020-gaming-chair-ttrswiftx2-002.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 64916,
@@ -984,7 +984,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/ttracing-swift-x-red-2020-gaming-chair-ttrswiftx2-001.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 64914,
@@ -999,7 +999,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/ttracing-duo-v4-pro-black-gaming-chair-ttrduov4pro-002.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 64912,
@@ -1014,7 +1014,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/ttracing-duo-v3-black-gaming-chair-ttrduov3-002.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 64910,
@@ -1029,7 +1029,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/ttracing-duo-v3-red-gaming-chair-ttrduov3-001.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 64908,
@@ -1044,11 +1044,11 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/ttracing-guardian-gaming-floorpad-ttrggfpd-001.png",
-      "categories": "Desk Accessories, Gaming &amp; Desk Setup"
+      "categories": "Desk Accessories, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 64895,
-      "name": "MSI MAG 255F X24 24.5′ Inch FHD 240Hz Rapid IPS 0.5ms AMD FreeSync Premiumc Gaming Monitor (3 YEARS WARRANTY)",
+      "name": "MSI MAG 255F X24 24.5&#8242; Inch FHD 240Hz Rapid IPS 0.5ms AMD FreeSync Premiumc Gaming Monitor (3 YEARS WARRANTY)",
       "sku": "MON-NEW-MSI-MAG-255F-X24-24-5-INCH-FHD-240HZ-RAP",
       "permalink": "https://pcbuilders.lk/msi-mon-new-msi-mag-255f-x24-24-5-inch-fhd-240hz-rap/",
       "price_lkr": 52500,
@@ -1059,7 +1059,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-30T150308.882.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 64859,
@@ -1273,7 +1273,7 @@
     },
     {
       "id": 64388,
-      "name": "ASUS PROART PA248QFV 24.1″ WUXGA IPS 100HZ PROFESSIONAL MONITOR (3 YEARS WARRANTY)",
+      "name": "ASUS PROART PA248QFV 24.1&#8243; WUXGA IPS 100HZ PROFESSIONAL MONITOR (3 YEARS WARRANTY)",
       "sku": "MON-NEW-ASUS-PROART-PA248QFV-24-1-WUXGA",
       "permalink": "https://pcbuilders.lk/asus-mon-new-asus-proart-pa248qfv-24-1-wuxga/",
       "price_lkr": 96000,
@@ -1284,7 +1284,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/proart_pa248qfv-500x500.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 64386,
@@ -1738,7 +1738,7 @@
     },
     {
       "id": 62628,
-      "name": "AOC 24B30H2 23.8″ FHD IPS 120Hz MONITOR (3 YEARS WARRANTY)",
+      "name": "AOC 24B30H2 23.8&#8243; FHD IPS 120Hz MONITOR (3 YEARS WARRANTY)",
       "sku": "MON-NEW-AOC-24B30H2",
       "permalink": "https://pcbuilders.lk/aoc-mon-new-aoc-24b30h2/",
       "price_lkr": 33000,
@@ -1749,7 +1749,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/aoc-24b30h2-23-8-ips-120hz-monitor-500x625.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 62624,
@@ -1809,7 +1809,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/commercial-compact-build-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp; All-in-One"
+      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp;amp; All-in-One"
     },
     {
       "id": 62610,
@@ -1824,7 +1824,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/commercial-trading-build-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp; All-in-One"
+      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp;amp; All-in-One"
     },
     {
       "id": 62608,
@@ -1839,7 +1839,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/commercial-productivity-build-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp; All-in-One"
+      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp;amp; All-in-One"
     },
     {
       "id": 62606,
@@ -1854,7 +1854,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/commercial-powerhouse-build-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp; All-in-One"
+      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp;amp; All-in-One"
     },
     {
       "id": 62604,
@@ -1869,11 +1869,11 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/proart-ap201-compact-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp; All-in-One"
+      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp;amp; All-in-One"
     },
     {
       "id": 62591,
-      "name": "ProArt Architect CAD & Simulation Workstation – Powered by ASUS",
+      "name": "ProArt Architect CAD &amp; Simulation Workstation – Powered by ASUS",
       "sku": "",
       "permalink": "https://pcbuilders.lk/proart-architect-cad-simulation-workstation/",
       "price_lkr": 975000,
@@ -1884,7 +1884,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/proart-gt502-architect-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp; All-in-One"
+      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp;amp; All-in-One"
     },
     {
       "id": 62589,
@@ -1899,7 +1899,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/proart-cinemaster-build-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp; All-in-One"
+      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp;amp; All-in-One"
     },
     {
       "id": 62587,
@@ -1914,7 +1914,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/proart-pa602-studiomaster-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp; All-in-One"
+      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp;amp; All-in-One"
     },
     {
       "id": 62585,
@@ -2094,7 +2094,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-23T111836.654.png",
-      "categories": "Monitor Arms, Monitors &amp; Display"
+      "categories": "Monitor Arms, Monitors &amp;amp; Display"
     },
     {
       "id": 62312,
@@ -2323,7 +2323,7 @@
     },
     {
       "id": 62197,
-      "name": "AMD Ryzen 5 8600G Next-Gen AI & Esports PC Build (Radeon 760M)",
+      "name": "AMD Ryzen 5 8600G Next-Gen AI &#038; Esports PC Build (Radeon 760M)",
       "sku": "GPU-NEW-AMD-RYZEN-5-8600G-NEXT-GEN-AI-ESPORTS-PC-BUIL",
       "permalink": "https://pcbuilders.lk/amd-gpu-new-amd-ryzen-5-8600g-next-gen-ai-esports-pc-buil/",
       "price_lkr": 351500,
@@ -2413,7 +2413,7 @@
     },
     {
       "id": 62191,
-      "name": "Intel Core i5-14600K Creator & Productivity PC Build (Intel UHD 770)",
+      "name": "Intel Core i5-14600K Creator &#038; Productivity PC Build (Intel UHD 770)",
       "sku": "CPU-NEW-INTEL-CORE-I5-14400-CREATOR-PRODUCTIVITY-PC-B",
       "permalink": "https://pcbuilders.lk/intel-cpu-new-intel-core-i5-14400-creator-productivity-pc-b/",
       "price_lkr": 435000,
@@ -2443,7 +2443,7 @@
     },
     {
       "id": 62189,
-      "name": "Intel Core i3-12100 Budget Home & Office PC Build",
+      "name": "Intel Core i3-12100 Budget Home &#038; Office PC Build",
       "sku": "CPU-NEW-INTEL-CORE-I3-12100-BUDGET-HOME-OFFICE-PC-BUI",
       "permalink": "https://pcbuilders.lk/intel-cpu-new-intel-core-i3-12100-budget-home-office-pc-bui/",
       "price_lkr": 179500,
@@ -2878,7 +2878,7 @@
     },
     {
       "id": 61087,
-      "name": "AOC 22B30HM2 21.5″ FHD 100Hz Monitor (3 YEARS WARRANTY)",
+      "name": "AOC 22B30HM2 21.5&#8243; FHD 100Hz Monitor (3 YEARS WARRANTY)",
       "sku": "MON-NEW-AOC-22B30HM2-21-5-FHD-100HZ",
       "permalink": "https://pcbuilders.lk/aoc-mon-new-aoc-22b30hm2-21-5-fhd-100hz/",
       "price_lkr": 28500,
@@ -2889,7 +2889,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-5.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 61052,
@@ -3043,7 +3043,7 @@
     },
     {
       "id": 55938,
-      "name": "Prolink PRO903 ES 3KVA Online Ups (2 YEARS BAORD & 1 YEARS BATTERY)",
+      "name": "Prolink PRO903 ES 3KVA Online Ups (2 YEARS BAORD &#038; 1 YEARS BATTERY)",
       "sku": "GEN-NEW-PROLINK-PRO903-ES-3KVA-ONLINE-UPS-2-YEAR",
       "permalink": "https://pcbuilders.lk/prolink-gen-new-prolink-pro903-es-3kva-online-ups-2-year/",
       "price_lkr": 160000,
@@ -3114,7 +3114,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-21T173909.994.png",
-      "categories": "Monitors &amp; Display, Monitor Arms"
+      "categories": "Monitors &amp;amp; Display, Monitor Arms"
     },
     {
       "id": 55711,
@@ -3148,7 +3148,7 @@
     },
     {
       "id": 55508,
-      "name": "VERBATIM 66519 Wireless Keyboard & Mouse Combo (3 years warranty)",
+      "name": "VERBATIM 66519 Wireless Keyboard &#038; Mouse Combo (3 years warranty)",
       "sku": "GEN-NEW-VERBATIM-66519-WIRELESS-COMBO",
       "permalink": "https://pcbuilders.lk/verbatim-mouse-combo-66630/",
       "price_lkr": 5900,
@@ -3163,7 +3163,7 @@
     },
     {
       "id": 55503,
-      "name": "VERBATIM 66630 Wired Keyboard & Mouse Combo (3 years warranty)",
+      "name": "VERBATIM 66630 Wired Keyboard &#038; Mouse Combo (3 years warranty)",
       "sku": "GEN-NEW-VERBATIM-66630-WIRED-COMBO",
       "permalink": "https://pcbuilders.lk/verbatim-66630/",
       "price_lkr": 4000,
@@ -3194,7 +3194,7 @@
     {
       "id": 55487,
       "name": "DRAGON BALL GT SET ACTION FIGURERS – 7cm",
-      "sku": "ACC-NEW-DRAGON-BALL-GT-SET-ACTION-FIGURERS&#8212;7CM",
+      "sku": "ACC-NEW-DRAGON-BALL-GT-SET-ACTION-FIGURERS&amp;#8212;7CM",
       "permalink": "https://pcbuilders.lk/dragon-action-figurers-7cm-2/",
       "price_lkr": 4000,
       "is_in_stock": true,
@@ -3224,7 +3224,7 @@
     {
       "id": 55481,
       "name": "HATSUNE MIKU SET ACTION FIGURERS – 6cm",
-      "sku": "ACC-NEW-HATSUNE-MIKU-SET-ACTION-FIGURERS&#8212;6CM",
+      "sku": "ACC-NEW-HATSUNE-MIKU-SET-ACTION-FIGURERS&amp;#8212;6CM",
       "permalink": "https://pcbuilders.lk/hatsune-action-figurers-6cm/",
       "price_lkr": 7000,
       "is_in_stock": true,
@@ -3239,7 +3239,7 @@
     {
       "id": 55478,
       "name": "SUPER MARIO SET ACTION FIGURERS – 8cm",
-      "sku": "ACC-NEW-SUPER-MARIO-SET-ACTION-FIGURERS&#8212;8CM",
+      "sku": "ACC-NEW-SUPER-MARIO-SET-ACTION-FIGURERS&amp;#8212;8CM",
       "permalink": "https://pcbuilders.lk/super-action-figurers-8cm/",
       "price_lkr": 6500,
       "is_in_stock": true,
@@ -3284,7 +3284,7 @@
     {
       "id": 55465,
       "name": "SUPER DRAGON BALL HERO ACTION FIGURERS – 11cm",
-      "sku": "ACC-NEW-SUPER-DRAGON-BALL-HERO-ACTION-FIGURERS&#8211;",
+      "sku": "ACC-NEW-SUPER-DRAGON-BALL-HERO-ACTION-FIGURERS&amp;#8211;",
       "permalink": "https://pcbuilders.lk/super-action-figurers-11cm/",
       "price_lkr": 4000,
       "is_in_stock": true,
@@ -3299,7 +3299,7 @@
     {
       "id": 55462,
       "name": "DRAGON BALL Z SET ACTION FIGURERS – 8cm",
-      "sku": "ACC-NEW-DRAGON-BALL-Z-SET-ACTION-FIGURERS&#8212;8CM",
+      "sku": "ACC-NEW-DRAGON-BALL-Z-SET-ACTION-FIGURERS&amp;#8212;8CM",
       "permalink": "https://pcbuilders.lk/dragon-action-figurers-8cm/",
       "price_lkr": 6500,
       "is_in_stock": true,
@@ -3314,7 +3314,7 @@
     {
       "id": 55459,
       "name": "SAINT SEIYA SET ACTION FIGURERS – 6cm",
-      "sku": "ACC-NEW-SAINT-SEIYA-SET-ACTION-FIGURERS&#8212;6CM",
+      "sku": "ACC-NEW-SAINT-SEIYA-SET-ACTION-FIGURERS&amp;#8212;6CM",
       "permalink": "https://pcbuilders.lk/saint-action-figurers-6cm-2/",
       "price_lkr": 4500,
       "is_in_stock": true,
@@ -3359,7 +3359,7 @@
     {
       "id": 55438,
       "name": "GOHAN ACTION FIGURE – 38cm",
-      "sku": "ACC-NEW-GOHAN-ACTION-FIGURE&#8212;38CM",
+      "sku": "ACC-NEW-GOHAN-ACTION-FIGURE&amp;#8212;38CM",
       "permalink": "https://pcbuilders.lk/gohan-action-figure-38cm-3/",
       "price_lkr": 9500,
       "is_in_stock": true,
@@ -3374,7 +3374,7 @@
     {
       "id": 55433,
       "name": "SUPER SAIYAN VEGETA ACTION FIGURE – 38cm",
-      "sku": "ACC-NEW-SUPER-SAIYAN-VEGETA-ACTION-FIGURE&#8212;38CM",
+      "sku": "ACC-NEW-SUPER-SAIYAN-VEGETA-ACTION-FIGURE&amp;#8212;38CM",
       "permalink": "https://pcbuilders.lk/super-action-figure-38cm/",
       "price_lkr": 9500,
       "is_in_stock": true,
@@ -3389,7 +3389,7 @@
     {
       "id": 55430,
       "name": "SON GOKU ACTION FIGURE – 38cm",
-      "sku": "ACC-NEW-SON-GOKU-ACTION-FIGURE&#8212;38CM",
+      "sku": "ACC-NEW-SON-GOKU-ACTION-FIGURE&amp;#8212;38CM",
       "permalink": "https://pcbuilders.lk/son-action-figure-38cm/",
       "price_lkr": 9500,
       "is_in_stock": true,
@@ -3404,7 +3404,7 @@
     {
       "id": 55423,
       "name": "SUPER SAIYAN SON GOKU ACTION FIGURE – 38cm",
-      "sku": "ACC-NEW-SUPER-SAIYAN-SON-GOKU-ACTION-FIGURE&#8212;38",
+      "sku": "ACC-NEW-SUPER-SAIYAN-SON-GOKU-ACTION-FIGURE&amp;#8212;38",
       "permalink": "https://pcbuilders.lk/super-action-figure-38cm-3/",
       "price_lkr": 9500,
       "is_in_stock": true,
@@ -3419,7 +3419,7 @@
     {
       "id": 55415,
       "name": "MONKEY D. LUFFY II ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-MONKEY-D-LUFFY-II-ACTION-FIGURE&#8212;18CM",
+      "sku": "ACC-NEW-MONKEY-D-LUFFY-II-ACTION-FIGURE&amp;#8212;18CM",
       "permalink": "https://pcbuilders.lk/monkey-action-figure-18cm-2/",
       "price_lkr": 3500,
       "is_in_stock": true,
@@ -3434,7 +3434,7 @@
     {
       "id": 55413,
       "name": "SUPER HERO PICCOLO FIGURE ACTION FIGURE – 38cm",
-      "sku": "ACC-NEW-HEROPICCOLO-FIGURE-ACTION-FIGURE&#8212;38CM-2",
+      "sku": "ACC-NEW-HEROPICCOLO-FIGURE-ACTION-FIGURE&amp;#8212;38CM-2",
       "permalink": "https://pcbuilders.lk/super-acc-new-piccolo-figure-action-figure-38cm-2/",
       "price_lkr": 9500,
       "is_in_stock": true,
@@ -3449,7 +3449,7 @@
     {
       "id": 55409,
       "name": "MUIKU NAKANO ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-MUIKU-NAKANO-ACTION-FIGURE&#8212;18CM",
+      "sku": "ACC-NEW-MUIKU-NAKANO-ACTION-FIGURE&amp;#8212;18CM",
       "permalink": "https://pcbuilders.lk/muiku-action-figure-18cm/",
       "price_lkr": 3000,
       "is_in_stock": true,
@@ -3464,7 +3464,7 @@
     {
       "id": 55406,
       "name": "SAILOR MERCURY ACTION FIGURE – 20cm",
-      "sku": "ACC-NEW-SAILOR-MERCURY-ACTION-FIGURE&#8212;20CM",
+      "sku": "ACC-NEW-SAILOR-MERCURY-ACTION-FIGURE&amp;#8212;20CM",
       "permalink": "https://pcbuilders.lk/sailor-action-figure-20cm-2/",
       "price_lkr": 3000,
       "is_in_stock": true,
@@ -3479,7 +3479,7 @@
     {
       "id": 55400,
       "name": "MUJIN BUU ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-MUJIN-BUU-ACTION-FIGURE&#8212;18CM",
+      "sku": "ACC-NEW-MUJIN-BUU-ACTION-FIGURE&amp;#8212;18CM",
       "permalink": "https://pcbuilders.lk/mujin-action-figure-18cm/",
       "price_lkr": 3000,
       "is_in_stock": true,
@@ -3494,7 +3494,7 @@
     {
       "id": 55397,
       "name": "SUPER SAIYUN 4 GOGETA ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-SUPER-SAIYUN-4-GOGETA-ACTION-FIGURE&#8212;18",
+      "sku": "ACC-NEW-SUPER-SAIYUN-4-GOGETA-ACTION-FIGURE&amp;#8212;18",
       "permalink": "https://pcbuilders.lk/super-saiyun-4-2/",
       "price_lkr": 3000,
       "is_in_stock": true,
@@ -3509,7 +3509,7 @@
     {
       "id": 55391,
       "name": "BANPRESTO BLOOD ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-BANPRESTO-BLOOD-ACTION-FIGURE&#8212;18CM",
+      "sku": "ACC-NEW-BANPRESTO-BLOOD-ACTION-FIGURE&amp;#8212;18CM",
       "permalink": "https://pcbuilders.lk/banpresto-action-figure-18cm-2/",
       "price_lkr": 3000,
       "is_in_stock": true,
@@ -3524,7 +3524,7 @@
     {
       "id": 55385,
       "name": "RECOOME ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-RECOOME-ACTION-FIGURE&#8212;18CM",
+      "sku": "ACC-NEW-RECOOME-ACTION-FIGURE&amp;#8212;18CM",
       "permalink": "https://pcbuilders.lk/recoome-action-figure-18cm-2/",
       "price_lkr": 2500,
       "is_in_stock": true,
@@ -3539,7 +3539,7 @@
     {
       "id": 55377,
       "name": "TRAFALGAR D. WATER LAW ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-TRAFALGAR-D-WATER-LAW-ACTION-FIGURE&#8212;18",
+      "sku": "ACC-NEW-TRAFALGAR-D-WATER-LAW-ACTION-FIGURE&amp;#8212;18",
       "permalink": "https://pcbuilders.lk/trafalgar-action-figure-18cm/",
       "price_lkr": 2000,
       "is_in_stock": true,
@@ -3554,7 +3554,7 @@
     {
       "id": 55368,
       "name": "SUPER SAIYAN GOGETA BLUE ACTION FIGURE – 38cm",
-      "sku": "ACC-NEW-SUPER-SAIYAN-GOGETA-BLUE-ACTION-FIGURE&#8211;",
+      "sku": "ACC-NEW-SUPER-SAIYAN-GOGETA-BLUE-ACTION-FIGURE&amp;#8211;",
       "permalink": "https://pcbuilders.lk/super-action-figure-38cm-blue-3/",
       "price_lkr": 9500,
       "is_in_stock": true,
@@ -3569,7 +3569,7 @@
     {
       "id": 55364,
       "name": "PICCOLO FIGURE ACTION FIGURE – 38cm",
-      "sku": "ACC-NEW-PICCOLO-FIGURE-ACTION-FIGURE&#8212;38CM",
+      "sku": "ACC-NEW-PICCOLO-FIGURE-ACTION-FIGURE&amp;#8212;38CM",
       "permalink": "https://pcbuilders.lk/super-acc-new-piccolo-figure-action-figure-38cm/",
       "price_lkr": 9500,
       "is_in_stock": true,
@@ -3584,7 +3584,7 @@
     {
       "id": 55358,
       "name": "DRAGON BALL VEGITO ACTION FIGURE – 38cm",
-      "sku": "ACC-NEW-DRAGON-BALL-VEGITO-ACTION-FIGURE&#8212;38CM",
+      "sku": "ACC-NEW-DRAGON-BALL-VEGITO-ACTION-FIGURE&amp;#8212;38CM",
       "permalink": "https://pcbuilders.lk/dragon-action-figure-38cm-2/",
       "price_lkr": 9500,
       "is_in_stock": true,
@@ -3599,7 +3599,7 @@
     {
       "id": 55353,
       "name": "BANPRESTO GOHAN ACTION FIGURE – 38cm",
-      "sku": "ACC-NEW-BANPRESTO-GOHAN-ACTION-FIGURE&#8212;38CM",
+      "sku": "ACC-NEW-BANPRESTO-GOHAN-ACTION-FIGURE&amp;#8212;38CM",
       "permalink": "https://pcbuilders.lk/banpresto-action-figure-38cm/",
       "price_lkr": 9500,
       "is_in_stock": true,
@@ -3614,7 +3614,7 @@
     {
       "id": 55350,
       "name": "SUPER SAIYAN BLUE VEGITO ACTION FIGURE – 38cm",
-      "sku": "ACC-NEW-SUPER-SAIYAN-BLUE-VEGITO-ACTION-FIGURE&#8211;",
+      "sku": "ACC-NEW-SUPER-SAIYAN-BLUE-VEGITO-ACTION-FIGURE&amp;#8211;",
       "permalink": "https://pcbuilders.lk/super-action-figure-38cm-blue-2/",
       "price_lkr": 9500,
       "is_in_stock": true,
@@ -3629,7 +3629,7 @@
     {
       "id": 55344,
       "name": "SUPER SENKAI SOLID ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-SUPER-SENKAI-SOLID-ACTION-FIGURE&#8212;18CM",
+      "sku": "ACC-NEW-SUPER-SENKAI-SOLID-ACTION-FIGURE&amp;#8212;18CM",
       "permalink": "https://pcbuilders.lk/super-action-figure-18cm-4/",
       "price_lkr": 3000,
       "is_in_stock": true,
@@ -3644,7 +3644,7 @@
     {
       "id": 55339,
       "name": "SABO FIGURE ACTION FIGURE – 22cm",
-      "sku": "ACC-NEW-SABO-FIGURE-ACTION-FIGURE&#8212;22CM",
+      "sku": "ACC-NEW-SABO-FIGURE-ACTION-FIGURE&amp;#8212;22CM",
       "permalink": "https://pcbuilders.lk/sabo-action-figure-22cm-2/",
       "price_lkr": 6000,
       "is_in_stock": true,
@@ -3659,7 +3659,7 @@
     {
       "id": 55337,
       "name": "SUPER SAIYAN 3 BROLY ACTION FIGURE – 38cm",
-      "sku": "ACC-NEW-SUPER-SAIYAN-3-BROLY-ACTION-FIGURE&#8212;38C",
+      "sku": "ACC-NEW-SUPER-SAIYAN-3-BROLY-ACTION-FIGURE&amp;#8212;38C",
       "permalink": "https://pcbuilders.lk/super-saiyan-3-3/",
       "price_lkr": 9500,
       "is_in_stock": true,
@@ -3674,7 +3674,7 @@
     {
       "id": 55332,
       "name": "SHANKS ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-SHANKS-ACTION-FIGURE&#8212;18CM",
+      "sku": "ACC-NEW-SHANKS-ACTION-FIGURE&amp;#8212;18CM",
       "permalink": "https://pcbuilders.lk/shanks-action-figure-18cm/",
       "price_lkr": 2000,
       "is_in_stock": true,
@@ -3689,7 +3689,7 @@
     {
       "id": 55329,
       "name": "SUPER SAIYAN 3 SON GOKU ACTION FIGURE – 38cm",
-      "sku": "ACC-NEW-SUPER-SAIYAN-3-SON-GOKU-ACTION-FIGURE&#8212;",
+      "sku": "ACC-NEW-SUPER-SAIYAN-3-SON-GOKU-ACTION-FIGURE&amp;#8212;",
       "permalink": "https://pcbuilders.lk/super-saiyan-3-2/",
       "price_lkr": 9500,
       "is_in_stock": true,
@@ -3704,7 +3704,7 @@
     {
       "id": 55326,
       "name": "SON GOKU RED ACTION FIGURE – 38cm",
-      "sku": "ACC-NEW-SON-GOKU-RED-ACTION-FIGURE&#8212;38CM",
+      "sku": "ACC-NEW-SON-GOKU-RED-ACTION-FIGURE&amp;#8212;38CM",
       "permalink": "https://pcbuilders.lk/son-action-figure-38cm-red/",
       "price_lkr": 9500,
       "is_in_stock": true,
@@ -3719,7 +3719,7 @@
     {
       "id": 55323,
       "name": "BANPRESTO GRANDISTA ACTION FIGURE – 26cm",
-      "sku": "ACC-NEW-BANPRESTO-GRANDISTA-ACTION-FIGURE&#8212;26CM",
+      "sku": "ACC-NEW-BANPRESTO-GRANDISTA-ACTION-FIGURE&amp;#8212;26CM",
       "permalink": "https://pcbuilders.lk/banpresto-action-figure-26cm/",
       "price_lkr": 6000,
       "is_in_stock": true,
@@ -3734,7 +3734,7 @@
     {
       "id": 55320,
       "name": "NARUTO SHIPPUDEN MINATO ACTION FIGURE – 26cm",
-      "sku": "ACC-NEW-NARUTO-SHIPPUDEN-MINATO-ACTION-FIGURE&#8212;",
+      "sku": "ACC-NEW-NARUTO-SHIPPUDEN-MINATO-ACTION-FIGURE&amp;#8212;",
       "permalink": "https://pcbuilders.lk/naruto-action-figure-26cm/",
       "price_lkr": 5500,
       "is_in_stock": true,
@@ -3749,7 +3749,7 @@
     {
       "id": 55308,
       "name": "ANDROID 16 ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-ANDROID-16-ACTION-FIGURE&#8212;18CM",
+      "sku": "ACC-NEW-ANDROID-16-ACTION-FIGURE&amp;#8212;18CM",
       "permalink": "https://pcbuilders.lk/android-16/",
       "price_lkr": 3000,
       "is_in_stock": true,
@@ -3764,7 +3764,7 @@
     {
       "id": 55305,
       "name": "SUPER SAIYUN BLUE VEGITO ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-SUPER-SAIYUN-BLUE-VEGITO-ACTION-FIGURE&#8211;",
+      "sku": "ACC-NEW-SUPER-SAIYUN-BLUE-VEGITO-ACTION-FIGURE&amp;#8211;",
       "permalink": "https://pcbuilders.lk/super-action-figure-18cm-blue-2/",
       "price_lkr": 3000,
       "is_in_stock": true,
@@ -3779,7 +3779,7 @@
     {
       "id": 55300,
       "name": "SUPER SAIYUN BLUE GOGETA ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-SUPER-SAIYUN-BLUE-GOGETA-ACTION-FIGURE&#8211;",
+      "sku": "ACC-NEW-SUPER-SAIYUN-BLUE-GOGETA-ACTION-FIGURE&amp;#8211;",
       "permalink": "https://pcbuilders.lk/super-action-figure-18cm-blue-3/",
       "price_lkr": 3000,
       "is_in_stock": true,
@@ -3794,7 +3794,7 @@
     {
       "id": 55297,
       "name": "SUPER HERO ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-SUPER-HERO-ACTION-FIGURE&#8212;18CM",
+      "sku": "ACC-NEW-SUPER-HERO-ACTION-FIGURE&amp;#8212;18CM",
       "permalink": "https://pcbuilders.lk/super-action-figure-18cm-3/",
       "price_lkr": 3000,
       "is_in_stock": true,
@@ -3809,7 +3809,7 @@
     {
       "id": 55292,
       "name": "NAMI ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-NAMI-ACTION-FIGURE&#8212;18CM",
+      "sku": "ACC-NEW-NAMI-ACTION-FIGURE&amp;#8212;18CM",
       "permalink": "https://pcbuilders.lk/nami-action-figure-18cm/",
       "price_lkr": 2000,
       "is_in_stock": true,
@@ -3824,7 +3824,7 @@
     {
       "id": 55289,
       "name": "MONKEY D. LUFFY ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-MONKEY-D-LUFFY-ACTION-FIGURE&#8212;18CM",
+      "sku": "ACC-NEW-MONKEY-D-LUFFY-ACTION-FIGURE&amp;#8212;18CM",
       "permalink": "https://pcbuilders.lk/monkey-action-figure-18cm/",
       "price_lkr": 2000,
       "is_in_stock": true,
@@ -4259,7 +4259,7 @@
     {
       "id": 53236,
       "name": "Ethernet Patch Internet White Cable Cat 6 – 30M",
-      "sku": "ACC-NEW-ETHERNET-PATCH-INTERNET-WHITE-CABLE-CAT&#8211;6",
+      "sku": "ACC-NEW-ETHERNET-PATCH-INTERNET-WHITE-CABLE-CAT&amp;#8211;6",
       "permalink": "https://pcbuilders.lk/ethernet-cable-cat-6-white-6/",
       "price_lkr": 2000,
       "is_in_stock": true,
@@ -4269,12 +4269,12 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-04T105042.748.png",
-      "categories": "Network Cables, Cables &amp; Adapters"
+      "categories": "Network Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 53234,
       "name": "Ethernet Patch Internet White Cable Cat 6 – 25M",
-      "sku": "ACC-NEW-ETHERNET-PATCH-INTERNET-WHITE-CABLE-CAT&#8211;5",
+      "sku": "ACC-NEW-ETHERNET-PATCH-INTERNET-WHITE-CABLE-CAT&amp;#8211;5",
       "permalink": "https://pcbuilders.lk/ethernet-cable-cat-6-white-5/",
       "price_lkr": 1600,
       "is_in_stock": true,
@@ -4284,7 +4284,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-04T105042.748.png",
-      "categories": "Network Cables, Cables &amp; Adapters"
+      "categories": "Network Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 53198,
@@ -4464,7 +4464,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/chr14-meetion-official.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 51642,
@@ -4479,7 +4479,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/chr31-meetion-official.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 51473,
@@ -4543,7 +4543,7 @@
     },
     {
       "id": 50336,
-      "name": "TUF Gaming VG279QE5A 27-inch Full HD (1920×1080) 146Hz Gaming Monitor (3 YEAR WARRANTY)",
+      "name": "TUF Gaming VG279QE5A 27-inch Full HD (1920&#215;1080) 146Hz Gaming Monitor (3 YEAR WARRANTY)",
       "sku": "MON-NEW-TUF-GAMING-VG279QE5A-27-INCH-FULL-HD-192",
       "permalink": "https://pcbuilders.lk/tuf-mon-new-tuf-gaming-vg279qe5a-27-inch-full-hd-192/",
       "price_lkr": 46500,
@@ -4554,11 +4554,11 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-25T165105.210.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 50263,
-      "name": "MSI Pro MP225 E12VL 21.5″ Inch 120Hz 1ms FHD Ultra Slim Frameless Monitor (3 years warranty)",
+      "name": "MSI Pro MP225 E12VL 21.5&#8243; Inch 120Hz 1ms FHD Ultra Slim Frameless Monitor (3 years warranty)",
       "sku": "MON-NEW-MSI-PRO-MP225-E12VL-21-5-INCH-120HZ-1MS-",
       "permalink": "https://pcbuilders.lk/msi-pro-mp225-2/",
       "price_lkr": 28000,
@@ -4569,7 +4569,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-24T151514.598.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 50239,
@@ -4648,7 +4648,7 @@
     },
     {
       "id": 49876,
-      "name": "PWM & ARGB LED CONTROLLER HUB 9 PORTS (6 MONTHS WARRANTY)",
+      "name": "PWM &#038; ARGB LED CONTROLLER HUB 9 PORTS (6 MONTHS WARRANTY)",
       "sku": "GEN-NEW-PWM-ARGB-LED-HUB-9-PORTS",
       "permalink": "https://pcbuilders.lk/pwm-gen-new-pwm-argb-led-hub-9-ports/",
       "price_lkr": 3000,
@@ -4708,7 +4708,7 @@
     },
     {
       "id": 49716,
-      "name": "Corsair Vengeance RGB LPX 8GB (8×1) DDR5 5200MHz Memory (10 YEARS WARRANTY)",
+      "name": "Corsair Vengeance RGB LPX 8GB (8&#215;1) DDR5 5200MHz Memory (10 YEARS WARRANTY)",
       "sku": "RAM-NEW-CORSAIR-VENGEANCE-RGB-LPX-8GB-8X1-DDR5-5",
       "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-rgb-lpx-8gb-8x1-ddr5-5-8gb/",
       "price_lkr": 53000,
@@ -4753,7 +4753,7 @@
     },
     {
       "id": 49517,
-      "name": "Corsair Vengeance LPX 8GB (8×1) DDR5 5200MHz Memory (10 YEARS WARRANTY)",
+      "name": "Corsair Vengeance LPX 8GB (8&#215;1) DDR5 5200MHz Memory (10 YEARS WARRANTY)",
       "sku": "RAM-NEW-CORSAIR-VENGEANCE-LPX-8GB-8X1-DDR5-5200M",
       "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-lpx-8gb-8x1-ddr5-5200m-8gb/",
       "price_lkr": 50500,
@@ -4798,7 +4798,7 @@
     },
     {
       "id": 49145,
-      "name": "Anker Soundcore R60i NC Earbuds BLACK (1 YEARS & 6 MONTHS WARRANTY)",
+      "name": "Anker Soundcore R60i NC Earbuds BLACK (1 YEARS &#038; 6 MONTHS WARRANTY)",
       "sku": "GEN-NEW-ANKER-SOUNDCORE-R60I-NC-EARBUDS-BLACK-1-",
       "permalink": "https://pcbuilders.lk/anker-gen-new-anker-soundcore-r60i-nc-earbuds-black-1-black/",
       "price_lkr": 11000,
@@ -4949,7 +4949,7 @@
     {
       "id": 48663,
       "name": "Jungle Leopard Interstellar SE Building PWM WHITE FAN KIT (6 MONTHS WARRANTY)",
-      "sku": "COOL-NEW-JUNGLE-LEOPARD-INTERSTELLAR-SE-BUILDING&#8211;2",
+      "sku": "COOL-NEW-JUNGLE-LEOPARD-INTERSTELLAR-SE-BUILDING&amp;#8211;2",
       "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-interstellar-se-building-2-white/",
       "price_lkr": 8000,
       "is_in_stock": true,
@@ -4993,7 +4993,7 @@
     },
     {
       "id": 48600,
-      "name": "Corsair Vengeance LPX 16GB (16×1) DDR5 6000MHz Memory (10 YEARS WARRANTY)",
+      "name": "Corsair Vengeance LPX 16GB (16&#215;1) DDR5 6000MHz Memory (10 YEARS WARRANTY)",
       "sku": "RAM-NEW-CORSAIR-VENGEANCE-LPX-16GB-16X1-DDR5-600",
       "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-lpx-16gb-16x1-ddr5-600-16gb/",
       "price_lkr": 94500,
@@ -5009,7 +5009,7 @@
     {
       "id": 48573,
       "name": "Jungle Leopard ASTROBEAT DGT 240 LIQUID COOLER – BLACK (3 YEARS WARRANTY)",
-      "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROBEAT-DGT-240&#8212;BLACK",
+      "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROBEAT-DGT-240&amp;#8212;BLACK",
       "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-astrobeat-dgt-240-black-black/",
       "price_lkr": 23000,
       "is_in_stock": true,
@@ -5024,7 +5024,7 @@
     {
       "id": 48560,
       "name": "Jungle Leopard ASTROBEAT DGT 240 LIQUID COOLER – WHITE (3 YEARS WARRANTY)",
-      "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROBEAT-DGT-240&#8212;WHITE",
+      "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROBEAT-DGT-240&amp;#8212;WHITE",
       "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-astrobeat-dgt-240-white-white/",
       "price_lkr": 23500,
       "is_in_stock": true,
@@ -5054,7 +5054,7 @@
     {
       "id": 48551,
       "name": "Jungle Leopard CHILL ARC CA360 LIQUID COOLER – WHITE (3 YEARS WARRANTY)",
-      "sku": "COOL-NEW-JUNGLE-LEOPARD-CHILL-ARC-CA360&#8212;WHITE",
+      "sku": "COOL-NEW-JUNGLE-LEOPARD-CHILL-ARC-CA360&amp;#8212;WHITE",
       "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-chill-arc-ca360-white-white/",
       "price_lkr": 75000,
       "is_in_stock": true,
@@ -5069,7 +5069,7 @@
     {
       "id": 48531,
       "name": "Jungle Leopard CHILL ARC CA360 LIQUID COOLER – BLACK (3 YEARS WARRANTY)",
-      "sku": "COOL-NEW-JUNGLE-LEOPARD-CHILL-ARC-CA360&#8212;BLACK",
+      "sku": "COOL-NEW-JUNGLE-LEOPARD-CHILL-ARC-CA360&amp;#8212;BLACK",
       "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-chill-arc-ca360-black-black/",
       "price_lkr": 74000,
       "is_in_stock": true,
@@ -5094,11 +5094,11 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-28T160029.959.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 48427,
-      "name": "MSI Pro MP243L E14 24.5″ Inch 144Hz 1ms FHD IPS Productivity Monitor (3 YEARS WARRANTY)",
+      "name": "MSI Pro MP243L E14 24.5&#8243; Inch 144Hz 1ms FHD IPS Productivity Monitor (3 YEARS WARRANTY)",
       "sku": "MON-NEW-MSI-PRO-MP243L-E14-24-5-INCH-144HZ-1MS-F",
       "permalink": "https://pcbuilders.lk/msi-pro-mp243l/",
       "price_lkr": 35000,
@@ -5109,7 +5109,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-28T144709.770.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 48384,
@@ -5124,7 +5124,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2024-08-30T141425.814.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 48231,
@@ -5219,7 +5219,7 @@
     {
       "id": 47687,
       "name": "Gamdias Aura GP650 – 650 WATT Efficient Power Supply (2 YEARS WARRANTY)",
-      "sku": "PSU-NEW-GAMDIAS-AURA-GP650&#8212;650-WATT-EFFICIENT",
+      "sku": "PSU-NEW-GAMDIAS-AURA-GP650&amp;#8212;650-WATT-EFFICIENT",
       "permalink": "https://pcbuilders.lk/gamdias-psu-new-gamdias-aura-gp650-650-watt-efficient/",
       "price_lkr": 13500,
       "is_in_stock": true,
@@ -5274,7 +5274,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-12T140720.832.png",
-      "categories": "USB Hubs, Networking &amp; Connectivity"
+      "categories": "USB Hubs, Networking &amp;amp; Connectivity"
     },
     {
       "id": 47402,
@@ -5289,12 +5289,12 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/UGREEN-HDMI-8K-Fiber-Optic-Cable-Male-to-Male-Aluminum-Shell-10m-HD183-ugreenlk_-500x625.webp",
-      "categories": "HDMI Cables, Cables &amp; Adapters"
+      "categories": "HDMI Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 47368,
       "name": "UGREEN 4K 30FPS USB Webcam with USB to Type -C Adapter – CM831 – 65381 – (18 MONTHS Warranty)",
-      "sku": "GEN-NEW-UGREEN-4K-30FPS-USB-WEBCAM-USB-TO-TYPE&#8211;",
+      "sku": "GEN-NEW-UGREEN-4K-30FPS-USB-WEBCAM-USB-TO-TYPE&amp;#8211;",
       "permalink": "https://pcbuilders.lk/ugreen-gen-new-ugreen-4k-30fps-usb-webcam-usb-to-type/",
       "price_lkr": 17200,
       "is_in_stock": true,
@@ -5319,12 +5319,12 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-06-11T151746.653.png",
-      "categories": "WiFi Adapters, Networking &amp; Connectivity"
+      "categories": "WiFi Adapters, Networking &amp;amp; Connectivity"
     },
     {
       "id": 47358,
       "name": "UGREEN 8 – in -1 Revodok Type-C Three Screen Multifunctional Hub – CM639 – 35625 – (1 Year Warranty)",
-      "sku": "GEN-NEW-UGREEN-8-IN&#8211;1-REVODOK-TYPE-C-THREE-SCRE",
+      "sku": "GEN-NEW-UGREEN-8-IN&amp;#8211;1-REVODOK-TYPE-C-THREE-SCRE",
       "permalink": "https://pcbuilders.lk/ugreen-8/",
       "price_lkr": 17000,
       "is_in_stock": true,
@@ -5334,7 +5334,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-11T143618.040.png",
-      "categories": "USB Hubs, Networking &amp; Connectivity"
+      "categories": "USB Hubs, Networking &amp;amp; Connectivity"
     },
     {
       "id": 47350,
@@ -5349,7 +5349,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/UGREEN-1-Meter-16K-Type-C-to-DisplayPort-Nylon-Braided-Cable-CM707-25863-1-Year-Warranty-ugreenlk_-500x625.webp",
-      "categories": "DisplayPort Cables, Cables &amp; Adapters"
+      "categories": "DisplayPort Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 47215,
@@ -5369,7 +5369,7 @@
     {
       "id": 47199,
       "name": "Corsair AIR 5400 RS ARGB Mid-Tower Case – White",
-      "sku": "CASE-NEW-CORSAIR-AIR-5400-RS-ARGB-MID-TOWER-CASE&#8211;2",
+      "sku": "CASE-NEW-CORSAIR-AIR-5400-RS-ARGB-MID-TOWER-CASE&amp;#8211;2",
       "permalink": "https://pcbuilders.lk/corsair-case-new-corsair-air-5400-rs-argb-mid-tower-case-2-white/",
       "price_lkr": 70500,
       "is_in_stock": true,
@@ -5384,7 +5384,7 @@
     {
       "id": 47186,
       "name": "Corsair 3500X RS-R ARGB Mid-Tower Case – White",
-      "sku": "CASE-NEW-CORSAIR-3500X-RS-R-ARGB-MID-TOWER-CASE&#8212;2",
+      "sku": "CASE-NEW-CORSAIR-3500X-RS-R-ARGB-MID-TOWER-CASE&amp;#8212;2",
       "permalink": "https://pcbuilders.lk/corsair-case-new-corsair-3500x-rs-r-argb-mid-tower-case-2-white/",
       "price_lkr": 37500,
       "is_in_stock": true,
@@ -5398,7 +5398,7 @@
     },
     {
       "id": 47045,
-      "name": "KOORUI 49″ S4941XO 5K (DQHD) OLED 240Hz CURVED ULTRAWIDE GAMING MONITOR (3 YEARS WARRANTY)",
+      "name": "KOORUI 49&#8243; S4941XO 5K (DQHD) OLED 240Hz CURVED ULTRAWIDE GAMING MONITOR (3 YEARS WARRANTY)",
       "sku": "MON-NEW-KOORUI-49-S4941XO-5K-DQHD-OLED-240HZ-CUR",
       "permalink": "https://pcbuilders.lk/koorui-mon-new-koorui-49-s4941xo-5k-dqhd-oled-240hz-cur/",
       "price_lkr": 399000,
@@ -5409,11 +5409,11 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/X7tl5NFxU5ThbzxuXTH3wkcolMEomKeWQSIPTyzO-500x600.webp",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 47020,
-      "name": "KOORUI 25″ G2511E 320Hz IPS FHD HDR400 GAMING MONITOR (3 YEARS WARRANTY)",
+      "name": "KOORUI 25&#8243; G2511E 320Hz IPS FHD HDR400 GAMING MONITOR (3 YEARS WARRANTY)",
       "sku": "MON-NEW-KOORUI-25-G2511E-320HZ-IPS-FHD-HDR400",
       "permalink": "https://pcbuilders.lk/koorui-mon-new-koorui-25-g2511e-320hz-ips-fhd-hdr400/",
       "price_lkr": 49000,
@@ -5424,12 +5424,12 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-07T123200.431-500x466.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 44324,
       "name": "Portgas D. Ace ACTION FIGURE – (18)",
-      "sku": "ACC-NEW-PORTGAS-D-ACE-ACTION-FIGURE&#8212;18",
+      "sku": "ACC-NEW-PORTGAS-D-ACE-ACTION-FIGURE&amp;#8212;18",
       "permalink": "https://pcbuilders.lk/portgas-af18/",
       "price_lkr": 7000,
       "is_in_stock": true,
@@ -5444,7 +5444,7 @@
     {
       "id": 44312,
       "name": "Kakashi Hatake ACTION FIGURE – (28)",
-      "sku": "ACC-NEW-KAKASHI-HATAKE-ACTION-FIGURE&#8212;28",
+      "sku": "ACC-NEW-KAKASHI-HATAKE-ACTION-FIGURE&amp;#8212;28",
       "permalink": "https://pcbuilders.lk/kakashi-af28/",
       "price_lkr": 6000,
       "is_in_stock": true,
@@ -5459,7 +5459,7 @@
     {
       "id": 44308,
       "name": "Monkey D. Luffy ACTION FIGURE – (25)",
-      "sku": "ACC-NEW-MONKEY-D-LUFFY-ACTION-FIGURE&#8212;25",
+      "sku": "ACC-NEW-MONKEY-D-LUFFY-ACTION-FIGURE&amp;#8212;25",
       "permalink": "https://pcbuilders.lk/monkey-af25/",
       "price_lkr": 6000,
       "is_in_stock": true,
@@ -5474,7 +5474,7 @@
     {
       "id": 44299,
       "name": "Son Goku ACTION FIGURE – (07)",
-      "sku": "ACC-NEW-SON-GOKU-ACTION-FIGURE&#8212;07",
+      "sku": "ACC-NEW-SON-GOKU-ACTION-FIGURE&amp;#8212;07",
       "permalink": "https://pcbuilders.lk/son-af07/",
       "price_lkr": 5000,
       "is_in_stock": true,
@@ -5489,7 +5489,7 @@
     {
       "id": 44290,
       "name": "Portgas D. Ace ACTION FIGURE – (22)",
-      "sku": "ACC-NEW-PORTGAS-D-ACE-ACTION-FIGURE&#8212;22",
+      "sku": "ACC-NEW-PORTGAS-D-ACE-ACTION-FIGURE&amp;#8212;22",
       "permalink": "https://pcbuilders.lk/portgas-af22/",
       "price_lkr": 6500,
       "is_in_stock": true,
@@ -5504,7 +5504,7 @@
     {
       "id": 44286,
       "name": "Son Goku ACTION FIGURE – (05)",
-      "sku": "ACC-NEW-SON-GOKU-ACTION-FIGURE&#8212;05",
+      "sku": "ACC-NEW-SON-GOKU-ACTION-FIGURE&amp;#8212;05",
       "permalink": "https://pcbuilders.lk/son-af05/",
       "price_lkr": 5200,
       "is_in_stock": true,
@@ -5519,7 +5519,7 @@
     {
       "id": 44282,
       "name": "Super Saiyan Rose ACTION FIGURE – (16)",
-      "sku": "ACC-NEW-SUPER-SAIYAN-ROSE-ACTION-FIGURE&#8212;16",
+      "sku": "ACC-NEW-SUPER-SAIYAN-ROSE-ACTION-FIGURE&amp;#8212;16",
       "permalink": "https://pcbuilders.lk/super-af16/",
       "price_lkr": 6800,
       "is_in_stock": true,
@@ -5534,7 +5534,7 @@
     {
       "id": 44277,
       "name": "luffy monkey d. ACTION FIGURE – (15)",
-      "sku": "ACC-NEW-LUFFY-MONKEY-D-ACTION-FIGURE&#8212;15",
+      "sku": "ACC-NEW-LUFFY-MONKEY-D-ACTION-FIGURE&amp;#8212;15",
       "permalink": "https://pcbuilders.lk/luffy-af15/",
       "price_lkr": 4000,
       "is_in_stock": true,
@@ -5549,7 +5549,7 @@
     {
       "id": 44274,
       "name": "Kakashi Hatake ACTION FIGURE – (13)",
-      "sku": "ACC-NEW-KAKASHI-HATAKE-ACTION-FIGURE&#8212;13",
+      "sku": "ACC-NEW-KAKASHI-HATAKE-ACTION-FIGURE&amp;#8212;13",
       "permalink": "https://pcbuilders.lk/kakashi-af13/",
       "price_lkr": 5000,
       "is_in_stock": true,
@@ -5564,7 +5564,7 @@
     {
       "id": 44269,
       "name": "luffy (casual pose) ACTION FIGURE – (17)",
-      "sku": "ACC-NEW-LUFFY-CASUAL-POSE-ACTION-FIGURE&#8212;17",
+      "sku": "ACC-NEW-LUFFY-CASUAL-POSE-ACTION-FIGURE&amp;#8212;17",
       "permalink": "https://pcbuilders.lk/luffy-af17/",
       "price_lkr": 4000,
       "is_in_stock": true,
@@ -5579,7 +5579,7 @@
     {
       "id": 44265,
       "name": "Luffy (ready for action pose) ACTION FIGURE – (12)",
-      "sku": "ACC-NEW-LUFFY-READY-ACTION-POSE-ACTION-FIGURE&#8212;",
+      "sku": "ACC-NEW-LUFFY-READY-ACTION-POSE-ACTION-FIGURE&amp;#8212;",
       "permalink": "https://pcbuilders.lk/luffy-af12/",
       "price_lkr": 6000,
       "is_in_stock": true,
@@ -5594,7 +5594,7 @@
     {
       "id": 44253,
       "name": "luffy (dynamic pose) ACTION FIGURE – (27)",
-      "sku": "ACC-NEW-LUFFY-DYNAMIC-POSE-ACTION-FIGURE&#8212;27",
+      "sku": "ACC-NEW-LUFFY-DYNAMIC-POSE-ACTION-FIGURE&amp;#8212;27",
       "permalink": "https://pcbuilders.lk/luffy-af27/",
       "price_lkr": 6000,
       "is_in_stock": true,
@@ -5609,7 +5609,7 @@
     {
       "id": 44223,
       "name": "naruto (Rasengan) ACTION FIGURE – (21)",
-      "sku": "ACC-NEW-NARUTO-RASENGAN-ACTION-FIGURE&#8212;21",
+      "sku": "ACC-NEW-NARUTO-RASENGAN-ACTION-FIGURE&amp;#8212;21",
       "permalink": "https://pcbuilders.lk/naruto-af21/",
       "price_lkr": 6000,
       "is_in_stock": true,
@@ -5639,7 +5639,7 @@
     {
       "id": 44197,
       "name": "super saiyan gohan ACTION FIGURE – (02)",
-      "sku": "ACC-NEW-SUPER-SAIYAN-GOHAN-ACTION-FIGURE&#8212;02",
+      "sku": "ACC-NEW-SUPER-SAIYAN-GOHAN-ACTION-FIGURE&amp;#8212;02",
       "permalink": "https://pcbuilders.lk/super-af02/",
       "price_lkr": 7000,
       "is_in_stock": true,
@@ -5654,7 +5654,7 @@
     {
       "id": 44194,
       "name": "Portgas d. ace ACTION FIGURE – (24)",
-      "sku": "ACC-NEW-PORTGAS-D-ACE-ACTION-FIGURE&#8212;24",
+      "sku": "ACC-NEW-PORTGAS-D-ACE-ACTION-FIGURE&amp;#8212;24",
       "permalink": "https://pcbuilders.lk/portgas-af24/",
       "price_lkr": 7500,
       "is_in_stock": true,
@@ -5669,7 +5669,7 @@
     {
       "id": 44191,
       "name": "GAARA ACTION FIGURE – (11)",
-      "sku": "ACC-NEW-GAARA-ACTION-FIGURE&#8212;11",
+      "sku": "ACC-NEW-GAARA-ACTION-FIGURE&amp;#8212;11",
       "permalink": "https://pcbuilders.lk/gaara-af11/",
       "price_lkr": 6500,
       "is_in_stock": true,
@@ -5683,7 +5683,7 @@
     },
     {
       "id": 43832,
-      "name": "MSI MAG 325QF E18V 31.5” inch WQHD (2560 x 1440) 180Hz 0.5ms Adaptive-Sync Gaming Monitor (3 YEARS WARRANTY)",
+      "name": "MSI MAG 325QF E18V 31.5&#8221; inch WQHD (2560 x 1440) 180Hz 0.5ms Adaptive-Sync Gaming Monitor (3 YEARS WARRANTY)",
       "sku": "MON-NEW-MSI-MAG-325QF-E18V-31-5-INCH-WQHD-2560-X",
       "permalink": "https://pcbuilders.lk/msi-mag-325qf/",
       "price_lkr": 97000,
@@ -5694,7 +5694,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/8816.jpg",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 43575,
@@ -5759,7 +5759,7 @@
     {
       "id": 43156,
       "name": "Jungle Leopard Pro Flow 240 LIQUID COOLER – BLACK (3 YEARS WARRANTY)",
-      "sku": "COOL-NEW-JUNGLE-LEOPARD-PRO-FLOW-240&#8212;BLACK",
+      "sku": "COOL-NEW-JUNGLE-LEOPARD-PRO-FLOW-240&amp;#8212;BLACK",
       "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-pro-flow-240-black-black/",
       "price_lkr": 38000,
       "is_in_stock": true,
@@ -5774,7 +5774,7 @@
     {
       "id": 43111,
       "name": "Jungle Leopard Pro Flow 360 LIQUID COOLER – BLACK (3 YEARS WARRANTY)",
-      "sku": "COOL-NEW-JUNGLE-LEOPARD-PRO-FLOW-360&#8212;BLACK",
+      "sku": "COOL-NEW-JUNGLE-LEOPARD-PRO-FLOW-360&amp;#8212;BLACK",
       "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-pro-flow-360-black-black/",
       "price_lkr": 43000,
       "is_in_stock": true,
@@ -5789,7 +5789,7 @@
     {
       "id": 43094,
       "name": "Jungle Leopard Astroshel V2G 240 LIQUID COOLER – BLACK (3 YEARS WARRANTY)",
-      "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROSHEL-V2G-240&#8212;BLACK",
+      "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROSHEL-V2G-240&amp;#8212;BLACK",
       "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-astroshel-v2g-240-black-black/",
       "price_lkr": 29000,
       "is_in_stock": true,
@@ -5804,7 +5804,7 @@
     {
       "id": 43093,
       "name": "Jungle Leopard Astroshel V2G 240 LIQUID COOLER – WHITE (3 YEARS WARRANTY)",
-      "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROSHEL-V2G-240&#8212;WHITE",
+      "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROSHEL-V2G-240&amp;#8212;WHITE",
       "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-astroshel-v2g-240-white-white/",
       "price_lkr": 29900,
       "is_in_stock": true,
@@ -5819,7 +5819,7 @@
     {
       "id": 43083,
       "name": "Jungle Leopard Astroshel V2G 360 LIQUID COOLER – WHITE (3 YEARS WARRANTY)",
-      "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROSHEL-V2G-360&#8212;WHITE",
+      "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROSHEL-V2G-360&amp;#8212;WHITE",
       "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-astroshel-v2g-360-white-white/",
       "price_lkr": 34500,
       "is_in_stock": true,
@@ -5893,7 +5893,7 @@
     },
     {
       "id": 42526,
-      "name": "Asus VivoBook X1504V-NJ192 | Core 5-120U | 8GB DDR4 | 512GB NVMe | 15.6” FHD | DOS | Cool Silver LAPTOP (1 YEAR WARRANTY)",
+      "name": "Asus VivoBook X1504V-NJ192 | Core 5-120U | 8GB DDR4 | 512GB NVMe | 15.6&#8221; FHD | DOS | Cool Silver LAPTOP (1 YEAR WARRANTY)",
       "sku": "LAP-NEW-ASUS-VIVOBOOK-X1504V-NJ192-CORE-5-120U-8",
       "permalink": "https://pcbuilders.lk/asus-vivobook-x1504v-16gb-silver/",
       "price_lkr": 210000,
@@ -5919,12 +5919,12 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/12/JckiS6Ti6TfNcOVstXTV9LHqRQlnqJxxtJl14AV4-500x600.webp",
-      "categories": "Gaming &amp; Desk Setup, GPU Holders &amp; Mounts"
+      "categories": "Gaming &amp;amp; Desk Setup, GPU Holders &amp;amp; Mounts"
     },
     {
       "id": 42281,
       "name": "casing fans – 4 pro white – pwm",
-      "sku": "COOL-NEW-FANS&#8212;4-PRO-WHITE&#8212;PWM",
+      "sku": "COOL-NEW-FANS&amp;#8212;4-PRO-WHITE&amp;#8212;PWM",
       "permalink": "https://pcbuilders.lk/casing-cool-new-fans-4-pro-white-pwm-white/",
       "price_lkr": 1800,
       "is_in_stock": true,
@@ -5939,7 +5939,7 @@
     {
       "id": 42265,
       "name": "ASUS TUF GAMING Z790 – PRO WIFI DDR5 MOTHERBOARD (USED ITEM)",
-      "sku": "MB-USED-ASUS-TUF-GAMING-Z790&#8212;PRO-WIFI-DDR5",
+      "sku": "MB-USED-ASUS-TUF-GAMING-Z790&amp;#8212;PRO-WIFI-DDR5",
       "permalink": "https://pcbuilders.lk/used-asus-mb-used-asus-tuf-gaming-z790-pro-wifi-ddr5/",
       "price_lkr": 95000,
       "is_in_stock": true,
@@ -5953,7 +5953,7 @@
     },
     {
       "id": 42007,
-      "name": "Baseus 10000mAh 27W EnerFill FT11 Magnetic Power Bank for iWatch & Phone (6 MONTHS WARRANTY)",
+      "name": "Baseus 10000mAh 27W EnerFill FT11 Magnetic Power Bank for iWatch &#038; Phone (6 MONTHS WARRANTY)",
       "sku": "GEN-NEW-BASEUS-10000MAH-27W-ENERFILL-FT11-MAGNET",
       "permalink": "https://pcbuilders.lk/baseus-p1008210g123-00/",
       "price_lkr": 15000,
@@ -5979,12 +5979,12 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/12/8822.jpg",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 41453,
       "name": "casing fans – 4 pro black – pwm ( REVERSE )",
-      "sku": "COOL-NEW-FANS&#8212;4-PRO-BLACK&#8212;PWM-REVERSE",
+      "sku": "COOL-NEW-FANS&amp;#8212;4-PRO-BLACK&amp;#8212;PWM-REVERSE",
       "permalink": "https://pcbuilders.lk/casing-cool-new-fans-4-pro-black-pwm-reverse-black/",
       "price_lkr": 1800,
       "is_in_stock": true,
@@ -6028,7 +6028,7 @@
     },
     {
       "id": 40588,
-      "name": "KOORUI G3441XC 34″ 21:9 Curved UHD 240Hz 1ms Gaming Monitor (3 YEARS WARRANTY)",
+      "name": "KOORUI G3441XC 34&#8243; 21:9 Curved UHD 240Hz 1ms Gaming Monitor (3 YEARS WARRANTY)",
       "sku": "MON-NEW-KOORUI-G3441XC-34-21-9-CURVED-UHD-240HZ-",
       "permalink": "https://pcbuilders.lk/koorui-g3441xc/",
       "price_lkr": 99000,
@@ -6039,7 +6039,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/11/image-removebg-preview-2025-11-22T145713.992-500x433.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 40558,
@@ -6234,12 +6234,12 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-30T134544.815.png",
-      "categories": "HDMI Cables, Cables &amp; Adapters"
+      "categories": "HDMI Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 39504,
       "name": "UGREEN 6-in-1 Type-C Hub – CM512 – 45320 (1 YEAR WARRANTY)",
-      "sku": "GEN-NEW-UGREEN-6-IN-1-TYPE-C-HUB-CM512&#8212;45320",
+      "sku": "GEN-NEW-UGREEN-6-IN-1-TYPE-C-HUB-CM512&amp;#8212;45320",
       "permalink": "https://pcbuilders.lk/ugreen-6/",
       "price_lkr": 7500,
       "is_in_stock": true,
@@ -6249,7 +6249,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-30T132534.857.png",
-      "categories": "USB Hubs, Networking &amp; Connectivity"
+      "categories": "USB Hubs, Networking &amp;amp; Connectivity"
     },
     {
       "id": 39501,
@@ -6264,7 +6264,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-30T125407.774.png",
-      "categories": "Other Cables, Cables &amp; Adapters"
+      "categories": "Other Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 39497,
@@ -6279,7 +6279,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-30T124502.602.png",
-      "categories": "USB Cables, Cables &amp; Adapters"
+      "categories": "USB Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 39492,
@@ -6294,7 +6294,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-30T121101.632.png",
-      "categories": "Power Cables, Cables &amp; Adapters"
+      "categories": "Power Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 39488,
@@ -6358,7 +6358,7 @@
     },
     {
       "id": 39176,
-      "name": "MSI MAG 255XF 24.5′ Inch FHD 300Hz Rapid IPS 0.5ms AMD FreeSync Premium Gaming Monitor (3 YEARS WARRANTY)",
+      "name": "MSI MAG 255XF 24.5&#8242; Inch FHD 300Hz Rapid IPS 0.5ms AMD FreeSync Premium Gaming Monitor (3 YEARS WARRANTY)",
       "sku": "MON-NEW-MSI-MAG-255XF-24-5-INCH-FHD-300HZ-RAPID-",
       "permalink": "https://pcbuilders.lk/msi-mon-new-msi-mag-255xf-24-5-inch-fhd-300hz-rapid/",
       "price_lkr": 60500,
@@ -6369,7 +6369,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-24T160359.270.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 38311,
@@ -6419,7 +6419,7 @@
     {
       "id": 38247,
       "name": "MSI MAG A650BN – 650 WATT 80 Plus Bronze Certified Power Supply (5 YEARS WARRANTY)",
-      "sku": "PSU-NEW-MSI-MAG-A650BN&#8212;650-WATT-CERTIFIED",
+      "sku": "PSU-NEW-MSI-MAG-A650BN&amp;#8212;650-WATT-CERTIFIED",
       "permalink": "https://pcbuilders.lk/msi-psu-new-msi-mag-a650bn-650-watt-certified/",
       "price_lkr": 25000,
       "is_in_stock": true,
@@ -6509,7 +6509,7 @@
     {
       "id": 35654,
       "name": "INTEL CORE I5 – 8400 PROCESSOR (USED ITEM)",
-      "sku": "CPU-USED-INTEL-CORE-I5&#8212;8400",
+      "sku": "CPU-USED-INTEL-CORE-I5&amp;#8212;8400",
       "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-core-i5-8400/",
       "price_lkr": 20500,
       "is_in_stock": true,
@@ -6564,12 +6564,12 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-52.png",
-      "categories": "Converters, Networking &amp; Connectivity"
+      "categories": "Converters, Networking &amp;amp; Connectivity"
     },
     {
       "id": 35521,
       "name": "UGREEN Type-C To USB 3.0 Adapter – 50283 (1 YEAR WARRANTY)",
-      "sku": "GEN-NEW-UGREEN-TYPE-C-TO-USB-3-0-ADAPTER&#8212;50283",
+      "sku": "GEN-NEW-UGREEN-TYPE-C-TO-USB-3-0-ADAPTER&amp;#8212;50283",
       "permalink": "https://pcbuilders.lk/ugreen-gen-new-ugreen-type-c-to-usb-3-0-adapter-50283/",
       "price_lkr": 2200,
       "is_in_stock": true,
@@ -6579,7 +6579,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-39-1.png",
-      "categories": "Converters, Networking &amp; Connectivity"
+      "categories": "Converters, Networking &amp;amp; Connectivity"
     },
     {
       "id": 35509,
@@ -6594,7 +6594,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-36.png",
-      "categories": "Converters, Networking &amp; Connectivity"
+      "categories": "Converters, Networking &amp;amp; Connectivity"
     },
     {
       "id": 35506,
@@ -6614,7 +6614,7 @@
     {
       "id": 35502,
       "name": "UGREEN USB Full HD 2K 30FPS Webcam – 25442 (18 MONTHS WARRANTY)",
-      "sku": "GEN-NEW-UGREEN-USB-FULL-HD-2K-30FPS-WEBCAM&#8212;254",
+      "sku": "GEN-NEW-UGREEN-USB-FULL-HD-2K-30FPS-WEBCAM&amp;#8212;254",
       "permalink": "https://pcbuilders.lk/ugreen-gen-new-ugreen-usb-full-hd-2k-30fps-webcam-254/",
       "price_lkr": 13200,
       "is_in_stock": true,
@@ -6644,7 +6644,7 @@
     {
       "id": 35450,
       "name": "UGREEN 5 in 1 Type C HUB – 15596 (18 MONTHS WARRANTY)",
-      "sku": "GEN-NEW-UGREEN-5-IN-1-TYPE-C-HUB&#8212;15596",
+      "sku": "GEN-NEW-UGREEN-5-IN-1-TYPE-C-HUB&amp;#8212;15596",
       "permalink": "https://pcbuilders.lk/ugreen-gen-new-ugreen-5-in-1-type-c-hub-15596/",
       "price_lkr": 6750,
       "is_in_stock": true,
@@ -6654,7 +6654,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-2025-10-25T145514.868.png",
-      "categories": "USB Hubs, Networking &amp; Connectivity"
+      "categories": "USB Hubs, Networking &amp;amp; Connectivity"
     },
     {
       "id": 35399,
@@ -6763,7 +6763,7 @@
     },
     {
       "id": 34670,
-      "name": "FANTECH STUDIO WHG03 7.1 BLUETOOTH & WIRELESS GAMING HEADSET (6 MONTHS WARRANTY)",
+      "name": "FANTECH STUDIO WHG03 7.1 BLUETOOTH &#038; WIRELESS GAMING HEADSET (6 MONTHS WARRANTY)",
       "sku": "HS-NEW-FANTECH-STUDIO-WHG03-7-1-BLUETOOTH-WIREL",
       "permalink": "https://pcbuilders.lk/fantech-studio-whg03/",
       "price_lkr": 12500,
@@ -6789,7 +6789,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-2025-08-06T115113.462.png",
-      "categories": "Cleaning Items, Gaming &amp; Desk Setup"
+      "categories": "Cleaning Items, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 34516,
@@ -6819,7 +6819,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-2025-08-01T113352.181.png",
-      "categories": "Desk Lamps, Gaming &amp; Desk Setup"
+      "categories": "Desk Lamps, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 34314,
@@ -6834,7 +6834,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/07/image-removebg-preview-2025-07-31T135445.782.png",
-      "categories": "HDMI Cables, Cables &amp; Adapters"
+      "categories": "HDMI Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 34046,
@@ -7119,7 +7119,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-2026-03-07T122522.135.png",
-      "categories": "Other Cables, Cables &amp; Adapters"
+      "categories": "Other Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 30673,
@@ -7154,7 +7154,7 @@
     {
       "id": 29973,
       "name": "Corsair 3500X RS-R ARGB Mid-Tower Case – Black",
-      "sku": "CASE-NEW-CORSAIR-3500X-RS-R-ARGB-MID-TOWER-CASE&#8211;",
+      "sku": "CASE-NEW-CORSAIR-3500X-RS-R-ARGB-MID-TOWER-CASE&amp;#8211;",
       "permalink": "https://pcbuilders.lk/corsair-case-new-corsair-3500x-rs-r-argb-mid-tower-case-black/",
       "price_lkr": 36500,
       "is_in_stock": true,
@@ -7169,7 +7169,7 @@
     {
       "id": 29088,
       "name": "INTEL CORE I5 – 8500 PROCESSOR (USED ITEM)",
-      "sku": "CPU-USED-INTEL-CORE-I5&#8212;8500",
+      "sku": "CPU-USED-INTEL-CORE-I5&amp;#8212;8500",
       "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-core-i5-8500/",
       "price_lkr": 21000,
       "is_in_stock": true,
@@ -7274,7 +7274,7 @@
     {
       "id": 27930,
       "name": "C MOS BATTERY – COMPUTER",
-      "sku": "ACC-NEW-C-MOS-BATTERY&#8212;COMPUTER",
+      "sku": "ACC-NEW-C-MOS-BATTERY&amp;#8212;COMPUTER",
       "permalink": "https://pcbuilders.lk/c/",
       "price_lkr": 150,
       "is_in_stock": true,
@@ -7329,7 +7329,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/01/image-removebg-preview-10-500x433.png",
-      "categories": "WiFi Adapters, Networking &amp; Connectivity"
+      "categories": "WiFi Adapters, Networking &amp;amp; Connectivity"
     },
     {
       "id": 27671,
@@ -7379,7 +7379,7 @@
     {
       "id": 27063,
       "name": "NZXT C750 – 750 WATT 80 PLUS BRONZE CERTIFIED POWER SUPPLY (5 YEARS WARRANTY)",
-      "sku": "PSU-NEW-NZXT-C750&#8212;750-WATT-CERTIFIED",
+      "sku": "PSU-NEW-NZXT-C750&amp;#8212;750-WATT-CERTIFIED",
       "permalink": "https://pcbuilders.lk/nzxt-psu-new-nzxt-c750-750-watt-certified/",
       "price_lkr": 24000,
       "is_in_stock": true,
@@ -7394,7 +7394,7 @@
     {
       "id": 26883,
       "name": "COMPUTER DVI – I TO HDMI CONVETER",
-      "sku": "GEN-NEW-COMPUTER-DVI&#8212;I-TO-HDMI-CONVETER",
+      "sku": "GEN-NEW-COMPUTER-DVI&amp;#8212;I-TO-HDMI-CONVETER",
       "permalink": "https://pcbuilders.lk/computer/",
       "price_lkr": 750,
       "is_in_stock": true,
@@ -7404,7 +7404,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/12/image-removebg-preview-2024-12-28T160449.802-500x483.png",
-      "categories": "Converters, Networking &amp; Connectivity"
+      "categories": "Converters, Networking &amp;amp; Connectivity"
     },
     {
       "id": 26677,
@@ -7484,7 +7484,7 @@
     {
       "id": 25900,
       "name": "STOCK CPU COOLER – AMD",
-      "sku": "COOL-NEW-STOCK&#8212;AMD",
+      "sku": "COOL-NEW-STOCK&amp;#8212;AMD",
       "permalink": "https://pcbuilders.lk/stock/",
       "price_lkr": 4000,
       "is_in_stock": true,
@@ -7529,7 +7529,7 @@
     {
       "id": 25495,
       "name": "CABLE –  LAPTOP POWER CABLE",
-      "sku": "ACC-NEW-CABLE&#8212;LAPTOP-POWER-CABLE",
+      "sku": "ACC-NEW-CABLE&amp;#8212;LAPTOP-POWER-CABLE",
       "permalink": "https://pcbuilders.lk/cable/",
       "price_lkr": 500,
       "is_in_stock": true,
@@ -7539,7 +7539,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/11/POWER1.png",
-      "categories": "Power Cables, Cables &amp; Adapters"
+      "categories": "Power Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 25454,
@@ -7584,7 +7584,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-19T171055.697.png",
-      "categories": "Printers &amp; Supplies, Toners &amp; Inks"
+      "categories": "Printers &amp;amp; Supplies, Toners &amp;amp; Inks"
     },
     {
       "id": 25093,
@@ -7619,7 +7619,7 @@
     {
       "id": 24694,
       "name": "COMPUTER CABLE – POWER CABLE",
-      "sku": "ACC-NEW-COMPUTER-CABLE&#8212;POWER-CABLE",
+      "sku": "ACC-NEW-COMPUTER-CABLE&amp;#8212;POWER-CABLE",
       "permalink": "https://pcbuilders.lk/computer-4/",
       "price_lkr": 500,
       "is_in_stock": true,
@@ -7629,7 +7629,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebg-preview-2024-03-01T123310.126.png",
-      "categories": "Power Cables, Cables &amp; Adapters"
+      "categories": "Power Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 24385,
@@ -7649,7 +7649,7 @@
     {
       "id": 24279,
       "name": "COMPUTER CABLE – HDMI CABLE",
-      "sku": "ACC-NEW-COMPUTER-CABLE&#8212;HDMI-CABLE",
+      "sku": "ACC-NEW-COMPUTER-CABLE&amp;#8212;HDMI-CABLE",
       "permalink": "https://pcbuilders.lk/computer-3/",
       "price_lkr": 750,
       "is_in_stock": true,
@@ -7659,12 +7659,12 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-02T102220.224.png",
-      "categories": "HDMI Cables, Cables &amp; Adapters"
+      "categories": "HDMI Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 24085,
       "name": "COMPUTER CABLE – VGA CABLE",
-      "sku": "ACC-NEW-COMPUTER-CABLE&#8212;CABLE",
+      "sku": "ACC-NEW-COMPUTER-CABLE&amp;#8212;CABLE",
       "permalink": "https://pcbuilders.lk/vga-cable/",
       "price_lkr": 500,
       "is_in_stock": true,
@@ -7674,7 +7674,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/10/pngwing.com-3-500x550.png",
-      "categories": "Other Cables, Cables &amp; Adapters"
+      "categories": "Other Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 23738,
@@ -7994,7 +7994,7 @@
     {
       "id": 20828,
       "name": "DESKTOP HARD DRIVE – 1TB (USED ITEM)",
-      "sku": "SSD-USED-DESKTOP-HARD-DRIVE&#8212;1TB",
+      "sku": "SSD-USED-DESKTOP-HARD-DRIVE&amp;#8212;1TB",
       "permalink": "https://pcbuilders.lk/used-hard-ssd-used-desktop-hard-drive-1tb-1tb/",
       "price_lkr": 12500,
       "is_in_stock": true,
@@ -8068,7 +8068,7 @@
     },
     {
       "id": 20382,
-      "name": "PROLINK UPS PRO701SFC (2 YEARS BOARD & 1 YEARS BATTERY)",
+      "name": "PROLINK UPS PRO701SFC (2 YEARS BOARD &amp; 1 YEARS BATTERY)",
       "sku": "GEN-NEW-PROLINK-UPS-PRO701SFC-2-YEARS-BOARD-1-YE",
       "permalink": "https://pcbuilders.lk/prolink-gen-new-prolink-ups-pro701sfc-2-years-board-1-ye/",
       "price_lkr": 11000,
@@ -8083,7 +8083,7 @@
     },
     {
       "id": 20380,
-      "name": "PROLINK UPS PRO1201SFC (2 YEARS BOARD & 1 YEARS BATTERY)",
+      "name": "PROLINK UPS PRO1201SFC (2 YEARS BOARD &#038; 1 YEARS BATTERY)",
       "sku": "GEN-NEW-PROLINK-UPS-PRO1201SFC-2-YEARS-BOARD-1-Y",
       "permalink": "https://pcbuilders.lk/prolink-gen-new-prolink-ups-pro1201sfc-2-years-board-1-y/",
       "price_lkr": 23000,
@@ -8234,7 +8234,7 @@
     {
       "id": 19409,
       "name": "COMPUTER CABLE – DISPLAYPORT TO DISPLAYPORT 1.8M CABLE (6 MONTHS WARRANTY)",
-      "sku": "ACC-NEW-COMPUTER-CABLE&#8212;DISPLAYPORT-TO-DISPLAYP",
+      "sku": "ACC-NEW-COMPUTER-CABLE&amp;#8212;DISPLAYPORT-TO-DISPLAYP",
       "permalink": "https://pcbuilders.lk/computer-to-displayport-1/",
       "price_lkr": 900,
       "is_in_stock": true,
@@ -8244,7 +8244,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-28T051048.649.png",
-      "categories": "DisplayPort Cables, Cables &amp; Adapters"
+      "categories": "DisplayPort Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 19257,
@@ -8308,7 +8308,7 @@
     },
     {
       "id": 19001,
-      "name": "ASUS PROART PA278QV 27′ INCH WQHD (2560X1440) IPS 75HZ 100% SRGB CALMAN VERIFIED PROFESSIONAL MONITOR (3 YEARS WARRANTY)",
+      "name": "ASUS PROART PA278QV 27&#8242; INCH WQHD (2560X1440) IPS 75HZ 100% SRGB CALMAN VERIFIED PROFESSIONAL MONITOR (3 YEARS WARRANTY)",
       "sku": "MON-NEW-ASUS-PROART-PA278QV-27-INCH-WQHD-2560X14",
       "permalink": "https://pcbuilders.lk/asus-mon-new-asus-proart-pa278qv-27-inch-wqhd-2560x14/",
       "price_lkr": 124000,
@@ -8319,7 +8319,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-2023-07-28T004237.110.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 18959,
@@ -8473,7 +8473,7 @@
     },
     {
       "id": 20644,
-      "name": "THERMALTAKE CERES 300 TG ARGB MID-TOWER BLACK GAMING (02 ARGB 140MM FANS & 01 EXHAUST FAN)",
+      "name": "THERMALTAKE CERES 300 TG ARGB MID-TOWER BLACK GAMING (02 ARGB 140MM FANS &amp; 01 EXHAUST FAN)",
       "sku": "CASE-NEW-THERMALTAKE-CERES-300-TG-ARGB-MID-TOWER-",
       "permalink": "https://pcbuilders.lk/thermaltake-case-new-thermaltake-ceres-300-tg-argb-mid-tower-black/",
       "price_lkr": 34000,
@@ -8533,7 +8533,7 @@
     },
     {
       "id": 19815,
-      "name": "LAPTOP / DESKTOP SERVICE & REPAIR",
+      "name": "LAPTOP / DESKTOP SERVICE &#038; REPAIR",
       "sku": "GEN-NEW-LAPTOP-DESKTOP-SERVICE-REPAIR",
       "permalink": "https://pcbuilders.lk/service/",
       "price_lkr": 3500,
@@ -8544,7 +8544,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/09/image-removebg-preview-69-500x434.png",
-      "categories": "Cleaning Items, Gaming &amp; Desk Setup"
+      "categories": "Cleaning Items, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 19683,
@@ -8559,7 +8559,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2026-06-21T161610.409.png",
-      "categories": "Gaming &amp; Desk Setup, GPU Holders &amp; Mounts"
+      "categories": "Gaming &amp;amp; Desk Setup, GPU Holders &amp;amp; Mounts"
     },
     {
       "id": 19531,
@@ -8649,7 +8649,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/image-removebg-preview-34.png",
-      "categories": "Other Cables, Cables &amp; Adapters"
+      "categories": "Other Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 65882,
@@ -8679,7 +8679,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T120546.440.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 65510,
@@ -8814,7 +8814,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/sony-ps5-slim-disc-edition-1tb.png",
-      "categories": "Gaming &amp; Entertainment, Gaming Consoles"
+      "categories": "Gaming &amp;amp; Entertainment, Gaming Consoles"
     },
     {
       "id": 64546,
@@ -8829,7 +8829,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/sony-ps5-disc-edition-825gb.png",
-      "categories": "Gaming &amp; Entertainment, Gaming Consoles"
+      "categories": "Gaming &amp;amp; Entertainment, Gaming Consoles"
     },
     {
       "id": 64535,
@@ -8964,11 +8964,11 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-23T111104.727.png",
-      "categories": "Monitor Arms, Monitors &amp; Display"
+      "categories": "Monitor Arms, Monitors &amp;amp; Display"
     },
     {
       "id": 62432,
-      "name": "DELL LATITUDE 7420 14.0″ INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 7420 14.0&#8243; INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-7420-INTEL-CORE-I5-11TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-7420-14-0-intel-core-i5-11th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 104000,
@@ -8983,7 +8983,7 @@
     },
     {
       "id": 62431,
-      "name": "DELL LATITUDE 7410 14.0″ INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 7410 14.0&#8243; INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-7410-INTEL-CORE-I5-10TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-7410-14-0-intel-core-i5-10th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 91000,
@@ -8998,7 +8998,7 @@
     },
     {
       "id": 62428,
-      "name": "LENOVO THINKPAD T490 14.0″ INTEL CORE I5 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "LENOVO THINKPAD T490 14.0&#8243; INTEL CORE I5 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-LENOVO-THINKPAD-T490-INTEL-CORE-I5-8TH-GEN-16GB-256",
       "permalink": "https://pcbuilders.lk/lenovo-thinkpad-t490-14-0-intel-core-i5-8th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 83000,
@@ -9013,7 +9013,7 @@
     },
     {
       "id": 62427,
-      "name": "LENOVO THINKPAD T490 14.0″ INTEL CORE I7 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "LENOVO THINKPAD T490 14.0&#8243; INTEL CORE I7 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-LENOVO-THINKPAD-T490-INTEL-CORE-I7-8TH-GEN-16GB-256",
       "permalink": "https://pcbuilders.lk/lenovo-thinkpad-t490-14-0-intel-core-i7-8th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 94000,
@@ -9028,7 +9028,7 @@
     },
     {
       "id": 62426,
-      "name": "DELL LATITUDE 5520 15.6″ INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 5520 15.6&#8243; INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-5520-INTEL-CORE-I5-11TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-5520-15-6-intel-core-i5-11th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 114000,
@@ -9043,7 +9043,7 @@
     },
     {
       "id": 62425,
-      "name": "DELL LATITUDE 5420 14.0″ INTEL CORE I7 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 5420 14.0&#8243; INTEL CORE I7 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-5420-INTEL-CORE-I7-11TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-5420-14-0-intel-core-i7-11th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 115000,
@@ -9058,7 +9058,7 @@
     },
     {
       "id": 62423,
-      "name": "DELL LATITUDE 5500 15.6″ INTEL CORE I5 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 5500 15.6&#8243; INTEL CORE I5 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-5500-INTEL-CORE-I5-8TH-GEN-16GB-256GB",
       "permalink": "https://pcbuilders.lk/dell-latitude-5500-15-6-intel-core-i5-8th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 86000,
@@ -9073,7 +9073,7 @@
     },
     {
       "id": 62422,
-      "name": "LENOVO THINKPAD T14S 14.0″ INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "LENOVO THINKPAD T14S 14.0&#8243; INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-LENOVO-THINKPAD-T14S-INTEL-CORE-I5-10TH-GEN-16GB-25",
       "permalink": "https://pcbuilders.lk/lenovo-thinkpad-t14s-14-0-intel-core-i5-10th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 115000,
@@ -9088,7 +9088,7 @@
     },
     {
       "id": 62421,
-      "name": "LENOVO THINKPAD T14 14.0″ INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "LENOVO THINKPAD T14 14.0&#8243; INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-LENOVO-THINKPAD-T14-INTEL-CORE-I5-11TH-GEN-16GB-256",
       "permalink": "https://pcbuilders.lk/lenovo-thinkpad-t14-14-0-intel-core-i5-11th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 115000,
@@ -9103,7 +9103,7 @@
     },
     {
       "id": 62420,
-      "name": "DELL LATITUDE 7420 14.0″ INTEL CORE I7 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 7420 14.0&#8243; INTEL CORE I7 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-7420-INTEL-CORE-I7-11TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-7420-14-0-intel-core-i7-11th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 124000,
@@ -9118,7 +9118,7 @@
     },
     {
       "id": 62419,
-      "name": "DELL LATITUDE 5500 15.6″ INTEL CORE I7 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 5500 15.6&#8243; INTEL CORE I7 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-5500-INTEL-CORE-I7-8TH-GEN-16GB-256GB",
       "permalink": "https://pcbuilders.lk/dell-latitude-5500-15-6-intel-core-i7-8th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 92000,
@@ -9133,7 +9133,7 @@
     },
     {
       "id": 62418,
-      "name": "DELL LATITUDE 5510 15.6″ INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 5510 15.6&#8243; INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-5510-INTEL-CORE-I5-10TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-5510-15-6-intel-core-i5-10th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 103000,
@@ -9148,7 +9148,7 @@
     },
     {
       "id": 62417,
-      "name": "DELL LATITUDE 5410 14.0″ INTEL CORE I7 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 5410 14.0&#8243; INTEL CORE I7 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-5410-INTEL-CORE-I7-10TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-5410-14-0-intel-core-i7-10th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 104000,
@@ -9163,7 +9163,7 @@
     },
     {
       "id": 62416,
-      "name": "DELL LATITUDE 5410 14.0″ INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 5410 14.0&#8243; INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-5410-INTEL-CORE-I5-10TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-5410-14-0-intel-core-i5-10th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 95000,
@@ -9178,7 +9178,7 @@
     },
     {
       "id": 62415,
-      "name": "DELL LATITUDE 5510 15.6″ INTEL CORE I7 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 5510 15.6&#8243; INTEL CORE I7 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-5510-INTEL-CORE-I7-10TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-5510-15-6-intel-core-i7-10th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 116000,
@@ -9193,7 +9193,7 @@
     },
     {
       "id": 62414,
-      "name": "DELL LATITUDE 5530 15.6″ INTEL CORE I5 12TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 5530 15.6&#8243; INTEL CORE I5 12TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-5530-INTEL-CORE-I5-12TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-5530-15-6-intel-core-i5-12th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 129500,
@@ -9208,7 +9208,7 @@
     },
     {
       "id": 62413,
-      "name": "DELL LATITUDE 5420 14.0″ INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 5420 14.0&#8243; INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-5420-INTEL-CORE-I5-11TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-5420-14-0-intel-core-i5-11th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 101000,
@@ -9223,7 +9223,7 @@
     },
     {
       "id": 62412,
-      "name": "DELL LATITUDE 5430 14.0″ INTEL CORE I5 12TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 5430 14.0&#8243; INTEL CORE I5 12TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-5430-INTEL-CORE-I5-12TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-5430-14-0-intel-core-i5-12th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 126500,
@@ -9238,7 +9238,7 @@
     },
     {
       "id": 62411,
-      "name": "HP ELITEBOOK 840 G7 14.0″ INTEL CORE I7 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "HP ELITEBOOK 840 G7 14.0&#8243; INTEL CORE I7 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-HP-ELITEBOOK-840-G7-INTEL-CORE-I7-10TH-GEN-16GB-256",
       "permalink": "https://pcbuilders.lk/hp-elitebook-840-g7-14-0-intel-core-i7-10th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 117000,
@@ -9253,7 +9253,7 @@
     },
     {
       "id": 62410,
-      "name": "HP PROBOOK 440 G7 14.0″ INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "HP PROBOOK 440 G7 14.0&#8243; INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-HP-PROBOOK-440-G7-INTEL-CORE-I5-10TH-GEN-16GB-256GB",
       "permalink": "https://pcbuilders.lk/hp-probook-440-g7-14-0-intel-core-i5-10th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 105000,
@@ -9268,7 +9268,7 @@
     },
     {
       "id": 62409,
-      "name": "HP ELITEBOOK 840 G8 14.0″ INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "HP ELITEBOOK 840 G8 14.0&#8243; INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-HP-ELITEBOOK-840-G8-INTEL-CORE-I5-11TH-GEN-16GB-256",
       "permalink": "https://pcbuilders.lk/hp-elitebook-840-g8-14-0-intel-core-i5-11th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 116000,
@@ -9283,7 +9283,7 @@
     },
     {
       "id": 62408,
-      "name": "HP ZBOOK FIREFLY 14 G7 14.0″ INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "HP ZBOOK FIREFLY 14 G7 14.0&#8243; INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-HP-ZBOOK-FIREFLY-14-G7-INTEL-CORE-I5-10TH-GEN-16GB-",
       "permalink": "https://pcbuilders.lk/hp-zbook-firefly-14-g7-14-0-intel-core-i5-10th-gen-16gb-ram-256gb-nvme-ssd/",
       "price_lkr": 112000,
@@ -9298,7 +9298,7 @@
     },
     {
       "id": 62407,
-      "name": "HP ELITEBOOK 850 G7 15.6″ INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "HP ELITEBOOK 850 G7 15.6&#8243; INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-HP-ELITEBOOK-850-G7-INTEL-CORE-I5-10TH-GEN-16GB-256",
       "permalink": "https://pcbuilders.lk/hp-elitebook-850-g7-15-6-intel-core-i5-10th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 126500,
@@ -9313,7 +9313,7 @@
     },
     {
       "id": 62406,
-      "name": "HP PROBOOK 450 G8 15.6″ INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "HP PROBOOK 450 G8 15.6&#8243; INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-HP-PROBOOK-450-G8-INTEL-CORE-I5-11TH-GEN-16GB-256GB",
       "permalink": "https://pcbuilders.lk/hp-probook-450-g8-15-6-intel-core-i5-11th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 125000,
@@ -9328,7 +9328,7 @@
     },
     {
       "id": 62405,
-      "name": "HP PROBOOK 650 G9 15.6″ INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "HP PROBOOK 650 G9 15.6&#8243; INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-HP-PROBOOK-650-G9-INTEL-CORE-I5-11TH-GEN-16GB-256GB",
       "permalink": "https://pcbuilders.lk/hp-probook-650-g9-15-6-intel-core-i5-11th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 138000,
@@ -9343,7 +9343,7 @@
     },
     {
       "id": 62404,
-      "name": "DELL LATITUDE 7430 14.0″ INTEL CORE I7 12TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 7430 14.0&#8243; INTEL CORE I7 12TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-7430-INTEL-CORE-I7-12TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-7430-14-0-intel-core-i7-12th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 128000,
@@ -10003,7 +10003,7 @@
     },
     {
       "id": 61167,
-      "name": "MEETION Director A2 Ergonomic Dual-Mode Wireless Keyboard & Mouse Combo (1 YEAR WARRANTY)",
+      "name": "MEETION Director A2 Ergonomic Dual-Mode Wireless Keyboard &amp; Mouse Combo (1 YEAR WARRANTY)",
       "sku": "COM-NEW-MEETION-DIRECTOR-A2-ERGO-DUAL-MODE-COMBO",
       "permalink": "https://pcbuilders.lk/meetion-director-a2-ergonomic-dual-mode-wireless-keyboard-mouse-combo-1-year/",
       "price_lkr": 9000,
@@ -10348,7 +10348,7 @@
     },
     {
       "id": 61105,
-      "name": "SEAGATE IRONWOLF 2TB NAS 3.5″ INTERNAL HARD DISK (3 YEARS WARRANTY)",
+      "name": "SEAGATE IRONWOLF 2TB NAS 3.5&#8243; INTERNAL HARD DISK (3 YEARS WARRANTY)",
       "sku": "HDD-NEW-SEAGATE-IRONWOLF-2TB-NAS-3.5-SATA",
       "permalink": "https://pcbuilders.lk/seagate-ironwolf-2tb-nas-3-5-internal-hard-disk-3-years-warranty/",
       "price_lkr": 49500,
@@ -10363,7 +10363,7 @@
     },
     {
       "id": 61103,
-      "name": "T-CREATE EXPERT DDR5 96GB (48×2) 6000MT/s DESKTOP RAM (10 YEARS WARRANTY)",
+      "name": "T-CREATE EXPERT DDR5 96GB (48&#215;2) 6000MT/s DESKTOP RAM (10 YEARS WARRANTY)",
       "sku": "RAM-NEW-T-CREATE-EXPERT-DDR5-96GB-48X2-6000MT-S",
       "permalink": "https://pcbuilders.lk/t-create-expert-ddr5-96gb-48x2-6000mt-s-desktop-ram-10-years-warranty/",
       "price_lkr": 440000,
@@ -10378,7 +10378,7 @@
     },
     {
       "id": 61102,
-      "name": "T-CREATE EXPERT DDR5 64GB (32×2) 6000MT/s DESKTOP RAM (10 YEARS WARRANTY)",
+      "name": "T-CREATE EXPERT DDR5 64GB (32&#215;2) 6000MT/s DESKTOP RAM (10 YEARS WARRANTY)",
       "sku": "RAM-NEW-T-CREATE-EXPERT-DDR5-64GB-32X2-6000MT-S",
       "permalink": "https://pcbuilders.lk/t-create-expert-ddr5-64gb-32x2-6000mt-s-desktop-ram-10-years-warranty/",
       "price_lkr": 295000,
@@ -10393,7 +10393,7 @@
     },
     {
       "id": 61098,
-      "name": "KOORUI E2712K 27″ FHD VA 144Hz Gaming Monitor (3 YEARS WARRANTY)",
+      "name": "KOORUI E2712K 27&#8243; FHD VA 144Hz Gaming Monitor (3 YEARS WARRANTY)",
       "sku": "MON-NEW-KOORUI-E2712K-27-FHD-VA-144HZ",
       "permalink": "https://pcbuilders.lk/koorui-mon-new-koorui-e2712k-27-fhd-va-144hz/",
       "price_lkr": 38600,
@@ -10404,7 +10404,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/koorui-e2712k-27-inch-fhd-va-144hz-gaming-monitor-2-500x625.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 61030,
@@ -10554,7 +10554,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-22T115355.462-500x478.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 55800,
@@ -10694,7 +10694,7 @@
     {
       "id": 55608,
       "name": "Corsair FRAME 4000D RS ARGB Airflow Mid Tower ATX Black Premium Case With Display Black",
-      "sku": "CASE-NEW-CORSAIR-FRAME-4000D-RS-ARGB-AIRFLOW-MID&#8211;2",
+      "sku": "CASE-NEW-CORSAIR-FRAME-4000D-RS-ARGB-AIRFLOW-MID&amp;#8211;2",
       "permalink": "https://pcbuilders.lk/corsair-case-new-corsair-frame-4000d-rs-argb-airflow-mid-2-black/",
       "price_lkr": 124500,
       "is_in_stock": true,
@@ -10709,7 +10709,7 @@
     {
       "id": 55602,
       "name": "Corsair 3200D RS ARGB Mid-Tower Case – White",
-      "sku": "CASE-NEW-CORSAIR-3200D-RS-ARGB-MID-TOWER-CASE&#8212;W",
+      "sku": "CASE-NEW-CORSAIR-3200D-RS-ARGB-MID-TOWER-CASE&amp;#8212;W",
       "permalink": "https://pcbuilders.lk/corsair-case-new-corsair-3200d-rs-argb-mid-tower-case-w-white/",
       "price_lkr": 33500,
       "is_in_stock": true,
@@ -10724,7 +10724,7 @@
     {
       "id": 55597,
       "name": "Corsair 3200D RS ARGB Mid-Tower Case – Black",
-      "sku": "CASE-NEW-CORSAIR-3200D-RS-ARGB-MID-TOWER-CASE&#8212;B",
+      "sku": "CASE-NEW-CORSAIR-3200D-RS-ARGB-MID-TOWER-CASE&amp;#8212;B",
       "permalink": "https://pcbuilders.lk/corsair-case-new-corsair-3200d-rs-argb-mid-tower-case-b-black/",
       "price_lkr": 33500,
       "is_in_stock": true,
@@ -10783,7 +10783,7 @@
     },
     {
       "id": 55574,
-      "name": "T-CREATE EXPERT DDR5 48GB (24×2) 6000MT/s DESKTOP RAM (10 YEARS WARRANTY)",
+      "name": "T-CREATE EXPERT DDR5 48GB (24&#215;2) 6000MT/s DESKTOP RAM (10 YEARS WARRANTY)",
       "sku": "RAM-NEW-T-CREATE-EXPERT-DDR5-48GB-24X2-6000MT-S-",
       "permalink": "https://pcbuilders.lk/t-ram-new-t-create-expert-ddr5-48gb-24x2-6000mt-s-48gb/",
       "price_lkr": 250000,
@@ -10914,7 +10914,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-4-500x402.png",
-      "categories": "Other Cables, Cables &amp; Adapters"
+      "categories": "Other Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 55144,
@@ -10929,7 +10929,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2.png",
-      "categories": "USB Hubs, Networking &amp; Connectivity"
+      "categories": "USB Hubs, Networking &amp;amp; Connectivity"
     },
     {
       "id": 55114,
@@ -10959,7 +10959,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-08T123627.432.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 55098,
@@ -10974,7 +10974,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-08T123156.779.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 55091,
@@ -10989,7 +10989,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-08T122652.162.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 55088,
@@ -11004,7 +11004,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-08T115244.939.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 55081,
@@ -11443,7 +11443,7 @@
     },
     {
       "id": 54211,
-      "name": "Lenovo Legion Pro 5 15IRX10 83LYDOH ALK Intel I9 14900HX | RTX 5070, 8GB GDDR6 | 16GB DDR5 5600MHz | 512GB M.2 NVMe SSD | 15.1″ Inch OLED WQXGA 165Hz 100% SRGB OLED Display | Windows 11 Home",
+      "name": "Lenovo Legion Pro 5 15IRX10 83LYDOH ALK Intel I9 14900HX | RTX 5070, 8GB GDDR6 | 16GB DDR5 5600MHz | 512GB M.2 NVMe SSD | 15.1&#8243; Inch OLED WQXGA 165Hz 100% SRGB OLED Display | Windows 11 Home",
       "sku": "LAP-NEW-LENOVO-LEGION-PRO-5-15IRX10-83LYDOH-ALK-",
       "permalink": "https://pcbuilders.lk/lenovo-legion-pro-5-8gb/",
       "price_lkr": 669000,
@@ -11514,7 +11514,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-25T130341.488.png",
-      "categories": "Mini PCs &amp; All-in-One"
+      "categories": "Mini PCs &amp;amp; All-in-One"
     },
     {
       "id": 53813,
@@ -11529,7 +11529,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-25T124658.245.png",
-      "categories": "Mini PCs &amp; All-in-One"
+      "categories": "Mini PCs &amp;amp; All-in-One"
     },
     {
       "id": 53650,
@@ -11744,7 +11744,7 @@
     {
       "id": 53104,
       "name": "Rae SlideDrawer – Under Desk Drawer",
-      "sku": "GEN-NEW-RAE-SLIDEDRAWER&#8212;UNDER-DESK-DRAWER",
+      "sku": "GEN-NEW-RAE-SLIDEDRAWER&amp;#8212;UNDER-DESK-DRAWER",
       "permalink": "https://pcbuilders.lk/rae/",
       "price_lkr": 8500,
       "is_in_stock": true,
@@ -11754,7 +11754,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/image-removebg-preview-2.png",
-      "categories": "Gaming &amp; Desk Setup, Computer Desks"
+      "categories": "Gaming &amp;amp; Desk Setup, Computer Desks"
     },
     {
       "id": 53096,
@@ -11769,7 +11769,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/image-removebg-preview-1-500x408.png",
-      "categories": "Gaming &amp; Desk Setup, Computer Desks"
+      "categories": "Gaming &amp;amp; Desk Setup, Computer Desks"
     },
     {
       "id": 52353,
@@ -11799,7 +11799,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/chr32-meetion-official.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 50921,
@@ -11834,7 +11834,7 @@
     {
       "id": 50908,
       "name": "Dell 15 DC15250 Essential – i5 -1334U | 512GB M.2 | 8GB RAM LAPTOP (2 YEARS WARRANTY)",
-      "sku": "LAP-NEW-DELL-15-DC15250-ESSENTIAL-I5&#8211;1334U-512G",
+      "sku": "LAP-NEW-DELL-15-DC15250-ESSENTIAL-I5&amp;#8211;1334U-512G",
       "permalink": "https://pcbuilders.lk/dell-ux3405ca-ql328ws-1-1-512gb/",
       "price_lkr": 229000,
       "is_in_stock": true,
@@ -11848,7 +11848,7 @@
     },
     {
       "id": 50903,
-      "name": "Dell 15 DC15250 13th Gen Intel Core i7, 16GB RAM, 512GB SSD, 15.6″ FHD Display (Carbon Black) LAPTOP (2 YEARS WARRANTY)",
+      "name": "Dell 15 DC15250 13th Gen Intel Core i7, 16GB RAM, 512GB SSD, 15.6&#8243; FHD Display (Carbon Black) LAPTOP (2 YEARS WARRANTY)",
       "sku": "LAP-NEW-DELL-15-DC15250-13TH-GEN-INTEL-CORE-I7-1",
       "permalink": "https://pcbuilders.lk/dell-ux3405ca-ql328ws-1-16gb-black/",
       "price_lkr": 300000,
@@ -11938,7 +11938,7 @@
     },
     {
       "id": 50536,
-      "name": "LENOVO THINKPAD T480 14.0″ INTEL CORE I5 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "LENOVO THINKPAD T480 14.0&#8243; INTEL CORE I5 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "GEN-USED-LENOVO-THINKPAD-T480-I5-8TH-8GB-256GB-14",
       "permalink": "https://pcbuilders.lk/used-lenovo-gen-used-lenovo-thinkpad-t480-i5-8th-8gb-256gb-14-8gb/",
       "price_lkr": 82000,
@@ -12009,7 +12009,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/IMG20260425125735.jpg-removebg-preview.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 50317,
@@ -12024,11 +12024,11 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/chr04-meetion-official-500x625.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 49721,
-      "name": "Corsair Vengeance RGB LPX 16GB (16×1) DDR5 5600MHz C40 Memory (10 Years Warranty)",
+      "name": "Corsair Vengeance RGB LPX 16GB (16&#215;1) DDR5 5600MHz C40 Memory (10 Years Warranty)",
       "sku": "RAM-NEW-CORSAIR-VENGEANCE-RGB-LPX-16GB-16X1-DDR5",
       "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-rgb-lpx-16gb-16x1-ddr5-16gb/",
       "price_lkr": 95500,
@@ -12144,7 +12144,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-08T133836.647-500x481.png",
-      "categories": "Computer Desks, Gaming &amp; Desk Setup"
+      "categories": "Computer Desks, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 48964,
@@ -12159,7 +12159,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-08T133300.282.png",
-      "categories": "Computer Desks, Gaming &amp; Desk Setup"
+      "categories": "Computer Desks, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 48872,
@@ -12193,7 +12193,7 @@
     },
     {
       "id": 48434,
-      "name": "MSI Pro MP245PG E14 23.8″ Inch 144Hz 1ms FHD Ultra Slim Frameless Monitor With Adjustatble Stand (3 YEARS WARRANTY)",
+      "name": "MSI Pro MP245PG E14 23.8&#8243; Inch 144Hz 1ms FHD Ultra Slim Frameless Monitor With Adjustatble Stand (3 YEARS WARRANTY)",
       "sku": "MON-NEW-MSI-PRO-MP245PG-E14-23-8-INCH-144HZ-1MS-",
       "permalink": "https://pcbuilders.lk/msi-pro-mp245pg-2/",
       "price_lkr": 53000,
@@ -12204,7 +12204,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-28T155353.802.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 48415,
@@ -12219,11 +12219,11 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-28T142759.755.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 48379,
-      "name": "MSI MAG 274QRFW X32 27″ Inch WQHD (2560 X 1440) 320HZ IPS AMD FreeSync White Gaming Monitor (3 Years Warranty)",
+      "name": "MSI MAG 274QRFW X32 27&#8243; Inch WQHD (2560 X 1440) 320HZ IPS AMD FreeSync White Gaming Monitor (3 Years Warranty)",
       "sku": "MON-NEW-MSI-MAG-274QRFW-X32-27-INCH-WQHD-2560-X-",
       "permalink": "https://pcbuilders.lk/msi-mag-274qrfw-white-2/",
       "price_lkr": 120000,
@@ -12234,7 +12234,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-28T114049.294.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 48237,
@@ -12403,8 +12403,8 @@
     },
     {
       "id": 47868,
-      "name": "NZXT N9 – Intel Z890 Gaming Motherboard with Full Cover & RGB black (3 YEARS WARRNTY)",
-      "sku": "MB-NEW-NZXT-N9&#8212;INTEL-Z890-GAMING-FULL-COVER-R",
+      "name": "NZXT N9 – Intel Z890 Gaming Motherboard with Full Cover &amp; RGB black (3 YEARS WARRNTY)",
+      "sku": "MB-NEW-NZXT-N9&amp;#8212;INTEL-Z890-GAMING-FULL-COVER-R",
       "permalink": "https://pcbuilders.lk/nzxt-mb-new-nzxt-n9-intel-z890-gaming-full-cover-r-black/",
       "price_lkr": 173000,
       "is_in_stock": true,
@@ -12418,8 +12418,8 @@
     },
     {
       "id": 47862,
-      "name": "NZXT N9 – AMD X870E Gaming Motherboard with Full Cover & RGB White ( 3 YEARS WARRANTY)",
-      "sku": "MB-NEW-NZXT-N9&#8212;AMD-X870E-GAMING-FULL-COVER-RG-2",
+      "name": "NZXT N9 – AMD X870E Gaming Motherboard with Full Cover &amp; RGB White ( 3 YEARS WARRANTY)",
+      "sku": "MB-NEW-NZXT-N9&amp;#8212;AMD-X870E-GAMING-FULL-COVER-RG-2",
       "permalink": "https://pcbuilders.lk/nzxt-mb-new-nzxt-n9-amd-x870e-gaming-full-cover-rg-2-white/",
       "price_lkr": 173000,
       "is_in_stock": true,
@@ -12504,7 +12504,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-30.png",
-      "categories": "Desk Lamps, Gaming &amp; Desk Setup"
+      "categories": "Desk Lamps, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 47738,
@@ -12614,7 +12614,7 @@
     {
       "id": 47695,
       "name": "Gamdias Aura GP750 – 750 WATT Efficient Power Supply (2 YEARS WARRANTY)",
-      "sku": "PSU-NEW-GAMDIAS-AURA-GP750&#8212;750-WATT-EFFICIENT",
+      "sku": "PSU-NEW-GAMDIAS-AURA-GP750&amp;#8212;750-WATT-EFFICIENT",
       "permalink": "https://pcbuilders.lk/gamdias-psu-new-gamdias-aura-gp750-750-watt-efficient/",
       "price_lkr": 14000,
       "is_in_stock": true,
@@ -12654,7 +12654,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-12T141206.676.png",
-      "categories": "USB Hubs, Networking &amp; Connectivity"
+      "categories": "USB Hubs, Networking &amp;amp; Connectivity"
     },
     {
       "id": 47416,
@@ -12688,8 +12688,8 @@
     },
     {
       "id": 47325,
-      "name": "NZXT N9 – AMD X870E Gaming Motherboard with Full Cover & RGB black (3 YEARS WARRANTY)",
-      "sku": "MB-NEW-NZXT-N9&#8212;AMD-X870E-GAMING-FULL-COVER-RG",
+      "name": "NZXT N9 – AMD X870E Gaming Motherboard with Full Cover &amp; RGB black (3 YEARS WARRANTY)",
+      "sku": "MB-NEW-NZXT-N9&amp;#8212;AMD-X870E-GAMING-FULL-COVER-RG",
       "permalink": "https://pcbuilders.lk/nzxt-mb-new-nzxt-n9-amd-x870e-gaming-full-cover-rg-black/",
       "price_lkr": 173000,
       "is_in_stock": true,
@@ -12749,7 +12749,7 @@
     {
       "id": 47205,
       "name": "Corsair FRAME 4500X RS-R ARGB Mid-Tower Case – White",
-      "sku": "CASE-NEW-CORSAIR-FRAME-4500X-RS-R-ARGB-MID-TOWER&#8211;2",
+      "sku": "CASE-NEW-CORSAIR-FRAME-4500X-RS-R-ARGB-MID-TOWER&amp;#8211;2",
       "permalink": "https://pcbuilders.lk/corsair-case-new-corsair-frame-4500x-rs-r-argb-mid-tower-2-white/",
       "price_lkr": 60000,
       "is_in_stock": true,
@@ -12794,7 +12794,7 @@
     {
       "id": 47100,
       "name": "Corsair 3500X ARGB Mid-Tower Case – White (2 Years Warranty)",
-      "sku": "CASE-NEW-CORSAIR-3500X-ARGB-MID-TOWER-CASE&#8212;WHIT",
+      "sku": "CASE-NEW-CORSAIR-3500X-ARGB-MID-TOWER-CASE&amp;#8212;WHIT",
       "permalink": "https://pcbuilders.lk/corsair-case-new-corsair-3500x-argb-mid-tower-case-whit-white/",
       "price_lkr": 36500,
       "is_in_stock": true,
@@ -12839,7 +12839,7 @@
     {
       "id": 47071,
       "name": "Thermaltake Toughpower GF A3 850w 80 Plus Gold Fully Modular – Premium Edition (10 years warranty)",
-      "sku": "PSU-NEW-THERMALTAKE-TOUGHPOWER-GF-A3-850W&#8212;PREM",
+      "sku": "PSU-NEW-THERMALTAKE-TOUGHPOWER-GF-A3-850W&amp;#8212;PREM",
       "permalink": "https://pcbuilders.lk/thermaltake-psu-new-thermaltake-toughpower-gf-a3-850w-prem-gold/",
       "price_lkr": 48000,
       "is_in_stock": true,
@@ -12853,7 +12853,7 @@
     },
     {
       "id": 47037,
-      "name": "KOORUI 27″ 27N5C Curved VA 75HZ Monitor (3 YEARS WARRANTY)",
+      "name": "KOORUI 27&#8243; 27N5C Curved VA 75HZ Monitor (3 YEARS WARRANTY)",
       "sku": "MON-NEW-KOORUI-27-27N5C-CURVED-VA-75HZ",
       "permalink": "https://pcbuilders.lk/koorui-27-4/",
       "price_lkr": 39500,
@@ -12864,7 +12864,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-07T112727.392.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 44520,
@@ -12939,7 +12939,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/7098.jpg",
-      "categories": "Gaming &amp; Desk Setup, Desk Accessories"
+      "categories": "Gaming &amp;amp; Desk Setup, Desk Accessories"
     },
     {
       "id": 43185,
@@ -13074,7 +13074,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/12/FfElXzm6f6fjrRci668bT7DLk1eacaNxz6niyipJ-500x600.webp",
-      "categories": "Gaming &amp; Desk Setup, GPU Holders &amp; Mounts"
+      "categories": "Gaming &amp;amp; Desk Setup, GPU Holders &amp;amp; Mounts"
     },
     {
       "id": 42276,
@@ -13109,7 +13109,7 @@
     {
       "id": 42061,
       "name": "CPU COOLER – LC-X120 WHITE (3 MONTHS WARRANTY)",
-      "sku": "COOL-NEW&#8212;LC-X120-WHITE",
+      "sku": "COOL-NEW&amp;#8212;LC-X120-WHITE",
       "permalink": "https://pcbuilders.lk/cpu-cool-new-lc-x120-white-white/",
       "price_lkr": 6500,
       "is_in_stock": true,
@@ -13123,7 +13123,7 @@
     },
     {
       "id": 41833,
-      "name": "MSI MAG 274QPF X30MV 27” inch WQHD (2560 x 1440) Rapid VA with Mini-LED 300Hz 0.5ms Adaptive-Sync Gaming Monitor (3 YEARS WARRANTY)",
+      "name": "MSI MAG 274QPF X30MV 27&#8221; inch WQHD (2560 x 1440) Rapid VA with Mini-LED 300Hz 0.5ms Adaptive-Sync Gaming Monitor (3 YEARS WARRANTY)",
       "sku": "MON-NEW-MSI-MAG-274QPF-X30MV-27-INCH-WQHD-2560-X",
       "permalink": "https://pcbuilders.lk/msi-mag-274qpf-2/",
       "price_lkr": 170500,
@@ -13134,7 +13134,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/12/8828.jpg",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 41691,
@@ -13149,7 +13149,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/12/8732.jpg",
-      "categories": "Monitors &amp; Display, Monitor Arms"
+      "categories": "Monitors &amp;amp; Display, Monitor Arms"
     },
     {
       "id": 41581,
@@ -13213,7 +13213,7 @@
     },
     {
       "id": 41164,
-      "name": "Acer Nitro ED320QR 32″ 1080P VA Curved 165Hz HDR 10 (3 YEARS WARRANTY)",
+      "name": "Acer Nitro ED320QR 32&#8243; 1080P VA Curved 165Hz HDR 10 (3 YEARS WARRANTY)",
       "sku": "MON-NEW-ACER-NITRO-ED320QR-32-1080P-VA-CURVED-16",
       "permalink": "https://pcbuilders.lk/acer-nitro-ed320qr/",
       "price_lkr": 65900,
@@ -13224,7 +13224,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/11/VNpYjyePjUru01UJ9dHL1X401yerf16iv2E4W1wq-500x600.webp",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 41146,
@@ -13239,7 +13239,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/11/image-removebg-preview-2025-11-26T140025.437-500x432.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 40666,
@@ -13274,7 +13274,7 @@
     {
       "id": 40500,
       "name": "Rae Ergo Flex 4D Ergonomic Chair – BLACK (4 YEARS WARRANTY)",
-      "sku": "GEN-NEW-RAE-ERGO-FLEX-4D-ERGONOMIC-CHAIR&#8212;BLACK",
+      "sku": "GEN-NEW-RAE-ERGO-FLEX-4D-ERGONOMIC-CHAIR&amp;#8212;BLACK",
       "permalink": "https://pcbuilders.lk/rae-gen-new-rae-ergo-flex-4d-ergonomic-chair-black-black/",
       "price_lkr": 95000,
       "is_in_stock": true,
@@ -13284,7 +13284,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/11/image-removebg-preview-2025-11-21T134858.429.png",
-      "categories": "Gaming Chairs, Gaming &amp; Desk Setup"
+      "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 40288,
@@ -13319,7 +13319,7 @@
     {
       "id": 40161,
       "name": "Arctic Liquid Freezer III PRO 360 A-RGB white Cooler (6 YEARS WARRANTY)",
-      "sku": "COOL-NEW-ARCTIC-LIQUID-FREEZER-III-PRO-360-A-RGB&#8211;2",
+      "sku": "COOL-NEW-ARCTIC-LIQUID-FREEZER-III-PRO-360-A-RGB&amp;#8211;2",
       "permalink": "https://pcbuilders.lk/arctic-cool-new-arctic-liquid-freezer-iii-pro-360-a-rgb-2-white/",
       "price_lkr": 50000,
       "is_in_stock": true,
@@ -13419,7 +13419,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-24T172919.865.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 38812,
@@ -13753,7 +13753,7 @@
     },
     {
       "id": 37059,
-      "name": "KOORUI 32″ S3241XO 4K OLED True Black 240Hz MONITORS (3 YEARS WARRANTY)",
+      "name": "KOORUI 32&#8243; S3241XO 4K OLED True Black 240Hz MONITORS (3 YEARS WARRANTY)",
       "sku": "MON-NEW-KOORUI-32-S3241XO-4K-OLED-TRUE-BLACK-240",
       "permalink": "https://pcbuilders.lk/koorui-32-black/",
       "price_lkr": 320000,
@@ -13764,7 +13764,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-18T134710.600.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 36746,
@@ -13779,7 +13779,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-12T134731.910-500x433.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 36738,
@@ -13794,7 +13794,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-12T115441.923-500x433.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 36479,
@@ -13809,7 +13809,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-92.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 35571,
@@ -13854,12 +13854,12 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-33-1.png",
-      "categories": "DisplayPort Cables, Cables &amp; Adapters"
+      "categories": "DisplayPort Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 35492,
       "name": "UGREEN Type-C to HDMI Adapter – 40273 (1 YEAR WARRANTY)",
-      "sku": "GEN-NEW-UGREEN-TYPE-C-TO-HDMI-ADAPTER&#8212;40273",
+      "sku": "GEN-NEW-UGREEN-TYPE-C-TO-HDMI-ADAPTER&amp;#8212;40273",
       "permalink": "https://pcbuilders.lk/ugreen-hdmi-adapter-40273/",
       "price_lkr": 5300,
       "is_in_stock": true,
@@ -13869,7 +13869,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-32-1.png",
-      "categories": "Converters, Networking &amp; Connectivity"
+      "categories": "Converters, Networking &amp;amp; Connectivity"
     },
     {
       "id": 35490,
@@ -13884,7 +13884,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-29-500x480.png",
-      "categories": "HDMI Cables, Cables &amp; Adapters"
+      "categories": "HDMI Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 35487,
@@ -13899,12 +13899,12 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-31-1.png",
-      "categories": "Converters, Networking &amp; Connectivity"
+      "categories": "Converters, Networking &amp;amp; Connectivity"
     },
     {
       "id": 35481,
       "name": "UGREEN VGA Male To HDMI Female Converter – 50945 (1 YEAR WARRANTY)",
-      "sku": "GEN-NEW-UGREEN-MALE-TO-HDMI-FEMALE-CONVERTER&#8212;5",
+      "sku": "GEN-NEW-UGREEN-MALE-TO-HDMI-FEMALE-CONVERTER&amp;#8212;5",
       "permalink": "https://pcbuilders.lk/ugreen-female-converter-50945/",
       "price_lkr": 4500,
       "is_in_stock": true,
@@ -13914,7 +13914,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-30-1.png",
-      "categories": "Converters, Networking &amp; Connectivity"
+      "categories": "Converters, Networking &amp;amp; Connectivity"
     },
     {
       "id": 35462,
@@ -13929,12 +13929,12 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-28.png",
-      "categories": "Converters, Networking &amp; Connectivity"
+      "categories": "Converters, Networking &amp;amp; Connectivity"
     },
     {
       "id": 35461,
       "name": "UGREEN HDMI to VGA Converter – 90813 (1 YEAR WARRANTY)",
-      "sku": "GEN-NEW-UGREEN-HDMI-TO-CONVERTER&#8212;90813",
+      "sku": "GEN-NEW-UGREEN-HDMI-TO-CONVERTER&amp;#8212;90813",
       "permalink": "https://pcbuilders.lk/ugreen-vga-converter-90813/",
       "price_lkr": 3250,
       "is_in_stock": true,
@@ -13944,7 +13944,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-27.png",
-      "categories": "Converters, Networking &amp; Connectivity"
+      "categories": "Converters, Networking &amp;amp; Connectivity"
     },
     {
       "id": 35457,
@@ -13959,7 +13959,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-26.png",
-      "categories": "HDMI Cables, Cables &amp; Adapters"
+      "categories": "HDMI Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 35453,
@@ -13974,7 +13974,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-25.png",
-      "categories": "HDMI Cables, Cables &amp; Adapters"
+      "categories": "HDMI Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 35443,
@@ -13989,7 +13989,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-22.png",
-      "categories": "Converters, Networking &amp; Connectivity"
+      "categories": "Converters, Networking &amp;amp; Connectivity"
     },
     {
       "id": 35438,
@@ -14004,11 +14004,11 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-21.png",
-      "categories": "Converters, Networking &amp; Connectivity"
+      "categories": "Converters, Networking &amp;amp; Connectivity"
     },
     {
       "id": 35384,
-      "name": "LENOVO THINKPAD X1 CARBON 14.0″ INTEL CORE I5 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "LENOVO THINKPAD X1 CARBON 14.0&#8243; INTEL CORE I5 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "GEN-USED-THINKPAD-X1-CARBON-I5-8-GEN-LAPTOP",
       "permalink": "https://pcbuilders.lk/used-thinkpad-gen-used-thinkpad-x1-carbon-i5-8-gen-laptop/",
       "price_lkr": 99000,
@@ -14129,7 +14129,7 @@
     {
       "id": 34893,
       "name": "RACING SIMULATOR COCKPIT WITH MONITOR MOUNT – LRS09-BS03",
-      "sku": "GEN-NEW-RACING-SIMULATOR-COCKPIT-MOUNT&#8212;LRS09-B",
+      "sku": "GEN-NEW-RACING-SIMULATOR-COCKPIT-MOUNT&amp;#8212;LRS09-B",
       "permalink": "https://pcbuilders.lk/racing-simulator-cockpit-with-monitor-mount-lrs09-bs03/",
       "price_lkr": 224000,
       "is_in_stock": true,
@@ -14199,12 +14199,12 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-2025-08-01T120946.549.png",
-      "categories": "Desk Lamps, Gaming &amp; Desk Setup"
+      "categories": "Desk Lamps, Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 34285,
       "name": "BASEUS 30W 2U+C COMPACT FAST CHARGER UK BLACK – ADAPTER (6 MONTHS WARRANTY)",
-      "sku": "GEN-NEW-BASEUS-30W-2U-C-COMPACT-FAST-CHARGER-UK&#8211;3",
+      "sku": "GEN-NEW-BASEUS-30W-2U-C-COMPACT-FAST-CHARGER-UK&amp;#8211;3",
       "permalink": "https://pcbuilders.lk/baseus-30w-black/",
       "price_lkr": 5250,
       "is_in_stock": true,
@@ -14369,7 +14369,7 @@
     {
       "id": 34027,
       "name": "BASEUS 30W 2U+C COMPACT FAST CHARGER UK BLACK (6 MONTHS WARRANTY)",
-      "sku": "GEN-NEW-BASEUS-30W-2U-C-COMPACT-FAST-CHARGER-UK&#8211;2",
+      "sku": "GEN-NEW-BASEUS-30W-2U-C-COMPACT-FAST-CHARGER-UK&amp;#8211;2",
       "permalink": "https://pcbuilders.lk/baseus-30w-black-2/",
       "price_lkr": 5250,
       "is_in_stock": true,
@@ -14469,7 +14469,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/07/image-removebg-preview-2025-07-24T172555.502.png",
-      "categories": "Gaming &amp; Desk Setup"
+      "categories": "Gaming &amp;amp; Desk Setup"
     },
     {
       "id": 33944,
@@ -14484,7 +14484,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/07/image-removebg-preview-2025-07-24T170557.317.png",
-      "categories": "Other Cables, Cables &amp; Adapters"
+      "categories": "Other Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 33866,
@@ -14544,7 +14544,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/07/image-removebg-preview-2025-07-19T154730.356.png",
-      "categories": "Monitor Arms, Monitors &amp; Display"
+      "categories": "Monitor Arms, Monitors &amp;amp; Display"
     },
     {
       "id": 33747,
@@ -14774,7 +14774,7 @@
     {
       "id": 31949,
       "name": "ASUS VIVOBOOK 14 FLIP TP3407SA-QL062WS – 14TH GEN INTEL CORE ULTRA 7 PROCESSOR, 16GB RAM, 1TB SSD, TOUCH SCREEN, OLED, MATTE GRAY (2 YEARS WARRANTY)",
-      "sku": "LAP-NEW-ASUS-VIVOBOOK-14-FLIP-TP3407SA-QL062WS&#8211;",
+      "sku": "LAP-NEW-ASUS-VIVOBOOK-14-FLIP-TP3407SA-QL062WS&amp;#8211;",
       "permalink": "https://pcbuilders.lk/asus-tp3407sa-ql062ws-16gb-gray/",
       "price_lkr": 515000,
       "is_in_stock": true,
@@ -14924,7 +14924,7 @@
     {
       "id": 29845,
       "name": "ARCTIC P14 PWM PST A-RGB – CASE FAN – 140 MM – WHITE (6 YEARS WARRANTY)",
-      "sku": "COOL-NEW-ARCTIC-P14-PWM-PST-A-RGB&#8212;CASE-FAN&#8212;14",
+      "sku": "COOL-NEW-ARCTIC-P14-PWM-PST-A-RGB&amp;#8212;CASE-FAN&amp;#8212;14",
       "permalink": "https://pcbuilders.lk/arctic-cool-new-arctic-p14-pwm-pst-a-rgb-case-fan-14-white/",
       "price_lkr": 7500,
       "is_in_stock": true,
@@ -14969,7 +14969,7 @@
     {
       "id": 28773,
       "name": "ASUS VIVOBOOK 15 X1504VAP-NJ3850W – 14TH GEN CORE 3, 8GB RAM, 512GB SSD, COOL SILVER (2 YEARS WARRANTY)",
-      "sku": "LAP-NEW-ASUS-VIVOBOOK-15-X1504VAP-NJ3850W&#8212;14TH",
+      "sku": "LAP-NEW-ASUS-VIVOBOOK-15-X1504VAP-NJ3850W&amp;#8212;14TH",
       "permalink": "https://pcbuilders.lk/asus-vivobook-15-8gb-silver-3/",
       "price_lkr": 220000,
       "is_in_stock": true,
@@ -15009,7 +15009,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/02/1.1.png",
-      "categories": "Networking &amp; Connectivity, Converters"
+      "categories": "Networking &amp;amp; Connectivity, Converters"
     },
     {
       "id": 28041,
@@ -15088,7 +15088,7 @@
     },
     {
       "id": 26030,
-      "name": "DELL LATITUDE 7470 14.0″ INTEL CORE I5 6TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 7470 14.0&#8243; INTEL CORE I5 6TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "GEN-USED-DELL-LATITUDE-E7470-LAPTOP",
       "permalink": "https://pcbuilders.lk/used-dell-gen-used-dell-latitude-e7470-laptop/",
       "price_lkr": 69000,
@@ -15134,7 +15134,7 @@
     {
       "id": 24872,
       "name": "JUSTICE LEAGUE BATMAN – BRUCE WAYNE 18CM JOINT MOVABLE ANIME MODEL ACTION FIGURE",
-      "sku": "ACC-NEW-JUSTICE-LEAGUE-BATMAN&#8212;BRUCE-WAYNE-18CM",
+      "sku": "ACC-NEW-JUSTICE-LEAGUE-BATMAN&amp;#8212;BRUCE-WAYNE-18CM",
       "permalink": "https://pcbuilders.lk/justice-bruce-wayne-18cm/",
       "price_lkr": 13500,
       "is_in_stock": true,
@@ -15163,7 +15163,7 @@
     },
     {
       "id": 24236,
-      "name": "CORSAIR VENGEANCE RGB 32GB (2X16) DDR5 DRAM 6000MHZ AMD EXPO & INTEL XMP MEMORY (10 YEARS WARRANTY)",
+      "name": "CORSAIR VENGEANCE RGB 32GB (2X16) DDR5 DRAM 6000MHZ AMD EXPO &amp; INTEL XMP MEMORY (10 YEARS WARRANTY)",
       "sku": "RAM-NEW-CORSAIR-VENGEANCE-RGB-32GB-2X16-DDR5-DRA-4",
       "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-rgb-32gb-2x16-ddr5-dra-4-32gb/",
       "price_lkr": 187000,
@@ -15324,7 +15324,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/07/image-removebg-preview-38-1-500x492.png",
-      "categories": "Gaming &amp; Desk Setup, GPU Holders &amp; Mounts"
+      "categories": "Gaming &amp;amp; Desk Setup, GPU Holders &amp;amp; Mounts"
     },
     {
       "id": 22584,
@@ -15339,7 +15339,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/07/image-removebg-preview-8-1.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 22392,
@@ -15464,7 +15464,7 @@
     {
       "id": 21741,
       "name": "ADDLINK S20 SSD 3D NAND 2.5 INCH – 1TB (3 YEARS WARRANTY)",
-      "sku": "SSD-NEW-ADDLINK-S20-3D-NAND-2-5-INCH&#8212;1TB",
+      "sku": "SSD-NEW-ADDLINK-S20-3D-NAND-2-5-INCH&amp;#8212;1TB",
       "permalink": "https://pcbuilders.lk/addlink-ssd-new-addlink-s20-3d-nand-2-5-inch-1tb-1tb/",
       "price_lkr": 50000,
       "is_in_stock": true,
@@ -15524,7 +15524,7 @@
     {
       "id": 21296,
       "name": "ADDLINK S20 SSD 3D NAND 2.5 INCH – 512GB (3 YEARS WARRANTY)",
-      "sku": "SSD-NEW-ADDLINK-S20-3D-NAND-2-5-INCH&#8212;512GB",
+      "sku": "SSD-NEW-ADDLINK-S20-3D-NAND-2-5-INCH&amp;#8212;512GB",
       "permalink": "https://pcbuilders.lk/addlink-ssd-new-addlink-s20-3d-nand-2-5-inch-512gb-512gb/",
       "price_lkr": 34500,
       "is_in_stock": true,
@@ -15538,7 +15538,7 @@
     },
     {
       "id": 20827,
-      "name": "DELL LATITUDE 5400 14.0″ INTEL CORE I5 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "name": "DELL LATITUDE 5400 14.0&#8243; INTEL CORE I5 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "GEN-USED-DELL-LATITUDE-5400-I5-8TH-GEN-LAPTOP",
       "permalink": "https://pcbuilders.lk/used-dell-gen-used-dell-latitude-5400-i5-8th-gen-laptop/",
       "price_lkr": 83000,
@@ -15584,7 +15584,7 @@
     {
       "id": 20279,
       "name": "NZXT F140 RGB CORE – 140MM HUB-MOUNTED RGB FAN – TWIN PACK (BLACK) W/RGB CONTROLLER (1 YEAR WARRANTY)",
-      "sku": "COOL-NEW-NZXT-F140-RGB-CORE&#8212;140MM-HUB-MOUNTED-R",
+      "sku": "COOL-NEW-NZXT-F140-RGB-CORE&amp;#8212;140MM-HUB-MOUNTED-R",
       "permalink": "https://pcbuilders.lk/nzxt-cool-new-nzxt-f140-rgb-core-140mm-hub-mounted-r-black/",
       "price_lkr": 19500,
       "is_in_stock": true,
@@ -15614,7 +15614,7 @@
     {
       "id": 20275,
       "name": "NZXT F120 RGB CORE – 120MM HUB-MOUNTED RGB FAN – TRIPLE PACK (WHITE) W/RGB CONTROLLER (1 YEAR WARRANTY)",
-      "sku": "COOL-NEW-NZXT-F120-RGB-CORE&#8212;120MM-HUB-MOUNTED-R-7",
+      "sku": "COOL-NEW-NZXT-F120-RGB-CORE&amp;#8212;120MM-HUB-MOUNTED-R-7",
       "permalink": "https://pcbuilders.lk/nzxt-cool-new-nzxt-f120-rgb-core-120mm-hub-mounted-r-7-white/",
       "price_lkr": 28500,
       "is_in_stock": true,
@@ -15688,7 +15688,7 @@
     },
     {
       "id": 20148,
-      "name": "MSI OPTIX MAG401QR 40″ UWQHD (3440 X 1440) IPS 155HZ MONITOR (3 YEARS WARRANTY)",
+      "name": "MSI OPTIX MAG401QR 40&#8243; UWQHD (3440 X 1440) IPS 155HZ MONITOR (3 YEARS WARRANTY)",
       "sku": "MON-NEW-MSI-OPTIX-MAG401QR-40-UWQHD-3440-X-1440-",
       "permalink": "https://pcbuilders.lk/msi-optix-mag401qr/",
       "price_lkr": 193500,
@@ -15699,11 +15699,11 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/04/image-removebg-preview-29-1.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 20097,
-      "name": "MSI MODERN MD272QXP 27” INCH 100HZ WQHD (2560 X 1440) MONITOR (3 YEARS WARRANTY)",
+      "name": "MSI MODERN MD272QXP 27&#8221; INCH 100HZ WQHD (2560 X 1440) MONITOR (3 YEARS WARRANTY)",
       "sku": "MON-NEW-MSI-MODERN-MD272QXP-27-INCH-100HZ-WQHD-2",
       "permalink": "https://pcbuilders.lk/msi-modern-md272qxp/",
       "price_lkr": 96500,
@@ -15714,11 +15714,11 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/04/image-removebg-preview-27.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 20096,
-      "name": "MSI MODERN MD272QP 27” INCH 75HZ WQHD (2560 X 1440) IPS LEVEL BUSINESS &AMP; PRODUCTIVITY MONITOR (3 YEARS WARRANTY)",
+      "name": "MSI MODERN MD272QP 27&#8221; INCH 75HZ WQHD (2560 X 1440) IPS LEVEL BUSINESS &amp;AMP; PRODUCTIVITY MONITOR (3 YEARS WARRANTY)",
       "sku": "MON-NEW-MSI-MODERN-MD272QP-27-INCH-75HZ-WQHD-256",
       "permalink": "https://pcbuilders.lk/msi-modern-md272qp/",
       "price_lkr": 101000,
@@ -15729,7 +15729,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-30T020719.233.png",
-      "categories": "Monitors, Monitors &amp; Display"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 20076,
@@ -15749,7 +15749,7 @@
     {
       "id": 20038,
       "name": "MSI MAG A550BN – 550 WATT 80 PLUS BRONZE CERTIFIED POWER SUPPLY (5 YEARS WARRANTY)",
-      "sku": "PSU-NEW-MSI-MAG-A550BN&#8212;550-WATT-CERTIFIED",
+      "sku": "PSU-NEW-MSI-MAG-A550BN&amp;#8212;550-WATT-CERTIFIED",
       "permalink": "https://pcbuilders.lk/msi-psu-new-msi-mag-a550bn-550-watt-certified/",
       "price_lkr": 22000,
       "is_in_stock": true,
@@ -15944,7 +15944,7 @@
     {
       "id": 19231,
       "name": "CORSAIR RM1000X – 1000 WATT 80 PLUS GOLD CERTIFIED FULLY MODULAR POWER SUPPLY (3 YEARS WARRANTY)",
-      "sku": "PSU-NEW-CORSAIR-RM1000X&#8212;1000-WATT-CERTIFIED",
+      "sku": "PSU-NEW-CORSAIR-RM1000X&amp;#8212;1000-WATT-CERTIFIED",
       "permalink": "https://pcbuilders.lk/corsair-psu-new-corsair-rm1000x-1000-watt-certified-gold/",
       "price_lkr": 74000,
       "is_in_stock": true,
@@ -16109,7 +16109,7 @@
     {
       "id": 18841,
       "name": "ADDLINK S20 SSD 3D NAND 2.5 INCH – 256GB (3 YEARS WARRANTY)",
-      "sku": "SSD-NEW-ADDLINK-S20-3D-NAND-2-5-INCH&#8212;256GB",
+      "sku": "SSD-NEW-ADDLINK-S20-3D-NAND-2-5-INCH&amp;#8212;256GB",
       "permalink": "https://pcbuilders.lk/addlink-ssd-new-addlink-s20-3d-nand-2-5-inch-256gb-256gb/",
       "price_lkr": 24500,
       "is_in_stock": true,
@@ -16214,7 +16214,7 @@
     {
       "id": 20685,
       "name": "THERMALTAKE CTE T500 TG ARGB FULL-TOWER SNOW WHITE GAMING (03 ARGB FANS)",
-      "sku": "CASE-NEW-THERMALTAKE-CTE-T500-TG-ARGB-FULL-TOWER&#8211;2",
+      "sku": "CASE-NEW-THERMALTAKE-CTE-T500-TG-ARGB-FULL-TOWER&amp;#8211;2",
       "permalink": "https://pcbuilders.lk/thermaltake-case-new-thermaltake-cte-t500-tg-argb-full-tower-2-white/",
       "price_lkr": 58000,
       "is_in_stock": true,
@@ -16289,7 +16289,7 @@
     {
       "id": 20680,
       "name": "THERMALTAKE CTE C750 TG ARGB FULL-TOWER SNOW WHITE GAMING (03 ARGB FANS)",
-      "sku": "CASE-NEW-THERMALTAKE-CTE-C750-TG-ARGB-FULL-TOWER&#8211;2",
+      "sku": "CASE-NEW-THERMALTAKE-CTE-C750-TG-ARGB-FULL-TOWER&amp;#8211;2",
       "permalink": "https://pcbuilders.lk/thermaltake-case-new-thermaltake-cte-c750-tg-argb-full-tower-2-white/",
       "price_lkr": 62000,
       "is_in_stock": true,
@@ -16304,7 +16304,7 @@
     {
       "id": 20648,
       "name": "THERMALTAKE CERES 500 TG ARGB MID-TOWER SNOW WHITE GAMING (04 ARGB FANS)",
-      "sku": "CASE-NEW-THERMALTAKE-CERES-500-TG-ARGB-MID-TOWER&#8211;2",
+      "sku": "CASE-NEW-THERMALTAKE-CERES-500-TG-ARGB-MID-TOWER&amp;#8211;2",
       "permalink": "https://pcbuilders.lk/thermaltake-case-new-thermaltake-ceres-500-tg-argb-mid-tower-2-white/",
       "price_lkr": 57000,
       "is_in_stock": true,
@@ -16333,8 +16333,8 @@
     },
     {
       "id": 20646,
-      "name": "THERMALTAKE CERES 300 TG ARGB MID-TOWER WHITE GAMING (02 ARGB 140MM FANS & 01 EXHAUST FAN)",
-      "sku": "CASE-NEW-THERMALTAKE-CERES-300-TG-ARGB-MID-TOWER&#8211;3",
+      "name": "THERMALTAKE CERES 300 TG ARGB MID-TOWER WHITE GAMING (02 ARGB 140MM FANS &amp; 01 EXHAUST FAN)",
+      "sku": "CASE-NEW-THERMALTAKE-CERES-300-TG-ARGB-MID-TOWER&amp;#8211;3",
       "permalink": "https://pcbuilders.lk/thermaltake-case-new-thermaltake-ceres-300-tg-argb-mid-tower-3-white/",
       "price_lkr": 36000,
       "is_in_stock": true,
@@ -16348,8 +16348,8 @@
     },
     {
       "id": 20645,
-      "name": "THERMALTAKE CERES 300 TG ARGB MID-TOWER MATCHA GREEN GAMING (02 ARGB 140MM FANS & 01 EXHAUST FAN)",
-      "sku": "CASE-NEW-THERMALTAKE-CERES-300-TG-ARGB-MID-TOWER&#8211;2",
+      "name": "THERMALTAKE CERES 300 TG ARGB MID-TOWER MATCHA GREEN GAMING (02 ARGB 140MM FANS &amp; 01 EXHAUST FAN)",
+      "sku": "CASE-NEW-THERMALTAKE-CERES-300-TG-ARGB-MID-TOWER&amp;#8211;2",
       "permalink": "https://pcbuilders.lk/thermaltake-case-new-thermaltake-ceres-300-tg-argb-mid-tower-2-green/",
       "price_lkr": 36000,
       "is_in_stock": true,
@@ -16479,7 +16479,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-16T135612.803.png",
-      "categories": "Power Cables, Cables &amp; Adapters"
+      "categories": "Power Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 20083,
@@ -16509,7 +16509,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-10T155358.782.png",
-      "categories": "Other Cables, Cables &amp; Adapters"
+      "categories": "Other Cables, Cables &amp;amp; Adapters"
     },
     {
       "id": 19120,
