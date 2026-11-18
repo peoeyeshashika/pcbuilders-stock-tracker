@@ -19,7 +19,7 @@
   {
     "date": "2026-11-18",
     "compared_to": "2026-11-18 open",
-    "generated_at": "2026-11-18T10:50:59.026Z",
+    "generated_at": "2026-11-18T10:56:19.152Z",
     "decreases": [
       {
         "id": 18890,
@@ -46,6 +46,19 @@
         "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-5700x-2/",
         "categories": "PC Components, Processors, AMD",
         "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4856__1_-removebg-preview.png"
+      },
+      {
+        "id": 19871,
+        "name": "MSI A520M-A PRO MOTHERBOARD (3 YEARS WARRANTY)",
+        "sku": "MB-NEW-MSI-A520M-A-PRO",
+        "from": 4,
+        "to": 3,
+        "delta": -1,
+        "price_lkr": 27000,
+        "value": 27000,
+        "permalink": "https://pcbuilders.lk/msi-mb-new-msi-a520m-a-pro/",
+        "categories": "PC Components, Motherboards",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-37-1.png"
       },
       {
         "id": 20380,
@@ -167,14 +180,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 11,
+      "decrease_items": 12,
       "increase_items": 0,
-      "decrease_units": 14,
+      "decrease_units": 15,
       "increase_units": 0,
-      "decrease_value": 212300,
+      "decrease_value": 239300,
       "increase_value": 0,
-      "net_units": -14,
-      "net_value": -212300
+      "net_units": -15,
+      "net_value": -239300
     }
   }
 ]

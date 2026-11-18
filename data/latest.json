@@ -1,14 +1,14 @@
 {
   "date": "2026-11-18",
-  "scraped_at": "2026-11-18T10:50:58.995Z",
+  "scraped_at": "2026-11-18T10:56:19.125Z",
   "counts": {
-    "products": 1100,
-    "qty_known": 533,
+    "products": 1097,
+    "qty_known": 530,
     "qty_hidden": 42,
     "backorder": 525,
     "out_of_stock": 0,
-    "sum_qty": 1203,
-    "total_value": 34884190
+    "sum_qty": 1199,
+    "total_value": 34663190
   },
   "products": [
     {
@@ -295,21 +295,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-40.png",
       "categories": "Desktop RAM, Memory, PC Components"
-    },
-    {
-      "id": 65709,
-      "name": "INTEL CORE I5 12490F PROCESSOR (used item)",
-      "sku": "CPU-NEW-INTEL-CORE-I5-12490F-PROCESSOR",
-      "permalink": "https://pcbuilders.lk/used-intel-cpu-new-intel-core-i5-12490f-processor/",
-      "price_lkr": 35000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-13T170952.908.png",
-      "categories": "INTEL"
     },
     {
       "id": 65560,
@@ -7527,21 +7512,6 @@
       "categories": "Power Cables, Cables &amp;amp; Adapters"
     },
     {
-      "id": 25454,
-      "name": "MSI GEFORCE RTX 3060 GAMING X 12GB GDDR6 GRAPHICS CARD (USED ITEM)",
-      "sku": "GPU-USED-MSI-RTX-3060-GAMING-X-12GB",
-      "permalink": "https://pcbuilders.lk/used-msi-rtx-3060-12gb-3/",
-      "price_lkr": 125000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3003__1_-removebg-preview-1.png",
-      "categories": "PC Components, Graphics Cards"
-    },
-    {
       "id": 25133,
       "name": "ASUS PRIME B760M-K DDR4 MOTHERBOARD (3 YEARS WARRANTY)",
       "sku": "MB-NEW-ASUS-PRIME-B760M-K-DDR4",
@@ -8133,8 +8103,8 @@
       "permalink": "https://pcbuilders.lk/msi-mb-new-msi-a520m-a-pro/",
       "price_lkr": 27000,
       "is_in_stock": true,
-      "stock_text": "4 in stock",
-      "qty": 4,
+      "stock_text": "3 in stock",
+      "qty": 3,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -8409,21 +8379,6 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3048-removebg-preview.png",
-      "categories": "AMD, PC Components, Processors"
-    },
-    {
-      "id": 18880,
-      "name": "AMD RYZEN 5 5500 PROCESSOR (TRAY) (3 YEARS WARRANTY)",
-      "sku": "CPU-NEW-AMD-RYZEN-5-5500",
-      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5500/",
-      "price_lkr": 34000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-30T024051.733.png",
       "categories": "AMD, PC Components, Processors"
     },
     {
@@ -16515,5 +16470,5 @@
   "baseline": false,
   "previous_date": "2026-11-18 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }
