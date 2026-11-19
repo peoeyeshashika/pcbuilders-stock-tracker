@@ -398,5 +398,21 @@
     "permalink": "https://pcbuilders.lk/corsair-psu-new-corsair-cx650-certified/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2025/02/image-removebg-preview-18.png",
     "categories": "PC Components, Power Supplies"
+  },
+  {
+    "at": "2026-11-19T12:56:12.532Z",
+    "date": "2026-11-19",
+    "direction": "decrease",
+    "id": 31283,
+    "name": "FANTECH NC22 NOTEBOOK COOLING PAD (6 MONTHS WARRANTY)",
+    "sku": "GEN-NEW-FANTECH-NC22-NOTEBOOK-COOLING-PAD",
+    "from": 5,
+    "to": 4,
+    "delta": -1,
+    "price_lkr": 8000,
+    "value": 8000,
+    "permalink": "https://pcbuilders.lk/fantech-nc22/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-25.png",
+    "categories": "Laptop Coolers, Laptops"
   }
 ]

@@ -207,7 +207,7 @@
   {
     "date": "2026-11-19",
     "compared_to": "2026-11-19 open",
-    "generated_at": "2026-11-19T12:51:14.018Z",
+    "generated_at": "2026-11-19T12:56:12.574Z",
     "decreases": [
       {
         "id": 48600,
@@ -260,6 +260,19 @@
         "permalink": "https://pcbuilders.lk/meetion-kb-new-meetion-mk009-mechanical/",
         "categories": "Keyboards, Gaming Peripherals",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/mk009-meetion-official.png"
+      },
+      {
+        "id": 31283,
+        "name": "FANTECH NC22 NOTEBOOK COOLING PAD (6 MONTHS WARRANTY)",
+        "sku": "GEN-NEW-FANTECH-NC22-NOTEBOOK-COOLING-PAD",
+        "from": 5,
+        "to": 4,
+        "delta": -1,
+        "price_lkr": 8000,
+        "value": 8000,
+        "permalink": "https://pcbuilders.lk/fantech-nc22/",
+        "categories": "Laptop Coolers, Laptops",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-25.png"
       },
       {
         "id": 65277,
@@ -317,14 +330,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 5,
+      "decrease_items": 6,
       "increase_items": 3,
-      "decrease_units": 8,
+      "decrease_units": 9,
       "increase_units": 9,
-      "decrease_value": 454700,
+      "decrease_value": 462700,
       "increase_value": 246000,
-      "net_units": 1,
-      "net_value": -208700
+      "net_units": 0,
+      "net_value": -216700
     }
   }
 ]

@@ -1,14 +1,14 @@
 {
   "date": "2026-11-19",
-  "scraped_at": "2026-11-19T12:51:13.983Z",
+  "scraped_at": "2026-11-19T12:56:12.532Z",
   "counts": {
     "products": 1092,
     "qty_known": 531,
     "qty_hidden": 42,
     "backorder": 519,
     "out_of_stock": 0,
-    "sum_qty": 1220,
-    "total_value": 34754190
+    "sum_qty": 1219,
+    "total_value": 34746190
   },
   "products": [
     {
@@ -7053,8 +7053,8 @@
       "permalink": "https://pcbuilders.lk/fantech-nc22/",
       "price_lkr": 8000,
       "is_in_stock": true,
-      "stock_text": "5 in stock",
-      "qty": 5,
+      "stock_text": "4 in stock",
+      "qty": 4,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16395,5 +16395,5 @@
   "baseline": false,
   "previous_date": "2026-11-19 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }
