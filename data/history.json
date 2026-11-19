@@ -207,7 +207,7 @@
   {
     "date": "2026-11-19",
     "compared_to": "2026-11-19 open",
-    "generated_at": "2026-11-19T07:51:09.569Z",
+    "generated_at": "2026-11-19T07:56:14.918Z",
     "decreases": [
       {
         "id": 54560,
@@ -273,18 +273,45 @@
         "permalink": "https://pcbuilders.lk/microlab-gen-new-microlab-m380bt-bluetooth-multimedia-2-1/",
         "categories": "Speakers and Sound, Gaming Peripherals",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-03T155955.169.png"
+      },
+      {
+        "id": 65277,
+        "name": "UGREEN AC650 High-Gain Dual Band Wireless USB Wi-Fi Adapter – CM496 – 90339 (18 months WARRANTY)",
+        "sku": "ACC-NEW-UGREEN-AC650-HIGH-GAIN-DUAL-BAND-WIRELESS-USB",
+        "from": 3,
+        "to": 2,
+        "delta": -1,
+        "price_lkr": 4700,
+        "value": 4700,
+        "permalink": "https://pcbuilders.lk/ugreen-acc-new-ugreen-ac650-high-gain-dual-band-wireless-usb/",
+        "categories": "WiFi Adapters",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-06T151109.048.png"
       }
     ],
-    "increases": [],
+    "increases": [
+      {
+        "id": 49876,
+        "name": "PWM &#038; ARGB LED CONTROLLER HUB 9 PORTS (6 MONTHS WARRANTY)",
+        "sku": "GEN-NEW-PWM-ARGB-LED-HUB-9-PORTS",
+        "from": 1,
+        "to": 2,
+        "delta": 1,
+        "price_lkr": 3000,
+        "value": 3000,
+        "permalink": "https://pcbuilders.lk/pwm-gen-new-pwm-argb-led-hub-9-ports/",
+        "categories": "ARGB Controllers, PC Components, PC Lighting",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-09T162931.469.png"
+      }
+    ],
     "totals": {
-      "decrease_items": 5,
-      "increase_items": 0,
-      "decrease_units": 6,
-      "increase_units": 0,
-      "decrease_value": 730000,
-      "increase_value": 0,
+      "decrease_items": 6,
+      "increase_items": 1,
+      "decrease_units": 7,
+      "increase_units": 1,
+      "decrease_value": 734700,
+      "increase_value": 3000,
       "net_units": -6,
-      "net_value": -730000
+      "net_value": -731700
     }
   }
 ]
