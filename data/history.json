@@ -207,8 +207,34 @@
   {
     "date": "2026-11-19",
     "compared_to": "2026-11-19 open",
-    "generated_at": "2026-11-19T05:46:26.117Z",
+    "generated_at": "2026-11-19T05:51:40.674Z",
     "decreases": [
+      {
+        "id": 54560,
+        "name": "ASUS TUF Gaming RTX 5070 12GB OC Edition Graphics Card (3 YEARS WARRANTY)",
+        "sku": "GPU-NEW-ASUS-TUF-GAMING-RTX-5070-12GB-OC-EDITION",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 440000,
+        "value": 440000,
+        "permalink": "https://pcbuilders.lk/asus-rtx-5070-12gb-3/",
+        "categories": "Graphics Cards, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/07/image-removebg-preview-2026-07-23T154927.951.png"
+      },
+      {
+        "id": 48600,
+        "name": "Corsair Vengeance LPX 16GB (16&#215;1) DDR5 6000MHz Memory (10 YEARS WARRANTY)",
+        "sku": "RAM-NEW-CORSAIR-VENGEANCE-LPX-16GB-16X1-DDR5-600",
+        "from": 11,
+        "to": 9,
+        "delta": -2,
+        "price_lkr": 94500,
+        "value": 189000,
+        "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-lpx-16gb-16x1-ddr5-600-16gb/",
+        "categories": "Desktop RAM, PC Components, Memory",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-03T110133.899.png"
+      },
       {
         "id": 51647,
         "name": "MEETION CHR14 Professional Racing Gaming Chair Orange (6 MONTHS WARRANTY)",
@@ -221,18 +247,31 @@
         "permalink": "https://pcbuilders.lk/meetion-gen-new-meetion-chr14-professional-gaming-chair/",
         "categories": "Gaming Chairs, Gaming &amp;amp; Desk Setup",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/chr14-meetion-official.png"
+      },
+      {
+        "id": 47186,
+        "name": "Corsair 3500X RS-R ARGB Mid-Tower Case – White",
+        "sku": "CASE-NEW-CORSAIR-3500X-RS-R-ARGB-MID-TOWER-CASE&amp;#8212;2",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 37500,
+        "value": 37500,
+        "permalink": "https://pcbuilders.lk/corsair-case-new-corsair-3500x-rs-r-argb-mid-tower-case-2-white/",
+        "categories": "PC Components, PC Cases",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-08T110411.187.png"
       }
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 1,
+      "decrease_items": 4,
       "increase_items": 0,
-      "decrease_units": 1,
+      "decrease_units": 5,
       "increase_units": 0,
-      "decrease_value": 48500,
+      "decrease_value": 715000,
       "increase_value": 0,
-      "net_units": -1,
-      "net_value": -48500
+      "net_units": -5,
+      "net_value": -715000
     }
   }
 ]

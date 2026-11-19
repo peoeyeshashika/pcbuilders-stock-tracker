@@ -1,14 +1,14 @@
 {
   "date": "2026-11-19",
-  "scraped_at": "2026-11-19T05:46:26.077Z",
+  "scraped_at": "2026-11-19T05:51:40.629Z",
   "counts": {
-    "products": 1093,
-    "qty_known": 531,
+    "products": 1090,
+    "qty_known": 528,
     "qty_hidden": 42,
     "backorder": 520,
     "out_of_stock": 0,
-    "sum_qty": 1209,
-    "total_value": 34852190
+    "sum_qty": 1202,
+    "total_value": 33962190
   },
   "products": [
     {
@@ -3873,8 +3873,8 @@
       "permalink": "https://pcbuilders.lk/asus-rtx-5070-12gb-3/",
       "price_lkr": 440000,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -4953,13 +4953,13 @@
       "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-lpx-16gb-16x1-ddr5-600-16gb/",
       "price_lkr": 94500,
       "is_in_stock": true,
-      "stock_text": "11 in stock",
-      "qty": 11,
+      "stock_text": "9 in stock",
+      "qty": 9,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-03T110133.899.png",
-      "categories": "Desktop RAM, Memory, PC Components"
+      "categories": "Desktop RAM, PC Components, Memory"
     },
     {
       "id": 48573,
@@ -5328,13 +5328,13 @@
       "permalink": "https://pcbuilders.lk/corsair-case-new-corsair-3500x-rs-r-argb-mid-tower-case-2-white/",
       "price_lkr": 37500,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-08T110411.187.png",
-      "categories": "PC Cases, PC Components"
+      "categories": "PC Components, PC Cases"
     },
     {
       "id": 47045,
@@ -6897,21 +6897,6 @@
       "categories": "Liquid Coolers, CPU Cooling, PC Components"
     },
     {
-      "id": 32689,
-      "name": "MSI MAG CORELIQUID ARGB A13 360MM CPU LIQUID COOLER WHITE (3 YEARS WARRANTY)",
-      "sku": "COOL-NEW-MSI-MAG-CORELIQUID-ARGB-A13-360MM-WHITE",
-      "permalink": "https://pcbuilders.lk/msi-cool-new-msi-mag-coreliquid-argb-a13-360mm-white-white/",
-      "price_lkr": 32500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/06/image-removebg-preview-2025-06-15T110744.338.png",
-      "categories": "Liquid Coolers, CPU Cooling, PC Components"
-    },
-    {
       "id": 32615,
       "name": "GAMDIAS MARS E4M CASE WITH POWER SUPPLY",
       "sku": "CASE-NEW-GAMDIAS-MARS-E4M-CASE",
@@ -7272,21 +7257,6 @@
       "categories": "PC Components, Memory, Desktop RAM"
     },
     {
-      "id": 27658,
-      "name": "MSI B850 GAMING PLUS (WI-FI) DDR5 MOTHERBOARD (3 YEARS WARRANTY)",
-      "sku": "MB-NEW-MSI-B850-GAMING-PLUS-WI-FI-DDR5",
-      "permalink": "https://pcbuilders.lk/msi-mb-new-msi-b850-gaming-plus-wi-fi-ddr5/",
-      "price_lkr": 96000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/01/image-removebg-preview-2025-01-24T105736.916.png",
-      "categories": "PC Components, Motherboards"
-    },
-    {
       "id": 27650,
       "name": "AMD RYZEN 7 9800X3D PROCESSOR TRAY (3 YEARS WARRANTY)",
       "sku": "CPU-NEW-AMD-RYZEN-7-9800X3D-PROCESSOR-TRAY",
@@ -7374,21 +7344,6 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/12/image-removebg-preview-66-300x300.png",
-      "categories": "AMD, PC Components, Processors"
-    },
-    {
-      "id": 26484,
-      "name": "AMD RYZEN 7 9700X PROCESSOR( TRAY) (3 YEARS WARRANTY)",
-      "sku": "CPU-NEW-AMD-RYZEN-7-9700X",
-      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-9700x/",
-      "price_lkr": 95000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/11/image-removebg-preview-54.png",
       "categories": "AMD, PC Components, Processors"
     },
     {
@@ -16410,5 +16365,5 @@
   "baseline": false,
   "previous_date": "2026-11-19 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 3
 }
