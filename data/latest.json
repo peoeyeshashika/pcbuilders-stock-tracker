@@ -1,31 +1,16 @@
 {
   "date": "2026-11-19",
-  "scraped_at": "2026-11-19T04:36:24.953Z",
+  "scraped_at": "2026-11-19T04:41:31.347Z",
   "counts": {
-    "products": 1094,
-    "qty_known": 533,
+    "products": 1093,
+    "qty_known": 531,
     "qty_hidden": 42,
-    "backorder": 519,
+    "backorder": 520,
     "out_of_stock": 0,
-    "sum_qty": 1213,
-    "total_value": 34970690
+    "sum_qty": 1210,
+    "total_value": 34900690
   },
   "products": [
-    {
-      "id": 65989,
-      "name": "Leopard Interstellar V4 LCD Digital PC Radiator Fan white (6 MONTHS WARRANTY)",
-      "sku": "Leopard Interstellar V4 LCD Digital PC Radiator Fan white (6 MONTHS WARRANTY)",
-      "permalink": "https://pcbuilders.lk/leopard-leopard-interstellar-v4-lcd-digital-pc-radiator-fan-white-6-months/",
-      "price_lkr": 15000,
-      "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-18T113421.627.png",
-      "categories": "Case Fans, PC Components"
-    },
     {
       "id": 65941,
       "name": "Thermaltake Steel Shadow display case",
@@ -7137,21 +7122,6 @@
       "categories": "INTEL, PC Components, Processors"
     },
     {
-      "id": 28987,
-      "name": "AMD RYZEN 5 5600G PROCESSOR (TRAY) (USED ITEM)",
-      "sku": "CPU-USED-AMD-RYZEN-5-5600G",
-      "permalink": "https://pcbuilders.lk/used-amd-cpu-used-amd-ryzen-5-5600g/",
-      "price_lkr": 40000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3788-removebg-preview.png",
-      "categories": "AMD, PC Components, Processors"
-    },
-    {
       "id": 28749,
       "name": "FANTECH MK915 LAYOUT ALUMINUM FRAME ULTRA-THIN DESIGN KEYBOARD (6 MONTHS WARRANTY)",
       "sku": "KB-NEW-FANTECH-MK915-LAYOUT-ALUMINUM-FRAME-ULTR",
@@ -12010,6 +11980,21 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-04T120908.761.png",
       "categories": "Desktop RAM, Memory, PC Components"
+    },
+    {
+      "id": 49709,
+      "name": "MSI Pro A620AM-B Evo DDR5 Motherboard (3 YEARS WARRANTY)",
+      "sku": "MB-NEW-MSI-PRO-A620AM-B-EVO-DDR5",
+      "permalink": "https://pcbuilders.lk/msi-mb-new-msi-pro-a620am-b-evo-ddr5/",
+      "price_lkr": 37500,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-04T104430.029.png",
+      "categories": "Motherboards, PC Components"
     },
     {
       "id": 49530,
