@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "scraped_at": "2026-11-19T11:11:12.824Z",
+  "scraped_at": "2026-11-19T11:16:12.933Z",
   "counts": {
     "products": 1087,
     "qty_known": 524,
@@ -8598,7 +8598,7 @@
       "permalink": "https://pcbuilders.lk/auto-22/",
       "price_lkr": 14000,
       "is_in_stock": true,
-      "stock_text": "Available on backorder",
+      "stock_text": "",
       "qty": null,
       "qty_known": false,
       "status": "backorder",
