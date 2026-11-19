@@ -286,5 +286,21 @@
     "permalink": "https://pcbuilders.lk/corsair-case-new-corsair-3500x-rs-r-argb-mid-tower-case-2-white/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-08T110411.187.png",
     "categories": "PC Components, PC Cases"
+  },
+  {
+    "at": "2026-11-19T06:01:34.746Z",
+    "date": "2026-11-19",
+    "direction": "decrease",
+    "id": 53198,
+    "name": "Microlab M380BT Bluetooth Multimedia 2.1 Subwoofer Speaker (1 YEARS WARRANTY)",
+    "sku": "GEN-NEW-MICROLAB-M380BT-BLUETOOTH-MULTIMEDIA-2-1",
+    "from": 3,
+    "to": 2,
+    "delta": -1,
+    "price_lkr": 15000,
+    "value": 15000,
+    "permalink": "https://pcbuilders.lk/microlab-gen-new-microlab-m380bt-bluetooth-multimedia-2-1/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-03T155955.169.png",
+    "categories": "Speakers and Sound, Gaming Peripherals"
   }
 ]
