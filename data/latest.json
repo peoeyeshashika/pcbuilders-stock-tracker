@@ -1,14 +1,14 @@
 {
   "date": "2026-11-19",
-  "scraped_at": "2026-11-19T10:11:12.511Z",
+  "scraped_at": "2026-11-19T10:16:10.934Z",
   "counts": {
-    "products": 1088,
-    "qty_known": 525,
+    "products": 1087,
+    "qty_known": 524,
     "qty_hidden": 42,
     "backorder": 521,
     "out_of_stock": 0,
-    "sum_qty": 1195,
-    "total_value": 33214490
+    "sum_qty": 1194,
+    "total_value": 33189990
   },
   "products": [
     {
@@ -7000,21 +7000,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-2026-03-07T122522.135.png",
       "categories": "Other Cables, Cables &amp;amp; Adapters"
-    },
-    {
-      "id": 30673,
-      "name": "ANTEC ATOM G750 750W 80+ GOLD SEMI MODULAR ATX 2.0 POWER SUPPLY (5 YEARS WARRANTY)",
-      "sku": "PSU-NEW-ANTEC-ATOM-G750-750W-80-GOLD-SEMI-MODULA",
-      "permalink": "https://pcbuilders.lk/antec-psu-new-antec-atom-g750-750w-80-gold-semi-modula-gold/",
-      "price_lkr": 24500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-2025-04-01T103232.065.png",
-      "categories": "Power Supplies, PC Components"
     },
     {
       "id": 30221,
