@@ -1,14 +1,14 @@
 {
   "date": "2026-11-19",
-  "scraped_at": "2026-11-19T12:21:13.387Z",
+  "scraped_at": "2026-11-19T12:26:18.733Z",
   "counts": {
-    "products": 1091,
-    "qty_known": 529,
+    "products": 1092,
+    "qty_known": 531,
     "qty_hidden": 42,
-    "backorder": 520,
+    "backorder": 519,
     "out_of_stock": 0,
-    "sum_qty": 1217,
-    "total_value": 34539990
+    "sum_qty": 1220,
+    "total_value": 34754190
   },
   "products": [
     {
@@ -490,6 +490,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T101719.008.png",
       "categories": "Motherboards"
+    },
+    {
+      "id": 65443,
+      "name": "LENOVO P27Q-40 27 Monitor (3 YEARS WARRANTY)",
+      "sku": "MON-NEW-LENOVO-P27Q-40-27-MONITOR",
+      "permalink": "https://pcbuilders.lk/auto-8/",
+      "price_lkr": 103200,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-11T143423.048-500x496.png",
+      "categories": "Monitors"
     },
     {
       "id": 65435,
@@ -5095,6 +5110,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-22T135827.408.png",
       "categories": "Air Coolers, PC Components, CPU Cooling"
+    },
+    {
+      "id": 47907,
+      "name": "Lenovo Legion 27&#8243; 27-10 IPS 1080P 240Hz 99% SRGB – 68C5GAC4MY (3 YEARS WARRANTY)",
+      "sku": "MON-NEW-LENOVO-LEGION-27-27-10-IPS-1080P-240HZ-9",
+      "permalink": "https://pcbuilders.lk/lenovo-mon-new-lenovo-legion-27-27-10-ips-1080p-240hz-9/",
+      "price_lkr": 55500,
+      "is_in_stock": true,
+      "stock_text": "2 in stock",
+      "qty": 2,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-68.png",
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 47842,
@@ -10495,21 +10525,6 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-22T115355.462-500x478.png",
       "categories": "Monitors, Monitors &amp;amp; Display"
-    },
-    {
-      "id": 55800,
-      "name": "ARCTIC P14 Max (White) Fan (6 YEARS WARRANTY)",
-      "sku": "COOL-NEW-ARCTIC-P14-MAX-WHITE-FAN",
-      "permalink": "https://pcbuilders.lk/arctic-cool-new-arctic-p14-max-white-fan-white/",
-      "price_lkr": 5800,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-21T164658.253.png",
-      "categories": "Case Fans, PC Components"
     },
     {
       "id": 55800,
