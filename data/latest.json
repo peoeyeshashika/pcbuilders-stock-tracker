@@ -1,14 +1,14 @@
 {
   "date": "2026-11-19",
-  "scraped_at": "2026-11-19T09:31:06.486Z",
+  "scraped_at": "2026-11-19T09:36:07.301Z",
   "counts": {
-    "products": 1090,
-    "qty_known": 527,
+    "products": 1088,
+    "qty_known": 525,
     "qty_hidden": 42,
     "backorder": 521,
     "out_of_stock": 0,
-    "sum_qty": 1200,
-    "total_value": 33889490
+    "sum_qty": 1196,
+    "total_value": 33222990
   },
   "products": [
     {
@@ -3852,21 +3852,6 @@
       "categories": "PC Cases, PC Components"
     },
     {
-      "id": 54560,
-      "name": "ASUS TUF Gaming RTX 5070 12GB OC Edition Graphics Card (3 YEARS WARRANTY)",
-      "sku": "GPU-NEW-ASUS-TUF-GAMING-RTX-5070-12GB-OC-EDITION",
-      "permalink": "https://pcbuilders.lk/asus-rtx-5070-12gb-3/",
-      "price_lkr": 440000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/07/image-removebg-preview-2026-07-23T154927.951.png",
-      "categories": "Graphics Cards, PC Components"
-    },
-    {
       "id": 54464,
       "name": "GIGABYTE B550M K WIFI6E MOTHERBOARD (3 YEARS WARRANTY)",
       "sku": "MB-NEW-GIGABYTE-B550M-K-WIFI6E",
@@ -4938,8 +4923,8 @@
       "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-lpx-16gb-16x1-ddr5-600-16gb/",
       "price_lkr": 94500,
       "is_in_stock": true,
-      "stock_text": "9 in stock",
-      "qty": 9,
+      "stock_text": "7 in stock",
+      "qty": 7,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -5305,21 +5290,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/8871.jpg",
       "categories": "PC Cases, PC Components"
-    },
-    {
-      "id": 47186,
-      "name": "Corsair 3500X RS-R ARGB Mid-Tower Case – White",
-      "sku": "CASE-NEW-CORSAIR-3500X-RS-R-ARGB-MID-TOWER-CASE&amp;#8212;2",
-      "permalink": "https://pcbuilders.lk/corsair-case-new-corsair-3500x-rs-r-argb-mid-tower-case-2-white/",
-      "price_lkr": 37500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-08T110411.187.png",
-      "categories": "PC Components, PC Cases"
     },
     {
       "id": 47045,
@@ -16365,5 +16335,5 @@
   "baseline": false,
   "previous_date": "2026-11-19 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }

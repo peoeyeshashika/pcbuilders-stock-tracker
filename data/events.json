@@ -334,5 +334,21 @@
     "permalink": "https://pcbuilders.lk/pwm-gen-new-pwm-argb-led-hub-9-ports/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-09T162931.469.png",
     "categories": "ARGB Controllers, PC Components, PC Lighting"
+  },
+  {
+    "at": "2026-11-19T09:36:07.301Z",
+    "date": "2026-11-19",
+    "direction": "decrease",
+    "id": 48600,
+    "name": "Corsair Vengeance LPX 16GB (16&#215;1) DDR5 6000MHz Memory (10 YEARS WARRANTY)",
+    "sku": "RAM-NEW-CORSAIR-VENGEANCE-LPX-16GB-16X1-DDR5-600",
+    "from": 9,
+    "to": 7,
+    "delta": -2,
+    "price_lkr": 94500,
+    "value": 189000,
+    "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-lpx-16gb-16x1-ddr5-600-16gb/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-03T110133.899.png",
+    "categories": "Desktop RAM, PC Components, Memory"
   }
 ]
