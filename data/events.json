@@ -350,5 +350,21 @@
     "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-lpx-16gb-16x1-ddr5-600-16gb/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-03T110133.899.png",
     "categories": "Desktop RAM, PC Components, Memory"
+  },
+  {
+    "at": "2026-11-19T09:51:05.244Z",
+    "date": "2026-11-19",
+    "direction": "decrease",
+    "id": 51651,
+    "name": "MEETION MK009 Hot-Swappable Mechanical Gaming Keyboard (1 YEAR WARRANTY)",
+    "sku": "KB-NEW-MEETION-MK009-MECHANICAL",
+    "from": 10,
+    "to": 9,
+    "delta": -1,
+    "price_lkr": 8500,
+    "value": 8500,
+    "permalink": "https://pcbuilders.lk/meetion-kb-new-meetion-mk009-mechanical/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/mk009-meetion-official.png",
+    "categories": "Keyboards, Gaming Peripherals"
   }
 ]

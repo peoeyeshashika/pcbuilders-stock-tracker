@@ -1,14 +1,14 @@
 {
   "date": "2026-11-19",
-  "scraped_at": "2026-11-19T09:46:06.246Z",
+  "scraped_at": "2026-11-19T09:51:05.244Z",
   "counts": {
     "products": 1088,
     "qty_known": 525,
     "qty_hidden": 42,
     "backorder": 521,
     "out_of_stock": 0,
-    "sum_qty": 1196,
-    "total_value": 33222990
+    "sum_qty": 1195,
+    "total_value": 33214490
   },
   "products": [
     {
@@ -4368,8 +4368,8 @@
       "permalink": "https://pcbuilders.lk/meetion-kb-new-meetion-mk009-mechanical/",
       "price_lkr": 8500,
       "is_in_stock": true,
-      "stock_text": "10 in stock",
-      "qty": 10,
+      "stock_text": "9 in stock",
+      "qty": 9,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16335,5 +16335,5 @@
   "baseline": false,
   "previous_date": "2026-11-19 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }

@@ -207,7 +207,7 @@
   {
     "date": "2026-11-19",
     "compared_to": "2026-11-19 open",
-    "generated_at": "2026-11-19T09:46:06.282Z",
+    "generated_at": "2026-11-19T09:51:05.279Z",
     "decreases": [
       {
         "id": 48600,
@@ -249,6 +249,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-03T155955.169.png"
       },
       {
+        "id": 51651,
+        "name": "MEETION MK009 Hot-Swappable Mechanical Gaming Keyboard (1 YEAR WARRANTY)",
+        "sku": "KB-NEW-MEETION-MK009-MECHANICAL",
+        "from": 10,
+        "to": 9,
+        "delta": -1,
+        "price_lkr": 8500,
+        "value": 8500,
+        "permalink": "https://pcbuilders.lk/meetion-kb-new-meetion-mk009-mechanical/",
+        "categories": "Keyboards, Gaming Peripherals",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/mk009-meetion-official.png"
+      },
+      {
         "id": 65277,
         "name": "UGREEN AC650 High-Gain Dual Band Wireless USB Wi-Fi Adapter – CM496 – 90339 (18 months WARRANTY)",
         "sku": "ACC-NEW-UGREEN-AC650-HIGH-GAIN-DUAL-BAND-WIRELESS-USB",
@@ -278,14 +291,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 4,
+      "decrease_items": 5,
       "increase_items": 1,
-      "decrease_units": 7,
+      "decrease_units": 8,
       "increase_units": 1,
-      "decrease_value": 446200,
+      "decrease_value": 454700,
       "increase_value": 3000,
-      "net_units": -6,
-      "net_value": -443200
+      "net_units": -7,
+      "net_value": -451700
     }
   }
 ]
