@@ -1,14 +1,14 @@
 {
   "date": "2026-11-19",
-  "scraped_at": "2026-11-19T06:51:13.699Z",
+  "scraped_at": "2026-11-19T06:56:15.914Z",
   "counts": {
     "products": 1090,
     "qty_known": 527,
     "qty_hidden": 42,
     "backorder": 521,
     "out_of_stock": 0,
-    "sum_qty": 1199,
-    "total_value": 33930190
+    "sum_qty": 1200,
+    "total_value": 33891190
   },
   "products": [
     {
@@ -1285,21 +1285,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/tuf_h3-500x500.png",
       "categories": "Headsets, Gaming Peripherals"
-    },
-    {
-      "id": 64380,
-      "name": "ASUS TUF GAMING GT502 BLACK DUAL CHAMBER MID-TOWER CASE (1 YEAR WARRANTY)",
-      "sku": "CASE-NEW-ASUS-TUF-GT502-BLACK-MID-TOWER",
-      "permalink": "https://pcbuilders.lk/asus-tuf-gaming-gt502-black-dual-chamber-mid-tower-case-1-year-warranty/",
-      "price_lkr": 56000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/gt502_black-500x500.png",
-      "categories": "PC Cases, PC Components"
     },
     {
       "id": 64299,
@@ -6009,6 +5994,21 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/11/image-removebg-preview-2025-11-22T101734.964.png",
+      "categories": "Earbuds, Mobile, Mobile Accessories"
+    },
+    {
+      "id": 40535,
+      "name": "Baseus Bass BD1 TWS True Wireless Earbuds Starlight Off-White (1 YEAR WARRANTY)",
+      "sku": "GEN-NEW-BASEUS-BASS-BD1-TWS-TRUE-WIRELESS-EARBUD",
+      "permalink": "https://pcbuilders.lk/baseus-bass-bd1-white/",
+      "price_lkr": 8500,
+      "is_in_stock": true,
+      "stock_text": "2 in stock",
+      "qty": 2,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2025/11/image-removebg-preview-2025-11-22T101226.073.png",
       "categories": "Earbuds, Mobile, Mobile Accessories"
     },
     {
