@@ -1,16 +1,31 @@
 {
   "date": "2026-11-19",
-  "scraped_at": "2026-11-19T04:31:13.450Z",
+  "scraped_at": "2026-11-19T04:36:24.953Z",
   "counts": {
     "products": 1094,
-    "qty_known": 534,
+    "qty_known": 533,
     "qty_hidden": 42,
-    "backorder": 518,
+    "backorder": 519,
     "out_of_stock": 0,
     "sum_qty": 1213,
-    "total_value": 35038190
+    "total_value": 34970690
   },
   "products": [
+    {
+      "id": 65989,
+      "name": "Leopard Interstellar V4 LCD Digital PC Radiator Fan white (6 MONTHS WARRANTY)",
+      "sku": "Leopard Interstellar V4 LCD Digital PC Radiator Fan white (6 MONTHS WARRANTY)",
+      "permalink": "https://pcbuilders.lk/leopard-leopard-interstellar-v4-lcd-digital-pc-radiator-fan-white-6-months/",
+      "price_lkr": 15000,
+      "is_in_stock": true,
+      "stock_text": "2 in stock",
+      "qty": 2,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-18T113421.627.png",
+      "categories": "Case Fans, PC Components"
+    },
     {
       "id": 65941,
       "name": "Thermaltake Steel Shadow display case",
@@ -475,21 +490,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T103846.790.png",
       "categories": "Game Controllers"
-    },
-    {
-      "id": 65503,
-      "name": "PXN A10 Foldable Racing Wheel Stand",
-      "sku": "ACC-NEW-PXN-A10-FOLDABLE-RACING-WHEEL-STAND",
-      "permalink": "https://pcbuilders.lk/pxn-acc-new-pxn-a10-foldable-racing-wheel-stand/",
-      "price_lkr": 25500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T103302.127.png",
-      "categories": "Racing Cockpits and Stands"
     },
     {
       "id": 65497,
@@ -5667,21 +5667,6 @@
       "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
-      "id": 43575,
-      "name": "PXN V10 PRO Racing Steering Wheel (1 YEAR WARRANTY)",
-      "sku": "GEN-NEW-PXN-V10-PRO-DIRECT-DRIVE-RACING-WHEEL",
-      "permalink": "https://pcbuilders.lk/pxn-gen-new-pxn-v10-pro-direct-drive-racing-wheel/",
-      "price_lkr": 72000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-17T154707.705.png",
-      "categories": "SIM RACING, Steering Wheels"
-    },
-    {
       "id": 43564,
       "name": "PXN V9 GEN 2 PRO Steering Wheel (1 YEAR WARRANTY)",
       "sku": "GEN-NEW-PXN-V9-GEN-2-RACING-WHEEL",
@@ -8694,6 +8679,21 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T105040.482.png",
+      "categories": "Racing Cockpits and Stands"
+    },
+    {
+      "id": 65503,
+      "name": "PXN A10 Foldable Racing Wheel Stand",
+      "sku": "ACC-NEW-PXN-A10-FOLDABLE-RACING-WHEEL-STAND",
+      "permalink": "https://pcbuilders.lk/pxn-acc-new-pxn-a10-foldable-racing-wheel-stand/",
+      "price_lkr": 25500,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T103302.127.png",
       "categories": "Racing Cockpits and Stands"
     },
     {
@@ -12012,21 +12012,6 @@
       "categories": "Desktop RAM, Memory, PC Components"
     },
     {
-      "id": 49709,
-      "name": "MSI Pro A620AM-B Evo DDR5 Motherboard (3 YEARS WARRANTY)",
-      "sku": "MB-NEW-MSI-PRO-A620AM-B-EVO-DDR5",
-      "permalink": "https://pcbuilders.lk/msi-mb-new-msi-pro-a620am-b-evo-ddr5/",
-      "price_lkr": 37500,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-04T104430.029.png",
-      "categories": "Motherboards, PC Components"
-    },
-    {
       "id": 49530,
       "name": "Corsair Vengeance RGB 48GB (2X24) DDR5 CUDIMM DRAM 8400MHz Intel XMP Memory (10 Years Warranty)",
       "sku": "RAM-NEW-CORSAIR-VENGEANCE-RGB-48GB-2X24-DDR5-CUD-2",
@@ -12850,6 +12835,21 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/7098.jpg",
       "categories": "Gaming &amp;amp; Desk Setup, Desk Accessories"
+    },
+    {
+      "id": 43575,
+      "name": "PXN V10 PRO Racing Steering Wheel (1 YEAR WARRANTY)",
+      "sku": "GEN-NEW-PXN-V10-PRO-DIRECT-DRIVE-RACING-WHEEL",
+      "permalink": "https://pcbuilders.lk/pxn-gen-new-pxn-v10-pro-direct-drive-racing-wheel/",
+      "price_lkr": 72000,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-17T154707.705.png",
+      "categories": "SIM RACING, Steering Wheels"
     },
     {
       "id": 42982,
