@@ -1,14 +1,14 @@
 {
   "date": "2026-11-19",
-  "scraped_at": "2026-11-19T05:11:12.935Z",
+  "scraped_at": "2026-11-19T05:16:19.258Z",
   "counts": {
     "products": 1093,
     "qty_known": 531,
     "qty_hidden": 42,
     "backorder": 520,
     "out_of_stock": 0,
-    "sum_qty": 1210,
-    "total_value": 34900690
+    "sum_qty": 1209,
+    "total_value": 34852190
   },
   "products": [
     {
@@ -4413,8 +4413,8 @@
       "permalink": "https://pcbuilders.lk/meetion-gen-new-meetion-chr14-professional-gaming-chair/",
       "price_lkr": 48500,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16410,5 +16410,5 @@
   "baseline": false,
   "previous_date": "2026-11-19 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }
