@@ -366,5 +366,37 @@
     "permalink": "https://pcbuilders.lk/meetion-kb-new-meetion-mk009-mechanical/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/mk009-meetion-official.png",
     "categories": "Keyboards, Gaming Peripherals"
+  },
+  {
+    "at": "2026-11-19T12:16:16.247Z",
+    "date": "2026-11-19",
+    "direction": "increase",
+    "id": 42977,
+    "name": "Corsair RMx RM850X CYBERNETICS 850 WATT 80 Plus Gold Certified Fully Modular Power Supply (10 YEARS WARRANTY)",
+    "sku": "PSU-NEW-CORSAIR-RMX-RM850X-CYBERNETICS-850-WATT-",
+    "from": 1,
+    "to": 3,
+    "delta": 2,
+    "price_lkr": 54000,
+    "value": 108000,
+    "permalink": "https://pcbuilders.lk/corsair-psu-new-corsair-rmx-rm850x-cybernetics-850-watt-gold/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/7561.gif",
+    "categories": "Power Supplies, PC Components"
+  },
+  {
+    "at": "2026-11-19T12:16:16.247Z",
+    "date": "2026-11-19",
+    "direction": "increase",
+    "id": 28030,
+    "name": "CORSAIR CX650 80 PLUS BRONZE CERTIFIED POWER SUPPLY (5 YEARS WARRANTY)",
+    "sku": "PSU-NEW-CORSAIR-CX650-CERTIFIED",
+    "from": 5,
+    "to": 11,
+    "delta": 6,
+    "price_lkr": 22500,
+    "value": 135000,
+    "permalink": "https://pcbuilders.lk/corsair-psu-new-corsair-cx650-certified/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2025/02/image-removebg-preview-18.png",
+    "categories": "PC Components, Power Supplies"
   }
 ]

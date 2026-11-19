@@ -207,7 +207,7 @@
   {
     "date": "2026-11-19",
     "compared_to": "2026-11-19 open",
-    "generated_at": "2026-11-19T12:11:18.188Z",
+    "generated_at": "2026-11-19T12:16:16.283Z",
     "decreases": [
       {
         "id": 48600,
@@ -277,6 +277,32 @@
     ],
     "increases": [
       {
+        "id": 28030,
+        "name": "CORSAIR CX650 80 PLUS BRONZE CERTIFIED POWER SUPPLY (5 YEARS WARRANTY)",
+        "sku": "PSU-NEW-CORSAIR-CX650-CERTIFIED",
+        "from": 5,
+        "to": 11,
+        "delta": 6,
+        "price_lkr": 22500,
+        "value": 135000,
+        "permalink": "https://pcbuilders.lk/corsair-psu-new-corsair-cx650-certified/",
+        "categories": "PC Components, Power Supplies",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/02/image-removebg-preview-18.png"
+      },
+      {
+        "id": 42977,
+        "name": "Corsair RMx RM850X CYBERNETICS 850 WATT 80 Plus Gold Certified Fully Modular Power Supply (10 YEARS WARRANTY)",
+        "sku": "PSU-NEW-CORSAIR-RMX-RM850X-CYBERNETICS-850-WATT-",
+        "from": 1,
+        "to": 3,
+        "delta": 2,
+        "price_lkr": 54000,
+        "value": 108000,
+        "permalink": "https://pcbuilders.lk/corsair-psu-new-corsair-rmx-rm850x-cybernetics-850-watt-gold/",
+        "categories": "Power Supplies, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/7561.gif"
+      },
+      {
         "id": 49876,
         "name": "PWM &#038; ARGB LED CONTROLLER HUB 9 PORTS (6 MONTHS WARRANTY)",
         "sku": "GEN-NEW-PWM-ARGB-LED-HUB-9-PORTS",
@@ -292,13 +318,13 @@
     ],
     "totals": {
       "decrease_items": 5,
-      "increase_items": 1,
+      "increase_items": 3,
       "decrease_units": 8,
-      "increase_units": 1,
+      "increase_units": 9,
       "decrease_value": 454700,
-      "increase_value": 3000,
-      "net_units": -7,
-      "net_value": -451700
+      "increase_value": 246000,
+      "net_units": 1,
+      "net_value": -208700
     }
   }
 ]
