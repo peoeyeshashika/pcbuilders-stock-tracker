@@ -430,5 +430,21 @@
     "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-7.png",
     "categories": "UPS, PC Components"
+  },
+  {
+    "at": "2026-11-20T12:06:01.174Z",
+    "date": "2026-11-20",
+    "direction": "decrease",
+    "id": 62953,
+    "name": "SEASONIC FOCUS GM 850W POWER SUPPLY (3 MONTHS WARRANTY)",
+    "sku": "PSU-NEW-SEASONIC-FOCUS-GM-850W",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 11000,
+    "value": 11000,
+    "permalink": "https://pcbuilders.lk/seasonic-psu-new-seasonic-focus-gm-850w/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/image-removebg-preview-2026-10-03T095340.021-500x474.png",
+    "categories": "Power Supplies"
   }
 ]
