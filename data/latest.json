@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "scraped_at": "2026-11-20T05:21:14.693Z",
+  "scraped_at": "2026-11-20T05:26:14.299Z",
   "counts": {
     "products": 1092,
     "qty_known": 530,
@@ -8,7 +8,7 @@
     "backorder": 520,
     "out_of_stock": 0,
     "sum_qty": 1217,
-    "total_value": 34723390
+    "total_value": 34704890
   },
   "products": [
     {
@@ -4002,21 +4002,6 @@
       "categories": "AMD, PC Components, Processors"
     },
     {
-      "id": 53875,
-      "name": "MSI B650M Gaming Plus (Wi-Fi) DDR5 Motherboard( 3 YEARS WARRANTY)",
-      "sku": "MB-NEW-MSI-B650M-GAMING-PLUS-WI-FI-DDR5",
-      "permalink": "https://pcbuilders.lk/msi-mb-new-msi-b650m-gaming-plus-wi-fi-ddr5/",
-      "price_lkr": 73500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-27T102317.674.png",
-      "categories": "Motherboards, PC Components"
-    },
-    {
       "id": 53808,
       "name": "Chuwi CoreBook Air PLUS-H Ryzen 7 H 255 LAPTOP (2 YEARS WARRANTY)",
       "sku": "LAP-NEW-CHUWI-COREBOOK-AIR-PLUS-H-RYZEN-7-H-255-",
@@ -5095,6 +5080,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-22T135827.408.png",
       "categories": "Air Coolers, PC Components, CPU Cooling"
+    },
+    {
+      "id": 48091,
+      "name": "MSI B650 GAMING PLUS (WI-FI) DDR5 MOTHERBOARD (USED ITEM)",
+      "sku": "MB-USED-MSI-B650-GAMING-PLUS-WI-FI-DDR5",
+      "permalink": "https://pcbuilders.lk/used-msi-mb-used-msi-b650-gaming-plus-wi-fi-ddr5/",
+      "price_lkr": 55000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/image-removebg-preview-12.png",
+      "categories": "PC Components, Motherboards"
     },
     {
       "id": 47907,
