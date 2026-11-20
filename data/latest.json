@@ -1,14 +1,14 @@
 {
   "date": "2026-11-20",
-  "scraped_at": "2026-11-20T09:36:06.592Z",
+  "scraped_at": "2026-11-20T09:41:27.614Z",
   "counts": {
-    "products": 1092,
-    "qty_known": 527,
+    "products": 1091,
+    "qty_known": 526,
     "qty_hidden": 42,
     "backorder": 523,
     "out_of_stock": 0,
-    "sum_qty": 1214,
-    "total_value": 34637890
+    "sum_qty": 1213,
+    "total_value": 34593890
   },
   "products": [
     {
@@ -2950,21 +2950,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-30T142328.770.png",
       "categories": "Memory, PC Components, Desktop RAM"
-    },
-    {
-      "id": 60866,
-      "name": "GIGABYTE B650M GAMING WIFI MOTHERBOARD (WIFI) (USED ITEM)",
-      "sku": "MB-USED-GIGABYTE-B650M-GAMING-WIFI-WIFI",
-      "permalink": "https://pcbuilders.lk/used-gigabyte-mb-used-gigabyte-b650m-gaming-wifi-wifi/",
-      "price_lkr": 44000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/image-removebg-preview-2025-03-08T102947.737.png",
-      "categories": "PC Components, Motherboards"
     },
     {
       "id": 55981,
