@@ -1,14 +1,14 @@
 {
   "date": "2026-11-20",
-  "scraped_at": "2026-11-20T07:06:05.105Z",
+  "scraped_at": "2026-11-20T07:11:31.856Z",
   "counts": {
-    "products": 1095,
-    "qty_known": 530,
+    "products": 1094,
+    "qty_known": 529,
     "qty_hidden": 42,
     "backorder": 523,
     "out_of_stock": 0,
-    "sum_qty": 1217,
-    "total_value": 34704890
+    "sum_qty": 1216,
+    "total_value": 34671890
   },
   "products": [
     {
@@ -3025,21 +3025,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-25T120458.473.png",
       "categories": "Motherboards, PC Components"
-    },
-    {
-      "id": 55869,
-      "name": "Sony PlayStation 5 DualSense Ghost of Yōtei Limited Edition Wireless Controller (2 WEEKS WARRANTY)",
-      "sku": "GEN-NEW-SONY-PLAYSTATION-5-DUALSENSE-GHOST-Y-TEI-2",
-      "permalink": "https://pcbuilders.lk/sony-gen-new-sony-playstation-5-dualsense-ghost-y-tei-2/",
-      "price_lkr": 33000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-22T161833.149.png",
-      "categories": "Game Controllers, Gaming Peripherals"
     },
     {
       "id": 55847,
