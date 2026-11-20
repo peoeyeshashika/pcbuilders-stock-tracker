@@ -1,14 +1,14 @@
 {
   "date": "2026-11-20",
-  "scraped_at": "2026-11-20T04:36:05.481Z",
+  "scraped_at": "2026-11-20T04:41:10.400Z",
   "counts": {
     "products": 1092,
     "qty_known": 530,
     "qty_hidden": 42,
     "backorder": 520,
     "out_of_stock": 0,
-    "sum_qty": 1218,
-    "total_value": 34745290
+    "sum_qty": 1217,
+    "total_value": 34723390
   },
   "products": [
     {
@@ -2553,8 +2553,8 @@
       "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
       "price_lkr": 21900,
       "is_in_stock": true,
-      "stock_text": "5 in stock",
-      "qty": 5,
+      "stock_text": "4 in stock",
+      "qty": 4,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16395,5 +16395,5 @@
   "baseline": false,
   "previous_date": "2026-11-20 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }

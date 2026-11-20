@@ -414,5 +414,21 @@
     "permalink": "https://pcbuilders.lk/fantech-nc22/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-25.png",
     "categories": "Laptop Coolers, Laptops"
+  },
+  {
+    "at": "2026-11-20T04:41:10.400Z",
+    "date": "2026-11-20",
+    "direction": "decrease",
+    "id": 61557,
+    "name": "AWP AID1200 1200VA LINE INTERACTIVE UPS (UNIT 5Y / BATTERY 2Y)",
+    "sku": "GEN-NEW-AWP-AID1200-1200VA-LINE-INTERACTIVE-UPS",
+    "from": 5,
+    "to": 4,
+    "delta": -1,
+    "price_lkr": 21900,
+    "value": 21900,
+    "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-7.png",
+    "categories": "UPS, PC Components"
   }
 ]
