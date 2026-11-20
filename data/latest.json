@@ -1,11 +1,11 @@
 {
   "date": "2026-11-20",
-  "scraped_at": "2026-11-20T06:31:17.101Z",
+  "scraped_at": "2026-11-20T06:36:06.116Z",
   "counts": {
-    "products": 1093,
+    "products": 1095,
     "qty_known": 530,
     "qty_hidden": 42,
-    "backorder": 521,
+    "backorder": 523,
     "out_of_stock": 0,
     "sum_qty": 1217,
     "total_value": 34704890
@@ -8592,6 +8592,21 @@
       "categories": "Other Cables, Cables &amp;amp; Adapters"
     },
     {
+      "id": 66068,
+      "name": "ASUS ROG SWIFT OLED PG27AQWP-G EDITION 20 27&#8243; QHD 540HZ GAMING MONITOR (3 YEARS WARRANTY)",
+      "sku": "MON-NEW-ASUS-ROG-SWIFT-OLED-PG27AQWP-G-27-540HZ",
+      "permalink": "https://pcbuilders.lk/asus-mon-new-asus-rog-swift-oled-pg27aqwp-g-27-540hz/",
+      "price_lkr": 550000,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/asus-rog-swift-oled-pg27aqwp-g-500x625.webp",
+      "categories": "Monitors &amp;amp; Display, Monitors"
+    },
+    {
       "id": 65882,
       "name": "Corsair Vengeance 32GB (1X32) DDR5 DRAM 6000MT/S Memory (10 YEARS WARRANTY)",
       "sku": "RAM-NEW-CORSAIR-VENGEANCE-32GB-1X32-DDR5-DRAM-6000MT",
@@ -15399,6 +15414,21 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/2505503-ryzen-7-8700g.avif",
+      "categories": "PC Components, Processors, AMD"
+    },
+    {
+      "id": 21354,
+      "name": "AMD RYZEN 5 4600G PROCESSOR TRAY (3 YEARS WARRANTY)",
+      "sku": "CPU-NEW-AMD-RYZEN-5-4600G",
+      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-4600g/",
+      "price_lkr": 40000,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-67-500x463.png",
       "categories": "PC Components, Processors, AMD"
     },
     {
