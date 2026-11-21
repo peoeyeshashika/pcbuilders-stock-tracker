@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T09:06:30.507Z",
+  "scraped_at": "2026-11-21T09:11:35.988Z",
   "counts": {
-    "products": 1093,
-    "qty_known": 530,
+    "products": 1094,
+    "qty_known": 531,
     "qty_hidden": 42,
     "backorder": 521,
     "out_of_stock": 0,
-    "sum_qty": 1213,
-    "total_value": 35050390
+    "sum_qty": 1214,
+    "total_value": 35061390
   },
   "products": [
     {
@@ -4300,6 +4300,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/IOEfoo3xrwAZErGWzjoFU06bQWLx2avf0k9sVri4-500x600.webp",
       "categories": "Gaming Peripherals, Headsets"
+    },
+    {
+      "id": 52332,
+      "name": "FANTECH Zenith Pro WGP18 Wireless Game Controller (6 MONTHS WARRANTY)",
+      "sku": "GEN-NEW-FANTECH-ZENITH-PRO-WGP18-WIRELESS-GAME",
+      "permalink": "https://pcbuilders.lk/fantech-gen-new-fantech-zenith-pro-wgp18-wireless-game/",
+      "price_lkr": 11000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/image-removebg-preview-2026-05-23T125550.852-500x494.png",
+      "categories": "Game Controllers, Gaming Peripherals"
     },
     {
       "id": 51734,
