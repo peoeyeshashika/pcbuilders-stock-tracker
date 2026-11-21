@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T07:36:25.905Z",
+  "scraped_at": "2026-11-21T07:41:29.194Z",
   "counts": {
     "products": 1095,
     "qty_known": 529,
@@ -11941,9 +11941,9 @@
       "name": "PXN V99 Racing Steering Wheel (1 YEAR WARRANTY)",
       "sku": "GEN-NEW-PXN-V99-FORCE-FEEDBACK-RACING-WHEEL",
       "permalink": "https://pcbuilders.lk/pxn-gen-new-pxn-v99-force-feedback-racing-wheel/",
-      "price_lkr": 78500,
+      "price_lkr": 77500,
       "is_in_stock": true,
-      "stock_text": "",
+      "stock_text": "Available on backorder",
       "qty": null,
       "qty_known": false,
       "status": "backorder",
