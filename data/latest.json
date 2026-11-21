@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T11:51:30.698Z",
+  "scraped_at": "2026-11-21T11:56:25.597Z",
   "counts": {
-    "products": 1092,
-    "qty_known": 529,
+    "products": 1093,
+    "qty_known": 530,
     "qty_hidden": 42,
     "backorder": 521,
     "out_of_stock": 0,
     "sum_qty": 1207,
-    "total_value": 34953390
+    "total_value": 34947890
   },
   "products": [
     {
@@ -2110,6 +2110,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-17T125515.254.png",
       "categories": "AMD, PC Components, Processors"
+    },
+    {
+      "id": 62253,
+      "name": "750W POWER SUPPLY (USED ITEM)",
+      "sku": "PSU-USED-750W",
+      "permalink": "https://pcbuilders.lk/used-750w-psu-used-750w/",
+      "price_lkr": 8000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-30T175816.967.png",
+      "categories": "PC Components, Power Supplies"
     },
     {
       "id": 62242,
@@ -8133,8 +8148,8 @@
       "permalink": "https://pcbuilders.lk/gamdias-psu-new-gamdias-kratos-m1-600b-rgb-600-watt-bron/",
       "price_lkr": 13500,
       "is_in_stock": true,
-      "stock_text": "5 in stock",
-      "qty": 5,
+      "stock_text": "4 in stock",
+      "qty": 4,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16395,5 +16410,5 @@
   "baseline": false,
   "previous_date": "2026-11-21 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }

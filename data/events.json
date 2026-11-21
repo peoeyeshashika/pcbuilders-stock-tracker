@@ -574,5 +574,21 @@
     "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-3400g/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/3400g.png",
     "categories": "AMD, PC Components, Processors"
+  },
+  {
+    "at": "2026-11-21T11:56:25.597Z",
+    "date": "2026-11-21",
+    "direction": "decrease",
+    "id": 19627,
+    "name": "GAMDIAS KRATOS M1-600B RGB 600 WATT 80 PLUS BRONZ POWER SUPPLY (2 YEARS WARRANTY)",
+    "sku": "PSU-NEW-GAMDIAS-KRATOS-M1-600B-RGB-600-WATT-BRON",
+    "from": 5,
+    "to": 4,
+    "delta": -1,
+    "price_lkr": 13500,
+    "value": 13500,
+    "permalink": "https://pcbuilders.lk/gamdias-psu-new-gamdias-kratos-m1-600b-rgb-600-watt-bron/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-24T101414.689.png",
+    "categories": "PC Components, Power Supplies"
   }
 ]

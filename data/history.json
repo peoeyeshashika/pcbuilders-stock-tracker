@@ -387,7 +387,7 @@
   {
     "date": "2026-11-21",
     "compared_to": "2026-11-21 open",
-    "generated_at": "2026-11-21T11:51:30.761Z",
+    "generated_at": "2026-11-21T11:56:25.644Z",
     "decreases": [
       {
         "id": 35059,
@@ -440,6 +440,19 @@
         "permalink": "https://pcbuilders.lk/used-asus-mb-used-asus-prime-a320m-k/",
         "categories": "PC Components, Motherboards",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/final_a320m_k.png"
+      },
+      {
+        "id": 19627,
+        "name": "GAMDIAS KRATOS M1-600B RGB 600 WATT 80 PLUS BRONZ POWER SUPPLY (2 YEARS WARRANTY)",
+        "sku": "PSU-NEW-GAMDIAS-KRATOS-M1-600B-RGB-600-WATT-BRON",
+        "from": 5,
+        "to": 4,
+        "delta": -1,
+        "price_lkr": 13500,
+        "value": 13500,
+        "permalink": "https://pcbuilders.lk/gamdias-psu-new-gamdias-kratos-m1-600b-rgb-600-watt-bron/",
+        "categories": "PC Components, Power Supplies",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-24T101414.689.png"
       },
       {
         "id": 43919,
@@ -496,14 +509,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 8,
+      "decrease_items": 9,
       "increase_items": 0,
-      "decrease_units": 8,
+      "decrease_units": 9,
       "increase_units": 0,
-      "decrease_value": 114000,
+      "decrease_value": 127500,
       "increase_value": 0,
-      "net_units": -8,
-      "net_value": -114000
+      "net_units": -9,
+      "net_value": -127500
     }
   }
 ]
