@@ -1,11 +1,11 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T09:31:28.466Z",
+  "scraped_at": "2026-11-21T09:36:35.878Z",
   "counts": {
-    "products": 1095,
+    "products": 1096,
     "qty_known": 531,
     "qty_hidden": 42,
-    "backorder": 522,
+    "backorder": 523,
     "out_of_stock": 0,
     "sum_qty": 1213,
     "total_value": 35059390
@@ -8730,7 +8730,7 @@
       "id": 64843,
       "name": "Gamdias Aura GC101M ARGB Micro-Tower Case",
       "sku": "CASE-NEW-GAMDIAS-AURA-GC101M-ARGB-MICRO-TOWER-CASE",
-      "permalink": "https://pcbuilders.lk/auto-22/",
+      "permalink": "https://pcbuilders.lk/gamdias-case-new-gamdias-aura-gc101m-argb-micro-tower-case/",
       "price_lkr": 14000,
       "is_in_stock": true,
       "stock_text": "",
@@ -15012,6 +15012,21 @@
       "categories": "Used Laptops, Laptops"
     },
     {
+      "id": 26030,
+      "name": "DELL LATITUDE 7470 14.0&#8243; INTEL CORE I5 6TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "sku": "GEN-USED-DELL-LATITUDE-E7470-LAPTOP",
+      "permalink": "https://pcbuilders.lk/used-dell-gen-used-dell-latitude-e7470-laptop/",
+      "price_lkr": 69000,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/11/image-removebg-preview-7.png",
+      "categories": "Used Laptops, Laptops"
+    },
+    {
       "id": 25703,
       "name": "CORSAIR VENGEANCE LPX 16GB DDR4 DRAM 3600MHZ MEMORY (10 YEARS WARRANTY)",
       "sku": "RAM-NEW-CORSAIR-VENGEANCE-LPX-16GB-DDR4-DRAM-360",
@@ -16440,5 +16455,5 @@
   "baseline": false,
   "previous_date": "2026-11-21 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 1
+  "live_changes_this_poll": 0
 }
