@@ -1,11 +1,11 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T09:36:35.878Z",
+  "scraped_at": "2026-11-21T09:41:46.273Z",
   "counts": {
-    "products": 1096,
+    "products": 1095,
     "qty_known": 531,
     "qty_hidden": 42,
-    "backorder": 523,
+    "backorder": 522,
     "out_of_stock": 0,
     "sum_qty": 1213,
     "total_value": 35059390
@@ -14995,21 +14995,6 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/12/image-removebg-preview-64.png",
       "categories": "PC Components, Processors, INTEL"
-    },
-    {
-      "id": 26030,
-      "name": "DELL LATITUDE 7470 14.0&#8243; INTEL CORE I5 6TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
-      "sku": "GEN-USED-DELL-LATITUDE-E7470-LAPTOP",
-      "permalink": "https://pcbuilders.lk/used-dell-gen-used-dell-latitude-e7470-laptop/",
-      "price_lkr": 69000,
-      "is_in_stock": true,
-      "stock_text": "",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/11/image-removebg-preview-7.png",
-      "categories": "Used Laptops, Laptops"
     },
     {
       "id": 26030,
