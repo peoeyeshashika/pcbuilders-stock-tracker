@@ -1,16 +1,61 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T04:31:33.086Z",
+  "scraped_at": "2026-11-21T04:36:36.475Z",
   "counts": {
-    "products": 1092,
-    "qty_known": 526,
+    "products": 1096,
+    "qty_known": 530,
     "qty_hidden": 42,
     "backorder": 524,
     "out_of_stock": 0,
-    "sum_qty": 1211,
-    "total_value": 34573890
+    "sum_qty": 1216,
+    "total_value": 34751890
   },
   "products": [
+    {
+      "id": 66096,
+      "name": "ANTEC CX300 RGB BLACK CASING (used item)",
+      "sku": "CASE-NEW-ANTEC-CX300-RGB-BLACK-CASING-COPY",
+      "permalink": "https://pcbuilders.lk/antec-case-new-antec-cx300-rgb-black-casing-copy-black/",
+      "price_lkr": 10000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/07/image-removebg-preview-34-1.png",
+      "categories": "PC Components, PC Cases"
+    },
+    {
+      "id": 66094,
+      "name": "ANTEC A400 RGB CPU COOLER (used item)",
+      "sku": "COOL-NEW-ANTEC-A400-RGB-CPU-COOLER",
+      "permalink": "https://pcbuilders.lk/used-antec-cool-new-antec-a400-rgb-cpu-cooler/",
+      "price_lkr": 7000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-17.png",
+      "categories": "PC Components, CPU Cooling, Air Coolers"
+    },
+    {
+      "id": 66089,
+      "name": "AORUS Z690 AORUS PRO GAMING MOTHERBOARD (USED ITEM)",
+      "sku": "MB-NEW-AORUS-Z690-AORUS-PRO-GAMING",
+      "permalink": "https://pcbuilders.lk/used-aorus-mb-new-aorus-z690-aorus-pro-gaming/",
+      "price_lkr": 65000,
+      "is_in_stock": true,
+      "stock_text": "2 in stock",
+      "qty": 2,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-21T094438.141-500x491.png",
+      "categories": "Motherboards"
+    },
     {
       "id": 65941,
       "name": "Thermaltake Steel Shadow display case",
@@ -7930,6 +7975,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-74-500x464.png",
       "categories": "PC Components, Motherboards"
+    },
+    {
+      "id": 20704,
+      "name": "THERMALTAKE TOUGHPOWER GF 750W 80 PLUS GOLD FULLY MODULAR POWER SUPPLY (5 YEARS WARRANTY)",
+      "sku": "PSU-NEW-THERMALTAKE-TOUGHPOWER-GF-750W",
+      "permalink": "https://pcbuilders.lk/thermaltake-psu-new-thermaltake-toughpower-gf-750w-gold/",
+      "price_lkr": 31000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/05/image-removebg-preview-2024-05-16T175342.855.png",
+      "categories": "PC Components, Power Supplies"
     },
     {
       "id": 20596,
