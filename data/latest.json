@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T11:06:39.617Z",
+  "scraped_at": "2026-11-21T11:11:43.306Z",
   "counts": {
     "products": 1091,
-    "qty_known": 527,
+    "qty_known": 528,
     "qty_hidden": 42,
-    "backorder": 522,
+    "backorder": 521,
     "out_of_stock": 0,
-    "sum_qty": 1205,
-    "total_value": 34886390
+    "sum_qty": 1206,
+    "total_value": 34919390
   },
   "products": [
     {
@@ -6670,6 +6670,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-2025-08-14T122652.278.png",
       "categories": "Graphics Cards, PC Components"
+    },
+    {
+      "id": 34709,
+      "name": "AMD RYZEN 5 5500 PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+      "sku": "CPU-NEW-AMD-RYZEN-5-5500-PROCESSOR-TRAY",
+      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5500-processor-tray/",
+      "price_lkr": 33000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-30T024051.733.png",
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 34670,
@@ -14005,21 +14020,6 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-2025-08-15T135833.835.png",
       "categories": "PC Cases, PC Components"
-    },
-    {
-      "id": 34709,
-      "name": "AMD RYZEN 5 5500 PROCESSOR (TRAY) (3 YEARS WARRANTY)",
-      "sku": "CPU-NEW-AMD-RYZEN-5-5500-2",
-      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5500-2/",
-      "price_lkr": 40000,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-30T024051.733.png",
-      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 34439,
