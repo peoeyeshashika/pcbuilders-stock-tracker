@@ -494,5 +494,21 @@
     "permalink": "https://pcbuilders.lk/ugreen-acc-new-ugreen-20000mah-130w-nexode-smart-display-pow/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-03T171833.565.png",
     "categories": "Power Banks"
+  },
+  {
+    "at": "2026-11-21T09:31:28.466Z",
+    "date": "2026-11-21",
+    "direction": "decrease",
+    "id": 19683,
+    "name": "ANTEC GRAPHICS CARD HOLDER",
+    "sku": "GEN-NEW-ANTEC-HOLDER",
+    "from": 17,
+    "to": 16,
+    "delta": -1,
+    "price_lkr": 2000,
+    "value": 2000,
+    "permalink": "https://pcbuilders.lk/antec-4/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2026-06-21T161610.409.png",
+    "categories": "Gaming &amp;amp; Desk Setup, GPU Holders &amp;amp; Mounts"
   }
 ]

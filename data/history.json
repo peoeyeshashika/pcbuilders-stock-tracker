@@ -387,7 +387,7 @@
   {
     "date": "2026-11-21",
     "compared_to": "2026-11-21 open",
-    "generated_at": "2026-11-21T09:26:30.473Z",
+    "generated_at": "2026-11-21T09:31:28.521Z",
     "decreases": [
       {
         "id": 60981,
@@ -427,18 +427,31 @@
         "permalink": "https://pcbuilders.lk/meetion-kb-new-meetion-mk009-mechanical/",
         "categories": "Keyboards, Gaming Peripherals",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/mk009-meetion-official.png"
+      },
+      {
+        "id": 19683,
+        "name": "ANTEC GRAPHICS CARD HOLDER",
+        "sku": "GEN-NEW-ANTEC-HOLDER",
+        "from": 17,
+        "to": 16,
+        "delta": -1,
+        "price_lkr": 2000,
+        "value": 2000,
+        "permalink": "https://pcbuilders.lk/antec-4/",
+        "categories": "Gaming &amp;amp; Desk Setup, GPU Holders &amp;amp; Mounts",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2026-06-21T161610.409.png"
       }
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 3,
+      "decrease_items": 4,
       "increase_items": 0,
-      "decrease_units": 3,
+      "decrease_units": 4,
       "increase_units": 0,
-      "decrease_value": 49500,
+      "decrease_value": 51500,
       "increase_value": 0,
-      "net_units": -3,
-      "net_value": -49500
+      "net_units": -4,
+      "net_value": -51500
     }
   }
 ]

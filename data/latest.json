@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T09:26:30.440Z",
+  "scraped_at": "2026-11-21T09:31:28.466Z",
   "counts": {
     "products": 1095,
     "qty_known": 531,
     "qty_hidden": 42,
     "backorder": 522,
     "out_of_stock": 0,
-    "sum_qty": 1214,
-    "total_value": 35061390
+    "sum_qty": 1213,
+    "total_value": 35059390
   },
   "products": [
     {
@@ -8508,8 +8508,8 @@
       "permalink": "https://pcbuilders.lk/antec-4/",
       "price_lkr": 2000,
       "is_in_stock": true,
-      "stock_text": "17 in stock",
-      "qty": 17,
+      "stock_text": "16 in stock",
+      "qty": 16,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16440,5 +16440,5 @@
   "baseline": false,
   "previous_date": "2026-11-21 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }
