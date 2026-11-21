@@ -1,11 +1,11 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T08:31:41.915Z",
+  "scraped_at": "2026-11-21T08:36:41.671Z",
   "counts": {
-    "products": 1095,
+    "products": 1094,
     "qty_known": 530,
     "qty_hidden": 42,
-    "backorder": 523,
+    "backorder": 522,
     "out_of_stock": 0,
     "sum_qty": 1213,
     "total_value": 35050390
@@ -11922,21 +11922,6 @@
       "categories": "Power Supplies, PC Components"
     },
     {
-      "id": 50431,
-      "name": "PXN VD4 BUNDLE RACING SIMULATOR (1 YEAR WARRANTY)",
-      "sku": "GEN-NEW-PXN-VD4-BUNDLE-RACING-SIMULATOR",
-      "permalink": "https://pcbuilders.lk/pxn-gen-new-pxn-vd4-bundle-racing-simulator/",
-      "price_lkr": 97000,
-      "is_in_stock": true,
-      "stock_text": "",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-26T122807.791.png",
-      "categories": "SIM RACING, Steering Wheels"
-    },
-    {
       "id": 50400,
       "name": "PXN V99 Racing Steering Wheel (1 YEAR WARRANTY)",
       "sku": "GEN-NEW-PXN-V99-FORCE-FEEDBACK-RACING-WHEEL",
@@ -12841,9 +12826,9 @@
       "name": "PXN V10 PRO Racing Steering Wheel (1 YEAR WARRANTY)",
       "sku": "GEN-NEW-PXN-V10-PRO-DIRECT-DRIVE-RACING-WHEEL",
       "permalink": "https://pcbuilders.lk/pxn-gen-new-pxn-v10-pro-direct-drive-racing-wheel/",
-      "price_lkr": 72000,
+      "price_lkr": 81000,
       "is_in_stock": true,
-      "stock_text": "",
+      "stock_text": "Available on backorder",
       "qty": null,
       "qty_known": false,
       "status": "backorder",
