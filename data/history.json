@@ -387,7 +387,7 @@
   {
     "date": "2026-11-21",
     "compared_to": "2026-11-21 open",
-    "generated_at": "2026-11-21T06:26:29.323Z",
+    "generated_at": "2026-11-21T06:31:45.601Z",
     "decreases": [
       {
         "id": 23085,
@@ -401,18 +401,31 @@
         "permalink": "https://pcbuilders.lk/used-asus-mb-used-asus-prime-h510m-a/",
         "categories": "PC Components, Motherboards",
         "image": "https://pcbuilders.lk/wp-content/uploads/2024/08/p1.png"
+      },
+      {
+        "id": 51651,
+        "name": "MEETION MK009 Hot-Swappable Mechanical Gaming Keyboard (1 YEAR WARRANTY)",
+        "sku": "KB-NEW-MEETION-MK009-MECHANICAL",
+        "from": 9,
+        "to": 8,
+        "delta": -1,
+        "price_lkr": 8500,
+        "value": 8500,
+        "permalink": "https://pcbuilders.lk/meetion-kb-new-meetion-mk009-mechanical/",
+        "categories": "Keyboards, Gaming Peripherals",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/mk009-meetion-official.png"
       }
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 1,
+      "decrease_items": 2,
       "increase_items": 0,
-      "decrease_units": 1,
+      "decrease_units": 2,
       "increase_units": 0,
-      "decrease_value": 20000,
+      "decrease_value": 28500,
       "increase_value": 0,
-      "net_units": -1,
-      "net_value": -20000
+      "net_units": -2,
+      "net_value": -28500
     }
   }
 ]

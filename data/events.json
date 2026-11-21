@@ -462,5 +462,21 @@
     "permalink": "https://pcbuilders.lk/used-aorus-mb-new-aorus-z690-aorus-pro-gaming/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-21T094438.141-500x491.png",
     "categories": "Motherboards"
+  },
+  {
+    "at": "2026-11-21T06:31:45.531Z",
+    "date": "2026-11-21",
+    "direction": "decrease",
+    "id": 51651,
+    "name": "MEETION MK009 Hot-Swappable Mechanical Gaming Keyboard (1 YEAR WARRANTY)",
+    "sku": "KB-NEW-MEETION-MK009-MECHANICAL",
+    "from": 9,
+    "to": 8,
+    "delta": -1,
+    "price_lkr": 8500,
+    "value": 8500,
+    "permalink": "https://pcbuilders.lk/meetion-kb-new-meetion-mk009-mechanical/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/mk009-meetion-official.png",
+    "categories": "Keyboards, Gaming Peripherals"
   }
 ]
