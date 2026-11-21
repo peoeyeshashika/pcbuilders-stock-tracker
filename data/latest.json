@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T08:26:36.890Z",
+  "scraped_at": "2026-11-21T08:31:41.915Z",
   "counts": {
-    "products": 1096,
+    "products": 1095,
     "qty_known": 530,
     "qty_hidden": 42,
-    "backorder": 524,
+    "backorder": 523,
     "out_of_stock": 0,
     "sum_qty": 1213,
-    "total_value": 34618890
+    "total_value": 35050390
   },
   "products": [
     {
@@ -3837,6 +3837,21 @@
       "categories": "PC Cases, PC Components"
     },
     {
+      "id": 54560,
+      "name": "ASUS TUF Gaming RTX 5070 12GB OC Edition Graphics Card (3 YEARS WARRANTY)",
+      "sku": "GPU-NEW-ASUS-TUF-GAMING-RTX-5070-12GB-OC-EDITION",
+      "permalink": "https://pcbuilders.lk/asus-rtx-5070-12gb-3/",
+      "price_lkr": 440000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/07/image-removebg-preview-2026-07-23T154927.951.png",
+      "categories": "Graphics Cards, PC Components"
+    },
+    {
       "id": 54464,
       "name": "GIGABYTE B550M K WIFI6E MOTHERBOARD (3 YEARS WARRANTY)",
       "sku": "MB-NEW-GIGABYTE-B550M-K-WIFI6E",
@@ -5994,21 +6009,6 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/11/image-removebg-preview-2025-11-22T105835.278.png",
-      "categories": "Earbuds, Mobile, Mobile Accessories"
-    },
-    {
-      "id": 40539,
-      "name": "Baseus Bass BD1 TWS True Wireless Earbuds Nebula Purple (1 YEAR WARRANTY)",
-      "sku": "GEN-NEW-BASEUS-BASS-BD1-TWS-TRUE-WIRELESS-EARBUD-2",
-      "permalink": "https://pcbuilders.lk/baseus-bass-bd1-purple/",
-      "price_lkr": 8500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/11/image-removebg-preview-2025-11-22T101734.964.png",
       "categories": "Earbuds, Mobile, Mobile Accessories"
     },
     {
@@ -9417,21 +9417,6 @@
       "categories": "Processors, PC Components, AMD"
     },
     {
-      "id": 61617,
-      "name": "PXN P5 Wireless Gaming Controller – Black (1 YEAR WARRANTY)",
-      "sku": "ACC-PXN-P5-BK",
-      "permalink": "https://pcbuilders.lk/pxn-p5-wireless-gaming-controller-black/",
-      "price_lkr": 10000,
-      "is_in_stock": true,
-      "stock_text": "",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/p5_black-500x625.png",
-      "categories": "Game Controllers, Gaming Peripherals"
-    },
-    {
       "id": 61582,
       "name": "AWP APO20000 20KVA ONLINE UPS (2 YEARS WARRANTY)",
       "sku": "GEN-NEW-AWP-APO20000-20KVA-ONLINE-UPS",
@@ -9623,7 +9608,7 @@
       "qty_known": false,
       "status": "backorder",
       "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/pxn-v3-pro-official-500x625.png",
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-11-21T140001.482.png",
       "categories": "Steering Wheels, SIM RACING"
     },
     {
