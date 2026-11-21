@@ -1,16 +1,31 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T11:26:38.002Z",
+  "scraped_at": "2026-11-21T11:31:27.652Z",
   "counts": {
-    "products": 1091,
-    "qty_known": 528,
+    "products": 1092,
+    "qty_known": 529,
     "qty_hidden": 42,
     "backorder": 521,
     "out_of_stock": 0,
-    "sum_qty": 1206,
-    "total_value": 34919390
+    "sum_qty": 1207,
+    "total_value": 34953390
   },
   "products": [
+    {
+      "id": 66129,
+      "name": "Galax GTX 970 HOF Of Fame 4GB GDDR5 Graphics Card (used item)",
+      "sku": "GPU-NEW-GALAX-GTX-970-HOF-OF-FAME-4GB-GDDR5",
+      "permalink": "https://pcbuilders.lk/used-galax-gtx-970-4gb/",
+      "price_lkr": 34000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-21T165305.036-500x480.png",
+      "categories": "Graphics Cards"
+    },
     {
       "id": 66094,
       "name": "ANTEC A400 RGB CPU COOLER (used item)",
