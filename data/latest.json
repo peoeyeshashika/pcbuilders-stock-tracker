@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T12:01:32.694Z",
+  "scraped_at": "2026-11-21T12:06:28.428Z",
   "counts": {
-    "products": 1093,
-    "qty_known": 530,
+    "products": 1092,
+    "qty_known": 529,
     "qty_hidden": 42,
     "backorder": 521,
     "out_of_stock": 0,
-    "sum_qty": 1206,
-    "total_value": 34944390
+    "sum_qty": 1205,
+    "total_value": 34841190
   },
   "products": [
     {
@@ -520,21 +520,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T101719.008.png",
       "categories": "Motherboards"
-    },
-    {
-      "id": 65443,
-      "name": "LENOVO P27Q-40 27 Monitor (3 YEARS WARRANTY)",
-      "sku": "MON-NEW-LENOVO-P27Q-40-27-MONITOR",
-      "permalink": "https://pcbuilders.lk/auto-8/",
-      "price_lkr": 103200,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-11T143423.048-500x496.png",
-      "categories": "Monitors"
     },
     {
       "id": 65435,
@@ -16410,5 +16395,5 @@
   "baseline": false,
   "previous_date": "2026-11-21 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 1
+  "live_changes_this_poll": 0
 }
