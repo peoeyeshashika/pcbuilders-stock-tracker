@@ -606,5 +606,37 @@
     "permalink": "https://pcbuilders.lk/fantech-shikari-s-k515s/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-14T105351.182.png",
     "categories": "Gaming Peripherals, Keyboards"
+  },
+  {
+    "at": "2026-11-21T12:46:32.498Z",
+    "date": "2026-11-21",
+    "direction": "decrease",
+    "id": 65319,
+    "name": "UGREEN 3 Meter 8K@60Hz HDMI to HDMI Cable – HD171 – 25911 (18 Months Warranty)",
+    "sku": "CABLE-NEW-UGREEN-3-METER-8K-60HZ-HDMI-TO-HDMI-CABLE-HD1",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 5900,
+    "value": 5900,
+    "permalink": "https://pcbuilders.lk/ugreen-cable-new-ugreen-3-meter-8k-60hz-hdmi-to-hdmi-cable-hd1/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-07T144045.526.png",
+    "categories": "HDMI Cables"
+  },
+  {
+    "at": "2026-11-21T12:46:32.498Z",
+    "date": "2026-11-21",
+    "direction": "decrease",
+    "id": 62649,
+    "name": "RAE Heavy Duty Gas Spring Single Monitor Arm (3 YEARS WARRANTY)",
+    "sku": "MON-NEW-RAE-HEAVY-DUTY-GAS-SPRING-SINGLE-MONITOR-ARM",
+    "from": 9,
+    "to": 8,
+    "delta": -1,
+    "price_lkr": 26500,
+    "value": 26500,
+    "permalink": "https://pcbuilders.lk/auto-4/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-25T142858.828.png",
+    "categories": "Monitor Arms"
   }
 ]

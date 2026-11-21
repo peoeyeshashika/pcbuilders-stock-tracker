@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T12:41:31.841Z",
+  "scraped_at": "2026-11-21T12:46:32.498Z",
   "counts": {
     "products": 1092,
     "qty_known": 529,
     "qty_hidden": 42,
     "backorder": 521,
     "out_of_stock": 0,
-    "sum_qty": 1205,
-    "total_value": 34841190
+    "sum_qty": 1203,
+    "total_value": 34808790
   },
   "products": [
     {
@@ -663,8 +663,8 @@
       "permalink": "https://pcbuilders.lk/ugreen-cable-new-ugreen-3-meter-8k-60hz-hdmi-to-hdmi-cable-hd1/",
       "price_lkr": 5900,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -1698,8 +1698,8 @@
       "permalink": "https://pcbuilders.lk/auto-4/",
       "price_lkr": 26500,
       "is_in_stock": true,
-      "stock_text": "9 in stock",
-      "qty": 9,
+      "stock_text": "8 in stock",
+      "qty": 8,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16395,5 +16395,5 @@
   "baseline": false,
   "previous_date": "2026-11-21 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 2
 }

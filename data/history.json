@@ -387,7 +387,7 @@
   {
     "date": "2026-11-21",
     "compared_to": "2026-11-21 open",
-    "generated_at": "2026-11-21T12:41:31.933Z",
+    "generated_at": "2026-11-21T12:46:32.587Z",
     "decreases": [
       {
         "id": 35059,
@@ -401,6 +401,19 @@
         "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-3400g/",
         "categories": "AMD, PC Components, Processors",
         "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/3400g.png"
+      },
+      {
+        "id": 62649,
+        "name": "RAE Heavy Duty Gas Spring Single Monitor Arm (3 YEARS WARRANTY)",
+        "sku": "MON-NEW-RAE-HEAVY-DUTY-GAS-SPRING-SINGLE-MONITOR-ARM",
+        "from": 9,
+        "to": 8,
+        "delta": -1,
+        "price_lkr": 26500,
+        "value": 26500,
+        "permalink": "https://pcbuilders.lk/auto-4/",
+        "categories": "Monitor Arms",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-25T142858.828.png"
       },
       {
         "id": 60981,
@@ -481,6 +494,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/mk009-meetion-official.png"
       },
       {
+        "id": 65319,
+        "name": "UGREEN 3 Meter 8K@60Hz HDMI to HDMI Cable – HD171 – 25911 (18 Months Warranty)",
+        "sku": "CABLE-NEW-UGREEN-3-METER-8K-60HZ-HDMI-TO-HDMI-CABLE-HD1",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 5900,
+        "value": 5900,
+        "permalink": "https://pcbuilders.lk/ugreen-cable-new-ugreen-3-meter-8k-60hz-hdmi-to-hdmi-cable-hd1/",
+        "categories": "HDMI Cables",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-07T144045.526.png"
+      },
+      {
         "id": 48636,
         "name": "Jungle Leopard K200 CPU Cooler BLACK (6 MONTHS WARRANTY)",
         "sku": "COOL-NEW-JUNGLE-LEOPARD-K200-BLACK",
@@ -522,14 +548,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 10,
+      "decrease_items": 12,
       "increase_items": 0,
-      "decrease_units": 10,
+      "decrease_units": 12,
       "increase_units": 0,
-      "decrease_value": 131000,
+      "decrease_value": 163400,
       "increase_value": 0,
-      "net_units": -10,
-      "net_value": -131000
+      "net_units": -12,
+      "net_value": -163400
     }
   }
 ]
