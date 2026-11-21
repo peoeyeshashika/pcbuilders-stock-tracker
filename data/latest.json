@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T09:46:29.329Z",
+  "scraped_at": "2026-11-21T09:51:26.193Z",
   "counts": {
     "products": 1095,
-    "qty_known": 531,
+    "qty_known": 532,
     "qty_hidden": 42,
-    "backorder": 522,
+    "backorder": 521,
     "out_of_stock": 0,
-    "sum_qty": 1213,
-    "total_value": 35059390
+    "sum_qty": 1214,
+    "total_value": 35066390
   },
   "products": [
     {
@@ -7060,6 +7060,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-2026-03-07T122522.135.png",
       "categories": "Other Cables, Cables &amp;amp; Adapters"
+    },
+    {
+      "id": 30433,
+      "name": "128GB SATA SSD (USED ITEM)",
+      "sku": "SSD-USED-128GB-2",
+      "permalink": "https://pcbuilders.lk/used-128gb-ssd-used-128gb-2-128gb/",
+      "price_lkr": 7000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2023/09/image-removebg-preview-59.png",
+      "categories": "PC Components, Storage, SATA SSD"
     },
     {
       "id": 30221,
@@ -14800,21 +14815,6 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-2025-04-01T102800.049.png",
       "categories": "AMD, PC Components, Processors"
-    },
-    {
-      "id": 30433,
-      "name": "128GB SATA SSD (USED ITEM)",
-      "sku": "SSD-USED-128GB-2",
-      "permalink": "https://pcbuilders.lk/used-128gb-ssd-used-128gb-2-128gb/",
-      "price_lkr": 7000,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/09/image-removebg-preview-59.png",
-      "categories": "PC Components, Storage, SATA SSD"
     },
     {
       "id": 30407,
