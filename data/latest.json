@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T03:56:27.729Z",
+  "scraped_at": "2026-11-21T04:01:40.964Z",
   "counts": {
-    "products": 1090,
-    "qty_known": 525,
+    "products": 1088,
+    "qty_known": 523,
     "qty_hidden": 42,
     "backorder": 523,
     "out_of_stock": 0,
-    "sum_qty": 1211,
-    "total_value": 34573890
+    "sum_qty": 1208,
+    "total_value": 34469890
   },
   "products": [
     {
@@ -7227,21 +7227,6 @@
       "categories": "PC Components, Power Supplies"
     },
     {
-      "id": 27060,
-      "name": "INTEL I5 – 9400 DESKTOP PROCESSOR (USED ITEM)",
-      "sku": "CPU-USED-INTEL-I5-9400-DESKTOP",
-      "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-i5-9400-desktop/",
-      "price_lkr": 24000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebg-preview-ps-21-300x300.png",
-      "categories": "PC Components, Processors, INTEL"
-    },
-    {
       "id": 26883,
       "name": "COMPUTER DVI – I TO HDMI CONVETER",
       "sku": "GEN-NEW-COMPUTER-DVI&amp;#8212;I-TO-HDMI-CONVETER",
@@ -7317,21 +7302,6 @@
       "categories": "PC Components, Motherboards"
     },
     {
-      "id": 25885,
-      "name": "INTEL CORE I5 – 12600KF PROCESSOR (USED ITEM)",
-      "sku": "CPU-USED-INTEL-CORE-I5-12600KF-PROCESSOR",
-      "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-core-i5-12600k/",
-      "price_lkr": 60000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebg-preview-2024-03-08T102339.141.png",
-      "categories": "PC Components, Processors, INTEL"
-    },
-    {
       "id": 25900,
       "name": "STOCK CPU COOLER – AMD",
       "sku": "COOL-NEW-STOCK&amp;#8212;AMD",
@@ -7405,6 +7375,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3003__1_-removebg-preview-1.png",
       "categories": "PC Components, Graphics Cards"
+    },
+    {
+      "id": 25150,
+      "name": "ASUS PRIME H510M – K MOTHERBOARD (USED ITEM)",
+      "sku": "MB-USED-ASUS-PRIME-H510M-K",
+      "permalink": "https://pcbuilders.lk/used-asus-mb-used-asus-prime-h510m-k/",
+      "price_lkr": 20000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-19T155740.477.png",
+      "categories": "PC Components, Motherboards"
     },
     {
       "id": 25133,
@@ -7570,21 +7555,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-2026-08-04T155417.626.png",
       "categories": "Gaming Peripherals, Headsets"
-    },
-    {
-      "id": 23085,
-      "name": "ASUS PRIME H510M – A MOTHERBOARD (USED ITEM)",
-      "sku": "MB-USED-ASUS-PRIME-H510M-A",
-      "permalink": "https://pcbuilders.lk/used-asus-mb-used-asus-prime-h510m-a/",
-      "price_lkr": 20000,
-      "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/08/p1.png",
-      "categories": "PC Components, Motherboards"
     },
     {
       "id": 23023,
