@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T03:51:31.890Z",
+  "scraped_at": "2026-11-21T03:56:27.729Z",
   "counts": {
     "products": 1090,
     "qty_known": 525,
@@ -7318,8 +7318,8 @@
     },
     {
       "id": 25885,
-      "name": "INTEL CORE I5 – 12600K PROCESSOR (USED ITEM)",
-      "sku": "CPU-USED-INTEL-CORE-I5-12600K",
+      "name": "INTEL CORE I5 – 12600KF PROCESSOR (USED ITEM)",
+      "sku": "CPU-USED-INTEL-CORE-I5-12600KF-PROCESSOR",
       "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-core-i5-12600k/",
       "price_lkr": 60000,
       "is_in_stock": true,
