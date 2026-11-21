@@ -387,8 +387,21 @@
   {
     "date": "2026-11-21",
     "compared_to": "2026-11-21 open",
-    "generated_at": "2026-11-21T07:11:42.213Z",
+    "generated_at": "2026-11-21T07:16:31.932Z",
     "decreases": [
+      {
+        "id": 60981,
+        "name": "UGREEN 20000mAh 130W Nexode Smart Display Power Bank – PB721 – 35524B – (1 Year Warranty)",
+        "sku": "ACC-NEW-UGREEN-20000MAH-130W-NEXODE-SMART-DISPLAY-POW",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 21000,
+        "value": 21000,
+        "permalink": "https://pcbuilders.lk/ugreen-acc-new-ugreen-20000mah-130w-nexode-smart-display-pow/",
+        "categories": "Power Banks",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-03T171833.565.png"
+      },
       {
         "id": 23085,
         "name": "ASUS PRIME H510M – A MOTHERBOARD (USED ITEM)",
@@ -418,14 +431,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 2,
+      "decrease_items": 3,
       "increase_items": 0,
-      "decrease_units": 2,
+      "decrease_units": 3,
       "increase_units": 0,
-      "decrease_value": 28500,
+      "decrease_value": 49500,
       "increase_value": 0,
-      "net_units": -2,
-      "net_value": -28500
+      "net_units": -3,
+      "net_value": -49500
     }
   }
 ]

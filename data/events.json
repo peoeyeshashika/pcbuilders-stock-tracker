@@ -478,5 +478,21 @@
     "permalink": "https://pcbuilders.lk/meetion-kb-new-meetion-mk009-mechanical/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/mk009-meetion-official.png",
     "categories": "Keyboards, Gaming Peripherals"
+  },
+  {
+    "at": "2026-11-21T07:16:31.873Z",
+    "date": "2026-11-21",
+    "direction": "decrease",
+    "id": 60981,
+    "name": "UGREEN 20000mAh 130W Nexode Smart Display Power Bank – PB721 – 35524B – (1 Year Warranty)",
+    "sku": "ACC-NEW-UGREEN-20000MAH-130W-NEXODE-SMART-DISPLAY-POW",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 21000,
+    "value": 21000,
+    "permalink": "https://pcbuilders.lk/ugreen-acc-new-ugreen-20000mah-130w-nexode-smart-display-pow/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-03T171833.565.png",
+    "categories": "Power Banks"
   }
 ]

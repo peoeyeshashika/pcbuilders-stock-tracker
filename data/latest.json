@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T07:11:42.141Z",
+  "scraped_at": "2026-11-21T07:16:31.873Z",
   "counts": {
     "products": 1096,
     "qty_known": 530,
     "qty_hidden": 42,
     "backorder": 524,
     "out_of_stock": 0,
-    "sum_qty": 1214,
-    "total_value": 34678390
+    "sum_qty": 1213,
+    "total_value": 34657390
   },
   "products": [
     {
@@ -2958,8 +2958,8 @@
       "permalink": "https://pcbuilders.lk/ugreen-acc-new-ugreen-20000mah-130w-nexode-smart-display-pow/",
       "price_lkr": 21000,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16455,5 +16455,5 @@
   "baseline": false,
   "previous_date": "2026-11-21 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }
