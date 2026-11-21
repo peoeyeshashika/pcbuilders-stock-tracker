@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T04:36:36.475Z",
+  "scraped_at": "2026-11-21T04:41:35.115Z",
   "counts": {
     "products": 1096,
     "qty_known": 530,
     "qty_hidden": 42,
     "backorder": 524,
     "out_of_stock": 0,
-    "sum_qty": 1216,
-    "total_value": 34751890
+    "sum_qty": 1215,
+    "total_value": 34686890
   },
   "products": [
     {
@@ -48,8 +48,8 @@
       "permalink": "https://pcbuilders.lk/used-aorus-mb-new-aorus-z690-aorus-pro-gaming/",
       "price_lkr": 65000,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16455,5 +16455,5 @@
   "baseline": false,
   "previous_date": "2026-11-21 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }

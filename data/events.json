@@ -446,5 +446,21 @@
     "permalink": "https://pcbuilders.lk/seasonic-psu-new-seasonic-focus-gm-850w/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/image-removebg-preview-2026-10-03T095340.021-500x474.png",
     "categories": "Power Supplies"
+  },
+  {
+    "at": "2026-11-21T04:41:35.115Z",
+    "date": "2026-11-21",
+    "direction": "decrease",
+    "id": 66089,
+    "name": "AORUS Z690 AORUS PRO GAMING MOTHERBOARD (USED ITEM)",
+    "sku": "MB-NEW-AORUS-Z690-AORUS-PRO-GAMING",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 65000,
+    "value": 65000,
+    "permalink": "https://pcbuilders.lk/used-aorus-mb-new-aorus-z690-aorus-pro-gaming/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-21T094438.141-500x491.png",
+    "categories": "Motherboards"
   }
 ]
