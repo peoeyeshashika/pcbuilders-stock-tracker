@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "scraped_at": "2026-11-21T19:16:23.976Z",
+  "scraped_at": "2026-11-21T19:21:16.038Z",
   "counts": {
     "products": 1092,
     "qty_known": 529,
     "qty_hidden": 42,
     "backorder": 521,
     "out_of_stock": 0,
-    "sum_qty": 1203,
-    "total_value": 34808790
+    "sum_qty": 1202,
+    "total_value": 34797790
   },
   "products": [
     {
@@ -8028,8 +8028,8 @@
       "permalink": "https://pcbuilders.lk/prolink-gen-new-prolink-ups-pro701sfc-2-years-board-1-ye/",
       "price_lkr": 11000,
       "is_in_stock": true,
-      "stock_text": "6 in stock",
-      "qty": 6,
+      "stock_text": "5 in stock",
+      "qty": 5,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16395,5 +16395,5 @@
   "baseline": false,
   "previous_date": "2026-11-22 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }

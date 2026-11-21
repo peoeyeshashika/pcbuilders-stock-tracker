@@ -638,5 +638,21 @@
     "permalink": "https://pcbuilders.lk/auto-4/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-25T142858.828.png",
     "categories": "Monitor Arms"
+  },
+  {
+    "at": "2026-11-21T19:21:16.038Z",
+    "date": "2026-11-22",
+    "direction": "decrease",
+    "id": 20382,
+    "name": "PROLINK UPS PRO701SFC (2 YEARS BOARD &amp; 1 YEARS BATTERY)",
+    "sku": "GEN-NEW-PROLINK-UPS-PRO701SFC-2-YEARS-BOARD-1-YE",
+    "from": 6,
+    "to": 5,
+    "delta": -1,
+    "price_lkr": 11000,
+    "value": 11000,
+    "permalink": "https://pcbuilders.lk/prolink-gen-new-prolink-ups-pro701sfc-2-years-board-1-ye/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2023/10/138-20220228073521-pro701sfc-500x600.png",
+    "categories": "PC Components, UPS"
   }
 ]
