@@ -387,7 +387,7 @@
   {
     "date": "2026-11-21",
     "compared_to": "2026-11-21 open",
-    "generated_at": "2026-11-21T11:56:25.644Z",
+    "generated_at": "2026-11-21T12:01:32.731Z",
     "decreases": [
       {
         "id": 35059,
@@ -494,6 +494,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-03T121022.533-500x495.png"
       },
       {
+        "id": 47537,
+        "name": "FANTECH SHIKARI S K515S Wired Gaming KEYBOARD (6 MONTHS WARRANTY)",
+        "sku": "KB-NEW-FANTECH-SHIKARI-S-K515S-WIRED",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 3500,
+        "value": 3500,
+        "permalink": "https://pcbuilders.lk/fantech-shikari-s-k515s/",
+        "categories": "Gaming Peripherals, Keyboards",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-14T105351.182.png"
+      },
+      {
         "id": 19683,
         "name": "ANTEC GRAPHICS CARD HOLDER",
         "sku": "GEN-NEW-ANTEC-HOLDER",
@@ -509,14 +522,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 9,
+      "decrease_items": 10,
       "increase_items": 0,
-      "decrease_units": 9,
+      "decrease_units": 10,
       "increase_units": 0,
-      "decrease_value": 127500,
+      "decrease_value": 131000,
       "increase_value": 0,
-      "net_units": -9,
-      "net_value": -127500
+      "net_units": -10,
+      "net_value": -131000
     }
   }
 ]

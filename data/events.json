@@ -590,5 +590,21 @@
     "permalink": "https://pcbuilders.lk/gamdias-psu-new-gamdias-kratos-m1-600b-rgb-600-watt-bron/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-24T101414.689.png",
     "categories": "PC Components, Power Supplies"
+  },
+  {
+    "at": "2026-11-21T12:01:32.694Z",
+    "date": "2026-11-21",
+    "direction": "decrease",
+    "id": 47537,
+    "name": "FANTECH SHIKARI S K515S Wired Gaming KEYBOARD (6 MONTHS WARRANTY)",
+    "sku": "KB-NEW-FANTECH-SHIKARI-S-K515S-WIRED",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 3500,
+    "value": 3500,
+    "permalink": "https://pcbuilders.lk/fantech-shikari-s-k515s/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-14T105351.182.png",
+    "categories": "Gaming Peripherals, Keyboards"
   }
 ]

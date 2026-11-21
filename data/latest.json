@@ -1,14 +1,14 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T11:56:25.597Z",
+  "scraped_at": "2026-11-21T12:01:32.694Z",
   "counts": {
     "products": 1093,
     "qty_known": 530,
     "qty_hidden": 42,
     "backorder": 521,
     "out_of_stock": 0,
-    "sum_qty": 1207,
-    "total_value": 34947890
+    "sum_qty": 1206,
+    "total_value": 34944390
   },
   "products": [
     {
@@ -5178,8 +5178,8 @@
       "permalink": "https://pcbuilders.lk/fantech-shikari-s-k515s/",
       "price_lkr": 3500,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
