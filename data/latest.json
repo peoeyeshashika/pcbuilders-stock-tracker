@@ -1,31 +1,16 @@
 {
   "date": "2026-11-21",
-  "scraped_at": "2026-11-21T10:41:47.079Z",
+  "scraped_at": "2026-11-21T10:46:46.866Z",
   "counts": {
-    "products": 1094,
-    "qty_known": 530,
+    "products": 1091,
+    "qty_known": 527,
     "qty_hidden": 42,
     "backorder": 522,
     "out_of_stock": 0,
-    "sum_qty": 1212,
-    "total_value": 35004890
+    "sum_qty": 1205,
+    "total_value": 34886390
   },
   "products": [
-    {
-      "id": 66096,
-      "name": "ANTEC CX300 RGB BLACK CASING (used item)",
-      "sku": "CASE-NEW-ANTEC-CX300-RGB-BLACK-CASING-COPY",
-      "permalink": "https://pcbuilders.lk/antec-case-new-antec-cx300-rgb-black-casing-copy-black/",
-      "price_lkr": 10000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/07/image-removebg-preview-34-1.png",
-      "categories": "PC Components, PC Cases"
-    },
     {
       "id": 66094,
       "name": "ANTEC A400 RGB CPU COOLER (used item)",
@@ -1533,8 +1518,8 @@
       "permalink": "https://pcbuilders.lk/used-asus-mb-used-asus-prime-a320m-k/",
       "price_lkr": 15500,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -2110,21 +2095,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-17T125515.254.png",
       "categories": "AMD, PC Components, Processors"
-    },
-    {
-      "id": 62253,
-      "name": "750W POWER SUPPLY (USED ITEM)",
-      "sku": "PSU-USED-750W",
-      "permalink": "https://pcbuilders.lk/used-750w-psu-used-750w/",
-      "price_lkr": 8000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-30T175816.967.png",
-      "categories": "PC Components, Power Supplies"
     },
     {
       "id": 62242,
@@ -2965,21 +2935,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-03T171833.565.png",
       "categories": "Power Banks"
-    },
-    {
-      "id": 60889,
-      "name": "T-Force Vulcan Tuf Gaming Black 3600MHZ DDR4 (2X8GB) Memory (USED ITEM)",
-      "sku": "RAM-USED-T-FORCE-VULCAN-TUF-GAMING-BLACK-3600MHZ-DDR4",
-      "permalink": "https://pcbuilders.lk/used-t-ram-used-t-force-vulcan-tuf-gaming-black-3600mhz-ddr4-black/",
-      "price_lkr": 38000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-30T142328.770.png",
-      "categories": "Memory, PC Components, Desktop RAM"
     },
     {
       "id": 55981,
@@ -4893,8 +4848,8 @@
       "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-k200-black-black/",
       "price_lkr": 4500,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -5643,8 +5598,8 @@
       "permalink": "https://pcbuilders.lk/used-256gb-ssd-used-256gb-nvme-256gb/",
       "price_lkr": 12500,
       "is_in_stock": true,
-      "stock_text": "10 in stock",
-      "qty": 10,
+      "stock_text": "9 in stock",
+      "qty": 9,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -6648,8 +6603,8 @@
       "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-3400g/",
       "price_lkr": 30000,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16425,5 +16380,5 @@
   "baseline": false,
   "previous_date": "2026-11-21 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 4
 }

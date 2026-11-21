@@ -387,8 +387,21 @@
   {
     "date": "2026-11-21",
     "compared_to": "2026-11-21 open",
-    "generated_at": "2026-11-21T10:41:47.141Z",
+    "generated_at": "2026-11-21T10:46:46.937Z",
     "decreases": [
+      {
+        "id": 35059,
+        "name": "AMD RYZEN 5 3400G (TRAY) PROCESSOR (3 YEARS WARRANTY)",
+        "sku": "CPU-NEW-AMD-RYZEN-5-3400G",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 30000,
+        "value": 30000,
+        "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-3400g/",
+        "categories": "AMD, PC Components, Processors",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/3400g.png"
+      },
       {
         "id": 60981,
         "name": "UGREEN 20000mAh 130W Nexode Smart Display Power Bank – PB721 – 35524B – (1 Year Warranty)",
@@ -416,6 +429,32 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2024/08/p1.png"
       },
       {
+        "id": 62934,
+        "name": "ASUS PRIME A320M-K MOTHERBOARD (USED ITEM)",
+        "sku": "MB-USED-ASUS-PRIME-A320M-K",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 15500,
+        "value": 15500,
+        "permalink": "https://pcbuilders.lk/used-asus-mb-used-asus-prime-a320m-k/",
+        "categories": "PC Components, Motherboards",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/final_a320m_k.png"
+      },
+      {
+        "id": 43919,
+        "name": "256GB NVME (USED ITEM)",
+        "sku": "SSD-USED-256GB-NVME",
+        "from": 10,
+        "to": 9,
+        "delta": -1,
+        "price_lkr": 12500,
+        "value": 12500,
+        "permalink": "https://pcbuilders.lk/used-256gb-ssd-used-256gb-nvme-256gb/",
+        "categories": "PC Components, Storage, NVMe SSD",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-27T204701.730-500x433.png"
+      },
+      {
         "id": 51651,
         "name": "MEETION MK009 Hot-Swappable Mechanical Gaming Keyboard (1 YEAR WARRANTY)",
         "sku": "KB-NEW-MEETION-MK009-MECHANICAL",
@@ -427,6 +466,19 @@
         "permalink": "https://pcbuilders.lk/meetion-kb-new-meetion-mk009-mechanical/",
         "categories": "Keyboards, Gaming Peripherals",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/mk009-meetion-official.png"
+      },
+      {
+        "id": 48636,
+        "name": "Jungle Leopard K200 CPU Cooler BLACK (6 MONTHS WARRANTY)",
+        "sku": "COOL-NEW-JUNGLE-LEOPARD-K200-BLACK",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 4500,
+        "value": 4500,
+        "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-k200-black-black/",
+        "categories": "Air Coolers, PC Components, CPU Cooling",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-03T121022.533-500x495.png"
       },
       {
         "id": 19683,
@@ -444,14 +496,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 4,
+      "decrease_items": 8,
       "increase_items": 0,
-      "decrease_units": 4,
+      "decrease_units": 8,
       "increase_units": 0,
-      "decrease_value": 51500,
+      "decrease_value": 114000,
       "increase_value": 0,
-      "net_units": -4,
-      "net_value": -51500
+      "net_units": -8,
+      "net_value": -114000
     }
   }
 ]
