@@ -702,5 +702,37 @@
     "permalink": "https://pcbuilders.lk/arctic-gen-new-arctic-mx-7-4g-cn-ultimate-performance-t/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-06T162805.141.png",
     "categories": "Thermal Paste, PC Components, CPU Cooling"
+  },
+  {
+    "at": "2026-11-22T05:11:19.947Z",
+    "date": "2026-11-22",
+    "direction": "decrease",
+    "id": 65146,
+    "name": "FANTECH WG9 KANATA WIRELESS MOUSE (6 MONTHS WARRANTY)",
+    "sku": "MOU-NEW-FANTECH-WG9-KANATA-WIRELESS-MOUSE",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 4000,
+    "value": 4000,
+    "permalink": "https://pcbuilders.lk/fantech-mou-new-fantech-wg9-kanata-wireless-mouse/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-04T141337.280.png",
+    "categories": "Mouse"
+  },
+  {
+    "at": "2026-11-22T05:11:19.947Z",
+    "date": "2026-11-22",
+    "direction": "decrease",
+    "id": 61221,
+    "name": "MEETION P100 Large Extended Gaming Mouse Pad (1 YEAR WARRANTY)",
+    "sku": "ACC-NEW-MEETION-P100-LARGE-EXTENDED-MOUSE-PAD",
+    "from": 4,
+    "to": 3,
+    "delta": -1,
+    "price_lkr": 2000,
+    "value": 2000,
+    "permalink": "https://pcbuilders.lk/meetion-acc-new-meetion-p100-large-extended-mouse-pad/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/p100-meetion-official.png",
+    "categories": "Gaming Peripherals, Mouse Mats"
   }
 ]

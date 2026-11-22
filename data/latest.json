@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "scraped_at": "2026-11-22T05:06:22.325Z",
+  "scraped_at": "2026-11-22T05:11:19.947Z",
   "counts": {
     "products": 1090,
     "qty_known": 526,
     "qty_hidden": 42,
     "backorder": 522,
     "out_of_stock": 0,
-    "sum_qty": 1196,
-    "total_value": 34701040
+    "sum_qty": 1194,
+    "total_value": 34695040
   },
   "products": [
     {
@@ -858,8 +858,8 @@
       "permalink": "https://pcbuilders.lk/fantech-mou-new-fantech-wg9-kanata-wireless-mouse/",
       "price_lkr": 4000,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -2553,8 +2553,8 @@
       "permalink": "https://pcbuilders.lk/meetion-acc-new-meetion-p100-large-extended-mouse-pad/",
       "price_lkr": 2000,
       "is_in_stock": true,
-      "stock_text": "4 in stock",
-      "qty": 4,
+      "stock_text": "3 in stock",
+      "qty": 3,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16365,5 +16365,5 @@
   "baseline": false,
   "previous_date": "2026-11-22 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 2
 }

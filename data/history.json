@@ -561,7 +561,7 @@
   {
     "date": "2026-11-22",
     "compared_to": "2026-11-22 open",
-    "generated_at": "2026-11-22T05:06:22.364Z",
+    "generated_at": "2026-11-22T05:11:19.985Z",
     "decreases": [
       {
         "id": 20382,
@@ -590,6 +590,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-15T094703.508.png"
       },
       {
+        "id": 65146,
+        "name": "FANTECH WG9 KANATA WIRELESS MOUSE (6 MONTHS WARRANTY)",
+        "sku": "MOU-NEW-FANTECH-WG9-KANATA-WIRELESS-MOUSE",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 4000,
+        "value": 4000,
+        "permalink": "https://pcbuilders.lk/fantech-mou-new-fantech-wg9-kanata-wireless-mouse/",
+        "categories": "Mouse",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-04T141337.280.png"
+      },
+      {
         "id": 53295,
         "name": "Arctic MX-7 (4g) (CN) Ultimate Performance Thermal Paste",
         "sku": "GEN-NEW-ARCTIC-MX-7-4G-CN-ULTIMATE-PERFORMANCE-T",
@@ -601,6 +614,19 @@
         "permalink": "https://pcbuilders.lk/arctic-gen-new-arctic-mx-7-4g-cn-ultimate-performance-t/",
         "categories": "Thermal Paste, PC Components, CPU Cooling",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-06T162805.141.png"
+      },
+      {
+        "id": 61221,
+        "name": "MEETION P100 Large Extended Gaming Mouse Pad (1 YEAR WARRANTY)",
+        "sku": "ACC-NEW-MEETION-P100-LARGE-EXTENDED-MOUSE-PAD",
+        "from": 4,
+        "to": 3,
+        "delta": -1,
+        "price_lkr": 2000,
+        "value": 2000,
+        "permalink": "https://pcbuilders.lk/meetion-acc-new-meetion-p100-large-extended-mouse-pad/",
+        "categories": "Gaming Peripherals, Mouse Mats",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/p100-meetion-official.png"
       },
       {
         "id": 24279,
@@ -618,14 +644,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 4,
+      "decrease_items": 6,
       "increase_items": 0,
-      "decrease_units": 4,
+      "decrease_units": 6,
       "increase_units": 0,
-      "decrease_value": 24750,
+      "decrease_value": 30750,
       "increase_value": 0,
-      "net_units": -4,
-      "net_value": -24750
+      "net_units": -6,
+      "net_value": -30750
     }
   }
 ]
