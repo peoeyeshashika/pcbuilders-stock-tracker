@@ -1,14 +1,14 @@
 {
   "date": "2026-11-23",
-  "scraped_at": "2026-11-22T19:25:45.962Z",
+  "scraped_at": "2026-11-22T19:30:51.621Z",
   "counts": {
-    "products": 1078,
-    "qty_known": 510,
+    "products": 1077,
+    "qty_known": 509,
     "qty_hidden": 42,
     "backorder": 526,
     "out_of_stock": 0,
-    "sum_qty": 1153,
-    "total_value": 33213740
+    "sum_qty": 1152,
+    "total_value": 33206240
   },
   "products": [
     {
@@ -5710,21 +5710,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/12/2fef4b5ec309faa2ec7fb19539a28461e7790b02-500x500-1.png",
       "categories": "New Laptops, Laptops"
-    },
-    {
-      "id": 42326,
-      "name": "ANTEC RGB GPU HOLDER",
-      "sku": "GEN-NEW-ANTEC-RGB-GPU-HOLDER",
-      "permalink": "https://pcbuilders.lk/antec-3/",
-      "price_lkr": 7500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/12/JckiS6Ti6TfNcOVstXTV9LHqRQlnqJxxtJl14AV4-500x600.webp",
-      "categories": "Gaming &amp;amp; Desk Setup, GPU Holders &amp;amp; Mounts"
     },
     {
       "id": 42281,
