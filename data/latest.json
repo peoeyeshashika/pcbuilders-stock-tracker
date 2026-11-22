@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "scraped_at": "2026-11-22T06:11:21.599Z",
+  "scraped_at": "2026-11-22T06:16:24.643Z",
   "counts": {
     "products": 1089,
-    "qty_known": 525,
+    "qty_known": 524,
     "qty_hidden": 42,
-    "backorder": 522,
+    "backorder": 523,
     "out_of_stock": 0,
-    "sum_qty": 1193,
-    "total_value": 34646890
+    "sum_qty": 1192,
+    "total_value": 34631390
   },
   "products": [
     {
@@ -1285,21 +1285,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/rog_thor_1200w-500x500.png",
       "categories": "Power Supplies, PC Components"
-    },
-    {
-      "id": 64382,
-      "name": "ASUS TUF GAMING H3 GUN METAL GAMING HEADSET (1 YEAR WARRANTY)",
-      "sku": "HS-NEW-ASUS-TUF-GAMING-H3-GUN-METAL",
-      "permalink": "https://pcbuilders.lk/asus-tuf-gaming-h3-gun-metal-gaming-headset-1-year-warranty/",
-      "price_lkr": 15500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/tuf_h3-500x500.png",
-      "categories": "Headsets, Gaming Peripherals"
     },
     {
       "id": 64299,
@@ -8740,6 +8725,21 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/ASUS-TUF-GAMING-B850-PLUS-WIFI-500x600.webp",
       "categories": "Motherboards, PC Components"
+    },
+    {
+      "id": 64382,
+      "name": "ASUS TUF GAMING H3 GUN METAL GAMING HEADSET (1 YEAR WARRANTY)",
+      "sku": "HS-NEW-ASUS-TUF-GAMING-H3-GUN-METAL",
+      "permalink": "https://pcbuilders.lk/asus-tuf-gaming-h3-gun-metal-gaming-headset-1-year-warranty/",
+      "price_lkr": 15500,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/tuf_h3-500x500.png",
+      "categories": "Headsets, Gaming Peripherals"
     },
     {
       "id": 64380,
