@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "scraped_at": "2026-11-22T04:01:25.951Z",
+  "scraped_at": "2026-11-22T04:06:22.497Z",
   "counts": {
-    "products": 1093,
-    "qty_known": 529,
+    "products": 1091,
+    "qty_known": 527,
     "qty_hidden": 42,
     "backorder": 522,
     "out_of_stock": 0,
-    "sum_qty": 1201,
-    "total_value": 34797040
+    "sum_qty": 1197,
+    "total_value": 34733040
   },
   "products": [
     {
@@ -138,8 +138,8 @@
       "permalink": "https://pcbuilders.lk/auto-23/",
       "price_lkr": 9500,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -1465,21 +1465,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/final_gpu_emtek1660s.png",
       "categories": "Graphics Cards, PC Components"
-    },
-    {
-      "id": 62953,
-      "name": "SEASONIC FOCUS GM 850W POWER SUPPLY (3 MONTHS WARRANTY)",
-      "sku": "PSU-NEW-SEASONIC-FOCUS-GM-850W",
-      "permalink": "https://pcbuilders.lk/seasonic-psu-new-seasonic-focus-gm-850w/",
-      "price_lkr": 11000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/image-removebg-preview-2026-10-03T095340.021-500x474.png",
-      "categories": "Power Supplies"
     },
     {
       "id": 62949,
@@ -4113,8 +4098,8 @@
       "permalink": "https://pcbuilders.lk/arctic-gen-new-arctic-mx-7-4g-cn-ultimate-performance-t/",
       "price_lkr": 3500,
       "is_in_stock": true,
-      "stock_text": "8 in stock",
-      "qty": 8,
+      "stock_text": "7 in stock",
+      "qty": 7,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -7720,21 +7705,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/09/image-removebg-preview-intel.png",
       "categories": "PC Components, Processors, INTEL"
-    },
-    {
-      "id": 22447,
-      "name": "G.SKILL TRIDENTZ RGB RAM 16GB (2 X 8GB) 3200MHZ (USED ITEM)",
-      "sku": "RAM-USED-G-SKILL-TRIDENTZ-RGB-16GB-2-X-8GB-3200MH",
-      "permalink": "https://pcbuilders.lk/used-g-ram-used-g-skill-tridentz-rgb-16gb-2-x-8gb-3200mh-16gb/",
-      "price_lkr": 40000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/1878-20210401065634-156284046110-500x600.png",
-      "categories": "Desktop RAM, Memory, PC Components"
     },
     {
       "id": 22442,
@@ -16410,5 +16380,5 @@
   "baseline": false,
   "previous_date": "2026-11-22 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 2
 }

@@ -670,5 +670,37 @@
     "permalink": "https://pcbuilders.lk/computer-3/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-02T102220.224.png",
     "categories": "HDMI Cables, Cables &amp;amp; Adapters"
+  },
+  {
+    "at": "2026-11-22T04:06:22.497Z",
+    "date": "2026-11-22",
+    "direction": "decrease",
+    "id": 65838,
+    "name": "RUIX GT620 AIR COOLER (6 MONTHS WARRANTY)",
+    "sku": "COOL-NEW-RUIX-GT620",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 9500,
+    "value": 9500,
+    "permalink": "https://pcbuilders.lk/auto-23/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-15T094703.508.png",
+    "categories": "Air Coolers"
+  },
+  {
+    "at": "2026-11-22T04:06:22.497Z",
+    "date": "2026-11-22",
+    "direction": "decrease",
+    "id": 53295,
+    "name": "Arctic MX-7 (4g) (CN) Ultimate Performance Thermal Paste",
+    "sku": "GEN-NEW-ARCTIC-MX-7-4G-CN-ULTIMATE-PERFORMANCE-T",
+    "from": 8,
+    "to": 7,
+    "delta": -1,
+    "price_lkr": 3500,
+    "value": 3500,
+    "permalink": "https://pcbuilders.lk/arctic-gen-new-arctic-mx-7-4g-cn-ultimate-performance-t/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-06T162805.141.png",
+    "categories": "Thermal Paste, PC Components, CPU Cooling"
   }
 ]
