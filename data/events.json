@@ -878,5 +878,53 @@
     "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-lpx-16gb-16x1-ddr4-320-16gb/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-40.png",
     "categories": "PC Components, Memory, Desktop RAM"
+  },
+  {
+    "at": "2026-11-22T08:06:21.941Z",
+    "date": "2026-11-22",
+    "direction": "decrease",
+    "id": 61557,
+    "name": "AWP AID1200 1200VA LINE INTERACTIVE UPS (UNIT 5Y / BATTERY 2Y)",
+    "sku": "GEN-NEW-AWP-AID1200-1200VA-LINE-INTERACTIVE-UPS",
+    "from": 4,
+    "to": 3,
+    "delta": -1,
+    "price_lkr": 21900,
+    "value": 21900,
+    "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-7.png",
+    "categories": "UPS, PC Components"
+  },
+  {
+    "at": "2026-11-22T08:06:21.941Z",
+    "date": "2026-11-22",
+    "direction": "decrease",
+    "id": 54464,
+    "name": "GIGABYTE B550M K WIFI6E MOTHERBOARD (3 YEARS WARRANTY)",
+    "sku": "MB-NEW-GIGABYTE-B550M-K-WIFI6E",
+    "from": 5,
+    "to": 4,
+    "delta": -1,
+    "price_lkr": 52000,
+    "value": 52000,
+    "permalink": "https://pcbuilders.lk/gigabyte-mb-new-gigabyte-b550m-k-wifi6e/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/07/image-removebg-preview-2026-07-21T102723.196-500x488.png",
+    "categories": "PC Components, Motherboards"
+  },
+  {
+    "at": "2026-11-22T08:06:21.941Z",
+    "date": "2026-11-22",
+    "direction": "decrease",
+    "id": 43083,
+    "name": "Jungle Leopard Astroshel V2G 360 LIQUID COOLER – WHITE (3 YEARS WARRANTY)",
+    "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROSHEL-V2G-360&amp;#8212;WHITE",
+    "from": 4,
+    "to": 3,
+    "delta": -1,
+    "price_lkr": 34500,
+    "value": 34500,
+    "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-astroshel-v2g-360-white-white/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-05-26T120856.250.png",
+    "categories": "Liquid Coolers, PC Components, CPU Cooling"
   }
 ]

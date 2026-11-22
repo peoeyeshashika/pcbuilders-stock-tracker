@@ -561,7 +561,7 @@
   {
     "date": "2026-11-22",
     "compared_to": "2026-11-22 open",
-    "generated_at": "2026-11-22T08:01:40.869Z",
+    "generated_at": "2026-11-22T08:06:22.011Z",
     "decreases": [
       {
         "id": 19252,
@@ -575,19 +575,6 @@
         "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-lpx-16gb-16x1-ddr4-320-16gb/",
         "categories": "PC Components, Memory, Desktop RAM",
         "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-40.png"
-      },
-      {
-        "id": 22387,
-        "name": "ADDLINK S90 LITE 512GB SSD NVME PCIE GEN4X4 M.2 (3 YEARS WARRANTY)",
-        "sku": "SSD-NEW-ADDLINK-S90-LITE-512GB-NVME-GEN4X4",
-        "from": 4,
-        "to": 1,
-        "delta": -3,
-        "price_lkr": 36000,
-        "value": 108000,
-        "permalink": "https://pcbuilders.lk/addlink-ssd-new-addlink-s90-lite-512gb-nvme-gen4x4-512gb/",
-        "categories": "PC Components, Storage, NVMe SSD",
-        "image": "https://pcbuilders.lk/wp-content/uploads/2024/07/121.png"
       },
       {
         "id": 62622,
@@ -614,6 +601,19 @@
         "permalink": "https://pcbuilders.lk/asus-mb-new-asus-prime-a520m-k/",
         "categories": "Motherboards, PC Components",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/tD2VstqYAGgljrpChjPy16BVrNBNUFy28k9xc46k.webp"
+      },
+      {
+        "id": 54464,
+        "name": "GIGABYTE B550M K WIFI6E MOTHERBOARD (3 YEARS WARRANTY)",
+        "sku": "MB-NEW-GIGABYTE-B550M-K-WIFI6E",
+        "from": 5,
+        "to": 4,
+        "delta": -1,
+        "price_lkr": 52000,
+        "value": 52000,
+        "permalink": "https://pcbuilders.lk/gigabyte-mb-new-gigabyte-b550m-k-wifi6e/",
+        "categories": "PC Components, Motherboards",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/07/image-removebg-preview-2026-07-21T102723.196-500x488.png"
       },
       {
         "id": 23738,
@@ -666,6 +666,32 @@
         "permalink": "https://pcbuilders.lk/gamdias-psu-new-gamdias-kratos-m1-600b-rgb-600-watt-bron/",
         "categories": "PC Components, Power Supplies",
         "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-24T101414.689.png"
+      },
+      {
+        "id": 43083,
+        "name": "Jungle Leopard Astroshel V2G 360 LIQUID COOLER – WHITE (3 YEARS WARRANTY)",
+        "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROSHEL-V2G-360&amp;#8212;WHITE",
+        "from": 4,
+        "to": 3,
+        "delta": -1,
+        "price_lkr": 34500,
+        "value": 34500,
+        "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-astroshel-v2g-360-white-white/",
+        "categories": "Liquid Coolers, PC Components, CPU Cooling",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-05-26T120856.250.png"
+      },
+      {
+        "id": 61557,
+        "name": "AWP AID1200 1200VA LINE INTERACTIVE UPS (UNIT 5Y / BATTERY 2Y)",
+        "sku": "GEN-NEW-AWP-AID1200-1200VA-LINE-INTERACTIVE-UPS",
+        "from": 4,
+        "to": 3,
+        "delta": -1,
+        "price_lkr": 21900,
+        "value": 21900,
+        "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
+        "categories": "UPS, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-7.png"
       },
       {
         "id": 20382,
@@ -735,14 +761,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 13,
+      "decrease_items": 15,
       "increase_items": 0,
       "decrease_units": 23,
       "increase_units": 0,
-      "decrease_value": 665500,
+      "decrease_value": 665900,
       "increase_value": 0,
       "net_units": -23,
-      "net_value": -665500
+      "net_value": -665900
     }
   }
 ]
