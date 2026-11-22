@@ -561,8 +561,21 @@
   {
     "date": "2026-11-22",
     "compared_to": "2026-11-22 open",
-    "generated_at": "2026-11-22T05:16:27.408Z",
+    "generated_at": "2026-11-22T05:21:27.578Z",
     "decreases": [
+      {
+        "id": 43564,
+        "name": "PXN V9 GEN 2 PRO Steering Wheel (1 YEAR WARRANTY)",
+        "sku": "GEN-NEW-PXN-V9-GEN-2-RACING-WHEEL",
+        "from": 9,
+        "to": 8,
+        "delta": -1,
+        "price_lkr": 45000,
+        "value": 45000,
+        "permalink": "https://pcbuilders.lk/pxn-gen-new-pxn-v9-gen-2-racing-wheel/",
+        "categories": "SIM RACING, Steering Wheels",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-17T143049.402.png"
+      },
       {
         "id": 20382,
         "name": "PROLINK UPS PRO701SFC (2 YEARS BOARD &amp; 1 YEARS BATTERY)",
@@ -627,19 +640,6 @@
         "permalink": "https://pcbuilders.lk/meetion-acc-new-meetion-p100-large-extended-mouse-pad/",
         "categories": "Gaming Peripherals, Mouse Mats",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/p100-meetion-official.png"
-      },
-      {
-        "id": 24279,
-        "name": "COMPUTER CABLE – HDMI CABLE",
-        "sku": "ACC-NEW-COMPUTER-CABLE&amp;#8212;HDMI-CABLE",
-        "from": 2,
-        "to": 1,
-        "delta": -1,
-        "price_lkr": 750,
-        "value": 750,
-        "permalink": "https://pcbuilders.lk/computer-3/",
-        "categories": "HDMI Cables, Cables &amp;amp; Adapters",
-        "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-02T102220.224.png"
       }
     ],
     "increases": [],
@@ -648,10 +648,10 @@
       "increase_items": 0,
       "decrease_units": 6,
       "increase_units": 0,
-      "decrease_value": 30750,
+      "decrease_value": 75000,
       "increase_value": 0,
       "net_units": -6,
-      "net_value": -30750
+      "net_value": -75000
     }
   }
 ]

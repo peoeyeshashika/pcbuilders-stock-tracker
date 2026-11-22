@@ -734,5 +734,37 @@
     "permalink": "https://pcbuilders.lk/meetion-acc-new-meetion-p100-large-extended-mouse-pad/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/p100-meetion-official.png",
     "categories": "Gaming Peripherals, Mouse Mats"
+  },
+  {
+    "at": "2026-11-22T05:21:27.540Z",
+    "date": "2026-11-22",
+    "direction": "decrease",
+    "id": 43564,
+    "name": "PXN V9 GEN 2 PRO Steering Wheel (1 YEAR WARRANTY)",
+    "sku": "GEN-NEW-PXN-V9-GEN-2-RACING-WHEEL",
+    "from": 9,
+    "to": 8,
+    "delta": -1,
+    "price_lkr": 45000,
+    "value": 45000,
+    "permalink": "https://pcbuilders.lk/pxn-gen-new-pxn-v9-gen-2-racing-wheel/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-17T143049.402.png",
+    "categories": "SIM RACING, Steering Wheels"
+  },
+  {
+    "at": "2026-11-22T05:21:27.540Z",
+    "date": "2026-11-22",
+    "direction": "increase",
+    "id": 24279,
+    "name": "COMPUTER CABLE – HDMI CABLE",
+    "sku": "ACC-NEW-COMPUTER-CABLE&amp;#8212;HDMI-CABLE",
+    "from": 1,
+    "to": 2,
+    "delta": 1,
+    "price_lkr": 750,
+    "value": 750,
+    "permalink": "https://pcbuilders.lk/computer-3/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-02T102220.224.png",
+    "categories": "HDMI Cables, Cables &amp;amp; Adapters"
   }
 ]

@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "scraped_at": "2026-11-22T05:16:27.332Z",
+  "scraped_at": "2026-11-22T05:21:27.540Z",
   "counts": {
-    "products": 1090,
+    "products": 1089,
     "qty_known": 526,
     "qty_hidden": 42,
-    "backorder": 522,
+    "backorder": 521,
     "out_of_stock": 0,
     "sum_qty": 1194,
-    "total_value": 34695040
+    "total_value": 34650790
   },
   "products": [
     {
@@ -5628,8 +5628,8 @@
       "permalink": "https://pcbuilders.lk/pxn-gen-new-pxn-v9-gen-2-racing-wheel/",
       "price_lkr": 45000,
       "is_in_stock": true,
-      "stock_text": "9 in stock",
-      "qty": 9,
+      "stock_text": "8 in stock",
+      "qty": 8,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -7563,8 +7563,8 @@
       "permalink": "https://pcbuilders.lk/computer-3/",
       "price_lkr": 750,
       "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
+      "stock_text": "2 in stock",
+      "qty": 2,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -13512,21 +13512,6 @@
       "categories": "PC Components, Processors, INTEL"
     },
     {
-      "id": 37072,
-      "name": "ANTEC SF850X 850W ATX3.1 80+ GOLD Power Supply (7 YEARS WARRANTY)",
-      "sku": "PSU-NEW-ANTEC-SF850X-850W-ATX3-1-80-GOLD",
-      "permalink": "https://pcbuilders.lk/antec-psu-new-antec-sf850x-850w-atx3-1-80-gold-gold/",
-      "price_lkr": 45000,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-18T165105.044.png",
-      "categories": "Power Supplies, PC Components"
-    },
-    {
       "id": 37069,
       "name": "ANTEC HCG 1200W PRO PCIe 5.1 ATX3.1 80+ PLATINUM Full Modular Power Supply (10 YEARS WARRANTY)",
       "sku": "PSU-NEW-ANTEC-HCG-1200W-PRO-5-1-ATX3-1-80-PLATIN",
@@ -16365,5 +16350,5 @@
   "baseline": false,
   "previous_date": "2026-11-22 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 2
 }
