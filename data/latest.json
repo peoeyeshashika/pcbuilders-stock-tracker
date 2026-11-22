@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "scraped_at": "2026-11-22T07:26:18.082Z",
+  "scraped_at": "2026-11-22T07:31:23.066Z",
   "counts": {
-    "products": 1090,
-    "qty_known": 524,
+    "products": 1089,
+    "qty_known": 523,
     "qty_hidden": 42,
     "backorder": 524,
     "out_of_stock": 0,
-    "sum_qty": 1190,
-    "total_value": 34478890
+    "sum_qty": 1189,
+    "total_value": 34475390
   },
   "products": [
     {
@@ -3279,21 +3279,6 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-15T122637.099.png",
-      "categories": "Action Figures"
-    },
-    {
-      "id": 55415,
-      "name": "MONKEY D. LUFFY II ACTION FIGURE – 18cm",
-      "sku": "ACC-NEW-MONKEY-D-LUFFY-II-ACTION-FIGURE&amp;#8212;18CM",
-      "permalink": "https://pcbuilders.lk/monkey-action-figure-18cm-2/",
-      "price_lkr": 3500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-15T121010.476.png",
       "categories": "Action Figures"
     },
     {
