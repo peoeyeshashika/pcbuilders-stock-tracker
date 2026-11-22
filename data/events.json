@@ -926,5 +926,21 @@
     "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-astroshel-v2g-360-white-white/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-05-26T120856.250.png",
     "categories": "Liquid Coolers, PC Components, CPU Cooling"
+  },
+  {
+    "at": "2026-11-22T09:15:55.051Z",
+    "date": "2026-11-22",
+    "direction": "decrease",
+    "id": 49876,
+    "name": "PWM &#038; ARGB LED CONTROLLER HUB 9 PORTS (6 MONTHS WARRANTY)",
+    "sku": "GEN-NEW-PWM-ARGB-LED-HUB-9-PORTS",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 3000,
+    "value": 3000,
+    "permalink": "https://pcbuilders.lk/pwm-gen-new-pwm-argb-led-hub-9-ports/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-09T162931.469.png",
+    "categories": "ARGB Controllers, PC Components, PC Lighting"
   }
 ]

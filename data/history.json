@@ -561,7 +561,7 @@
   {
     "date": "2026-11-22",
     "compared_to": "2026-11-22 open",
-    "generated_at": "2026-11-22T09:10:48.544Z",
+    "generated_at": "2026-11-22T09:15:55.085Z",
     "decreases": [
       {
         "id": 19252,
@@ -746,6 +746,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-06T162805.141.png"
       },
       {
+        "id": 49876,
+        "name": "PWM &#038; ARGB LED CONTROLLER HUB 9 PORTS (6 MONTHS WARRANTY)",
+        "sku": "GEN-NEW-PWM-ARGB-LED-HUB-9-PORTS",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 3000,
+        "value": 3000,
+        "permalink": "https://pcbuilders.lk/pwm-gen-new-pwm-argb-led-hub-9-ports/",
+        "categories": "ARGB Controllers, PC Components, PC Lighting",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-09T162931.469.png"
+      },
+      {
         "id": 61221,
         "name": "MEETION P100 Large Extended Gaming Mouse Pad (1 YEAR WARRANTY)",
         "sku": "ACC-NEW-MEETION-P100-LARGE-EXTENDED-MOUSE-PAD",
@@ -761,14 +774,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 15,
+      "decrease_items": 16,
       "increase_items": 0,
-      "decrease_units": 23,
+      "decrease_units": 24,
       "increase_units": 0,
-      "decrease_value": 665900,
+      "decrease_value": 668900,
       "increase_value": 0,
-      "net_units": -23,
-      "net_value": -665900
+      "net_units": -24,
+      "net_value": -668900
     }
   }
 ]
