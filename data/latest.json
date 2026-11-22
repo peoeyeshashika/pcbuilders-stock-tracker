@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "scraped_at": "2026-11-22T10:10:46.213Z",
+  "scraped_at": "2026-11-22T10:15:48.040Z",
   "counts": {
     "products": 1078,
     "qty_known": 510,
     "qty_hidden": 42,
     "backorder": 526,
     "out_of_stock": 0,
-    "sum_qty": 1154,
-    "total_value": 33215740
+    "sum_qty": 1153,
+    "total_value": 33214840
   },
   "products": [
     {
@@ -7908,8 +7908,8 @@
       "permalink": "https://pcbuilders.lk/computer-to-displayport-1/",
       "price_lkr": 900,
       "is_in_stock": true,
-      "stock_text": "8 in stock",
-      "qty": 8,
+      "stock_text": "7 in stock",
+      "qty": 7,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16185,5 +16185,5 @@
   "baseline": false,
   "previous_date": "2026-11-22 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }

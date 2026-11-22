@@ -561,7 +561,7 @@
   {
     "date": "2026-11-22",
     "compared_to": "2026-11-22 open",
-    "generated_at": "2026-11-22T10:10:46.234Z",
+    "generated_at": "2026-11-22T10:15:48.063Z",
     "decreases": [
       {
         "id": 19252,
@@ -770,18 +770,31 @@
         "permalink": "https://pcbuilders.lk/meetion-acc-new-meetion-p100-large-extended-mouse-pad/",
         "categories": "Gaming Peripherals, Mouse Mats",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/p100-meetion-official.png"
+      },
+      {
+        "id": 19409,
+        "name": "COMPUTER CABLE – DISPLAYPORT TO DISPLAYPORT 1.8M CABLE (6 MONTHS WARRANTY)",
+        "sku": "ACC-NEW-COMPUTER-CABLE&amp;#8212;DISPLAYPORT-TO-DISPLAYP",
+        "from": 8,
+        "to": 7,
+        "delta": -1,
+        "price_lkr": 900,
+        "value": 900,
+        "permalink": "https://pcbuilders.lk/computer-to-displayport-1/",
+        "categories": "DisplayPort Cables, Cables &amp;amp; Adapters",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-28T051048.649.png"
       }
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 16,
+      "decrease_items": 17,
       "increase_items": 0,
-      "decrease_units": 24,
+      "decrease_units": 25,
       "increase_units": 0,
-      "decrease_value": 668900,
+      "decrease_value": 669800,
       "increase_value": 0,
-      "net_units": -24,
-      "net_value": -668900
+      "net_units": -25,
+      "net_value": -669800
     }
   }
 ]
