@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "scraped_at": "2026-11-22T07:16:27.747Z",
+  "scraped_at": "2026-11-22T07:21:25.347Z",
   "counts": {
     "products": 1090,
     "qty_known": 524,
     "qty_hidden": 42,
     "backorder": 524,
     "out_of_stock": 0,
-    "sum_qty": 1191,
-    "total_value": 34586390
+    "sum_qty": 1190,
+    "total_value": 34478890
   },
   "products": [
     {
@@ -1713,8 +1713,8 @@
       "permalink": "https://pcbuilders.lk/lexar-ssd-new-lexar-nq790-2tb-m-2-2280-pcie-gen4x4-nvme-ssd-2tb/",
       "price_lkr": 107500,
       "is_in_stock": true,
-      "stock_text": "3 in stock",
-      "qty": 3,
+      "stock_text": "2 in stock",
+      "qty": 2,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16365,5 +16365,5 @@
   "baseline": false,
   "previous_date": "2026-11-22 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }

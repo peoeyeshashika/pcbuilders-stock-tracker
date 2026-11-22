@@ -782,5 +782,21 @@
     "permalink": "https://pcbuilders.lk/lian-case-new-lian-li-lancool-217-inf-black-case-black/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/image-removebg-preview-2026-10-22T131836.356.png",
     "categories": "PC Cases"
+  },
+  {
+    "at": "2026-11-22T07:21:25.347Z",
+    "date": "2026-11-22",
+    "direction": "decrease",
+    "id": 62622,
+    "name": "Lexar NQ790 2TB M.2 2280 PCIe Gen4x4 NVMe SSD (3 years warranty)",
+    "sku": "SSD-NEW-LEXAR-NQ790-2TB-M-2-2280-PCIE-GEN4X4-NVME-SSD",
+    "from": 3,
+    "to": 2,
+    "delta": -1,
+    "price_lkr": 107500,
+    "value": 107500,
+    "permalink": "https://pcbuilders.lk/lexar-ssd-new-lexar-nq790-2tb-m-2-2280-pcie-gen4x4-nvme-ssd-2tb/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-25T110641.359.png",
+    "categories": "Storage, NVMe SSD"
   }
 ]
