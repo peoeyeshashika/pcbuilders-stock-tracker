@@ -561,7 +561,7 @@
   {
     "date": "2026-11-22",
     "compared_to": "2026-11-22 open",
-    "generated_at": "2026-11-22T11:25:46.737Z",
+    "generated_at": "2026-11-22T11:30:52.151Z",
     "decreases": [
       {
         "id": 19252,
@@ -681,17 +681,17 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-05-26T120856.250.png"
       },
       {
-        "id": 61557,
-        "name": "AWP AID1200 1200VA LINE INTERACTIVE UPS (UNIT 5Y / BATTERY 2Y)",
-        "sku": "GEN-NEW-AWP-AID1200-1200VA-LINE-INTERACTIVE-UPS",
+        "id": 20380,
+        "name": "PROLINK UPS PRO1201SFC (2 YEARS BOARD &#038; 1 YEARS BATTERY)",
+        "sku": "GEN-NEW-PROLINK-UPS-PRO1201SFC-2-YEARS-BOARD-1-Y",
         "from": 4,
         "to": 3,
         "delta": -1,
-        "price_lkr": 21900,
-        "value": 21900,
-        "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
-        "categories": "UPS, PC Components",
-        "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-7.png"
+        "price_lkr": 23000,
+        "value": 23000,
+        "permalink": "https://pcbuilders.lk/prolink-gen-new-prolink-ups-pro1201sfc-2-years-board-1-y/",
+        "categories": "PC Components, UPS",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2023/10/1068-20230322063323-ups_3__1.png"
       },
       {
         "id": 20382,
@@ -791,10 +791,10 @@
       "increase_items": 0,
       "decrease_units": 25,
       "increase_units": 0,
-      "decrease_value": 669800,
+      "decrease_value": 670900,
       "increase_value": 0,
       "net_units": -25,
-      "net_value": -669800
+      "net_value": -670900
     }
   }
 ]

@@ -958,5 +958,37 @@
     "permalink": "https://pcbuilders.lk/computer-to-displayport-1/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-28T051048.649.png",
     "categories": "DisplayPort Cables, Cables &amp;amp; Adapters"
+  },
+  {
+    "at": "2026-11-22T11:30:52.129Z",
+    "date": "2026-11-22",
+    "direction": "increase",
+    "id": 61557,
+    "name": "AWP AID1200 1200VA LINE INTERACTIVE UPS (UNIT 5Y / BATTERY 2Y)",
+    "sku": "GEN-NEW-AWP-AID1200-1200VA-LINE-INTERACTIVE-UPS",
+    "from": 3,
+    "to": 4,
+    "delta": 1,
+    "price_lkr": 21900,
+    "value": 21900,
+    "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-7.png",
+    "categories": "UPS, PC Components"
+  },
+  {
+    "at": "2026-11-22T11:30:52.129Z",
+    "date": "2026-11-22",
+    "direction": "decrease",
+    "id": 20380,
+    "name": "PROLINK UPS PRO1201SFC (2 YEARS BOARD &#038; 1 YEARS BATTERY)",
+    "sku": "GEN-NEW-PROLINK-UPS-PRO1201SFC-2-YEARS-BOARD-1-Y",
+    "from": 4,
+    "to": 3,
+    "delta": -1,
+    "price_lkr": 23000,
+    "value": 23000,
+    "permalink": "https://pcbuilders.lk/prolink-gen-new-prolink-ups-pro1201sfc-2-years-board-1-y/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2023/10/1068-20230322063323-ups_3__1.png",
+    "categories": "PC Components, UPS"
   }
 ]

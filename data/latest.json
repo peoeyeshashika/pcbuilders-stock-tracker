@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "scraped_at": "2026-11-22T11:25:46.715Z",
+  "scraped_at": "2026-11-22T11:30:52.129Z",
   "counts": {
     "products": 1078,
     "qty_known": 510,
@@ -8,7 +8,7 @@
     "backorder": 526,
     "out_of_stock": 0,
     "sum_qty": 1153,
-    "total_value": 33214840
+    "total_value": 33213740
   },
   "products": [
     {
@@ -2523,8 +2523,8 @@
       "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
       "price_lkr": 21900,
       "is_in_stock": true,
-      "stock_text": "3 in stock",
-      "qty": 3,
+      "stock_text": "4 in stock",
+      "qty": 4,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -7773,8 +7773,8 @@
       "permalink": "https://pcbuilders.lk/prolink-gen-new-prolink-ups-pro1201sfc-2-years-board-1-y/",
       "price_lkr": 23000,
       "is_in_stock": true,
-      "stock_text": "4 in stock",
-      "qty": 4,
+      "stock_text": "3 in stock",
+      "qty": 3,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16185,5 +16185,5 @@
   "baseline": false,
   "previous_date": "2026-11-22 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 2
 }
