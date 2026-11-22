@@ -65,6 +65,10 @@
     gap: 10px;
     margin: 12px 0 0;
   }
+  .live-search {
+    width: 100%;
+    margin-top: 12px;
+  }
   @media (max-width: 900px) {
     .controls, .controls-day { grid-template-columns: 1fr 1fr; }
   }
@@ -236,6 +240,7 @@
 </section>
 
 <section class="panel" id="panel-live">
+  <input id="liveQ" class="live-search" type="search" placeholder="Search product name or SKU..." />
   <div class="note">PC එකේ poll එක <b>සෑම මිනිත්තු 5කටම</b> වතාවක්. හැම poll එකකදීම live site එකේ Last check update වෙනවා. qty වෙනස් වුණාම මෙතන timestamp එක්ක පේනවා.</div>
   <div class="stats" id="liveStats"></div>
   <div class="controls-day" style="margin-top:12px">
@@ -489,6 +494,7 @@ document.querySelectorAll('#panel-stock th[data-sort]').forEach(th => {
 });
 
 /* -------- Live movement tab -------- */
+const liveQ = document.getElementById('liveQ');
 const liveMode = document.getElementById('liveMode');
 const liveDay = document.getElementById('liveDay');
 const liveRows = document.getElementById('liveRows');
@@ -507,10 +513,15 @@ const liveStats = document.getElementById('liveStats');
 function filteredEvents() {
   const mode = liveMode.value;
   const day = liveDay.value;
+  const term = (liveQ.value || '').trim().toLowerCase();
   return [...EVENTS].reverse().filter(e => {
     if (day && e.date !== day) return false;
     if (mode === 'down' && e.direction !== 'decrease') return false;
     if (mode === 'up' && e.direction !== 'increase') return false;
+    if (term) {
+      const hay = `${e.name || ''} ${e.sku || ''} ${e.categories || ''}`.toLowerCase();
+      if (!hay.includes(term)) return false;
+    }
     return true;
   });
 }
@@ -546,6 +557,7 @@ function renderLive() {
   });
   liveRows.appendChild(frag);
 }
+liveQ.addEventListener('input', renderLive);
 liveMode.addEventListener('change', renderLive);
 liveDay.addEventListener('change', renderLive);
 document.getElementById('exportLive').addEventListener('click', () => {
