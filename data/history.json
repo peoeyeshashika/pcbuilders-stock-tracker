@@ -561,7 +561,7 @@
   {
     "date": "2026-11-22",
     "compared_to": "2026-11-22 open",
-    "generated_at": "2026-11-22T03:31:27.356Z",
+    "generated_at": "2026-11-22T03:36:24.422Z",
     "decreases": [
       {
         "id": 20382,
@@ -575,18 +575,31 @@
         "permalink": "https://pcbuilders.lk/prolink-gen-new-prolink-ups-pro701sfc-2-years-board-1-ye/",
         "categories": "PC Components, UPS",
         "image": "https://pcbuilders.lk/wp-content/uploads/2023/10/138-20220228073521-pro701sfc-500x600.png"
+      },
+      {
+        "id": 24279,
+        "name": "COMPUTER CABLE – HDMI CABLE",
+        "sku": "ACC-NEW-COMPUTER-CABLE&amp;#8212;HDMI-CABLE",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 750,
+        "value": 750,
+        "permalink": "https://pcbuilders.lk/computer-3/",
+        "categories": "HDMI Cables, Cables &amp;amp; Adapters",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-02T102220.224.png"
       }
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 1,
+      "decrease_items": 2,
       "increase_items": 0,
-      "decrease_units": 1,
+      "decrease_units": 2,
       "increase_units": 0,
-      "decrease_value": 11000,
+      "decrease_value": 11750,
       "increase_value": 0,
-      "net_units": -1,
-      "net_value": -11000
+      "net_units": -2,
+      "net_value": -11750
     }
   }
 ]
