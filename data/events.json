@@ -766,5 +766,21 @@
     "permalink": "https://pcbuilders.lk/computer-3/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-02T102220.224.png",
     "categories": "HDMI Cables, Cables &amp;amp; Adapters"
+  },
+  {
+    "at": "2026-11-22T07:01:38.241Z",
+    "date": "2026-11-22",
+    "direction": "decrease",
+    "id": 64696,
+    "name": "LIAN LI LANCOOL 217 INF BLACK CASE (1 YEARS WARRANTY)",
+    "sku": "CASE-NEW-LIAN-LI-LANCOOL-217-INF-BLACK-CASE",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 45000,
+    "value": 45000,
+    "permalink": "https://pcbuilders.lk/lian-case-new-lian-li-lancool-217-inf-black-case-black/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/image-removebg-preview-2026-10-22T131836.356.png",
+    "categories": "PC Cases"
   }
 ]

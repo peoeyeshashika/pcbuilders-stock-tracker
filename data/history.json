@@ -561,8 +561,21 @@
   {
     "date": "2026-11-22",
     "compared_to": "2026-11-22 open",
-    "generated_at": "2026-11-22T06:56:26.012Z",
+    "generated_at": "2026-11-22T07:01:38.285Z",
     "decreases": [
+      {
+        "id": 64696,
+        "name": "LIAN LI LANCOOL 217 INF BLACK CASE (1 YEARS WARRANTY)",
+        "sku": "CASE-NEW-LIAN-LI-LANCOOL-217-INF-BLACK-CASE",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 45000,
+        "value": 45000,
+        "permalink": "https://pcbuilders.lk/lian-case-new-lian-li-lancool-217-inf-black-case-black/",
+        "categories": "PC Cases",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/image-removebg-preview-2026-10-22T131836.356.png"
+      },
       {
         "id": 43564,
         "name": "PXN V9 GEN 2 PRO Steering Wheel (1 YEAR WARRANTY)",
@@ -644,14 +657,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 6,
+      "decrease_items": 7,
       "increase_items": 0,
-      "decrease_units": 6,
+      "decrease_units": 7,
       "increase_units": 0,
-      "decrease_value": 75000,
+      "decrease_value": 120000,
       "increase_value": 0,
-      "net_units": -6,
-      "net_value": -75000
+      "net_units": -7,
+      "net_value": -120000
     }
   }
 ]

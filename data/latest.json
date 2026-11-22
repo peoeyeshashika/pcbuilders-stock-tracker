@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "scraped_at": "2026-11-22T06:56:25.984Z",
+  "scraped_at": "2026-11-22T07:01:38.241Z",
   "counts": {
     "products": 1089,
     "qty_known": 524,
     "qty_hidden": 42,
     "backorder": 523,
     "out_of_stock": 0,
-    "sum_qty": 1192,
-    "total_value": 34631390
+    "sum_qty": 1191,
+    "total_value": 34586390
   },
   "products": [
     {
@@ -1098,8 +1098,8 @@
       "permalink": "https://pcbuilders.lk/lian-case-new-lian-li-lancool-217-inf-black-case-black/",
       "price_lkr": 45000,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16350,5 +16350,5 @@
   "baseline": false,
   "previous_date": "2026-11-22 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }
