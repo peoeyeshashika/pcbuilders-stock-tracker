@@ -561,8 +561,34 @@
   {
     "date": "2026-11-22",
     "compared_to": "2026-11-22 open",
-    "generated_at": "2026-11-22T07:51:25.058Z",
+    "generated_at": "2026-11-22T07:56:25.597Z",
     "decreases": [
+      {
+        "id": 19252,
+        "name": "CORSAIR VENGEANCE LPX 16GB (16X1) DDR4 3200MHZ (10 YEARS WARRANTY)",
+        "sku": "RAM-NEW-CORSAIR-VENGEANCE-LPX-16GB-16X1-DDR4-320",
+        "from": 5,
+        "to": 2,
+        "delta": -3,
+        "price_lkr": 53000,
+        "value": 159000,
+        "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-lpx-16gb-16x1-ddr4-320-16gb/",
+        "categories": "PC Components, Memory, Desktop RAM",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-40.png"
+      },
+      {
+        "id": 22387,
+        "name": "ADDLINK S90 LITE 512GB SSD NVME PCIE GEN4X4 M.2 (3 YEARS WARRANTY)",
+        "sku": "SSD-NEW-ADDLINK-S90-LITE-512GB-NVME-GEN4X4",
+        "from": 4,
+        "to": 1,
+        "delta": -3,
+        "price_lkr": 36000,
+        "value": 108000,
+        "permalink": "https://pcbuilders.lk/addlink-ssd-new-addlink-s90-lite-512gb-nvme-gen4x4-512gb/",
+        "categories": "PC Components, Storage, NVMe SSD",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/07/121.png"
+      },
       {
         "id": 62622,
         "name": "Lexar NQ790 2TB M.2 2280 PCIe Gen4x4 NVMe SSD (3 years warranty)",
@@ -575,6 +601,32 @@
         "permalink": "https://pcbuilders.lk/lexar-ssd-new-lexar-nq790-2tb-m-2-2280-pcie-gen4x4-nvme-ssd-2tb/",
         "categories": "Storage, NVMe SSD",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-25T110641.359.png"
+      },
+      {
+        "id": 48755,
+        "name": "ASUS PRIME A520M-K MOTHERBOARD (3 YEARS WARRANTY)",
+        "sku": "MB-NEW-ASUS-PRIME-A520M-K",
+        "from": 5,
+        "to": 2,
+        "delta": -3,
+        "price_lkr": 26500,
+        "value": 79500,
+        "permalink": "https://pcbuilders.lk/asus-mb-new-asus-prime-a520m-k/",
+        "categories": "Motherboards, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/tD2VstqYAGgljrpChjPy16BVrNBNUFy28k9xc46k.webp"
+      },
+      {
+        "id": 23738,
+        "name": "RAIDMAX INFINITA I800 ARGB MID-TOWER GAMING CASE",
+        "sku": "CASE-NEW-RAIDMAX-INFINITA-I800-ARGB",
+        "from": 8,
+        "to": 5,
+        "delta": -3,
+        "price_lkr": 17000,
+        "value": 51000,
+        "permalink": "https://pcbuilders.lk/raidmax-case-new-raidmax-infinita-i800-argb/",
+        "categories": "PC Components, PC Cases",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-36-1.png"
       },
       {
         "id": 64696,
@@ -601,6 +653,19 @@
         "permalink": "https://pcbuilders.lk/pxn-gen-new-pxn-v9-gen-2-racing-wheel/",
         "categories": "SIM RACING, Steering Wheels",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-17T143049.402.png"
+      },
+      {
+        "id": 19627,
+        "name": "GAMDIAS KRATOS M1-600B RGB 600 WATT 80 PLUS BRONZ POWER SUPPLY (2 YEARS WARRANTY)",
+        "sku": "PSU-NEW-GAMDIAS-KRATOS-M1-600B-RGB-600-WATT-BRON",
+        "from": 4,
+        "to": 1,
+        "delta": -3,
+        "price_lkr": 13500,
+        "value": 40500,
+        "permalink": "https://pcbuilders.lk/gamdias-psu-new-gamdias-kratos-m1-600b-rgb-600-watt-bron/",
+        "categories": "PC Components, Power Supplies",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-24T101414.689.png"
       },
       {
         "id": 20382,
@@ -670,14 +735,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 8,
+      "decrease_items": 13,
       "increase_items": 0,
-      "decrease_units": 8,
+      "decrease_units": 23,
       "increase_units": 0,
-      "decrease_value": 227500,
+      "decrease_value": 665500,
       "increase_value": 0,
-      "net_units": -8,
-      "net_value": -227500
+      "net_units": -23,
+      "net_value": -665500
     }
   }
 ]

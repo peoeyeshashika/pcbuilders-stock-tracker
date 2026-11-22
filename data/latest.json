@@ -1,14 +1,14 @@
 {
   "date": "2026-11-22",
-  "scraped_at": "2026-11-22T07:51:24.971Z",
+  "scraped_at": "2026-11-22T07:56:25.554Z",
   "counts": {
-    "products": 1088,
-    "qty_known": 523,
+    "products": 1085,
+    "qty_known": 517,
     "qty_hidden": 42,
-    "backorder": 523,
+    "backorder": 526,
     "out_of_stock": 0,
-    "sum_qty": 1189,
-    "total_value": 34475390
+    "sum_qty": 1165,
+    "total_value": 33548890
   },
   "products": [
     {
@@ -3912,21 +3912,6 @@
       "categories": "PC Cases, PC Components"
     },
     {
-      "id": 53887,
-      "name": "AMD Ryzen 5 5600 Processor (TRAY) (3 Years Warranty)",
-      "sku": "CPU-NEW-AMD-RYZEN-5-5600",
-      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5600/",
-      "price_lkr": 43500,
-      "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3788-removebg-preview.png",
-      "categories": "AMD, PC Components, Processors"
-    },
-    {
       "id": 53808,
       "name": "Chuwi CoreBook Air PLUS-H Ryzen 7 H 255 LAPTOP (2 YEARS WARRANTY)",
       "sku": "LAP-NEW-CHUWI-COREBOOK-AIR-PLUS-H-RYZEN-7-H-255-",
@@ -4743,8 +4728,8 @@
       "permalink": "https://pcbuilders.lk/asus-mb-new-asus-prime-a520m-k/",
       "price_lkr": 26500,
       "is_in_stock": true,
-      "stock_text": "5 in stock",
-      "qty": 5,
+      "stock_text": "2 in stock",
+      "qty": 2,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -4810,21 +4795,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-03T123049.985.png",
       "categories": "Case Fans, PC Components"
-    },
-    {
-      "id": 48636,
-      "name": "Jungle Leopard K200 CPU Cooler BLACK (6 MONTHS WARRANTY)",
-      "sku": "COOL-NEW-JUNGLE-LEOPARD-K200-BLACK",
-      "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-k200-black-black/",
-      "price_lkr": 4500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-03T121022.533-500x495.png",
-      "categories": "Air Coolers, PC Components, CPU Cooling"
     },
     {
       "id": 48628,
@@ -5005,21 +4975,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-24T104805.743.png",
       "categories": "PC Components, Storage, Hard Drives"
-    },
-    {
-      "id": 48155,
-      "name": "Gamdias Boreas M2-51D ARGB CPU Air Black Cooler (3 YEARS WARRANTY)",
-      "sku": "COOL-NEW-GAMDIAS-BOREAS-M2-51D-ARGB-AIR-BLACK",
-      "permalink": "https://pcbuilders.lk/gamdias-cool-new-gamdias-boreas-m2-51d-argb-air-black-black/",
-      "price_lkr": 12000,
-      "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-22T135827.408.png",
-      "categories": "Air Coolers, PC Components, CPU Cooling"
     },
     {
       "id": 48091,
@@ -6627,21 +6582,6 @@
       "categories": "Graphics Cards, PC Components"
     },
     {
-      "id": 34709,
-      "name": "AMD RYZEN 5 5500 PROCESSOR (TRAY) (3 YEARS WARRANTY)",
-      "sku": "CPU-NEW-AMD-RYZEN-5-5500-PROCESSOR-TRAY",
-      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5500-processor-tray/",
-      "price_lkr": 33000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-30T024051.733.png",
-      "categories": "PC Components, Processors, AMD"
-    },
-    {
       "id": 34670,
       "name": "FANTECH STUDIO WHG03 7.1 BLUETOOTH &#038; WIRELESS GAMING HEADSET (6 MONTHS WARRANTY)",
       "sku": "HS-NEW-FANTECH-STUDIO-WHG03-7-1-BLUETOOTH-WIREL",
@@ -7548,8 +7488,8 @@
       "permalink": "https://pcbuilders.lk/raidmax-case-new-raidmax-infinita-i800-argb/",
       "price_lkr": 17000,
       "is_in_stock": true,
-      "stock_text": "8 in stock",
-      "qty": 8,
+      "stock_text": "5 in stock",
+      "qty": 5,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -7662,29 +7602,14 @@
       "categories": "PC Components, Processors, INTEL"
     },
     {
-      "id": 22399,
-      "name": "MSI GEFORCE RTX 3050 VENTUS 2X E 6GB OC GRAPHICS CARD (3 YEARS WARRANTY)",
-      "sku": "GPU-NEW-MSI-RTX-3050-VENTUS-2X-E-6GB-OC",
-      "permalink": "https://pcbuilders.lk/msi-rtx-3050-6gb/",
-      "price_lkr": 110000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/07/image-removebg-preview123123.png",
-      "categories": "Graphics Cards, PC Components"
-    },
-    {
       "id": 22387,
       "name": "ADDLINK S90 LITE 512GB SSD NVME PCIE GEN4X4 M.2 (3 YEARS WARRANTY)",
       "sku": "SSD-NEW-ADDLINK-S90-LITE-512GB-NVME-GEN4X4",
       "permalink": "https://pcbuilders.lk/addlink-ssd-new-addlink-s90-lite-512gb-nvme-gen4x4-512gb/",
       "price_lkr": 36000,
       "is_in_stock": true,
-      "stock_text": "4 in stock",
-      "qty": 4,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -7977,21 +7902,6 @@
       "categories": "Motherboards, PC Components"
     },
     {
-      "id": 19962,
-      "name": "MSI GEFORCE RTX 3050 VENTUS 2X XS 8GB OC GRAPHICS CARD (3 YEARS WARRANTY)",
-      "sku": "GPU-NEW-MSI-RTX-3050-VENTUS-2X-XS-8GB-OC",
-      "permalink": "https://pcbuilders.lk/msi-rtx-3050-8gb/",
-      "price_lkr": 115000,
-      "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/09/image-removebg-preview-2023-09-05T210415.203.png",
-      "categories": "Graphics Cards, PC Components"
-    },
-    {
       "id": 19872,
       "name": "MSI A620M-E PRO DDR5 MOTHERBOARD (3 YEARS WARRANTY)",
       "sku": "MB-NEW-MSI-A620M-E-PRO-DDR5",
@@ -8043,8 +7953,8 @@
       "permalink": "https://pcbuilders.lk/gamdias-psu-new-gamdias-kratos-m1-600b-rgb-600-watt-bron/",
       "price_lkr": 13500,
       "is_in_stock": true,
-      "stock_text": "4 in stock",
-      "qty": 4,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -8133,13 +8043,13 @@
       "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-lpx-16gb-16x1-ddr4-320-16gb/",
       "price_lkr": 53000,
       "is_in_stock": true,
-      "stock_text": "5 in stock",
-      "qty": 5,
+      "stock_text": "2 in stock",
+      "qty": 2,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-40.png",
-      "categories": "Desktop RAM, Memory, PC Components"
+      "categories": "PC Components, Memory, Desktop RAM"
     },
     {
       "id": 19251,
@@ -11367,6 +11277,21 @@
       "categories": "PC Components, Processors, AMD"
     },
     {
+      "id": 53887,
+      "name": "AMD Ryzen 5 5600 Processor (TRAY) (3 Years Warranty)",
+      "sku": "CPU-NEW-AMD-RYZEN-5-5600",
+      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5600/",
+      "price_lkr": 43500,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3788-removebg-preview.png",
+      "categories": "AMD, PC Components, Processors"
+    },
+    {
       "id": 53820,
       "name": "Chuwi Lark Box X i3 12th gen NUC Systems (2 YEARS WARRANTY)",
       "sku": "GEN-NEW-CHUWI-LARK-BOX-X-I3-12TH-GEN-NUC-SYSTEMS",
@@ -12144,6 +12069,21 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-22T140625.268.png",
+      "categories": "Air Coolers, PC Components, CPU Cooling"
+    },
+    {
+      "id": 48155,
+      "name": "Gamdias Boreas M2-51D ARGB CPU Air Black Cooler (3 YEARS WARRANTY)",
+      "sku": "COOL-NEW-GAMDIAS-BOREAS-M2-51D-ARGB-AIR-BLACK",
+      "permalink": "https://pcbuilders.lk/gamdias-cool-new-gamdias-boreas-m2-51d-argb-air-black-black/",
+      "price_lkr": 12000,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-22T135827.408.png",
       "categories": "Air Coolers, PC Components, CPU Cooling"
     },
     {
@@ -15012,6 +14952,21 @@
       "categories": "PC Components, CPU Cooling, Liquid Coolers"
     },
     {
+      "id": 23739,
+      "name": "AURA GP450 PRO POWER SUPPLY (2 YEARS WARRANTY)",
+      "sku": "PSU-NEW-AURA-GP450-PRO",
+      "permalink": "https://pcbuilders.lk/aura-psu-new-aura-gp450-pro/",
+      "price_lkr": 9500,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-23.png",
+      "categories": "Power Supplies, PC Components"
+    },
+    {
       "id": 23756,
       "name": "Raidmax Infinita i610 RGB Dual Chamber Mid-Tower Gaming Case",
       "sku": "CASE-NEW-RAIDMAX-INFINITA-I610-RGB-DUAL-CHAMBER",
@@ -16335,5 +16290,5 @@
   "baseline": false,
   "previous_date": "2026-11-22 open",
   "poll_interval_minutes": 5,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 5
 }
