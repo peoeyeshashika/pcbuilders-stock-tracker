@@ -1,14 +1,14 @@
 {
   "date": "2026-11-23",
-  "scraped_at": "2026-11-23T02:10:52.022Z",
+  "scraped_at": "2026-11-23T02:15:54.706Z",
   "counts": {
-    "products": 1077,
-    "qty_known": 509,
+    "products": 1076,
+    "qty_known": 508,
     "qty_hidden": 42,
     "backorder": 526,
     "out_of_stock": 0,
-    "sum_qty": 1152,
-    "total_value": 33206240
+    "sum_qty": 1150,
+    "total_value": 33181240
   },
   "products": [
     {
@@ -7660,21 +7660,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/05/image-removebg-preview-19-300x300.png",
       "categories": "PC Components, Processors, INTEL"
-    },
-    {
-      "id": 20828,
-      "name": "DESKTOP HARD DRIVE – 1TB (USED ITEM)",
-      "sku": "SSD-USED-DESKTOP-HARD-DRIVE&amp;#8212;1TB",
-      "permalink": "https://pcbuilders.lk/used-hard-ssd-used-desktop-hard-drive-1tb-1tb/",
-      "price_lkr": 12500,
-      "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2024-07-02T100909.167.png",
-      "categories": "PC Components, Storage, Hard Drives"
     },
     {
       "id": 20821,
