@@ -1,11 +1,11 @@
 {
   "date": "2026-11-25",
-  "scraped_at": "2026-11-24T19:00:59.330Z",
+  "scraped_at": "2026-11-24T19:05:56.003Z",
   "counts": {
-    "products": 1091,
+    "products": 1090,
     "qty_known": 505,
     "qty_hidden": 42,
-    "backorder": 544,
+    "backorder": 543,
     "out_of_stock": 0,
     "sum_qty": 1146,
     "total_value": 33136740
@@ -13390,21 +13390,6 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-01T180140.575.png",
       "categories": "Motherboards, PC Components"
-    },
-    {
-      "id": 37592,
-      "name": "brand new mobile phone",
-      "sku": "GEN-NEW-BRAND-NEW-MOBILE-PHONE",
-      "permalink": "https://pcbuilders.lk/mobile-1tb-256gb-512gb/",
-      "price_lkr": 210000,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-09T174335.684.png",
-      "categories": "Mobile Phones, Mobile"
     },
     {
       "id": 37580,
