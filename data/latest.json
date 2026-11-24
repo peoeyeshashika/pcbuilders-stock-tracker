@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "scraped_at": "2026-11-24T17:15:59.652Z",
+  "scraped_at": "2026-11-24T17:21:00.569Z",
   "counts": {
     "products": 1075,
     "qty_known": 505,
@@ -8251,7 +8251,7 @@
       "name": "Corsair Vengeance 32GB (1X32) DDR5 DRAM 6000MT/S Memory (10 YEARS WARRANTY)",
       "sku": "RAM-NEW-CORSAIR-VENGEANCE-32GB-1X32-DDR5-DRAM-6000MT",
       "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-32gb-1x32-ddr5-dram-6000mt-32gb/",
-      "price_lkr": 193500,
+      "price_lkr": 187000,
       "is_in_stock": true,
       "stock_text": "Available on backorder",
       "qty": null,
@@ -14626,7 +14626,7 @@
       "name": "Intel Core Ultra 9 Processor 285K (24 Threads , 24 Cores ) Processor (TRAY) (3 YEARS WARRANTY)",
       "sku": "CPU-NEW-INTEL-ULTRA-9-285K-24-THREADS-24-CORES",
       "permalink": "https://pcbuilders.lk/intel-cpu-new-intel-ultra-9-285k-24-threads-24-cores/",
-      "price_lkr": 195500,
+      "price_lkr": 192500,
       "is_in_stock": true,
       "stock_text": "Available on backorder",
       "qty": null,
