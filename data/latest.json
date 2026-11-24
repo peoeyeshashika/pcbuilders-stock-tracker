@@ -1,11 +1,11 @@
 {
   "date": "2026-11-24",
-  "scraped_at": "2026-11-24T15:46:08.669Z",
+  "scraped_at": "2026-11-24T15:51:16.033Z",
   "counts": {
-    "products": 1074,
+    "products": 1075,
     "qty_known": 506,
     "qty_hidden": 42,
-    "backorder": 526,
+    "backorder": 527,
     "out_of_stock": 0,
     "sum_qty": 1147,
     "total_value": 33140240
@@ -14650,6 +14650,21 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/11/image-removebg-preview-54.png",
       "categories": "PC Components, Processors, AMD"
+    },
+    {
+      "id": 26101,
+      "name": "SAMSUNG 990 PRO 2TB PCIE 4.0 NVME M.2 SSD (3 YEARS WARRANTY)",
+      "sku": "SSD-NEW-SAMSUNG-990-PRO-2TB-4-0-NVME-2",
+      "permalink": "https://pcbuilders.lk/samsung-ssd-new-samsung-990-pro-2tb-4-0-nvme-2-2tb/",
+      "price_lkr": 158500,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/11/image-removebg-preview-11-1-500x433.png",
+      "categories": "PC Components, Storage, NVMe SSD"
     },
     {
       "id": 26030,
