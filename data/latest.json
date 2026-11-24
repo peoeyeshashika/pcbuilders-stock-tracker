@@ -1,14 +1,14 @@
 {
   "date": "2026-11-24",
-  "scraped_at": "2026-11-24T05:31:09.262Z",
+  "scraped_at": "2026-11-24T05:35:58.676Z",
   "counts": {
-    "products": 1076,
-    "qty_known": 508,
+    "products": 1075,
+    "qty_known": 507,
     "qty_hidden": 42,
     "backorder": 526,
     "out_of_stock": 0,
-    "sum_qty": 1149,
-    "total_value": 33154740
+    "sum_qty": 1148,
+    "total_value": 33142740
   },
   "products": [
     {
@@ -7825,21 +7825,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-24T101414.689.png",
       "categories": "PC Components, Power Supplies"
-    },
-    {
-      "id": 19577,
-      "name": "FANTECH WGP14 V2 NOVA PRO CONTROLLER (6 MONTHS WARRANTY)",
-      "sku": "GEN-NEW-FANTECH-WGP14-V2-NOVA-PRO",
-      "permalink": "https://pcbuilders.lk/fantech-wgp14/",
-      "price_lkr": 12000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2026-07-17T102015.444.png",
-      "categories": "Gaming Peripherals, Game Controllers"
     },
     {
       "id": 19422,
