@@ -1150,5 +1150,21 @@
     "permalink": "https://pcbuilders.lk/arctic-gen-new-arctic-mx-7-4g-cn-ultimate-performance-t/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-06T162805.141.png",
     "categories": "Thermal Paste, PC Components, CPU Cooling"
+  },
+  {
+    "at": "2026-11-25T09:54:58.145Z",
+    "date": "2026-11-25",
+    "direction": "decrease",
+    "id": 32693,
+    "name": "MSI MAG CORELIQUID ARGB A13 360MM CPU LIQUID COOLER BLACK (3 YEARS WARRANTY)",
+    "sku": "COOL-NEW-MSI-MAG-CORELIQUID-ARGB-A13-360MM-BLACK",
+    "from": 3,
+    "to": 2,
+    "delta": -1,
+    "price_lkr": 34500,
+    "value": 34500,
+    "permalink": "https://pcbuilders.lk/msi-cool-new-msi-mag-coreliquid-argb-a13-360mm-black-black/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2025/06/image-removebg-preview-2025-06-15T111516.265.png",
+    "categories": "Liquid Coolers, PC Components, CPU Cooling"
   }
 ]

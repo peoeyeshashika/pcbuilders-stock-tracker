@@ -848,7 +848,7 @@
   {
     "date": "2026-11-25",
     "compared_to": "2026-11-25 open",
-    "generated_at": "2026-11-25T09:52:58.248Z",
+    "generated_at": "2026-11-25T09:54:58.183Z",
     "decreases": [
       {
         "id": 43111,
@@ -862,6 +862,19 @@
         "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-pro-flow-360-black-black/",
         "categories": "Liquid Coolers, PC Components, CPU Cooling",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-05-26T120524.854.png"
+      },
+      {
+        "id": 32693,
+        "name": "MSI MAG CORELIQUID ARGB A13 360MM CPU LIQUID COOLER BLACK (3 YEARS WARRANTY)",
+        "sku": "COOL-NEW-MSI-MAG-CORELIQUID-ARGB-A13-360MM-BLACK",
+        "from": 3,
+        "to": 2,
+        "delta": -1,
+        "price_lkr": 34500,
+        "value": 34500,
+        "permalink": "https://pcbuilders.lk/msi-cool-new-msi-mag-coreliquid-argb-a13-360mm-black-black/",
+        "categories": "Liquid Coolers, PC Components, CPU Cooling",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/06/image-removebg-preview-2025-06-15T111516.265.png"
       },
       {
         "id": 62649,
@@ -958,14 +971,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 6,
+      "decrease_items": 7,
       "increase_items": 2,
-      "decrease_units": 6,
+      "decrease_units": 7,
       "increase_units": 2,
-      "decrease_value": 98500,
+      "decrease_value": 133000,
       "increase_value": 262500,
-      "net_units": -4,
-      "net_value": 164000
+      "net_units": -5,
+      "net_value": 129500
     }
   }
 ]
