@@ -848,7 +848,7 @@
   {
     "date": "2026-11-25",
     "compared_to": "2026-11-25 open",
-    "generated_at": "2026-11-25T09:13:19.867Z",
+    "generated_at": "2026-11-25T09:14:59.807Z",
     "decreases": [
       {
         "id": 43111,
@@ -914,6 +914,19 @@
         "permalink": "https://pcbuilders.lk/fantech-nc22/",
         "categories": "Laptop Coolers, Laptops",
         "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-25.png"
+      },
+      {
+        "id": 53295,
+        "name": "Arctic MX-7 (4g) (CN) Ultimate Performance Thermal Paste",
+        "sku": "GEN-NEW-ARCTIC-MX-7-4G-CN-ULTIMATE-PERFORMANCE-T",
+        "from": 7,
+        "to": 6,
+        "delta": -1,
+        "price_lkr": 3500,
+        "value": 3500,
+        "permalink": "https://pcbuilders.lk/arctic-gen-new-arctic-mx-7-4g-cn-ultimate-performance-t/",
+        "categories": "Thermal Paste, PC Components, CPU Cooling",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-06T162805.141.png"
       }
     ],
     "increases": [
@@ -945,14 +958,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 5,
+      "decrease_items": 6,
       "increase_items": 2,
-      "decrease_units": 5,
+      "decrease_units": 6,
       "increase_units": 2,
-      "decrease_value": 95000,
+      "decrease_value": 98500,
       "increase_value": 262500,
-      "net_units": -3,
-      "net_value": 167500
+      "net_units": -4,
+      "net_value": 164000
     }
   }
 ]

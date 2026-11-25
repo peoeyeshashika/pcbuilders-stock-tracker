@@ -1134,5 +1134,21 @@
     "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5600x/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3048-removebg-preview.png",
     "categories": "PC Components, Processors, AMD"
+  },
+  {
+    "at": "2026-11-25T09:14:59.780Z",
+    "date": "2026-11-25",
+    "direction": "decrease",
+    "id": 53295,
+    "name": "Arctic MX-7 (4g) (CN) Ultimate Performance Thermal Paste",
+    "sku": "GEN-NEW-ARCTIC-MX-7-4G-CN-ULTIMATE-PERFORMANCE-T",
+    "from": 7,
+    "to": 6,
+    "delta": -1,
+    "price_lkr": 3500,
+    "value": 3500,
+    "permalink": "https://pcbuilders.lk/arctic-gen-new-arctic-mx-7-4g-cn-ultimate-performance-t/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-06T162805.141.png",
+    "categories": "Thermal Paste, PC Components, CPU Cooling"
   }
 ]
