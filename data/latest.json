@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "scraped_at": "2026-11-25T07:19:00.733Z",
+  "scraped_at": "2026-11-25T07:21:02.151Z",
   "counts": {
     "products": 1093,
     "qty_known": 508,
@@ -14538,7 +14538,7 @@
       "permalink": "https://pcbuilders.lk/gigabyte-rx-9060-xt-16gb/",
       "price_lkr": 265000,
       "is_in_stock": true,
-      "stock_text": "Available on backorder",
+      "stock_text": "",
       "qty": null,
       "qty_known": false,
       "status": "backorder",
