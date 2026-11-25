@@ -1,14 +1,14 @@
 {
   "date": "2026-11-25",
-  "scraped_at": "2026-11-25T11:07:01.333Z",
+  "scraped_at": "2026-11-25T11:09:01.529Z",
   "counts": {
     "products": 1091,
     "qty_known": 505,
     "qty_hidden": 42,
     "backorder": 544,
     "out_of_stock": 0,
-    "sum_qty": 1169,
-    "total_value": 33723040
+    "sum_qty": 1171,
+    "total_value": 33880540
   },
   "products": [
     {
@@ -4452,21 +4452,6 @@
       "categories": "PC Cases, PC Components"
     },
     {
-      "id": 49876,
-      "name": "PWM &#038; ARGB LED CONTROLLER HUB 9 PORTS (6 MONTHS WARRANTY)",
-      "sku": "GEN-NEW-PWM-ARGB-LED-HUB-9-PORTS",
-      "permalink": "https://pcbuilders.lk/pwm-gen-new-pwm-argb-led-hub-9-ports/",
-      "price_lkr": 3000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-09T162931.469.png",
-      "categories": "ARGB Controllers, PC Components, PC Lighting"
-    },
-    {
       "id": 49804,
       "name": "UGREEN 20W Type-C Fast Charger Set With Type-C to Type-C 1 Meter Cable – CD137 – 45438 (18 Months Warranty)",
       "sku": "GEN-NEW-UGREEN-20W-TYPE-C-FAST-CHARGER-SET-TYPE-",
@@ -6010,6 +5995,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/11/image-removebg-preview-2025-11-01T140010.895.png",
       "categories": "PC Cases, PC Components"
+    },
+    {
+      "id": 39579,
+      "name": "AMD RYZEN 7 5700X PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+      "sku": "CPU-NEW-AMD-RYZEN-7-5700X-2",
+      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-5700x-2/",
+      "price_lkr": 53500,
+      "is_in_stock": true,
+      "stock_text": "3 in stock",
+      "qty": 3,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4856__1_-removebg-preview.png",
+      "categories": "AMD, PC Components, Processors"
     },
     {
       "id": 39511,
