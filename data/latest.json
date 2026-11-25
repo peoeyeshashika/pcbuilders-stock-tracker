@@ -1,14 +1,14 @@
 {
   "date": "2026-11-25",
-  "scraped_at": "2026-11-25T04:10:55.128Z",
+  "scraped_at": "2026-11-25T04:16:02.493Z",
   "counts": {
-    "products": 1090,
-    "qty_known": 505,
+    "products": 1089,
+    "qty_known": 504,
     "qty_hidden": 42,
     "backorder": 543,
     "out_of_stock": 0,
-    "sum_qty": 1146,
-    "total_value": 33136740
+    "sum_qty": 1145,
+    "total_value": 33098740
   },
   "products": [
     {
@@ -7510,21 +7510,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/07/Fantech_LEVIOSA_MCX01_Professional_Condenser_Microphone-1-500x625.png",
       "categories": "Gaming Peripherals, Microphones"
-    },
-    {
-      "id": 21541,
-      "name": "T-FORCE DELTA RGB DDR4 16GB 3200MHZ DESKTOP MEMORY (USED ITEM)",
-      "sku": "RAM-USED-T-FORCE-DELTA-RGB-DDR4-16GB-3200MHZ",
-      "permalink": "https://pcbuilders.lk/used-t-ram-used-t-force-delta-rgb-ddr4-16gb-3200mhz-16gb/",
-      "price_lkr": 38000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2024-06-14T085943.706.png",
-      "categories": "PC Components, Memory, Desktop RAM"
     },
     {
       "id": 21504,
