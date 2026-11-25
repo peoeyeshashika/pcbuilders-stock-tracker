@@ -848,7 +848,7 @@
   {
     "date": "2026-11-25",
     "compared_to": "2026-11-25 open",
-    "generated_at": "2026-11-25T10:01:06.322Z",
+    "generated_at": "2026-11-25T10:02:59.807Z",
     "decreases": [
       {
         "id": 43111,
@@ -888,6 +888,19 @@
         "permalink": "https://pcbuilders.lk/auto-4/",
         "categories": "Monitor Arms",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-25T142858.828.png"
+      },
+      {
+        "id": 53198,
+        "name": "Microlab M380BT Bluetooth Multimedia 2.1 Subwoofer Speaker (1 YEARS WARRANTY)",
+        "sku": "GEN-NEW-MICROLAB-M380BT-BLUETOOTH-MULTIMEDIA-2-1",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 15000,
+        "value": 15000,
+        "permalink": "https://pcbuilders.lk/microlab-gen-new-microlab-m380bt-bluetooth-multimedia-2-1/",
+        "categories": "Speakers and Sound, Gaming Peripherals",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-03T155955.169.png"
       },
       {
         "id": 61052,
@@ -971,14 +984,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 7,
+      "decrease_items": 8,
       "increase_items": 2,
-      "decrease_units": 7,
+      "decrease_units": 8,
       "increase_units": 2,
-      "decrease_value": 133000,
+      "decrease_value": 148000,
       "increase_value": 262500,
-      "net_units": -5,
-      "net_value": 129500
+      "net_units": -6,
+      "net_value": 114500
     }
   }
 ]
