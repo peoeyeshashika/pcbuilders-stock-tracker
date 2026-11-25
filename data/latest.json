@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "scraped_at": "2026-11-25T11:22:55.201Z",
+  "scraped_at": "2026-11-25T11:24:58.746Z",
   "counts": {
     "products": 1091,
     "qty_known": 505,
@@ -8,7 +8,7 @@
     "backorder": 544,
     "out_of_stock": 0,
     "sum_qty": 1171,
-    "total_value": 33880540
+    "total_value": 33934540
   },
   "products": [
     {
@@ -6886,7 +6886,7 @@
       "name": "MSI Geforce RTX 5070 TI Gaming Trio OC PLUS 16GB GDDR7X Graphics Card (3 YEARS WARRANTY)",
       "sku": "GPU-NEW-MSI-RTX-5070-TI-GAMING-TRIO-OC-PLUS-16GB",
       "permalink": "https://pcbuilders.lk/msi-rtx-5070-ti-16gb-2/",
-      "price_lkr": 586000,
+      "price_lkr": 640000,
       "is_in_stock": true,
       "stock_text": "1 in stock",
       "qty": 1,
