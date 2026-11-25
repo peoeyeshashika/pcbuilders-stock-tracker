@@ -848,8 +848,21 @@
   {
     "date": "2026-11-25",
     "compared_to": "2026-11-25 open",
-    "generated_at": "2026-11-25T10:06:57.979Z",
+    "generated_at": "2026-11-25T10:09:05.238Z",
     "decreases": [
+      {
+        "id": 43564,
+        "name": "PXN V9 GEN 2 PRO Steering Wheel (1 YEAR WARRANTY)",
+        "sku": "GEN-NEW-PXN-V9-GEN-2-RACING-WHEEL",
+        "from": 8,
+        "to": 7,
+        "delta": -1,
+        "price_lkr": 45000,
+        "value": 45000,
+        "permalink": "https://pcbuilders.lk/pxn-gen-new-pxn-v9-gen-2-racing-wheel/",
+        "categories": "SIM RACING, Steering Wheels",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-17T143049.402.png"
+      },
       {
         "id": 43111,
         "name": "Jungle Leopard Pro Flow 360 LIQUID COOLER – BLACK (3 YEARS WARRANTY)",
@@ -984,14 +997,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 8,
+      "decrease_items": 9,
       "increase_items": 2,
-      "decrease_units": 8,
+      "decrease_units": 9,
       "increase_units": 2,
-      "decrease_value": 148000,
+      "decrease_value": 193000,
       "increase_value": 262500,
-      "net_units": -6,
-      "net_value": 114500
+      "net_units": -7,
+      "net_value": 69500
     }
   }
 ]
