@@ -1,14 +1,14 @@
 {
   "date": "2026-11-25",
-  "scraped_at": "2026-11-25T12:36:57.233Z",
+  "scraped_at": "2026-11-25T12:39:02.531Z",
   "counts": {
-    "products": 1092,
-    "qty_known": 506,
+    "products": 1088,
+    "qty_known": 501,
     "qty_hidden": 42,
-    "backorder": 544,
+    "backorder": 545,
     "out_of_stock": 0,
-    "sum_qty": 1171,
-    "total_value": 34358540
+    "sum_qty": 1165,
+    "total_value": 34295040
   },
   "products": [
     {
@@ -198,8 +198,8 @@
       "permalink": "https://pcbuilders.lk/ruix-cool-new-ruix-x4000-se-fixed-rgb/",
       "price_lkr": 4500,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -567,21 +567,6 @@
       "categories": "Game Controllers"
     },
     {
-      "id": 65497,
-      "name": "MSI B150M MORTAR MOTHERBOARD (USED ITEM)",
-      "sku": "MB-USED-MSI-B150M-MORTAR",
-      "permalink": "https://pcbuilders.lk/used-msi-mb-new-msi-b150m-mortar/",
-      "price_lkr": 11000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T101719.008.png",
-      "categories": "Motherboards"
-    },
-    {
       "id": 65435,
       "name": "UGREEN 4-Port USB3.0 5Gbps Hub with Type-C Power Port – CM219 – 50985 (18 Months Warranty)",
       "sku": "ACC-NEW-UGREEN-4-PORT-USB3-0-5GBPS-HUB-WITH-TYPE-C-PO",
@@ -865,21 +850,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-05T140812.939.png",
       "categories": "Capture Cards"
-    },
-    {
-      "id": 65198,
-      "name": "ANTEC VX320 ARGB CASING (USED ITEM)",
-      "sku": "CASE-NEW-ANTEC-VX320-ARGB-CASING",
-      "permalink": "https://pcbuilders.lk/used-antec-case-new-antec-vx320-argb-casing/",
-      "price_lkr": 13000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/12/0yTBC81CkEazVBm4PnMyohW0VSGnhrxoIPyEItlm-500x600.webp",
-      "categories": "PC Cases, PC Components"
     },
     {
       "id": 65184,
@@ -4722,21 +4692,6 @@
       "categories": "Motherboards, PC Components"
     },
     {
-      "id": 48738,
-      "name": "8GB DDR4 2133MHZ DRAM DESKTOP MEMORY (USED ITEM)",
-      "sku": "RAM-USED-8GB-DDR4-2133MHZ-DRAM",
-      "permalink": "https://pcbuilders.lk/used-8gb-ram-used-8gb-ddr4-2133mhz-dram-8gb/",
-      "price_lkr": 14000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/07/image-removebg-preview-2025-07-19T122212.454.png",
-      "categories": "Desktop RAM, Memory, PC Components"
-    },
-    {
       "id": 48693,
       "name": "Jungle Leopard GALAXY V2 DGT FORWARD 3 in 1 FAN WHITE KIT (6 MONTHS WARRANTY)",
       "sku": "COOL-NEW-JUNGLE-LEOPARD-GALAXY-V2-DGT-FORWARD-3-I-2",
@@ -6852,21 +6807,6 @@
       "categories": "Other Cables, Cables &amp;amp; Adapters"
     },
     {
-      "id": 30433,
-      "name": "128GB SATA SSD (USED ITEM)",
-      "sku": "SSD-USED-128GB-2",
-      "permalink": "https://pcbuilders.lk/used-128gb-ssd-used-128gb-2-128gb/",
-      "price_lkr": 7000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/09/image-removebg-preview-59.png",
-      "categories": "PC Components, Storage, SATA SSD"
-    },
-    {
       "id": 30221,
       "name": "HYPERX PULSEFIRE SURGE GAMING MOUSE (1 YEAR WARRANTY)",
       "sku": "MOU-NEW-HYPERX-PULSEFIRE-SURGE",
@@ -7465,21 +7405,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-22T041726.594.png",
       "categories": "PC Components, CPU Cooling, Liquid Coolers"
-    },
-    {
-      "id": 22632,
-      "name": "INTEL I5 7TH GEN 7400 PROCESSOR (USED ITEM)",
-      "sku": "CPU-USED-INTEL-I5-7TH-GEN-7400",
-      "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-i5-7th-gen-7400/",
-      "price_lkr": 14000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/09/image-removebg-preview-intel.png",
-      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 22199,
@@ -14727,6 +14652,21 @@
       "categories": "AMD, PC Components, Processors"
     },
     {
+      "id": 30433,
+      "name": "128GB SATA SSD (USED ITEM)",
+      "sku": "SSD-USED-128GB-2",
+      "permalink": "https://pcbuilders.lk/used-128gb-ssd-used-128gb-2-128gb/",
+      "price_lkr": 7000,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2023/09/image-removebg-preview-59.png",
+      "categories": "PC Components, Storage, SATA SSD"
+    },
+    {
       "id": 30407,
       "name": "MSI MAG X870E TOMAHAWK (WIFI) DDR5 MOTHERBOARD (3 YEARS WARRANTY)",
       "sku": "MB-NEW-MSI-MAG-X870E-TOMAHAWK-WIFI-DDR5",
@@ -16395,5 +16335,5 @@
   "baseline": false,
   "previous_date": "2026-11-25 open",
   "poll_interval_minutes": 2,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }

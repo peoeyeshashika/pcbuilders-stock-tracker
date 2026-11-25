@@ -848,7 +848,7 @@
   {
     "date": "2026-11-25",
     "compared_to": "2026-11-25 open",
-    "generated_at": "2026-11-25T12:36:57.259Z",
+    "generated_at": "2026-11-25T12:39:02.563Z",
     "decreases": [
       {
         "id": 43564,
@@ -968,6 +968,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-25.png"
       },
       {
+        "id": 65845,
+        "name": "RUIX X4000 SE Fixed RGB AIR COOLER (6 MONTHS WARRANTY)",
+        "sku": "COOL-NEW-RUIX-X4000-SE-FIXED-RGB",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 4500,
+        "value": 4500,
+        "permalink": "https://pcbuilders.lk/ruix-cool-new-ruix-x4000-se-fixed-rgb/",
+        "categories": "Air Coolers",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-15T095249.088.png"
+      },
+      {
         "id": 53295,
         "name": "Arctic MX-7 (4g) (CN) Ultimate Performance Thermal Paste",
         "sku": "GEN-NEW-ARCTIC-MX-7-4G-CN-ULTIMATE-PERFORMANCE-T",
@@ -1010,14 +1023,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 10,
+      "decrease_items": 11,
       "increase_items": 2,
-      "decrease_units": 10,
+      "decrease_units": 11,
       "increase_units": 2,
-      "decrease_value": 208000,
+      "decrease_value": 212500,
       "increase_value": 262500,
-      "net_units": -8,
-      "net_value": 54500
+      "net_units": -9,
+      "net_value": 50000
     }
   }
 ]

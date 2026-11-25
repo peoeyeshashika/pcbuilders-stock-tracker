@@ -1214,5 +1214,21 @@
     "permalink": "https://pcbuilders.lk/fantech-eos-wgp15v2s-black/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-02T175330.395.png",
     "categories": "Game Controllers, Gaming Peripherals"
+  },
+  {
+    "at": "2026-11-25T12:39:02.531Z",
+    "date": "2026-11-25",
+    "direction": "decrease",
+    "id": 65845,
+    "name": "RUIX X4000 SE Fixed RGB AIR COOLER (6 MONTHS WARRANTY)",
+    "sku": "COOL-NEW-RUIX-X4000-SE-FIXED-RGB",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 4500,
+    "value": 4500,
+    "permalink": "https://pcbuilders.lk/ruix-cool-new-ruix-x4000-se-fixed-rgb/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-15T095249.088.png",
+    "categories": "Air Coolers"
   }
 ]
