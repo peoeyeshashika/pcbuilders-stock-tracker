@@ -1,14 +1,14 @@
 {
   "date": "2026-11-25",
-  "scraped_at": "2026-11-25T04:46:05.350Z",
+  "scraped_at": "2026-11-25T04:51:05.708Z",
   "counts": {
     "products": 1089,
-    "qty_known": 504,
+    "qty_known": 506,
     "qty_hidden": 42,
-    "backorder": 543,
+    "backorder": 541,
     "out_of_stock": 0,
-    "sum_qty": 1145,
-    "total_value": 33124240
+    "sum_qty": 1154,
+    "total_value": 33474240
   },
   "products": [
     {
@@ -7992,6 +7992,36 @@
       "categories": "PC Components, Processors, AMD"
     },
     {
+      "id": 18881,
+      "name": "AMD RYZEN 5 5600X PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+      "sku": "CPU-NEW-AMD-RYZEN-5-5600X",
+      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5600x/",
+      "price_lkr": 45000,
+      "is_in_stock": true,
+      "stock_text": "4 in stock",
+      "qty": 4,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3048-removebg-preview.png",
+      "categories": "PC Components, Processors, AMD"
+    },
+    {
+      "id": 18880,
+      "name": "AMD RYZEN 5 5500 PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+      "sku": "CPU-NEW-AMD-RYZEN-5-5500",
+      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5500/",
+      "price_lkr": 34000,
+      "is_in_stock": true,
+      "stock_text": "5 in stock",
+      "qty": 5,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-30T024051.733.png",
+      "categories": "PC Components, Processors, AMD"
+    },
+    {
       "id": 20688,
       "name": "THERMALTAKE PACIFIC C360 DDC HARD TUBE WATER COOLING (2 YEARS WARRANTY)",
       "sku": "COOL-NEW-THERMALTAKE-PACIFIC-C360-DDC-HARD-TUBE-W",
@@ -15865,36 +15895,6 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-22T043346.658.png",
       "categories": "PC Components, Case Fans"
-    },
-    {
-      "id": 18881,
-      "name": "AMD RYZEN 5 5600X PROCESSOR (TRAY) (3 YEARS WARRANTY)",
-      "sku": "CPU-NEW-AMD-RYZEN-5-5600X",
-      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5600x/",
-      "price_lkr": 45000,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3048-removebg-preview.png",
-      "categories": "PC Components, Processors, AMD"
-    },
-    {
-      "id": 18880,
-      "name": "AMD RYZEN 5 5500 PROCESSOR (TRAY) (3 YEARS WARRANTY)",
-      "sku": "CPU-NEW-AMD-RYZEN-5-5500",
-      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5500/",
-      "price_lkr": 34000,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-30T024051.733.png",
-      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 18847,
