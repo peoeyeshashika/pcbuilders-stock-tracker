@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "scraped_at": "2026-11-25T13:21:15.354Z",
+  "scraped_at": "2026-11-25T13:22:58.505Z",
   "counts": {
     "products": 1088,
     "qty_known": 501,
@@ -114,7 +114,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-17.png",
-      "categories": "PC Components, CPU Cooling, Air Coolers"
+      "categories": "Air Coolers, CPU Cooling, PC Components"
     },
     {
       "id": 66089,
@@ -174,7 +174,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/07/image-removebg-preview-2025-07-19T122212.454.png",
-      "categories": "PC Components, Memory, Desktop RAM"
+      "categories": "Desktop RAM, Memory, PC Components"
     },
     {
       "id": 65893,
@@ -189,7 +189,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-96-500x433.png",
-      "categories": "PC Components, Memory, Desktop RAM"
+      "categories": "Desktop RAM, Memory, PC Components"
     },
     {
       "id": 65845,
@@ -384,7 +384,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-40.png",
-      "categories": "PC Components, Memory, Desktop RAM"
+      "categories": "Desktop RAM, Memory, PC Components"
     },
     {
       "id": 65560,
@@ -1074,7 +1074,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-30T150308.882.png",
-      "categories": "Monitors, Monitors &amp;amp; Display"
+      "categories": "Monitors &amp;amp; Display, Monitors"
     },
     {
       "id": 64859,
@@ -1119,7 +1119,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/image-removebg-preview-2026-10-22T163227.398.png",
-      "categories": "Desktop RAM, PC Components, Memory"
+      "categories": "Desktop RAM, Memory, PC Components"
     },
     {
       "id": 64696,
@@ -1164,7 +1164,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/09/1596291155_1-47-removebg-preview-300x300.png",
-      "categories": "PC Components, Memory, Desktop RAM"
+      "categories": "Desktop RAM, Memory, PC Components"
     },
     {
       "id": 64605,
@@ -1239,7 +1239,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/asus-rog-strix-x870-f-gaming-wifi-box-board.png",
-      "categories": "PC Components, Motherboards"
+      "categories": "Motherboards, PC Components"
     },
     {
       "id": 64532,
@@ -1254,7 +1254,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/asus-dual-radeon-rx-9050-8gb-gddr6-500x500.png",
-      "categories": "PC Components, Graphics Cards"
+      "categories": "Graphics Cards, PC Components"
     },
     {
       "id": 64455,
@@ -1359,7 +1359,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-2024-01-22T165844.669.png",
-      "categories": "PC Components, Motherboards"
+      "categories": "Motherboards, PC Components"
     },
     {
       "id": 64170,
@@ -1374,7 +1374,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-24T113534.087.png",
-      "categories": "PC Components, Processors, INTEL"
+      "categories": "INTEL, PC Components, Processors"
     },
     {
       "id": 64077,
@@ -1389,7 +1389,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/image-removebg-preview-2026-10-07T111112.382.png",
-      "categories": "PC Components, Motherboards"
+      "categories": "Motherboards, PC Components"
     },
     {
       "id": 64044,
@@ -1449,7 +1449,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/final_gpu_colorful1660s.png",
-      "categories": "PC Components, Graphics Cards"
+      "categories": "Graphics Cards, PC Components"
     },
     {
       "id": 62977,
@@ -1464,7 +1464,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/final_gpu_emtek1660s.png",
-      "categories": "PC Components, Graphics Cards"
+      "categories": "Graphics Cards, PC Components"
     },
     {
       "id": 62949,
@@ -1494,7 +1494,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/final_a520m_hdv.png",
-      "categories": "PC Components, Motherboards"
+      "categories": "Motherboards, PC Components"
     },
     {
       "id": 62934,
@@ -1509,7 +1509,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/final_a320m_k.png",
-      "categories": "PC Components, Motherboards"
+      "categories": "Motherboards, PC Components"
     },
     {
       "id": 62807,
@@ -1524,7 +1524,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/ASROCK-FM2A68M-DG3-Motherboard-1.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 62798,
@@ -1764,7 +1764,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/commercial-compact-build-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp;amp; All-in-One"
+      "categories": "Gaming PCs, Mini PCs &amp;amp; All-in-One, Powered by ASUS"
     },
     {
       "id": 62610,
@@ -1794,7 +1794,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/commercial-productivity-build-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp;amp; All-in-One"
+      "categories": "Gaming PCs, Mini PCs &amp;amp; All-in-One, Powered by ASUS"
     },
     {
       "id": 62606,
@@ -1809,7 +1809,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/commercial-powerhouse-build-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, Mini PCs &amp;amp; All-in-One"
+      "categories": "Gaming PCs, Mini PCs &amp;amp; All-in-One, Powered by ASUS"
     },
     {
       "id": 62604,
@@ -1884,7 +1884,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/tuf-a21-raider-build-500x625.png",
-      "categories": "Gaming PCs, New Gaming PCs, Powered by ASUS"
+      "categories": "Powered by ASUS, Gaming PCs, New Gaming PCs"
     },
     {
       "id": 62583,
@@ -1899,7 +1899,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/tuf-gt301-sentinel-build-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, New Gaming PCs"
+      "categories": "Gaming PCs, New Gaming PCs, Powered by ASUS"
     },
     {
       "id": 62581,
@@ -1914,7 +1914,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/tuf-gt501-armored-build-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, New Gaming PCs"
+      "categories": "Gaming PCs, New Gaming PCs, Powered by ASUS"
     },
     {
       "id": 62579,
@@ -1929,7 +1929,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/tuf-gt502-black-build-500x625.png",
-      "categories": "Gaming PCs, New Gaming PCs, Powered by ASUS"
+      "categories": "Powered by ASUS, Gaming PCs, New Gaming PCs"
     },
     {
       "id": 62577,
@@ -1944,7 +1944,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/rog-velocity-build-500x625.png",
-      "categories": "Powered by ASUS, Gaming PCs, New Gaming PCs"
+      "categories": "Gaming PCs, New Gaming PCs, Powered by ASUS"
     },
     {
       "id": 62575,
@@ -1959,7 +1959,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/rog-glacier-white-build-500x625.png",
-      "categories": "Gaming PCs, New Gaming PCs, Powered by ASUS"
+      "categories": "Powered by ASUS, Gaming PCs, New Gaming PCs"
     },
     {
       "id": 62573,
@@ -1974,7 +1974,7 @@
       "status": "in_stock_hidden",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/pba/rog-helios-build-500x625.png",
-      "categories": "Gaming PCs, New Gaming PCs, Powered by ASUS"
+      "categories": "Powered by ASUS, Gaming PCs, New Gaming PCs"
     },
     {
       "id": 62571,
@@ -2064,7 +2064,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-17T132808.881-500x469.png",
-      "categories": "PC Components, Memory, Desktop RAM"
+      "categories": "Desktop RAM, Memory, PC Components"
     },
     {
       "id": 62302,
@@ -2214,7 +2214,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2024-06-19T105933.912.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 62207,
@@ -2229,7 +2229,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/image-removebg-preview-5.png",
-      "categories": "PC Components, Motherboards"
+      "categories": "Motherboards, PC Components"
     },
     {
       "id": 62200,
@@ -2814,7 +2814,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-5.png",
-      "categories": "Monitors, Monitors &amp;amp; Display"
+      "categories": "Monitors &amp;amp; Display, Monitors"
     },
     {
       "id": 61052,
@@ -2979,7 +2979,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-22T151739.124.png",
-      "categories": "PC Components, Processors, INTEL"
+      "categories": "INTEL, PC Components, Processors"
     },
     {
       "id": 55812,
