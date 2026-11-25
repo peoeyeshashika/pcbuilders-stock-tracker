@@ -848,7 +848,7 @@
   {
     "date": "2026-11-25",
     "compared_to": "2026-11-25 open",
-    "generated_at": "2026-11-25T07:22:55.575Z",
+    "generated_at": "2026-11-25T07:25:06.780Z",
     "decreases": [
       {
         "id": 62649,
@@ -862,6 +862,19 @@
         "permalink": "https://pcbuilders.lk/auto-4/",
         "categories": "Monitor Arms",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-25T142858.828.png"
+      },
+      {
+        "id": 62774,
+        "name": "UGREEN 10000mAh 20W Zapix Series Two-way Fast Charging Power Bank – PB507 – 75131B (1 Year Warranty)",
+        "sku": "ACC-NEW-UGREEN-10000MAH-20W-ZAPIX-SERIES-TWO-WAY-FAST",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 8000,
+        "value": 8000,
+        "permalink": "https://pcbuilders.lk/ugreen-acc-new-ugreen-10000mah-20w-zapix-series-two-way-fast/",
+        "categories": "Power Banks",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-30T131750.577.png"
       },
       {
         "id": 31283,
@@ -879,14 +892,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 2,
+      "decrease_items": 3,
       "increase_items": 0,
-      "decrease_units": 2,
+      "decrease_units": 3,
       "increase_units": 0,
-      "decrease_value": 34500,
+      "decrease_value": 42500,
       "increase_value": 0,
-      "net_units": -2,
-      "net_value": -34500
+      "net_units": -3,
+      "net_value": -42500
     }
   }
 ]

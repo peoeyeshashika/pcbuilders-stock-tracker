@@ -1,14 +1,14 @@
 {
   "date": "2026-11-25",
-  "scraped_at": "2026-11-25T07:22:55.548Z",
+  "scraped_at": "2026-11-25T07:25:06.749Z",
   "counts": {
     "products": 1093,
     "qty_known": 508,
     "qty_hidden": 42,
     "backorder": 543,
     "out_of_stock": 0,
-    "sum_qty": 1180,
-    "total_value": 34069540
+    "sum_qty": 1179,
+    "total_value": 34061540
   },
   "products": [
     {
@@ -1623,8 +1623,8 @@
       "permalink": "https://pcbuilders.lk/ugreen-acc-new-ugreen-10000mah-20w-zapix-series-two-way-fast/",
       "price_lkr": 8000,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
