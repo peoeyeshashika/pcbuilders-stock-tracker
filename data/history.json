@@ -848,7 +848,7 @@
   {
     "date": "2026-11-25",
     "compared_to": "2026-11-25 open",
-    "generated_at": "2026-11-25T12:22:59.463Z",
+    "generated_at": "2026-11-25T12:25:02.259Z",
     "decreases": [
       {
         "id": 43564,
@@ -914,6 +914,19 @@
         "permalink": "https://pcbuilders.lk/microlab-gen-new-microlab-m380bt-bluetooth-multimedia-2-1/",
         "categories": "Speakers and Sound, Gaming Peripherals",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-03T155955.169.png"
+      },
+      {
+        "id": 49676,
+        "name": "FANTECH EOS WGP15V2S PRO II S WIRELESS BLACK CONTROLLER (6 MONTHS WARRANTY)",
+        "sku": "GEN-NEW-FANTECH-EOS-WGP15V2S-PRO-II-S-WIRELESS-B",
+        "from": 3,
+        "to": 2,
+        "delta": -1,
+        "price_lkr": 15000,
+        "value": 15000,
+        "permalink": "https://pcbuilders.lk/fantech-eos-wgp15v2s-black/",
+        "categories": "Game Controllers, Gaming Peripherals",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-02T175330.395.png"
       },
       {
         "id": 61052,
@@ -997,14 +1010,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 9,
+      "decrease_items": 10,
       "increase_items": 2,
-      "decrease_units": 9,
+      "decrease_units": 10,
       "increase_units": 2,
-      "decrease_value": 193000,
+      "decrease_value": 208000,
       "increase_value": 262500,
-      "net_units": -7,
-      "net_value": 69500
+      "net_units": -8,
+      "net_value": 54500
     }
   }
 ]

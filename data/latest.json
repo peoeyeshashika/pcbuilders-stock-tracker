@@ -1,14 +1,14 @@
 {
   "date": "2026-11-25",
-  "scraped_at": "2026-11-25T12:22:59.416Z",
+  "scraped_at": "2026-11-25T12:25:02.231Z",
   "counts": {
     "products": 1091,
     "qty_known": 505,
     "qty_hidden": 42,
     "backorder": 544,
     "out_of_stock": 0,
-    "sum_qty": 1171,
-    "total_value": 33934540
+    "sum_qty": 1170,
+    "total_value": 33919540
   },
   "products": [
     {
@@ -4518,8 +4518,8 @@
       "permalink": "https://pcbuilders.lk/fantech-eos-wgp15v2s-black/",
       "price_lkr": 15000,
       "is_in_stock": true,
-      "stock_text": "3 in stock",
-      "qty": 3,
+      "stock_text": "2 in stock",
+      "qty": 2,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -10512,6 +10512,21 @@
       "categories": "PC Components, Case Fans"
     },
     {
+      "id": 55770,
+      "name": "ARCTIC P12 PWM PST A-RGB (WHITE) FAN (6 YEARS WARRANTY)",
+      "sku": "COOL-NEW-ARCTIC-P12-PWM-PST-A-RGB-WHITE-FAN",
+      "permalink": "https://pcbuilders.lk/arctic-cool-new-arctic-p12-pwm-pst-a-rgb-white-fan-white/",
+      "price_lkr": 5850,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-21T134755.217.png",
+      "categories": "PC Components, Case Fans"
+    },
+    {
       "id": 55761,
       "name": "ARCTIC P12 PWM PST (BLACK) Fan (6 YEARS WARRANTY)",
       "sku": "COOL-NEW-ARCTIC-P12-PWM-PST-BLACK-FAN",
@@ -11994,21 +12009,6 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-08T133836.647-500x481.png",
-      "categories": "Computer Desks, Gaming &amp;amp; Desk Setup"
-    },
-    {
-      "id": 48964,
-      "name": "KOORUI DY01WO DOUBLE LAYER DESKTOP LIFTING TABLE",
-      "sku": "GEN-NEW-KOORUI-DY01WO-DOUBLE-LAYER-DESKTOP-LIFTI",
-      "permalink": "https://pcbuilders.lk/koorui-dy01wo/",
-      "price_lkr": 18500,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-08T133300.282.png",
       "categories": "Computer Desks, Gaming &amp;amp; Desk Setup"
     },
     {
@@ -16380,5 +16380,5 @@
   "baseline": false,
   "previous_date": "2026-11-25 open",
   "poll_interval_minutes": 2,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }
