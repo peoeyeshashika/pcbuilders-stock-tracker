@@ -848,8 +848,21 @@
   {
     "date": "2026-11-25",
     "compared_to": "2026-11-25 open",
-    "generated_at": "2026-11-25T08:11:04.388Z",
+    "generated_at": "2026-11-25T08:13:02.278Z",
     "decreases": [
+      {
+        "id": 43111,
+        "name": "Jungle Leopard Pro Flow 360 LIQUID COOLER – BLACK (3 YEARS WARRANTY)",
+        "sku": "COOL-NEW-JUNGLE-LEOPARD-PRO-FLOW-360&amp;#8212;BLACK",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 43000,
+        "value": 43000,
+        "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-pro-flow-360-black-black/",
+        "categories": "Liquid Coolers, PC Components, CPU Cooling",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-05-26T120524.854.png"
+      },
       {
         "id": 62649,
         "name": "RAE Heavy Duty Gas Spring Single Monitor Arm (3 YEARS WARRANTY)",
@@ -890,16 +903,43 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-25.png"
       }
     ],
-    "increases": [],
+    "increases": [
+      {
+        "id": 33457,
+        "name": "MSI GEFORCE RTX 5060 TI SHADOW 2X OC 8GB GDDR7X GRAPHICS CARD (3 YEARS WARRANTY)",
+        "sku": "GPU-NEW-MSI-RTX-5060-TI-SHADOW-2X-OC-8GB",
+        "from": 1,
+        "to": 2,
+        "delta": 1,
+        "price_lkr": 223000,
+        "value": 223000,
+        "permalink": "https://pcbuilders.lk/msi-rtx-5060-ti-8gb/",
+        "categories": "Graphics Cards, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/07/image-removebg-preview-2025-08-14T125908.827.png"
+      },
+      {
+        "id": 44515,
+        "name": "Corsair NAUTILUS ARGB 360mm Liquid CPU Cooler (5 Years Warranty)",
+        "sku": "COOL-NEW-CORSAIR-NAUTILUS-ARGB-360MM-LIQUID",
+        "from": 3,
+        "to": 4,
+        "delta": 1,
+        "price_lkr": 39500,
+        "value": 39500,
+        "permalink": "https://pcbuilders.lk/corsair-cool-new-corsair-nautilus-argb-360mm-liquid/",
+        "categories": "PC Components, CPU Cooling, Liquid Coolers",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-05-26T122503.180.png"
+      }
+    ],
     "totals": {
-      "decrease_items": 3,
-      "increase_items": 0,
-      "decrease_units": 3,
-      "increase_units": 0,
-      "decrease_value": 42500,
-      "increase_value": 0,
-      "net_units": -3,
-      "net_value": -42500
+      "decrease_items": 4,
+      "increase_items": 2,
+      "decrease_units": 4,
+      "increase_units": 2,
+      "decrease_value": 85500,
+      "increase_value": 262500,
+      "net_units": -2,
+      "net_value": 177000
     }
   }
 ]

@@ -1054,5 +1054,53 @@
     "permalink": "https://pcbuilders.lk/ugreen-acc-new-ugreen-10000mah-20w-zapix-series-two-way-fast/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-30T131750.577.png",
     "categories": "Power Banks"
+  },
+  {
+    "at": "2026-11-25T08:13:02.246Z",
+    "date": "2026-11-25",
+    "direction": "increase",
+    "id": 44515,
+    "name": "Corsair NAUTILUS ARGB 360mm Liquid CPU Cooler (5 Years Warranty)",
+    "sku": "COOL-NEW-CORSAIR-NAUTILUS-ARGB-360MM-LIQUID",
+    "from": 3,
+    "to": 4,
+    "delta": 1,
+    "price_lkr": 39500,
+    "value": 39500,
+    "permalink": "https://pcbuilders.lk/corsair-cool-new-corsair-nautilus-argb-360mm-liquid/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-05-26T122503.180.png",
+    "categories": "PC Components, CPU Cooling, Liquid Coolers"
+  },
+  {
+    "at": "2026-11-25T08:13:02.246Z",
+    "date": "2026-11-25",
+    "direction": "decrease",
+    "id": 43111,
+    "name": "Jungle Leopard Pro Flow 360 LIQUID COOLER – BLACK (3 YEARS WARRANTY)",
+    "sku": "COOL-NEW-JUNGLE-LEOPARD-PRO-FLOW-360&amp;#8212;BLACK",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 43000,
+    "value": 43000,
+    "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-pro-flow-360-black-black/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-05-26T120524.854.png",
+    "categories": "Liquid Coolers, PC Components, CPU Cooling"
+  },
+  {
+    "at": "2026-11-25T08:13:02.246Z",
+    "date": "2026-11-25",
+    "direction": "increase",
+    "id": 33457,
+    "name": "MSI GEFORCE RTX 5060 TI SHADOW 2X OC 8GB GDDR7X GRAPHICS CARD (3 YEARS WARRANTY)",
+    "sku": "GPU-NEW-MSI-RTX-5060-TI-SHADOW-2X-OC-8GB",
+    "from": 1,
+    "to": 2,
+    "delta": 1,
+    "price_lkr": 223000,
+    "value": 223000,
+    "permalink": "https://pcbuilders.lk/msi-rtx-5060-ti-8gb/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2025/07/image-removebg-preview-2025-08-14T125908.827.png",
+    "categories": "Graphics Cards, PC Components"
   }
 ]
