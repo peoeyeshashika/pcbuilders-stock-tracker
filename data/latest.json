@@ -1,14 +1,14 @@
 {
   "date": "2026-11-25",
-  "scraped_at": "2026-11-25T08:43:04.103Z",
+  "scraped_at": "2026-11-25T08:45:08.767Z",
   "counts": {
     "products": 1092,
     "qty_known": 507,
     "qty_hidden": 42,
     "backorder": 543,
     "out_of_stock": 0,
-    "sum_qty": 1179,
-    "total_value": 34196040
+    "sum_qty": 1178,
+    "total_value": 34186540
   },
   "products": [
     {
@@ -2853,8 +2853,8 @@
       "permalink": "https://pcbuilders.lk/fantech-kb-new-fantech-atom-x66-mk614-mechanical-gamin-white/",
       "price_lkr": 9500,
       "is_in_stock": true,
-      "stock_text": "3 in stock",
-      "qty": 3,
+      "stock_text": "2 in stock",
+      "qty": 2,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -14898,7 +14898,7 @@
       "permalink": "https://pcbuilders.lk/intel-cpu-new-intel-ultra-9-285k-24-threads-24-cores/",
       "price_lkr": 192500,
       "is_in_stock": true,
-      "stock_text": "Available on backorder",
+      "stock_text": "",
       "qty": null,
       "qty_known": false,
       "status": "backorder",
@@ -16395,5 +16395,5 @@
   "baseline": false,
   "previous_date": "2026-11-25 open",
   "poll_interval_minutes": 2,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }

@@ -848,7 +848,7 @@
   {
     "date": "2026-11-25",
     "compared_to": "2026-11-25 open",
-    "generated_at": "2026-11-25T08:43:04.130Z",
+    "generated_at": "2026-11-25T08:45:08.810Z",
     "decreases": [
       {
         "id": 43111,
@@ -875,6 +875,19 @@
         "permalink": "https://pcbuilders.lk/auto-4/",
         "categories": "Monitor Arms",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-25T142858.828.png"
+      },
+      {
+        "id": 61052,
+        "name": "FANTECH ATOM X66 MK614 MECHANICAL GAMING KEYBOARD WHITE (6 MONTHS WARRANTY)",
+        "sku": "KB-NEW-FANTECH-ATOM-X66-MK614-MECHANICAL-GAMIN",
+        "from": 3,
+        "to": 2,
+        "delta": -1,
+        "price_lkr": 9500,
+        "value": 9500,
+        "permalink": "https://pcbuilders.lk/fantech-kb-new-fantech-atom-x66-mk614-mechanical-gamin-white/",
+        "categories": "Gaming Peripherals, Keyboards",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-19T100704.128.png"
       },
       {
         "id": 62774,
@@ -932,14 +945,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 4,
+      "decrease_items": 5,
       "increase_items": 2,
-      "decrease_units": 4,
+      "decrease_units": 5,
       "increase_units": 2,
-      "decrease_value": 85500,
+      "decrease_value": 95000,
       "increase_value": 262500,
-      "net_units": -2,
-      "net_value": 177000
+      "net_units": -3,
+      "net_value": 167500
     }
   }
 ]
