@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "scraped_at": "2026-11-25T09:51:11.213Z",
+  "scraped_at": "2026-11-25T09:52:58.211Z",
   "counts": {
     "products": 1093,
     "qty_known": 507,
@@ -12252,6 +12252,21 @@
       "categories": "PC Components, CPU Cooling, Liquid Coolers"
     },
     {
+      "id": 48105,
+      "name": "MSI PRO B840M P DDR5 (WI-FI6E) Motherboard (3 YEARS WARRANTY)",
+      "sku": "MB-NEW-MSI-PRO-B840M-P-DDR5-WI-FI6E",
+      "permalink": "https://pcbuilders.lk/msi-mb-new-msi-pro-b840m-p-ddr5-wi-fi6e/",
+      "price_lkr": 58500,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-92.png",
+      "categories": "PC Components, Motherboards"
+    },
+    {
       "id": 47873,
       "name": "MSI B840M Gaming Plus (WIFI6E) DDR5 Motherboard (3 YEARS WARRANTY)",
       "sku": "MB-NEW-MSI-B840M-GAMING-PLUS-WIFI6E-DDR5",
@@ -14995,21 +15010,6 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview.webp",
       "categories": "PC Components, PC Cases"
-    },
-    {
-      "id": 24872,
-      "name": "JUSTICE LEAGUE BATMAN – BRUCE WAYNE 18CM JOINT MOVABLE ANIME MODEL ACTION FIGURE",
-      "sku": "ACC-NEW-JUSTICE-LEAGUE-BATMAN&amp;#8212;BRUCE-WAYNE-18CM",
-      "permalink": "https://pcbuilders.lk/justice-bruce-wayne-18cm/",
-      "price_lkr": 13500,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/Sdb1e04b1cbb6430eb32ca39b5d3361c6v.avif",
-      "categories": "Action Figures"
     },
     {
       "id": 24872,
