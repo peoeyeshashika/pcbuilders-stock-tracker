@@ -848,7 +848,7 @@
   {
     "date": "2026-11-25",
     "compared_to": "2026-11-25 open",
-    "generated_at": "2026-11-25T07:21:02.182Z",
+    "generated_at": "2026-11-25T07:22:55.575Z",
     "decreases": [
       {
         "id": 62649,
@@ -862,18 +862,31 @@
         "permalink": "https://pcbuilders.lk/auto-4/",
         "categories": "Monitor Arms",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-25T142858.828.png"
+      },
+      {
+        "id": 31283,
+        "name": "FANTECH NC22 NOTEBOOK COOLING PAD (6 MONTHS WARRANTY)",
+        "sku": "GEN-NEW-FANTECH-NC22-NOTEBOOK-COOLING-PAD",
+        "from": 4,
+        "to": 3,
+        "delta": -1,
+        "price_lkr": 8000,
+        "value": 8000,
+        "permalink": "https://pcbuilders.lk/fantech-nc22/",
+        "categories": "Laptop Coolers, Laptops",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-25.png"
       }
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 1,
+      "decrease_items": 2,
       "increase_items": 0,
-      "decrease_units": 1,
+      "decrease_units": 2,
       "increase_units": 0,
-      "decrease_value": 26500,
+      "decrease_value": 34500,
       "increase_value": 0,
-      "net_units": -1,
-      "net_value": -26500
+      "net_units": -2,
+      "net_value": -34500
     }
   }
 ]
