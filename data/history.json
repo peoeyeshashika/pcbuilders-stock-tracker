@@ -848,7 +848,7 @@
   {
     "date": "2026-11-25",
     "compared_to": "2026-11-25 open",
-    "generated_at": "2026-11-25T13:13:00.361Z",
+    "generated_at": "2026-11-25T13:14:56.235Z",
     "decreases": [
       {
         "id": 43564,
@@ -992,6 +992,19 @@
         "permalink": "https://pcbuilders.lk/arctic-gen-new-arctic-mx-7-4g-cn-ultimate-performance-t/",
         "categories": "Thermal Paste, PC Components, CPU Cooling",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-06T162805.141.png"
+      },
+      {
+        "id": 61173,
+        "name": "MEETION M930 High-Precision RGB Wired Gaming Mouse (1 YEAR WARRANTY)",
+        "sku": "MOU-NEW-MEETION-M930-RGB-GAMING",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 2500,
+        "value": 2500,
+        "permalink": "https://pcbuilders.lk/meetion-mou-new-meetion-m930-rgb-gaming/",
+        "categories": "Gaming Peripherals, Mouse",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/m930-meetion-official.png"
       }
     ],
     "increases": [
@@ -1023,14 +1036,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 11,
+      "decrease_items": 12,
       "increase_items": 2,
-      "decrease_units": 11,
+      "decrease_units": 12,
       "increase_units": 2,
-      "decrease_value": 212500,
+      "decrease_value": 215000,
       "increase_value": 262500,
-      "net_units": -9,
-      "net_value": 50000
+      "net_units": -10,
+      "net_value": 47500
     }
   }
 ]

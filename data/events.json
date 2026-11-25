@@ -1230,5 +1230,21 @@
     "permalink": "https://pcbuilders.lk/ruix-cool-new-ruix-x4000-se-fixed-rgb/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-15T095249.088.png",
     "categories": "Air Coolers"
+  },
+  {
+    "at": "2026-11-25T13:14:56.185Z",
+    "date": "2026-11-25",
+    "direction": "decrease",
+    "id": 61173,
+    "name": "MEETION M930 High-Precision RGB Wired Gaming Mouse (1 YEAR WARRANTY)",
+    "sku": "MOU-NEW-MEETION-M930-RGB-GAMING",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 2500,
+    "value": 2500,
+    "permalink": "https://pcbuilders.lk/meetion-mou-new-meetion-m930-rgb-gaming/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/m930-meetion-official.png",
+    "categories": "Gaming Peripherals, Mouse"
   }
 ]
