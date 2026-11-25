@@ -1118,5 +1118,21 @@
     "permalink": "https://pcbuilders.lk/fantech-kb-new-fantech-atom-x66-mk614-mechanical-gamin-white/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-19T100704.128.png",
     "categories": "Gaming Peripherals, Keyboards"
+  },
+  {
+    "at": "2026-11-25T08:57:04.998Z",
+    "date": "2026-11-25",
+    "direction": "decrease",
+    "id": 18881,
+    "name": "AMD RYZEN 5 5600X PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+    "sku": "CPU-NEW-AMD-RYZEN-5-5600X",
+    "from": 4,
+    "to": 3,
+    "delta": -1,
+    "price_lkr": 45000,
+    "value": 45000,
+    "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5600x/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3048-removebg-preview.png",
+    "categories": "PC Components, Processors, AMD"
   }
 ]
