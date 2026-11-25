@@ -1,14 +1,14 @@
 {
   "date": "2026-11-25",
-  "scraped_at": "2026-11-25T07:53:06.655Z",
+  "scraped_at": "2026-11-25T07:55:14.104Z",
   "counts": {
-    "products": 1093,
-    "qty_known": 508,
+    "products": 1092,
+    "qty_known": 507,
     "qty_hidden": 42,
     "backorder": 543,
     "out_of_stock": 0,
-    "sum_qty": 1179,
-    "total_value": 34061540
+    "sum_qty": 1178,
+    "total_value": 33976540
   },
   "products": [
     {
@@ -7150,21 +7150,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/11/image-removebg-preview-95.png",
       "categories": "PC Components, Memory, Desktop RAM"
-    },
-    {
-      "id": 26572,
-      "name": "AMD RYZEN 7 5700X3D PROCESSOR (USED ITEM)",
-      "sku": "CPU-USED-AMD-RYZEN-7-5700X3D",
-      "permalink": "https://pcbuilders.lk/used-amd-cpu-used-amd-ryzen-7-5700x3d/",
-      "price_lkr": 85000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/12/image-removebg-preview-66-300x300.png",
-      "categories": "AMD, PC Components, Processors"
     },
     {
       "id": 26417,
