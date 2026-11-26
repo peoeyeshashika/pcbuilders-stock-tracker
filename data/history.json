@@ -1049,7 +1049,7 @@
   {
     "date": "2026-11-26",
     "compared_to": "2026-11-26 open",
-    "generated_at": "2026-11-26T05:45:03.445Z",
+    "generated_at": "2026-11-26T05:46:59.940Z",
     "decreases": [
       {
         "id": 65507,
@@ -1063,6 +1063,19 @@
         "permalink": "https://pcbuilders.lk/pxn-ctrl-new-pxn-p5-wireless-gamepad/",
         "categories": "Game Controllers",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T103846.790.png"
+      },
+      {
+        "id": 35450,
+        "name": "UGREEN 5 in 1 Type C HUB – 15596 (18 MONTHS WARRANTY)",
+        "sku": "GEN-NEW-UGREEN-5-IN-1-TYPE-C-HUB&amp;#8212;15596",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 6750,
+        "value": 6750,
+        "permalink": "https://pcbuilders.lk/ugreen-gen-new-ugreen-5-in-1-type-c-hub-15596/",
+        "categories": "USB Hubs, Networking &amp;amp; Connectivity",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-2025-10-25T145514.868.png"
       }
     ],
     "increases": [
@@ -1120,14 +1133,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 1,
+      "decrease_items": 2,
       "increase_items": 4,
-      "decrease_units": 1,
+      "decrease_units": 2,
       "increase_units": 5,
-      "decrease_value": 10000,
+      "decrease_value": 16750,
       "increase_value": 84000,
-      "net_units": 4,
-      "net_value": 74000
+      "net_units": 3,
+      "net_value": 67250
     }
   }
 ]
