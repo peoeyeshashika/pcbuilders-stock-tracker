@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T04:12:55.768Z",
+  "scraped_at": "2026-11-26T04:14:53.634Z",
   "counts": {
     "products": 1092,
-    "qty_known": 506,
+    "qty_known": 507,
     "qty_hidden": 42,
-    "backorder": 544,
+    "backorder": 543,
     "out_of_stock": 0,
-    "sum_qty": 1173,
-    "total_value": 34633040
+    "sum_qty": 1177,
+    "total_value": 35381040
   },
   "products": [
     {
@@ -190,6 +190,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-96-500x433.png",
       "categories": "Desktop RAM, Memory, PC Components"
+    },
+    {
+      "id": 65882,
+      "name": "Corsair Vengeance 32GB (1X32) DDR5 DRAM 6000MT/S Memory (10 YEARS WARRANTY)",
+      "sku": "RAM-NEW-CORSAIR-VENGEANCE-32GB-1X32-DDR5-DRAM-6000MT",
+      "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-32gb-1x32-ddr5-dram-6000mt-32gb/",
+      "price_lkr": 187000,
+      "is_in_stock": true,
+      "stock_text": "4 in stock",
+      "qty": 4,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-15T133201.710.png",
+      "categories": "Desktop RAM"
     },
     {
       "id": 65845,
@@ -8500,21 +8515,6 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/asus-rog-swift-oled-pg27aqwp-g-500x625.webp",
       "categories": "Monitors &amp;amp; Display, Monitors"
-    },
-    {
-      "id": 65882,
-      "name": "Corsair Vengeance 32GB (1X32) DDR5 DRAM 6000MT/S Memory (10 YEARS WARRANTY)",
-      "sku": "RAM-NEW-CORSAIR-VENGEANCE-32GB-1X32-DDR5-DRAM-6000MT",
-      "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-32gb-1x32-ddr5-dram-6000mt-32gb/",
-      "price_lkr": 187000,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-15T133201.710.png",
-      "categories": "Desktop RAM"
     },
     {
       "id": 65531,
