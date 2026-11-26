@@ -1,11 +1,11 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T06:37:06.780Z",
+  "scraped_at": "2026-11-26T06:39:07.785Z",
   "counts": {
-    "products": 1091,
+    "products": 1090,
     "qty_known": 505,
     "qty_hidden": 42,
-    "backorder": 544,
+    "backorder": 543,
     "out_of_stock": 0,
     "sum_qty": 1166,
     "total_value": 34422090
@@ -15010,21 +15010,6 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-2024-09-30T170638.653.png",
       "categories": "PC Components, Memory, Desktop RAM"
-    },
-    {
-      "id": 24150,
-      "name": "DCP 12V 9A UPS BATTERY (1 YEAR WARRANTY)",
-      "sku": "GEN-NEW-DCP-12V-9A-UPS-BATTERY",
-      "permalink": "https://pcbuilders.lk/dcp-gen-new-dcp-12v-9a-ups-battery/",
-      "price_lkr": 6200,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-2024-09-25T173822.688.png",
-      "categories": "PC Components, UPS"
     },
     {
       "id": 23921,
