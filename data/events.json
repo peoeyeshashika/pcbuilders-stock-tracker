@@ -1262,5 +1262,21 @@
     "permalink": "https://pcbuilders.lk/ruix-cool-new-ruix-x4000-se-fixed-rgb/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-15T095249.088.png",
     "categories": "Air Coolers"
+  },
+  {
+    "at": "2026-11-26T04:06:53.096Z",
+    "date": "2026-11-26",
+    "direction": "increase",
+    "id": 29088,
+    "name": "INTEL CORE I5 – 8500 PROCESSOR (USED ITEM)",
+    "sku": "CPU-USED-INTEL-CORE-I5&amp;#8212;8500",
+    "from": 2,
+    "to": 4,
+    "delta": 2,
+    "price_lkr": 21000,
+    "value": 42000,
+    "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-core-i5-8500/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/8500.png",
+    "categories": "PC Components, Processors, INTEL"
   }
 ]

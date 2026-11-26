@@ -1049,9 +1049,22 @@
   {
     "date": "2026-11-26",
     "compared_to": "2026-11-26 open",
-    "generated_at": "2026-11-26T04:04:56.008Z",
+    "generated_at": "2026-11-26T04:06:53.122Z",
     "decreases": [],
     "increases": [
+      {
+        "id": 29088,
+        "name": "INTEL CORE I5 – 8500 PROCESSOR (USED ITEM)",
+        "sku": "CPU-USED-INTEL-CORE-I5&amp;#8212;8500",
+        "from": 2,
+        "to": 4,
+        "delta": 2,
+        "price_lkr": 21000,
+        "value": 42000,
+        "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-core-i5-8500/",
+        "categories": "PC Components, Processors, INTEL",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/8500.png"
+      },
       {
         "id": 65845,
         "name": "RUIX X4000 SE Fixed RGB AIR COOLER (6 MONTHS WARRANTY)",
@@ -1068,13 +1081,13 @@
     ],
     "totals": {
       "decrease_items": 0,
-      "increase_items": 1,
+      "increase_items": 2,
       "decrease_units": 0,
-      "increase_units": 1,
+      "increase_units": 3,
       "decrease_value": 0,
-      "increase_value": 4500,
-      "net_units": 1,
-      "net_value": 4500
+      "increase_value": 46500,
+      "net_units": 3,
+      "net_value": 46500
     }
   }
 ]
