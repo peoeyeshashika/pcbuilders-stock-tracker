@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T06:57:06.512Z",
+  "scraped_at": "2026-11-26T06:59:05.813Z",
   "counts": {
     "products": 1090,
     "qty_known": 503,
     "qty_hidden": 42,
     "backorder": 545,
     "out_of_stock": 0,
-    "sum_qty": 1164,
-    "total_value": 34415790
+    "sum_qty": 1162,
+    "total_value": 34400590
   },
   "products": [
     {
@@ -78,8 +78,8 @@
       "permalink": "https://pcbuilders.lk/nb-mon-new-nb-d2-ergonomic-mechanical-spring-desk-mount/",
       "price_lkr": 9500,
       "is_in_stock": true,
-      "stock_text": "10 in stock",
-      "qty": 10,
+      "stock_text": "9 in stock",
+      "qty": 9,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -4428,8 +4428,8 @@
       "permalink": "https://pcbuilders.lk/ugreen-gen-new-ugreen-20w-type-c-fast-charger-set-type/",
       "price_lkr": 5700,
       "is_in_stock": true,
-      "stock_text": "3 in stock",
-      "qty": 3,
+      "stock_text": "2 in stock",
+      "qty": 2,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16365,5 +16365,5 @@
   "baseline": false,
   "previous_date": "2026-11-26 open",
   "poll_interval_minutes": 2,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 2
 }

@@ -1470,5 +1470,37 @@
     "permalink": "https://pcbuilders.lk/gigabyte-rtx-5060/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2025/11/image-removebg-preview-2025-11-20T155743.949.png",
     "categories": "Graphics Cards, PC Components"
+  },
+  {
+    "at": "2026-11-26T06:59:05.813Z",
+    "date": "2026-11-26",
+    "direction": "decrease",
+    "id": 66270,
+    "name": "NB-D2 ERGONOMIC MECHANICAL SPRING DESK MOUNT MONITOR ARM",
+    "sku": "MON-NEW-NB-D2-ERGONOMIC-MECHANICAL-SPRING-DESK-MOUNT",
+    "from": 10,
+    "to": 9,
+    "delta": -1,
+    "price_lkr": 9500,
+    "value": 9500,
+    "permalink": "https://pcbuilders.lk/nb-mon-new-nb-d2-ergonomic-mechanical-spring-desk-mount/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-25T111953.726.png",
+    "categories": "Monitor Arms"
+  },
+  {
+    "at": "2026-11-26T06:59:05.813Z",
+    "date": "2026-11-26",
+    "direction": "decrease",
+    "id": 49804,
+    "name": "UGREEN 20W Type-C Fast Charger Set With Type-C to Type-C 1 Meter Cable – CD137 – 45438 (18 Months Warranty)",
+    "sku": "GEN-NEW-UGREEN-20W-TYPE-C-FAST-CHARGER-SET-TYPE-",
+    "from": 3,
+    "to": 2,
+    "delta": -1,
+    "price_lkr": 5700,
+    "value": 5700,
+    "permalink": "https://pcbuilders.lk/ugreen-gen-new-ugreen-20w-type-c-fast-charger-set-type/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-08T112615.187.png",
+    "categories": "Chargers, Mobile, Mobile Accessories"
   }
 ]

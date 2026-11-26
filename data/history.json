@@ -1049,7 +1049,7 @@
   {
     "date": "2026-11-26",
     "compared_to": "2026-11-26 open",
-    "generated_at": "2026-11-26T06:57:06.540Z",
+    "generated_at": "2026-11-26T06:59:05.856Z",
     "decreases": [
       {
         "id": 40453,
@@ -1156,6 +1156,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T103846.790.png"
       },
       {
+        "id": 66270,
+        "name": "NB-D2 ERGONOMIC MECHANICAL SPRING DESK MOUNT MONITOR ARM",
+        "sku": "MON-NEW-NB-D2-ERGONOMIC-MECHANICAL-SPRING-DESK-MOUNT",
+        "from": 10,
+        "to": 9,
+        "delta": -1,
+        "price_lkr": 9500,
+        "value": 9500,
+        "permalink": "https://pcbuilders.lk/nb-mon-new-nb-d2-ergonomic-mechanical-spring-desk-mount/",
+        "categories": "Monitor Arms",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-25T111953.726.png"
+      },
+      {
         "id": 65304,
         "name": "UGREEN HD USB/Type-C 1080p 60Hz Video Capture Card – CM716 – 25854 (18 MONTHS Warranty)",
         "sku": "CAPTURE-NEW-UGREEN-HD-USB-TYPE-C-1080P-60HZ-VIDEO-CAPTURE",
@@ -1180,6 +1193,19 @@
         "permalink": "https://pcbuilders.lk/ugreen-gen-new-ugreen-5-in-1-type-c-hub-15596/",
         "categories": "USB Hubs, Networking &amp;amp; Connectivity",
         "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-2025-10-25T145514.868.png"
+      },
+      {
+        "id": 49804,
+        "name": "UGREEN 20W Type-C Fast Charger Set With Type-C to Type-C 1 Meter Cable – CD137 – 45438 (18 Months Warranty)",
+        "sku": "GEN-NEW-UGREEN-20W-TYPE-C-FAST-CHARGER-SET-TYPE-",
+        "from": 3,
+        "to": 2,
+        "delta": -1,
+        "price_lkr": 5700,
+        "value": 5700,
+        "permalink": "https://pcbuilders.lk/ugreen-gen-new-ugreen-20w-type-c-fast-charger-set-type/",
+        "categories": "Chargers, Mobile, Mobile Accessories",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-08T112615.187.png"
       }
     ],
     "increases": [
@@ -1237,14 +1263,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 10,
+      "decrease_items": 12,
       "increase_items": 4,
-      "decrease_units": 10,
+      "decrease_units": 12,
       "increase_units": 5,
-      "decrease_value": 389950,
+      "decrease_value": 405150,
       "increase_value": 84000,
-      "net_units": -5,
-      "net_value": -305950
+      "net_units": -7,
+      "net_value": -321150
     }
   }
 ]
