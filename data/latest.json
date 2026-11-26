@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T04:14:53.634Z",
+  "scraped_at": "2026-11-26T04:17:03.829Z",
   "counts": {
     "products": 1092,
     "qty_known": 507,
@@ -8553,7 +8553,7 @@
       "permalink": "https://pcbuilders.lk/pxn-acc-new-pxn-a10-foldable-racing-wheel-stand/",
       "price_lkr": 25500,
       "is_in_stock": true,
-      "stock_text": "",
+      "stock_text": "Available on backorder",
       "qty": null,
       "qty_known": false,
       "status": "backorder",
