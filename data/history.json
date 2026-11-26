@@ -1049,7 +1049,7 @@
   {
     "date": "2026-11-26",
     "compared_to": "2026-11-26 open",
-    "generated_at": "2026-11-26T11:32:58.745Z",
+    "generated_at": "2026-11-26T11:34:58.050Z",
     "decreases": [
       {
         "id": 40453,
@@ -1104,6 +1104,32 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3048-removebg-preview.png"
       },
       {
+        "id": 18880,
+        "name": "AMD RYZEN 5 5500 PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+        "sku": "CPU-NEW-AMD-RYZEN-5-5500",
+        "from": 5,
+        "to": 4,
+        "delta": -1,
+        "price_lkr": 34000,
+        "value": 34000,
+        "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5500/",
+        "categories": "PC Components, Processors, AMD",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-30T024051.733.png"
+      },
+      {
+        "id": 48755,
+        "name": "ASUS PRIME A520M-K MOTHERBOARD (3 YEARS WARRANTY)",
+        "sku": "MB-NEW-ASUS-PRIME-A520M-K",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 26500,
+        "value": 26500,
+        "permalink": "https://pcbuilders.lk/asus-mb-new-asus-prime-a520m-k/",
+        "categories": "Motherboards, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/tD2VstqYAGgljrpChjPy16BVrNBNUFy28k9xc46k.webp"
+      },
+      {
         "id": 28030,
         "name": "CORSAIR CX650 80 PLUS BRONZE CERTIFIED POWER SUPPLY (5 YEARS WARRANTY)",
         "sku": "PSU-NEW-CORSAIR-CX650-CERTIFIED",
@@ -1115,6 +1141,19 @@
         "permalink": "https://pcbuilders.lk/corsair-psu-new-corsair-cx650-certified/",
         "categories": "PC Components, Power Supplies",
         "image": "https://pcbuilders.lk/wp-content/uploads/2025/02/image-removebg-preview-18.png"
+      },
+      {
+        "id": 54197,
+        "name": "Raidmax INFINITAS LD360 360mm ARGB Liquid Cooler With Display (3 YEARS WARRANTY)",
+        "sku": "COOL-NEW-RAIDMAX-INFINITAS-LD360-360MM-ARGB-DISPL",
+        "from": 3,
+        "to": 2,
+        "delta": -1,
+        "price_lkr": 22000,
+        "value": 22000,
+        "permalink": "https://pcbuilders.lk/raidmax-cool-new-raidmax-infinitas-ld360-360mm-argb-displ/",
+        "categories": "PC Components, CPU Cooling, Liquid Coolers",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/07/image-removebg-preview-2026-07-10T113554.781.png"
       },
       {
         "id": 61557,
@@ -1232,6 +1271,19 @@
         "permalink": "https://pcbuilders.lk/r8-kb-new-r8-keyboard-gk101-compact-wired-rgb-mechanica/",
         "categories": "Keyboards",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-25T121555.030.png"
+      },
+      {
+        "id": 21462,
+        "name": "COMPUTER AM5 CPU CONTACT FRAME",
+        "sku": "GEN-NEW-INTEL-COMPUTER-AM5-CONTACT-FRAME",
+        "from": 4,
+        "to": 3,
+        "delta": -1,
+        "price_lkr": 3000,
+        "value": 3000,
+        "permalink": "https://pcbuilders.lk/intel-gen-new-intel-computer-am5-contact-frame/",
+        "categories": "PC Components, CPU Cooling, CPU Contact Frames",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-99.png"
       }
     ],
     "increases": [
@@ -1289,14 +1341,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 14,
+      "decrease_items": 18,
       "increase_items": 4,
-      "decrease_units": 14,
+      "decrease_units": 18,
       "increase_units": 5,
-      "decrease_value": 470750,
+      "decrease_value": 556250,
       "increase_value": 84000,
-      "net_units": -9,
-      "net_value": -386750
+      "net_units": -13,
+      "net_value": -472250
     }
   }
 ]
