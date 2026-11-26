@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T05:16:52.597Z",
+  "scraped_at": "2026-11-26T05:19:21.122Z",
   "counts": {
     "products": 1093,
     "qty_known": 508,
@@ -1404,7 +1404,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-24T113534.087.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 64077,
@@ -1479,7 +1479,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/final_gpu_colorful1660s.png",
-      "categories": "PC Components, Graphics Cards"
+      "categories": "Graphics Cards, PC Components"
     },
     {
       "id": 62977,
@@ -1494,7 +1494,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/final_gpu_emtek1660s.png",
-      "categories": "PC Components, Graphics Cards"
+      "categories": "Graphics Cards, PC Components"
     },
     {
       "id": 62949,
@@ -1554,7 +1554,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/ASROCK-FM2A68M-DG3-Motherboard-1.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 62798,
@@ -2244,7 +2244,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2024-06-19T105933.912.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 62207,
@@ -2499,7 +2499,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/thermalright-peerless-vision-240-argb-white-cooler-official-500x625.png",
-      "categories": "Liquid Coolers, PC Components, CPU Cooling"
+      "categories": "Liquid Coolers, CPU Cooling, PC Components"
     },
     {
       "id": 61635,
@@ -2514,7 +2514,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/thermalright-peerless-vision-240-argb-black-cooler-official-500x625.png",
-      "categories": "Liquid Coolers, PC Components, CPU Cooling"
+      "categories": "Liquid Coolers, CPU Cooling, PC Components"
     },
     {
       "id": 61629,
@@ -2529,7 +2529,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/thermalright-aqua-elite-240-white-cooler-official-500x625.png",
-      "categories": "Liquid Coolers, PC Components, CPU Cooling"
+      "categories": "Liquid Coolers, CPU Cooling, PC Components"
     },
     {
       "id": 61627,
@@ -2544,7 +2544,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/thermalright-aqua-elite-240-black-cooler-official-500x625.png",
-      "categories": "Liquid Coolers, PC Components, CPU Cooling"
+      "categories": "Liquid Coolers, CPU Cooling, PC Components"
     },
     {
       "id": 61564,
@@ -2964,7 +2964,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-26T115750.808.png",
-      "categories": "PC Components, CPU Cooling, Liquid Coolers"
+      "categories": "CPU Cooling, Liquid Coolers, PC Components"
     },
     {
       "id": 55938,
@@ -3009,7 +3009,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-22T151739.124.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 55812,
@@ -3699,7 +3699,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-13T151858.475.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 55121,
@@ -3729,7 +3729,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-07T132754.964.png",
-      "categories": "PC Components, CPU Cooling, Liquid Coolers"
+      "categories": "CPU Cooling, Liquid Coolers, PC Components"
     },
     {
       "id": 54941,
@@ -3834,7 +3834,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/07/image-removebg-preview-2026-07-10T113554.781.png",
-      "categories": "PC Components, CPU Cooling, Liquid Coolers"
+      "categories": "CPU Cooling, Liquid Coolers, PC Components"
     },
     {
       "id": 53997,
@@ -4344,7 +4344,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/image-removebg-preview-2026-05-02T100240.663.png",
-      "categories": "PC Components, CPU Cooling, Liquid Coolers"
+      "categories": "CPU Cooling, Liquid Coolers, PC Components"
     },
     {
       "id": 50437,
@@ -4524,7 +4524,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-04T120908.761.png",
-      "categories": "PC Components, Memory, Desktop RAM"
+      "categories": "Desktop RAM, Memory, PC Components"
     },
     {
       "id": 49676,
@@ -4584,7 +4584,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4476__1_-removebg-preview.png",
-      "categories": "PC Components, Memory, Desktop RAM"
+      "categories": "Desktop RAM, Memory, PC Components"
     },
     {
       "id": 49299,
@@ -4599,7 +4599,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3788-removebg-preview.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 49161,
@@ -4824,7 +4824,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-05-26T113244.742-500x492.png",
-      "categories": "Liquid Coolers, PC Components, CPU Cooling"
+      "categories": "Liquid Coolers, CPU Cooling, PC Components"
     },
     {
       "id": 48560,
@@ -5934,7 +5934,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4128-removebg-preview.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 39918,
@@ -5979,7 +5979,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3788-removebg-preview.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 39631,
@@ -6024,7 +6024,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4856__1_-removebg-preview.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 39511,
@@ -6324,7 +6324,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/8500.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 35644,
@@ -6474,7 +6474,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3785-removebg-preview-1.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 34909,
@@ -6669,7 +6669,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/07/image-removebg-preview-2025-07-06T170018.075.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 32870,
@@ -6894,7 +6894,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/1024-12-500x625.png",
-      "categories": "PC Components, Graphics Cards"
+      "categories": "Graphics Cards, PC Components"
     },
     {
       "id": 29088,
@@ -6909,7 +6909,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/8500.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 28749,
@@ -6939,7 +6939,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3048-removebg-preview.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 28030,
@@ -7059,7 +7059,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/01/image-removebg-preview-2025-01-24T101626.845.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 27063,
@@ -7089,7 +7089,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebg-preview-ps-21-300x300.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 26883,
@@ -7134,7 +7134,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/12/image-removebg-preview-64.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 26417,
@@ -7179,7 +7179,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebg-preview-2024-03-08T102339.141.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 25900,
@@ -7329,7 +7329,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-11T102409.787.webp",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 24694,
@@ -7359,7 +7359,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/intel-core-i7-6700-processor-removebg-preview.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 24279,
@@ -7539,7 +7539,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2024-06-13T104615.396.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 21469,
@@ -7584,7 +7584,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/z3060ti.png",
-      "categories": "PC Components, Graphics Cards"
+      "categories": "Graphics Cards, PC Components"
     },
     {
       "id": 20926,
@@ -7599,7 +7599,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2025-06-24T174118.344.png",
-      "categories": "PC Components, Graphics Cards"
+      "categories": "Graphics Cards, PC Components"
     },
     {
       "id": 20897,
@@ -7614,7 +7614,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebg-preview-ps-21-300x300.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 20891,
@@ -7629,7 +7629,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/05/image-removebg-preview-19-300x300.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 20821,
@@ -7764,7 +7764,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-24T113534.087.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 19627,
@@ -7914,7 +7914,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-2023-07-28T004237.110.png",
-      "categories": "Monitors &amp;amp; Display, Monitors"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 18959,
@@ -7959,7 +7959,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4586-removebg-preview.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 18887,
@@ -7974,7 +7974,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/2850__1_-removebg-preview.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 18883,
@@ -7989,7 +7989,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/ASROCK-FM2A68M-DG3-Motherboard-1.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 18881,
@@ -8019,7 +8019,7 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-30T024051.733.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 20688,
@@ -8529,7 +8529,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/asus-rog-swift-oled-pg27aqwp-g-500x625.webp",
-      "categories": "Monitors &amp;amp; Display, Monitors"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 65531,
@@ -10314,7 +10314,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/koorui-e2712k-27-inch-fhd-va-144hz-gaming-monitor-2-500x625.png",
-      "categories": "Monitors &amp;amp; Display, Monitors"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 61030,
@@ -10719,7 +10719,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-19T112210.367.png",
-      "categories": "PC Components, Storage, NVMe SSD"
+      "categories": "NVMe SSD, PC Components, Storage"
     },
     {
       "id": 55561,
@@ -12054,7 +12054,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/11/image-removebg-preview-56.png",
-      "categories": "PC Components, Processors, AMD"
+      "categories": "AMD, PC Components, Processors"
     },
     {
       "id": 48870,
@@ -12099,7 +12099,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-28T142759.755.png",
-      "categories": "Monitors &amp;amp; Display, Monitors"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 48379,
@@ -12114,7 +12114,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-28T114049.294.png",
-      "categories": "Monitors &amp;amp; Display, Monitors"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 48237,
@@ -12129,7 +12129,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-24T170623.519.png",
-      "categories": "Air Coolers, PC Components, CPU Cooling"
+      "categories": "Air Coolers, CPU Cooling, PC Components"
     },
     {
       "id": 48172,
@@ -12159,7 +12159,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-22T141606.174.png",
-      "categories": "Air Coolers, PC Components, CPU Cooling"
+      "categories": "Air Coolers, CPU Cooling, PC Components"
     },
     {
       "id": 48160,
@@ -12744,7 +12744,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-07T112727.392.png",
-      "categories": "Monitors &amp;amp; Display, Monitors"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 44520,
@@ -12924,7 +12924,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/image-removebg-preview-33.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 42257,
@@ -12969,7 +12969,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/12/8828.jpg",
-      "categories": "Monitors &amp;amp; Display, Monitors"
+      "categories": "Monitors, Monitors &amp;amp; Display"
     },
     {
       "id": 41691,
@@ -13524,7 +13524,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-19T152931.373.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 37072,
@@ -14409,7 +14409,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4233-removebg-preview.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 33107,
@@ -14724,7 +14724,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-2025-04-02T101920.385.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 30664,
@@ -14754,7 +14754,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/09/image-removebg-preview-59.png",
-      "categories": "PC Components, Storage, SATA SSD"
+      "categories": "PC Components, SATA SSD, Storage"
     },
     {
       "id": 30407,
@@ -14919,7 +14919,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/01/image-removebg-preview-14.png",
-      "categories": "PC Components, CPU Cooling, Liquid Coolers"
+      "categories": "CPU Cooling, Liquid Coolers, PC Components"
     },
     {
       "id": 26484,
@@ -15039,7 +15039,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/image-removebg-preview-33.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 24236,
@@ -15084,7 +15084,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-54.png",
-      "categories": "PC Components, CPU Cooling, Liquid Coolers"
+      "categories": "CPU Cooling, Liquid Coolers, PC Components"
     },
     {
       "id": 23766,
@@ -15279,7 +15279,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/07/image-removebg-preview-2024-07-18T154239.889-500x433.png",
-      "categories": "CPU Cooling, Liquid Coolers, PC Components"
+      "categories": "PC Components, CPU Cooling, Liquid Coolers"
     },
     {
       "id": 22222,
@@ -15429,7 +15429,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/1777-20210309105823-ef4c6b_4512a1ee6e7148938c83fc9684a88597_mv2-500x600.png",
-      "categories": "PC Components, Storage, SATA SSD"
+      "categories": "PC Components, SATA SSD, Storage"
     },
     {
       "id": 20827,
@@ -15684,7 +15684,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4637-removebg-preview.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 19794,
@@ -15714,7 +15714,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4712-removebg-preview.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 19747,
@@ -15729,7 +15729,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4125-removebg-preview.png",
-      "categories": "INTEL, PC Components, Processors"
+      "categories": "PC Components, Processors, INTEL"
     },
     {
       "id": 19619,
@@ -15999,7 +15999,7 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/1777-20210309105823-ef4c6b_4512a1ee6e7148938c83fc9684a88597_mv2-500x600.png",
-      "categories": "PC Components, Storage, SATA SSD"
+      "categories": "PC Components, SATA SSD, Storage"
     },
     {
       "id": 20728,
