@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T14:34:56.612Z",
+  "scraped_at": "2026-11-26T14:37:08.906Z",
   "counts": {
-    "products": 1095,
-    "qty_known": 504,
+    "products": 1096,
+    "qty_known": 505,
     "qty_hidden": 42,
     "backorder": 549,
     "out_of_stock": 0,
-    "sum_qty": 1157,
-    "total_value": 34096290
+    "sum_qty": 1158,
+    "total_value": 34161290
   },
   "products": [
     {
@@ -7495,6 +7495,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2024-06-14T085943.706.png",
       "categories": "PC Components, Memory, Desktop RAM"
+    },
+    {
+      "id": 21504,
+      "name": "AMD RYZEN 5 8600G PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+      "sku": "CPU-NEW-AMD-RYZEN-5-8600G",
+      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-8600g/",
+      "price_lkr": 65000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2024-06-13T104615.396.png",
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 21504,
