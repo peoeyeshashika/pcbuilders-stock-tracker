@@ -1049,7 +1049,7 @@
   {
     "date": "2026-11-26",
     "compared_to": "2026-11-26 open",
-    "generated_at": "2026-11-26T07:45:02.713Z",
+    "generated_at": "2026-11-26T07:47:07.839Z",
     "decreases": [
       {
         "id": 40453,
@@ -1063,6 +1063,19 @@
         "permalink": "https://pcbuilders.lk/gigabyte-rtx-5060/",
         "categories": "Graphics Cards, PC Components",
         "image": "https://pcbuilders.lk/wp-content/uploads/2025/11/image-removebg-preview-2025-11-20T155743.949.png"
+      },
+      {
+        "id": 65173,
+        "name": "Lexar THOR PRO 1TB PCIe Gen4X4 NVMe SSD (3 years warranty)",
+        "sku": "SSD-NEW-LEXAR-THOR-PRO-1TB-PCIE-GEN4X4-NVME-SSD",
+        "from": 3,
+        "to": 2,
+        "delta": -1,
+        "price_lkr": 60000,
+        "value": 60000,
+        "permalink": "https://pcbuilders.lk/auto-27/",
+        "categories": "NVMe SSD",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-05T112117.190.png"
       },
       {
         "id": 54464,
@@ -1263,14 +1276,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 12,
+      "decrease_items": 13,
       "increase_items": 4,
-      "decrease_units": 12,
+      "decrease_units": 13,
       "increase_units": 5,
-      "decrease_value": 405150,
+      "decrease_value": 465150,
       "increase_value": 84000,
-      "net_units": -7,
-      "net_value": -321150
+      "net_units": -8,
+      "net_value": -381150
     }
   }
 ]

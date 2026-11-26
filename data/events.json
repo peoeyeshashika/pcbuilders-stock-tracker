@@ -1502,5 +1502,21 @@
     "permalink": "https://pcbuilders.lk/ugreen-gen-new-ugreen-20w-type-c-fast-charger-set-type/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-08T112615.187.png",
     "categories": "Chargers, Mobile, Mobile Accessories"
+  },
+  {
+    "at": "2026-11-26T07:47:07.794Z",
+    "date": "2026-11-26",
+    "direction": "decrease",
+    "id": 65173,
+    "name": "Lexar THOR PRO 1TB PCIe Gen4X4 NVMe SSD (3 years warranty)",
+    "sku": "SSD-NEW-LEXAR-THOR-PRO-1TB-PCIE-GEN4X4-NVME-SSD",
+    "from": 3,
+    "to": 2,
+    "delta": -1,
+    "price_lkr": 60000,
+    "value": 60000,
+    "permalink": "https://pcbuilders.lk/auto-27/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-05T112117.190.png",
+    "categories": "NVMe SSD"
   }
 ]
