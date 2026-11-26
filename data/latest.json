@@ -1,11 +1,11 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T08:38:57.605Z",
+  "scraped_at": "2026-11-26T08:41:07.113Z",
   "counts": {
-    "products": 1094,
+    "products": 1096,
     "qty_known": 505,
     "qty_hidden": 42,
-    "backorder": 547,
+    "backorder": 549,
     "out_of_stock": 0,
     "sum_qty": 1163,
     "total_value": 34415590
@@ -14472,6 +14472,21 @@
       "categories": "Graphics Cards, PC Components"
     },
     {
+      "id": 32824,
+      "name": "ANTEC ATOM B650 650W 80 PULS BRONZE POWER SUPPLY (3 YEARS WARRANTY)",
+      "sku": "PSU-NEW-ANTEC-ATOM-B650-650W-80-PULS-BRONZE",
+      "permalink": "https://pcbuilders.lk/antec-psu-new-antec-atom-b650-650w-80-puls-bronze/",
+      "price_lkr": 18500,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2025/06/image-removebg-preview-2025-06-20T124726.726.png",
+      "categories": "Power Supplies, PC Components"
+    },
+    {
       "id": 32742,
       "name": "THERMALTAKE MAGFLOE 360 SNOW ARGB SYNC LIQUID (3 YEARS WARRANTY)",
       "sku": "COOL-NEW-THERMALTAKE-MAGFLOE-360-SNOW-ARGB-SYNC-L",
@@ -15970,6 +15985,21 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-22T043346.658.png",
       "categories": "PC Components, Case Fans"
+    },
+    {
+      "id": 18898,
+      "name": "ANTEC ATOM B550 550W 80+ BRONZEPOWER SUPPLY (3 YEARS WARRANTY)",
+      "sku": "PSU-NEW-ANTEC-ATOM-B550-550W-80-BRONZEPOWER-SUPP",
+      "permalink": "https://pcbuilders.lk/antec-psu-new-antec-atom-b550-550w-80-bronzepower-supp/",
+      "price_lkr": 16500,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2025-11-18T123137.067.png",
+      "categories": "PC Components, Power Supplies"
     },
     {
       "id": 18847,
