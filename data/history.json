@@ -1049,18 +1049,32 @@
   {
     "date": "2026-11-26",
     "compared_to": "2026-11-26 open",
-    "generated_at": "2026-11-26T03:44:50.939Z",
+    "generated_at": "2026-11-26T03:46:57.358Z",
     "decreases": [],
-    "increases": [],
+    "increases": [
+      {
+        "id": 65845,
+        "name": "RUIX X4000 SE Fixed RGB AIR COOLER (6 MONTHS WARRANTY)",
+        "sku": "COOL-NEW-RUIX-X4000-SE-FIXED-RGB",
+        "from": 1,
+        "to": 2,
+        "delta": 1,
+        "price_lkr": 4500,
+        "value": 4500,
+        "permalink": "https://pcbuilders.lk/ruix-cool-new-ruix-x4000-se-fixed-rgb/",
+        "categories": "Air Coolers",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-15T095249.088.png"
+      }
+    ],
     "totals": {
       "decrease_items": 0,
-      "increase_items": 0,
+      "increase_items": 1,
       "decrease_units": 0,
-      "increase_units": 0,
+      "increase_units": 1,
       "decrease_value": 0,
-      "increase_value": 0,
-      "net_units": 0,
-      "net_value": 0
+      "increase_value": 4500,
+      "net_units": 1,
+      "net_value": 4500
     }
   }
 ]
