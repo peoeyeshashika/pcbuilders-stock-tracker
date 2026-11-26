@@ -1049,8 +1049,21 @@
   {
     "date": "2026-11-26",
     "compared_to": "2026-11-26 open",
-    "generated_at": "2026-11-26T06:25:09.855Z",
+    "generated_at": "2026-11-26T06:26:58.222Z",
     "decreases": [
+      {
+        "id": 40453,
+        "name": "Gigabyte GeForce RTX 5060 GAMING OC 8G GRAPHIC CARD (3 YEARS WARRANTY)",
+        "sku": "GPU-NEW-GIGABYTE-RTX-5060-GAMING-OC-8G",
+        "from": 3,
+        "to": 2,
+        "delta": -1,
+        "price_lkr": 188000,
+        "value": 188000,
+        "permalink": "https://pcbuilders.lk/gigabyte-rtx-5060/",
+        "categories": "Graphics Cards, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/11/image-removebg-preview-2025-11-20T155743.949.png"
+      },
       {
         "id": 54464,
         "name": "GIGABYTE B550M K WIFI6E MOTHERBOARD (3 YEARS WARRANTY)",
@@ -1224,14 +1237,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 9,
+      "decrease_items": 10,
       "increase_items": 4,
-      "decrease_units": 9,
+      "decrease_units": 10,
       "increase_units": 5,
-      "decrease_value": 201950,
+      "decrease_value": 389950,
       "increase_value": 84000,
-      "net_units": -4,
-      "net_value": -117950
+      "net_units": -5,
+      "net_value": -305950
     }
   }
 ]

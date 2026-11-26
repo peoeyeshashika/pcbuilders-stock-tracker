@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T06:25:09.829Z",
+  "scraped_at": "2026-11-26T06:26:58.181Z",
   "counts": {
     "products": 1090,
     "qty_known": 504,
     "qty_hidden": 42,
     "backorder": 544,
     "out_of_stock": 0,
-    "sum_qty": 1166,
-    "total_value": 34588090
+    "sum_qty": 1165,
+    "total_value": 34400090
   },
   "products": [
     {
@@ -5883,8 +5883,8 @@
       "permalink": "https://pcbuilders.lk/gigabyte-rtx-5060/",
       "price_lkr": 188000,
       "is_in_stock": true,
-      "stock_text": "3 in stock",
-      "qty": 3,
+      "stock_text": "2 in stock",
+      "qty": 2,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16365,5 +16365,5 @@
   "baseline": false,
   "previous_date": "2026-11-26 open",
   "poll_interval_minutes": 2,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }

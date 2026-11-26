@@ -1454,5 +1454,21 @@
     "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5600x/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3048-removebg-preview.png",
     "categories": "PC Components, Processors, AMD"
+  },
+  {
+    "at": "2026-11-26T06:26:58.181Z",
+    "date": "2026-11-26",
+    "direction": "decrease",
+    "id": 40453,
+    "name": "Gigabyte GeForce RTX 5060 GAMING OC 8G GRAPHIC CARD (3 YEARS WARRANTY)",
+    "sku": "GPU-NEW-GIGABYTE-RTX-5060-GAMING-OC-8G",
+    "from": 3,
+    "to": 2,
+    "delta": -1,
+    "price_lkr": 188000,
+    "value": 188000,
+    "permalink": "https://pcbuilders.lk/gigabyte-rtx-5060/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2025/11/image-removebg-preview-2025-11-20T155743.949.png",
+    "categories": "Graphics Cards, PC Components"
   }
 ]
