@@ -1342,5 +1342,21 @@
     "permalink": "https://pcbuilders.lk/ugreen-gen-new-ugreen-5-in-1-type-c-hub-15596/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-2025-10-25T145514.868.png",
     "categories": "USB Hubs, Networking &amp;amp; Connectivity"
+  },
+  {
+    "at": "2026-11-26T05:49:00.156Z",
+    "date": "2026-11-26",
+    "direction": "decrease",
+    "id": 65304,
+    "name": "UGREEN HD USB/Type-C 1080p 60Hz Video Capture Card – CM716 – 25854 (18 MONTHS Warranty)",
+    "sku": "CAPTURE-NEW-UGREEN-HD-USB-TYPE-C-1080P-60HZ-VIDEO-CAPTURE",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 7300,
+    "value": 7300,
+    "permalink": "https://pcbuilders.lk/ugreen-capture-new-ugreen-hd-usb-type-c-1080p-60hz-video-capture/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-07T115830.157.png",
+    "categories": "Capture Cards"
   }
 ]

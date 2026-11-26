@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T05:46:59.894Z",
+  "scraped_at": "2026-11-26T05:49:00.156Z",
   "counts": {
     "products": 1092,
     "qty_known": 507,
     "qty_hidden": 42,
     "backorder": 543,
     "out_of_stock": 0,
-    "sum_qty": 1177,
-    "total_value": 35044290
+    "sum_qty": 1176,
+    "total_value": 35036990
   },
   "products": [
     {
@@ -738,8 +738,8 @@
       "permalink": "https://pcbuilders.lk/ugreen-capture-new-ugreen-hd-usb-type-c-1080p-60hz-video-capture/",
       "price_lkr": 7300,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,

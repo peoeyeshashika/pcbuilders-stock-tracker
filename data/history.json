@@ -1049,7 +1049,7 @@
   {
     "date": "2026-11-26",
     "compared_to": "2026-11-26 open",
-    "generated_at": "2026-11-26T05:46:59.940Z",
+    "generated_at": "2026-11-26T05:49:00.202Z",
     "decreases": [
       {
         "id": 65507,
@@ -1063,6 +1063,19 @@
         "permalink": "https://pcbuilders.lk/pxn-ctrl-new-pxn-p5-wireless-gamepad/",
         "categories": "Game Controllers",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T103846.790.png"
+      },
+      {
+        "id": 65304,
+        "name": "UGREEN HD USB/Type-C 1080p 60Hz Video Capture Card – CM716 – 25854 (18 MONTHS Warranty)",
+        "sku": "CAPTURE-NEW-UGREEN-HD-USB-TYPE-C-1080P-60HZ-VIDEO-CAPTURE",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 7300,
+        "value": 7300,
+        "permalink": "https://pcbuilders.lk/ugreen-capture-new-ugreen-hd-usb-type-c-1080p-60hz-video-capture/",
+        "categories": "Capture Cards",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-07T115830.157.png"
       },
       {
         "id": 35450,
@@ -1133,14 +1146,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 2,
+      "decrease_items": 3,
       "increase_items": 4,
-      "decrease_units": 2,
+      "decrease_units": 3,
       "increase_units": 5,
-      "decrease_value": 16750,
+      "decrease_value": 24050,
       "increase_value": 84000,
-      "net_units": 3,
-      "net_value": 67250
+      "net_units": 2,
+      "net_value": 59950
     }
   }
 ]
