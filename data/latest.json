@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T10:49:15.954Z",
+  "scraped_at": "2026-11-26T10:51:02.560Z",
   "counts": {
     "products": 1095,
     "qty_known": 504,
     "qty_hidden": 42,
     "backorder": 549,
     "out_of_stock": 0,
-    "sum_qty": 1160,
-    "total_value": 34379990
+    "sum_qty": 1161,
+    "total_value": 34355990
   },
   "products": [
     {
@@ -1480,21 +1480,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/image-removebg-preview-2026-10-06T104104.486.png",
       "categories": "Mouse"
-    },
-    {
-      "id": 62979,
-      "name": "COLORFUL GEFORCE GTX 1660 SUPER BATTLE-AX 6GB GRAPHIC CARD (USED ITEM)",
-      "sku": "GPU-USED-GTX1660S-COLORFUL-BATTLEAX-6G",
-      "permalink": "https://pcbuilders.lk/colorful-geforce-gtx-1660-super-battle-ax-6gb-graphic-card-used-item/",
-      "price_lkr": 54000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/final_gpu_colorful1660s.png",
-      "categories": "Graphics Cards, PC Components"
     },
     {
       "id": 62977,
@@ -4510,6 +4495,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-04T120908.761.png",
       "categories": "Desktop RAM, Memory, PC Components"
+    },
+    {
+      "id": 49676,
+      "name": "FANTECH EOS WGP15V2S PRO II S WIRELESS BLACK CONTROLLER (6 MONTHS WARRANTY)",
+      "sku": "GEN-NEW-FANTECH-EOS-WGP15V2S-PRO-II-S-WIRELESS-B",
+      "permalink": "https://pcbuilders.lk/fantech-eos-wgp15v2s-black/",
+      "price_lkr": 15000,
+      "is_in_stock": true,
+      "stock_text": "2 in stock",
+      "qty": 2,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-02T175330.395.png",
+      "categories": "Game Controllers, Gaming Peripherals"
     },
     {
       "id": 49642,
