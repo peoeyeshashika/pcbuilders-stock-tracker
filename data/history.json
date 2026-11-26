@@ -1049,7 +1049,7 @@
   {
     "date": "2026-11-26",
     "compared_to": "2026-11-26 open",
-    "generated_at": "2026-11-26T04:44:54.952Z",
+    "generated_at": "2026-11-26T04:46:58.423Z",
     "decreases": [
       {
         "id": 65507,
@@ -1080,6 +1080,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/8500.png"
       },
       {
+        "id": 49109,
+        "name": "GIGABYTE Z390 UD MOTHERBOARD (USED ITEM)",
+        "sku": "MB-USED-GIGABYTE-Z390-UD",
+        "from": 1,
+        "to": 2,
+        "delta": 1,
+        "price_lkr": 25000,
+        "value": 25000,
+        "permalink": "https://pcbuilders.lk/used-gigabyte-mb-used-gigabyte-z390-ud/",
+        "categories": "PC Components, Motherboards",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-13T123912.546.png"
+      },
+      {
         "id": 43919,
         "name": "256GB NVME (USED ITEM)",
         "sku": "SSD-USED-256GB-NVME",
@@ -1108,13 +1121,13 @@
     ],
     "totals": {
       "decrease_items": 1,
-      "increase_items": 3,
+      "increase_items": 4,
       "decrease_units": 1,
-      "increase_units": 4,
+      "increase_units": 5,
       "decrease_value": 10000,
-      "increase_value": 59000,
-      "net_units": 3,
-      "net_value": 49000
+      "increase_value": 84000,
+      "net_units": 4,
+      "net_value": 74000
     }
   }
 ]

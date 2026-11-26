@@ -1310,5 +1310,21 @@
     "permalink": "https://pcbuilders.lk/pxn-ctrl-new-pxn-p5-wireless-gamepad/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T103846.790.png",
     "categories": "Game Controllers"
+  },
+  {
+    "at": "2026-11-26T04:46:58.390Z",
+    "date": "2026-11-26",
+    "direction": "increase",
+    "id": 49109,
+    "name": "GIGABYTE Z390 UD MOTHERBOARD (USED ITEM)",
+    "sku": "MB-USED-GIGABYTE-Z390-UD",
+    "from": 1,
+    "to": 2,
+    "delta": 1,
+    "price_lkr": 25000,
+    "value": 25000,
+    "permalink": "https://pcbuilders.lk/used-gigabyte-mb-used-gigabyte-z390-ud/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-13T123912.546.png",
+    "categories": "PC Components, Motherboards"
   }
 ]
