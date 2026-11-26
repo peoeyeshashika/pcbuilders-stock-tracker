@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T12:31:10.745Z",
+  "scraped_at": "2026-11-26T12:33:01.173Z",
   "counts": {
-    "products": 1097,
-    "qty_known": 506,
+    "products": 1096,
+    "qty_known": 505,
     "qty_hidden": 42,
     "backorder": 549,
     "out_of_stock": 0,
-    "sum_qty": 1159,
-    "total_value": 34541290
+    "sum_qty": 1158,
+    "total_value": 34101290
   },
   "products": [
     {
@@ -3760,21 +3760,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-05T110912.831.png",
       "categories": "PC Cases, PC Components"
-    },
-    {
-      "id": 54560,
-      "name": "ASUS TUF Gaming RTX 5070 12GB OC Edition Graphics Card (3 YEARS WARRANTY)",
-      "sku": "GPU-NEW-ASUS-TUF-GAMING-RTX-5070-12GB-OC-EDITION",
-      "permalink": "https://pcbuilders.lk/asus-rtx-5070-12gb-3/",
-      "price_lkr": 440000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/07/image-removebg-preview-2026-07-23T154927.951.png",
-      "categories": "Graphics Cards, PC Components"
     },
     {
       "id": 54464,
