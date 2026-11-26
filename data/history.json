@@ -1049,7 +1049,7 @@
   {
     "date": "2026-11-26",
     "compared_to": "2026-11-26 open",
-    "generated_at": "2026-11-26T09:31:06.019Z",
+    "generated_at": "2026-11-26T09:33:02.978Z",
     "decreases": [
       {
         "id": 40453,
@@ -1219,6 +1219,19 @@
         "permalink": "https://pcbuilders.lk/ugreen-gen-new-ugreen-20w-type-c-fast-charger-set-type/",
         "categories": "Chargers, Mobile, Mobile Accessories",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-08T112615.187.png"
+      },
+      {
+        "id": 66285,
+        "name": "R8 KEYBOARD – GK101 Compact Wired RGB Mechanical Gaming Keyboard (6 months warranty)",
+        "sku": "KB-NEW-R8-KEYBOARD-GK101-COMPACT-WIRED-RGB-MECHANICA",
+        "from": 3,
+        "to": 2,
+        "delta": -1,
+        "price_lkr": 5600,
+        "value": 5600,
+        "permalink": "https://pcbuilders.lk/r8-kb-new-r8-keyboard-gk101-compact-wired-rgb-mechanica/",
+        "categories": "Keyboards",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-25T121555.030.png"
       }
     ],
     "increases": [
@@ -1276,14 +1289,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 13,
+      "decrease_items": 14,
       "increase_items": 4,
-      "decrease_units": 13,
+      "decrease_units": 14,
       "increase_units": 5,
-      "decrease_value": 465150,
+      "decrease_value": 470750,
       "increase_value": 84000,
-      "net_units": -8,
-      "net_value": -381150
+      "net_units": -9,
+      "net_value": -386750
     }
   }
 ]

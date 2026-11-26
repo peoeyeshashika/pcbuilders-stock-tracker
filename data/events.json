@@ -1518,5 +1518,21 @@
     "permalink": "https://pcbuilders.lk/auto-27/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-05T112117.190.png",
     "categories": "NVMe SSD"
+  },
+  {
+    "at": "2026-11-26T09:33:02.930Z",
+    "date": "2026-11-26",
+    "direction": "decrease",
+    "id": 66285,
+    "name": "R8 KEYBOARD – GK101 Compact Wired RGB Mechanical Gaming Keyboard (6 months warranty)",
+    "sku": "KB-NEW-R8-KEYBOARD-GK101-COMPACT-WIRED-RGB-MECHANICA",
+    "from": 3,
+    "to": 2,
+    "delta": -1,
+    "price_lkr": 5600,
+    "value": 5600,
+    "permalink": "https://pcbuilders.lk/r8-kb-new-r8-keyboard-gk101-compact-wired-rgb-mechanica/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-25T121555.030.png",
+    "categories": "Keyboards"
   }
 ]
