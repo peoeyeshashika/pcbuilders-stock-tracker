@@ -1294,5 +1294,21 @@
     "permalink": "https://pcbuilders.lk/used-256gb-ssd-used-256gb-nvme-256gb/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-27T204701.730-500x433.png",
     "categories": "PC Components, Storage, NVMe SSD"
+  },
+  {
+    "at": "2026-11-26T04:36:59.292Z",
+    "date": "2026-11-26",
+    "direction": "decrease",
+    "id": 65507,
+    "name": "PXN P5 Wireless Gamepad (1 Year warranty)",
+    "sku": "CTRL-NEW-PXN-P5-WIRELESS-GAMEPAD",
+    "from": 3,
+    "to": 2,
+    "delta": -1,
+    "price_lkr": 10000,
+    "value": 10000,
+    "permalink": "https://pcbuilders.lk/pxn-ctrl-new-pxn-p5-wireless-gamepad/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T103846.790.png",
+    "categories": "Game Controllers"
   }
 ]
