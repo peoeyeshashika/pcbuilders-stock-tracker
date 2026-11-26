@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T06:39:07.785Z",
+  "scraped_at": "2026-11-26T06:41:12.623Z",
   "counts": {
     "products": 1090,
-    "qty_known": 505,
+    "qty_known": 503,
     "qty_hidden": 42,
-    "backorder": 543,
+    "backorder": 545,
     "out_of_stock": 0,
-    "sum_qty": 1166,
-    "total_value": 34422090
+    "sum_qty": 1164,
+    "total_value": 34415790
   },
   "products": [
     {
@@ -2742,21 +2742,6 @@
       "categories": "Gaming Peripherals, Mouse"
     },
     {
-      "id": 61133,
-      "name": "MEETION BTM001 Dual-Mode Wireless Ergonomic Mouse (1 YEAR WARRANTY)",
-      "sku": "MOU-NEW-MEETION-BTM001-DUAL-MODE-ERGO",
-      "permalink": "https://pcbuilders.lk/meetion-mou-new-meetion-btm001-dual-mode-ergo/",
-      "price_lkr": 4700,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-11-07T171814.747.png",
-      "categories": "Gaming Peripherals, Mouse"
-    },
-    {
       "id": 61120,
       "name": "ASUS P523 ROG GLADIUS III CORE ERGONOMIC GAMING MOUSE (3 YEARS WARRANTY)",
       "sku": "MOU-NEW-ASUS-P523-ROG-GLADIUS-III-CORE-ERGONOMIC",
@@ -4067,21 +4052,6 @@
       "sku": "ACC-NEW-ETHERNET-PATCH-INTERNET-WHITE-CABLE-CAT&amp;#8211;6",
       "permalink": "https://pcbuilders.lk/ethernet-cable-cat-6-white-6/",
       "price_lkr": 2000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-04T105042.748.png",
-      "categories": "Network Cables, Cables &amp;amp; Adapters"
-    },
-    {
-      "id": 53234,
-      "name": "Ethernet Patch Internet White Cable Cat 6 – 25M",
-      "sku": "ACC-NEW-ETHERNET-PATCH-INTERNET-WHITE-CABLE-CAT&amp;#8211;5",
-      "permalink": "https://pcbuilders.lk/ethernet-cable-cat-6-white-5/",
-      "price_lkr": 1600,
       "is_in_stock": true,
       "stock_text": "1 in stock",
       "qty": 1,
@@ -10092,6 +10062,21 @@
       "categories": "Gaming Peripherals, Mouse"
     },
     {
+      "id": 61133,
+      "name": "MEETION BTM001 Dual-Mode Wireless Ergonomic Mouse (1 YEAR WARRANTY)",
+      "sku": "MOU-NEW-MEETION-BTM001-DUAL-MODE-ERGO",
+      "permalink": "https://pcbuilders.lk/meetion-mou-new-meetion-btm001-dual-mode-ergo/",
+      "price_lkr": 4700,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-11-07T171814.747.png",
+      "categories": "Gaming Peripherals, Mouse"
+    },
+    {
       "id": 61131,
       "name": "MEETION R600 Rechargeable 2.4GHz Wireless Mouse (1 YEAR WARRANTY)",
       "sku": "MOU-NEW-MEETION-R600-RECHARGEABLE-WIRELESS",
@@ -15010,6 +14995,21 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-2024-09-30T170638.653.png",
       "categories": "PC Components, Memory, Desktop RAM"
+    },
+    {
+      "id": 24150,
+      "name": "DCP 12V 9A UPS BATTERY (1 YEAR WARRANTY)",
+      "sku": "GEN-NEW-DCP-12V-9A-UPS-BATTERY",
+      "permalink": "https://pcbuilders.lk/dcp-gen-new-dcp-12v-9a-ups-battery/",
+      "price_lkr": 6200,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-2024-09-25T173822.688.png",
+      "categories": "PC Components, UPS"
     },
     {
       "id": 23921,
