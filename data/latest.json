@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T11:04:58.011Z",
+  "scraped_at": "2026-11-26T11:07:01.590Z",
   "counts": {
     "products": 1096,
     "qty_known": 504,
@@ -8202,6 +8202,21 @@
       "categories": "PC Components, CPU Cooling, Air Coolers"
     },
     {
+      "id": 66365,
+      "name": "Koorui G2511X 24.5″ FHD 240Hz Fast IPS Gaming Monitor (3 YEARS WARRANTY)",
+      "sku": "MON-NEW-KOORUI-G2511X-24-5-FHD-240HZ-FAST-IPS",
+      "permalink": "https://pcbuilders.lk/koorui-mon-new-koorui-g2511x-24-5-fhd-240hz-fast-ips/",
+      "price_lkr": 44000,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-26T162051.304.png",
+      "categories": "Monitors"
+    },
+    {
       "id": 66259,
       "name": "FURGLE F-048A GAMING CHAIR – BLACK (6 MONTHS WARRANTY)",
       "sku": "CHAIR-NEW-FURGLE-F048A-BLK",
@@ -10494,21 +10509,6 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-21T141051.617.png",
-      "categories": "PC Components, Case Fans"
-    },
-    {
-      "id": 55776,
-      "name": "Arctic P12 PWM PST (Black) 5 Pack Fans Kit (6 YEARS WARRANTY)",
-      "sku": "COOL-NEW-ARCTIC-P12-PWM-PST-BLACK-5-PACK-FANS-KIT",
-      "permalink": "https://pcbuilders.lk/arctic-cool-new-arctic-p12-pwm-pst-black-5-pack-fans-kit-black/",
-      "price_lkr": 10500,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-21T140057.124.png",
       "categories": "PC Components, Case Fans"
     },
     {
