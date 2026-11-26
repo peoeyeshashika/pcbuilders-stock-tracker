@@ -1049,7 +1049,7 @@
   {
     "date": "2026-11-26",
     "compared_to": "2026-11-26 open",
-    "generated_at": "2026-11-26T04:06:53.122Z",
+    "generated_at": "2026-11-26T04:08:55.159Z",
     "decreases": [],
     "increases": [
       {
@@ -1064,6 +1064,19 @@
         "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-core-i5-8500/",
         "categories": "PC Components, Processors, INTEL",
         "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/8500.png"
+      },
+      {
+        "id": 43919,
+        "name": "256GB NVME (USED ITEM)",
+        "sku": "SSD-USED-256GB-NVME",
+        "from": 9,
+        "to": 10,
+        "delta": 1,
+        "price_lkr": 12500,
+        "value": 12500,
+        "permalink": "https://pcbuilders.lk/used-256gb-ssd-used-256gb-nvme-256gb/",
+        "categories": "PC Components, Storage, NVMe SSD",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-27T204701.730-500x433.png"
       },
       {
         "id": 65845,
@@ -1081,13 +1094,13 @@
     ],
     "totals": {
       "decrease_items": 0,
-      "increase_items": 2,
+      "increase_items": 3,
       "decrease_units": 0,
-      "increase_units": 3,
+      "increase_units": 4,
       "decrease_value": 0,
-      "increase_value": 46500,
-      "net_units": 3,
-      "net_value": 46500
+      "increase_value": 59000,
+      "net_units": 4,
+      "net_value": 59000
     }
   }
 ]
