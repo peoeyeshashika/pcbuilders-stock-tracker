@@ -1049,7 +1049,7 @@
   {
     "date": "2026-11-26",
     "compared_to": "2026-11-26 open",
-    "generated_at": "2026-11-26T12:14:56.228Z",
+    "generated_at": "2026-11-26T12:16:56.288Z",
     "decreases": [
       {
         "id": 40453,
@@ -1288,19 +1288,6 @@
     ],
     "increases": [
       {
-        "id": 29088,
-        "name": "INTEL CORE I5 – 8500 PROCESSOR (USED ITEM)",
-        "sku": "CPU-USED-INTEL-CORE-I5&amp;#8212;8500",
-        "from": 2,
-        "to": 4,
-        "delta": 2,
-        "price_lkr": 21000,
-        "value": 42000,
-        "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-core-i5-8500/",
-        "categories": "PC Components, Processors, INTEL",
-        "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/8500.png"
-      },
-      {
         "id": 49109,
         "name": "GIGABYTE Z390 UD MOTHERBOARD (USED ITEM)",
         "sku": "MB-USED-GIGABYTE-Z390-UD",
@@ -1312,6 +1299,19 @@
         "permalink": "https://pcbuilders.lk/used-gigabyte-mb-used-gigabyte-z390-ud/",
         "categories": "PC Components, Motherboards",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-13T123912.546.png"
+      },
+      {
+        "id": 29088,
+        "name": "INTEL CORE I5 – 8500 PROCESSOR (USED ITEM)",
+        "sku": "CPU-USED-INTEL-CORE-I5&amp;#8212;8500",
+        "from": 2,
+        "to": 3,
+        "delta": 1,
+        "price_lkr": 21000,
+        "value": 21000,
+        "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-core-i5-8500/",
+        "categories": "PC Components, Processors, INTEL",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/8500.png"
       },
       {
         "id": 43919,
@@ -1344,11 +1344,11 @@
       "decrease_items": 18,
       "increase_items": 4,
       "decrease_units": 18,
-      "increase_units": 5,
+      "increase_units": 4,
       "decrease_value": 556250,
-      "increase_value": 84000,
-      "net_units": -13,
-      "net_value": -472250
+      "increase_value": 63000,
+      "net_units": -14,
+      "net_value": -493250
     }
   }
 ]

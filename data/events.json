@@ -1598,5 +1598,21 @@
     "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5500/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2023/08/image-removebg-preview-2023-08-30T024051.733.png",
     "categories": "PC Components, Processors, AMD"
+  },
+  {
+    "at": "2026-11-26T12:16:56.254Z",
+    "date": "2026-11-26",
+    "direction": "decrease",
+    "id": 29088,
+    "name": "INTEL CORE I5 – 8500 PROCESSOR (USED ITEM)",
+    "sku": "CPU-USED-INTEL-CORE-I5&amp;#8212;8500",
+    "from": 4,
+    "to": 3,
+    "delta": -1,
+    "price_lkr": 21000,
+    "value": 21000,
+    "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-core-i5-8500/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/8500.png",
+    "categories": "PC Components, Processors, INTEL"
   }
 ]
