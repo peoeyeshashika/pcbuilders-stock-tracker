@@ -1049,8 +1049,86 @@
   {
     "date": "2026-11-26",
     "compared_to": "2026-11-26 open",
-    "generated_at": "2026-11-26T05:56:54.083Z",
+    "generated_at": "2026-11-26T05:58:59.449Z",
     "decreases": [
+      {
+        "id": 54464,
+        "name": "GIGABYTE B550M K WIFI6E MOTHERBOARD (3 YEARS WARRANTY)",
+        "sku": "MB-NEW-GIGABYTE-B550M-K-WIFI6E",
+        "from": 4,
+        "to": 3,
+        "delta": -1,
+        "price_lkr": 52000,
+        "value": 52000,
+        "permalink": "https://pcbuilders.lk/gigabyte-mb-new-gigabyte-b550m-k-wifi6e/",
+        "categories": "PC Components, Motherboards",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/07/image-removebg-preview-2026-07-21T102723.196-500x488.png"
+      },
+      {
+        "id": 18881,
+        "name": "AMD RYZEN 5 5600X PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+        "sku": "CPU-NEW-AMD-RYZEN-5-5600X",
+        "from": 3,
+        "to": 2,
+        "delta": -1,
+        "price_lkr": 45000,
+        "value": 45000,
+        "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5600x/",
+        "categories": "PC Components, Processors, AMD",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3048-removebg-preview.png"
+      },
+      {
+        "id": 28030,
+        "name": "CORSAIR CX650 80 PLUS BRONZE CERTIFIED POWER SUPPLY (5 YEARS WARRANTY)",
+        "sku": "PSU-NEW-CORSAIR-CX650-CERTIFIED",
+        "from": 11,
+        "to": 10,
+        "delta": -1,
+        "price_lkr": 22500,
+        "value": 22500,
+        "permalink": "https://pcbuilders.lk/corsair-psu-new-corsair-cx650-certified/",
+        "categories": "PC Components, Power Supplies",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/02/image-removebg-preview-18.png"
+      },
+      {
+        "id": 61557,
+        "name": "AWP AID1200 1200VA LINE INTERACTIVE UPS (UNIT 5Y / BATTERY 2Y)",
+        "sku": "GEN-NEW-AWP-AID1200-1200VA-LINE-INTERACTIVE-UPS",
+        "from": 4,
+        "to": 3,
+        "delta": -1,
+        "price_lkr": 21900,
+        "value": 21900,
+        "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
+        "categories": "UPS, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-7.png"
+      },
+      {
+        "id": 22199,
+        "name": "ARCTIC FREEZER 36 A-RGB BLACK AIR COOLER (6 YEARS WARRANTY)",
+        "sku": "COOL-NEW-ARCTIC-FREEZER-36-A-RGB-BLACK",
+        "from": 4,
+        "to": 3,
+        "delta": -1,
+        "price_lkr": 19500,
+        "value": 19500,
+        "permalink": "https://pcbuilders.lk/arctic-cool-new-arctic-freezer-36-a-rgb-black-black/",
+        "categories": "PC Components, CPU Cooling, Air Coolers",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/07/image-removebg-preview-95.png"
+      },
+      {
+        "id": 23738,
+        "name": "RAIDMAX INFINITA I800 ARGB MID-TOWER GAMING CASE",
+        "sku": "CASE-NEW-RAIDMAX-INFINITA-I800-ARGB",
+        "from": 5,
+        "to": 4,
+        "delta": -1,
+        "price_lkr": 17000,
+        "value": 17000,
+        "permalink": "https://pcbuilders.lk/raidmax-case-new-raidmax-infinita-i800-argb/",
+        "categories": "PC Components, PC Cases",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-36-1.png"
+      },
       {
         "id": 65507,
         "name": "PXN P5 Wireless Gamepad (1 Year warranty)",
@@ -1146,14 +1224,14 @@
       }
     ],
     "totals": {
-      "decrease_items": 3,
+      "decrease_items": 9,
       "increase_items": 4,
-      "decrease_units": 3,
+      "decrease_units": 9,
       "increase_units": 5,
-      "decrease_value": 24050,
+      "decrease_value": 201950,
       "increase_value": 84000,
-      "net_units": 2,
-      "net_value": 59950
+      "net_units": -4,
+      "net_value": -117950
     }
   }
 ]

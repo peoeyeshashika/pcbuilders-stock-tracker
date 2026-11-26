@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T05:56:54.056Z",
+  "scraped_at": "2026-11-26T05:58:59.410Z",
   "counts": {
-    "products": 1092,
-    "qty_known": 507,
+    "products": 1090,
+    "qty_known": 504,
     "qty_hidden": 42,
-    "backorder": 543,
+    "backorder": 544,
     "out_of_stock": 0,
-    "sum_qty": 1176,
-    "total_value": 35036990
+    "sum_qty": 1166,
+    "total_value": 34588090
   },
   "products": [
     {
@@ -1752,21 +1752,6 @@
       "categories": "Storage, NVMe SSD"
     },
     {
-      "id": 62616,
-      "name": "Lexar NQ790 1TB M.2 2280 PCIe Gen4x4 NVMe SSD (3 years warranty)",
-      "sku": "SSD-NEW-LEXAR-NQ790-1TB-M-2-2280-PCIE-GEN4X4-NVME-SSD",
-      "permalink": "https://pcbuilders.lk/lexar-ssd-new-lexar-nq790-1tb-m-2-2280-pcie-gen4x4-nvme-ssd-1tb/",
-      "price_lkr": 60000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-25T110641.359.png",
-      "categories": "Storage, NVMe SSD"
-    },
-    {
       "id": 62612,
       "name": "ASUS Prime AP201 Compact Business Desktop – Powered by ASUS",
       "sku": "",
@@ -2553,8 +2538,8 @@
       "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
       "price_lkr": 21900,
       "is_in_stock": true,
-      "stock_text": "4 in stock",
-      "qty": 4,
+      "stock_text": "3 in stock",
+      "qty": 3,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -3768,8 +3753,8 @@
       "permalink": "https://pcbuilders.lk/gigabyte-mb-new-gigabyte-b550m-k-wifi6e/",
       "price_lkr": 52000,
       "is_in_stock": true,
-      "stock_text": "4 in stock",
-      "qty": 4,
+      "stock_text": "3 in stock",
+      "qty": 3,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -6933,8 +6918,8 @@
       "permalink": "https://pcbuilders.lk/corsair-psu-new-corsair-cx650-certified/",
       "price_lkr": 22500,
       "is_in_stock": true,
-      "stock_text": "11 in stock",
-      "qty": 11,
+      "stock_text": "10 in stock",
+      "qty": 10,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -7383,8 +7368,8 @@
       "permalink": "https://pcbuilders.lk/raidmax-case-new-raidmax-infinita-i800-argb/",
       "price_lkr": 17000,
       "is_in_stock": true,
-      "stock_text": "5 in stock",
-      "qty": 5,
+      "stock_text": "4 in stock",
+      "qty": 4,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -7473,8 +7458,8 @@
       "permalink": "https://pcbuilders.lk/arctic-cool-new-arctic-freezer-36-a-rgb-black-black/",
       "price_lkr": 19500,
       "is_in_stock": true,
-      "stock_text": "4 in stock",
-      "qty": 4,
+      "stock_text": "3 in stock",
+      "qty": 3,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -7555,21 +7540,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-99.png",
       "categories": "PC Components, CPU Cooling, CPU Contact Frames"
-    },
-    {
-      "id": 21027,
-      "name": "ZOTAC GAMING GEFORCE RTX 3060 TI 8GB TWIN EDGE (USED ITEM)",
-      "sku": "GPU-USED-ZOTAC-GAMING-RTX-3060-TI-8GB-TWIN-EDGE",
-      "permalink": "https://pcbuilders.lk/used-zotac-rtx-3060-ti-8gb/",
-      "price_lkr": 105000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/z3060ti.png",
-      "categories": "Graphics Cards, PC Components"
     },
     {
       "id": 20926,
@@ -7827,21 +7797,6 @@
       "categories": "PC Components, Memory, Desktop RAM"
     },
     {
-      "id": 19252,
-      "name": "CORSAIR VENGEANCE LPX 16GB (16X1) DDR4 3200MHZ (10 YEARS WARRANTY)",
-      "sku": "RAM-NEW-CORSAIR-VENGEANCE-LPX-16GB-16X1-DDR4-320",
-      "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-lpx-16gb-16x1-ddr4-320-16gb/",
-      "price_lkr": 53000,
-      "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-40.png",
-      "categories": "PC Components, Memory, Desktop RAM"
-    },
-    {
       "id": 19251,
       "name": "CORSAIR VENGEANCE 8GB (1X8GB) DDR5 SO-DIMM 4800MHZ LAPTOP MEMORY (10 YEARS WARRANTY)",
       "sku": "RAM-NEW-CORSAIR-VENGEANCE-8GB-1X8GB-DDR5-SO-DIMM",
@@ -7983,13 +7938,13 @@
       "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5600x/",
       "price_lkr": 45000,
       "is_in_stock": true,
-      "stock_text": "3 in stock",
-      "qty": 3,
+      "stock_text": "2 in stock",
+      "qty": 2,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3048-removebg-preview.png",
-      "categories": "AMD, PC Components, Processors"
+      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 18880,
@@ -15822,6 +15777,21 @@
       "categories": "PC Components, Memory, Desktop RAM"
     },
     {
+      "id": 19252,
+      "name": "CORSAIR VENGEANCE LPX 16GB (16X1) DDR4 3200MHZ (10 YEARS WARRANTY)",
+      "sku": "RAM-NEW-CORSAIR-VENGEANCE-LPX-16GB-16X1-DDR4-320",
+      "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-lpx-16gb-16x1-ddr4-320-16gb/",
+      "price_lkr": 53000,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/image-removebg-preview-40.png",
+      "categories": "PC Components, Memory, Desktop RAM"
+    },
+    {
       "id": 19196,
       "name": "CORSAIR MP700 PRO 2TB PCIE GEN5 M.2 NVME SSD (3 YEARS WARRANTY)",
       "sku": "SSD-NEW-CORSAIR-MP700-PRO-2TB-GEN5",
@@ -16395,5 +16365,5 @@
   "baseline": false,
   "previous_date": "2026-11-26 open",
   "poll_interval_minutes": 2,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 6
 }
