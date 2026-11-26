@@ -1,14 +1,14 @@
 {
   "date": "2026-11-26",
-  "scraped_at": "2026-11-26T10:47:04.428Z",
+  "scraped_at": "2026-11-26T10:49:15.954Z",
   "counts": {
-    "products": 1096,
-    "qty_known": 505,
+    "products": 1095,
+    "qty_known": 504,
     "qty_hidden": 42,
     "backorder": 549,
     "out_of_stock": 0,
-    "sum_qty": 1162,
-    "total_value": 34409990
+    "sum_qty": 1160,
+    "total_value": 34379990
   },
   "products": [
     {
@@ -4510,21 +4510,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-04T120908.761.png",
       "categories": "Desktop RAM, Memory, PC Components"
-    },
-    {
-      "id": 49676,
-      "name": "FANTECH EOS WGP15V2S PRO II S WIRELESS BLACK CONTROLLER (6 MONTHS WARRANTY)",
-      "sku": "GEN-NEW-FANTECH-EOS-WGP15V2S-PRO-II-S-WIRELESS-B",
-      "permalink": "https://pcbuilders.lk/fantech-eos-wgp15v2s-black/",
-      "price_lkr": 15000,
-      "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-02T175330.395.png",
-      "categories": "Game Controllers, Gaming Peripherals"
     },
     {
       "id": 49642,
