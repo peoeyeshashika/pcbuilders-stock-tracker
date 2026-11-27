@@ -1,14 +1,14 @@
 {
   "date": "2026-11-27",
-  "scraped_at": "2026-11-27T09:57:07.432Z",
+  "scraped_at": "2026-11-27T09:59:03.462Z",
   "counts": {
-    "products": 1095,
-    "qty_known": 504,
+    "products": 1096,
+    "qty_known": 505,
     "qty_hidden": 41,
     "backorder": 550,
     "out_of_stock": 0,
-    "sum_qty": 1157,
-    "total_value": 33895290
+    "sum_qty": 1158,
+    "total_value": 33929290
   },
   "products": [
     {
@@ -7270,6 +7270,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-22T111108.963.png",
       "categories": "NVMe SSD, PC Components, Storage"
+    },
+    {
+      "id": 25074,
+      "name": "LEXAR NS100 512GB INTERNAL SOLID STATE DRIVE SSD (3 YEARS WARRANTY)",
+      "sku": "SSD-NEW-LEXAR-NS100-512GB-INTERNAL",
+      "permalink": "https://pcbuilders.lk/lexar-ssd-new-lexar-ns100-512gb-internal-512gb/",
+      "price_lkr": 34000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-16T130950.512.png",
+      "categories": "PC Components, SATA SSD, Storage"
     },
     {
       "id": 24892,
