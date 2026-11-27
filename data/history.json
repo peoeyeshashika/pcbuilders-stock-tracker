@@ -1354,8 +1354,21 @@
   {
     "date": "2026-11-27",
     "compared_to": "2026-11-27 open",
-    "generated_at": "2026-11-27T06:03:01.828Z",
+    "generated_at": "2026-11-27T06:04:55.028Z",
     "decreases": [
+      {
+        "id": 25093,
+        "name": "LEXAR NM620 256GB NVMe (3 YEARS WARRANTY)",
+        "sku": "SSD-NEW-LEXAR-NM620-256GB-NVME",
+        "from": 5,
+        "to": 4,
+        "delta": -1,
+        "price_lkr": 22500,
+        "value": 22500,
+        "permalink": "https://pcbuilders.lk/lexar-ssd-new-lexar-nm620-256gb-nvme-256gb/",
+        "categories": "PC Components, Storage, NVMe SSD",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-22T111108.963.png"
+      },
       {
         "id": 31283,
         "name": "FANTECH NC22 NOTEBOOK COOLING PAD (6 MONTHS WARRANTY)",
@@ -1372,14 +1385,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 1,
+      "decrease_items": 2,
       "increase_items": 0,
-      "decrease_units": 1,
+      "decrease_units": 2,
       "increase_units": 0,
-      "decrease_value": 8000,
+      "decrease_value": 30500,
       "increase_value": 0,
-      "net_units": -1,
-      "net_value": -8000
+      "net_units": -2,
+      "net_value": -30500
     }
   }
 ]

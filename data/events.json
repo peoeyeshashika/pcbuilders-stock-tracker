@@ -1630,5 +1630,21 @@
     "permalink": "https://pcbuilders.lk/fantech-nc22/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-25.png",
     "categories": "Laptop Coolers, Laptops"
+  },
+  {
+    "at": "2026-11-27T06:04:54.982Z",
+    "date": "2026-11-27",
+    "direction": "decrease",
+    "id": 25093,
+    "name": "LEXAR NM620 256GB NVMe (3 YEARS WARRANTY)",
+    "sku": "SSD-NEW-LEXAR-NM620-256GB-NVME",
+    "from": 5,
+    "to": 4,
+    "delta": -1,
+    "price_lkr": 22500,
+    "value": 22500,
+    "permalink": "https://pcbuilders.lk/lexar-ssd-new-lexar-nm620-256gb-nvme-256gb/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-22T111108.963.png",
+    "categories": "PC Components, Storage, NVMe SSD"
   }
 ]
