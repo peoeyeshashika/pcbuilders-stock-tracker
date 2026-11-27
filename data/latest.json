@@ -1,11 +1,11 @@
 {
   "date": "2026-11-27",
-  "scraped_at": "2026-11-27T09:45:01.350Z",
+  "scraped_at": "2026-11-27T09:47:03.868Z",
   "counts": {
-    "products": 1094,
+    "products": 1095,
     "qty_known": 503,
     "qty_hidden": 41,
-    "backorder": 550,
+    "backorder": 551,
     "out_of_stock": 0,
     "sum_qty": 1156,
     "total_value": 33770290
@@ -8987,6 +8987,21 @@
       "sku": "LAP-USED-DELL-LATITUDE-5510-INTEL-CORE-I5-10TH-GEN-16GB-256G",
       "permalink": "https://pcbuilders.lk/dell-latitude-5510-15-6-intel-core-i5-10th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
       "price_lkr": 103000,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebasdasdg-preview-2024-03-30T142640.493.png",
+      "categories": "Used Laptops, Laptops"
+    },
+    {
+      "id": 62417,
+      "name": "DELL LATITUDE 5410 14.0&#8243; INTEL CORE I7 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "sku": "LAP-USED-DELL-LATITUDE-5410-INTEL-CORE-I7-10TH-GEN-16GB-256G",
+      "permalink": "https://pcbuilders.lk/dell-latitude-5410-14-0-intel-core-i7-10th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
+      "price_lkr": 104000,
       "is_in_stock": true,
       "stock_text": "",
       "qty": null,
