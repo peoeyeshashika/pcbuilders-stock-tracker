@@ -1,16 +1,31 @@
 {
   "date": "2026-11-27",
-  "scraped_at": "2026-11-27T13:05:04.150Z",
+  "scraped_at": "2026-11-27T13:07:14.268Z",
   "counts": {
-    "products": 1102,
+    "products": 1103,
     "qty_known": 511,
     "qty_hidden": 41,
-    "backorder": 550,
+    "backorder": 551,
     "out_of_stock": 0,
-    "sum_qty": 1181,
-    "total_value": 33766290
+    "sum_qty": 1182,
+    "total_value": 33770290
   },
   "products": [
+    {
+      "id": 66433,
+      "name": "ARCTIC P14 PRO ARGB 140MM – 3 PACK (6 YEARS WARRANTY)",
+      "sku": "COOL-NEW-ARCTIC-P14-PRO-ARGB-140MM-3-PACK",
+      "permalink": "https://pcbuilders.lk/arctic-cool-new-arctic-p14-pro-argb-140mm-3-pack/",
+      "price_lkr": 12000,
+      "is_in_stock": true,
+      "stock_text": "2 in stock",
+      "qty": 2,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-27T182604.060-500x478.png",
+      "categories": "Case Fans"
+    },
     {
       "id": 66429,
       "name": "MARVEL SPIDERMAN (20CM)",
@@ -7497,21 +7512,6 @@
       "categories": "Gaming Peripherals, Headsets"
     },
     {
-      "id": 23085,
-      "name": "ASUS PRIME H510M – A MOTHERBOARD (USED ITEM)",
-      "sku": "MB-USED-ASUS-PRIME-H510M-A",
-      "permalink": "https://pcbuilders.lk/used-asus-mb-used-asus-prime-h510m-a/",
-      "price_lkr": 20000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/08/p1.png",
-      "categories": "Motherboards, PC Components"
-    },
-    {
       "id": 23023,
       "name": "CORSAIR VENGEANCE LPX 16GB (16X1) DDR4 3200MHZ (USED ITEM)",
       "sku": "RAM-USED-CORSAIR-VENGEANCE-LPX-16GB-16X1-DDR4-320",
@@ -14995,6 +14995,21 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/01/image-removebg-preview-19.png",
       "categories": "PC Components, Power Supplies"
+    },
+    {
+      "id": 27758,
+      "name": "CORSAIR NAUTILUS ARGB 240MM LIQUID CPU COOLER (3 YEARS WARRANTY)",
+      "sku": "COOL-NEW-CORSAIR-NAUTILUS-ARGB-240MM-LIQUID",
+      "permalink": "https://pcbuilders.lk/corsair-cool-new-corsair-nautilus-argb-240mm-liquid/",
+      "price_lkr": 33000,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2025/01/image-removebg-preview-14.png",
+      "categories": "CPU Cooling, Liquid Coolers, PC Components"
     },
     {
       "id": 27758,
