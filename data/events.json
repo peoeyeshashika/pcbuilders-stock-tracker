@@ -1710,5 +1710,21 @@
     "permalink": "https://pcbuilders.lk/lexar-ssd-new-lexar-nm620-256gb-nvme-256gb/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-22T111108.963.png",
     "categories": "NVMe SSD, PC Components, Storage"
+  },
+  {
+    "at": "2026-11-27T10:11:02.554Z",
+    "date": "2026-11-27",
+    "direction": "decrease",
+    "id": 65517,
+    "name": "MSI PRO Forge M051R ARGB Mini-Tower Case (2 Years Warranty)",
+    "sku": "CASE-NEW-MSI-PRO-FORGE-M051R-ARGB-MINI-TOWER-CASE",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 14500,
+    "value": 14500,
+    "permalink": "https://pcbuilders.lk/msi-case-new-msi-pro-forge-m051r-argb-mini-tower-case/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T110316.999.png",
+    "categories": "PC Cases"
   }
 ]

@@ -1354,7 +1354,7 @@
   {
     "date": "2026-11-27",
     "compared_to": "2026-11-27 open",
-    "generated_at": "2026-11-27T10:08:59.805Z",
+    "generated_at": "2026-11-27T10:11:02.587Z",
     "decreases": [
       {
         "id": 34909,
@@ -1409,6 +1409,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-22T111108.963.png"
       },
       {
+        "id": 65517,
+        "name": "MSI PRO Forge M051R ARGB Mini-Tower Case (2 Years Warranty)",
+        "sku": "CASE-NEW-MSI-PRO-FORGE-M051R-ARGB-MINI-TOWER-CASE",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 14500,
+        "value": 14500,
+        "permalink": "https://pcbuilders.lk/msi-case-new-msi-pro-forge-m051r-argb-mini-tower-case/",
+        "categories": "PC Cases",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-12T110316.999.png"
+      },
+      {
         "id": 31283,
         "name": "FANTECH NC22 NOTEBOOK COOLING PAD (6 MONTHS WARRANTY)",
         "sku": "GEN-NEW-FANTECH-NC22-NOTEBOOK-COOLING-PAD",
@@ -1424,14 +1437,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 5,
+      "decrease_items": 6,
       "increase_items": 0,
-      "decrease_units": 6,
+      "decrease_units": 7,
       "increase_units": 0,
-      "decrease_value": 211000,
+      "decrease_value": 225500,
       "increase_value": 0,
-      "net_units": -6,
-      "net_value": -211000
+      "net_units": -7,
+      "net_value": -225500
     }
   }
 ]
