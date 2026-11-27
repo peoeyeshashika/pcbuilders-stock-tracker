@@ -1,14 +1,14 @@
 {
   "date": "2026-11-27",
-  "scraped_at": "2026-11-27T10:07:04.697Z",
+  "scraped_at": "2026-11-27T10:08:59.780Z",
   "counts": {
-    "products": 1096,
-    "qty_known": 505,
+    "products": 1092,
+    "qty_known": 501,
     "qty_hidden": 41,
     "backorder": 550,
     "out_of_stock": 0,
-    "sum_qty": 1158,
-    "total_value": 33929290
+    "sum_qty": 1152,
+    "total_value": 33664290
   },
   "products": [
     {
@@ -1540,21 +1540,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/final_a320m_k.png",
       "categories": "Motherboards, PC Components"
-    },
-    {
-      "id": 62807,
-      "name": "AMD RYZEN 5 7600X PROCESSOR BOX (USED ITEM)",
-      "sku": "CPU-USED-AMD-RYZEN-5-7600X-PROCESSOR-BOX",
-      "permalink": "https://pcbuilders.lk/used-amd-cpu-used-amd-ryzen-5-7600x-processor-box/",
-      "price_lkr": 58000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/ASROCK-FM2A68M-DG3-Motherboard-1.png",
-      "categories": "AMD, PC Components, Processors"
     },
     {
       "id": 62798,
@@ -3972,21 +3957,6 @@
       "categories": "Motherboards, PC Components"
     },
     {
-      "id": 53670,
-      "name": "XPG LANCER BLADE 16GB 5600MT/S DDR5 MEMORY (3 YEARS WARRANTY)",
-      "sku": "RAM-NEW-XPG-LANCER-BLADE-16GB-5600MT-S-DDR5",
-      "permalink": "https://pcbuilders.lk/xpg-ram-new-xpg-lancer-blade-16gb-5600mt-s-ddr5-16gb/",
-      "price_lkr": 88000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-19T133921.916.png",
-      "categories": "Desktop RAM, Memory, PC Components"
-    },
-    {
       "id": 53654,
       "name": "ASUS ROG STRIX Z890-F GAMING WIFI MOTHERBOARD (3 YEARS WARRANTY)",
       "sku": "MB-NEW-ASUS-ROG-STRIX-Z890-F-GAMING-WIFI",
@@ -5532,21 +5502,6 @@
       "categories": "Motherboards, PC Components"
     },
     {
-      "id": 43271,
-      "name": "ANTEC SYMPHONY 240 ARGB 12TH GEN SUPPORT (USED ITEM)",
-      "sku": "COOL-USED-ANTEC-SYMPHONY-240-ARGB-12TH-GEN-SUPPORT",
-      "permalink": "https://pcbuilders.lk/used-antec-cool-used-antec-symphony-240-argb-12th-gen-support/",
-      "price_lkr": 15000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/03/image-removebg-preview-2025-03-14T112932.643.png",
-      "categories": "CPU Cooling, Liquid Coolers, PC Components"
-    },
-    {
       "id": 43156,
       "name": "Jungle Leopard Pro Flow 240 LIQUID COOLER – BLACK (3 YEARS WARRANTY)",
       "sku": "COOL-NEW-JUNGLE-LEOPARD-PRO-FLOW-240&amp;#8212;BLACK",
@@ -6453,8 +6408,8 @@
       "permalink": "https://pcbuilders.lk/asus-mb-new-asus-b650m-ayw-wifi/",
       "price_lkr": 57500,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -7017,21 +6972,6 @@
       "categories": "Desktop RAM, Memory, PC Components"
     },
     {
-      "id": 27063,
-      "name": "NZXT C750 – 750 WATT 80 PLUS BRONZE CERTIFIED POWER SUPPLY (5 YEARS WARRANTY)",
-      "sku": "PSU-NEW-NZXT-C750&amp;#8212;750-WATT-CERTIFIED",
-      "permalink": "https://pcbuilders.lk/nzxt-psu-new-nzxt-c750-750-watt-certified/",
-      "price_lkr": 24000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-24T104743.365.png",
-      "categories": "PC Components, Power Supplies"
-    },
-    {
       "id": 27060,
       "name": "INTEL I5 – 9400 DESKTOP PROCESSOR (USED ITEM)",
       "sku": "CPU-USED-INTEL-I5-9400-DESKTOP",
@@ -7263,8 +7203,8 @@
       "permalink": "https://pcbuilders.lk/lexar-ssd-new-lexar-nm620-256gb-nvme-256gb/",
       "price_lkr": 22500,
       "is_in_stock": true,
-      "stock_text": "4 in stock",
-      "qty": 4,
+      "stock_text": "3 in stock",
+      "qty": 3,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -16455,5 +16395,5 @@
   "baseline": false,
   "previous_date": "2026-11-27 open",
   "poll_interval_minutes": 2,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 2
 }

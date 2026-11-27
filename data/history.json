@@ -1354,8 +1354,21 @@
   {
     "date": "2026-11-27",
     "compared_to": "2026-11-27 open",
-    "generated_at": "2026-11-27T10:07:04.722Z",
+    "generated_at": "2026-11-27T10:08:59.805Z",
     "decreases": [
+      {
+        "id": 34909,
+        "name": "ASUS B650M-AYW WIFI MOTHERBOARD (3 YEARS WARRANTY)",
+        "sku": "MB-NEW-ASUS-B650M-AYW-WIFI",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 57500,
+        "value": 57500,
+        "permalink": "https://pcbuilders.lk/asus-mb-new-asus-b650m-ayw-wifi/",
+        "categories": "Motherboards, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/08/image-removebg-preview-1.png"
+      },
       {
         "id": 39579,
         "name": "AMD RYZEN 7 5700X PROCESSOR (TRAY) (3 YEARS WARRANTY)",
@@ -1387,10 +1400,10 @@
         "name": "LEXAR NM620 256GB NVMe (3 YEARS WARRANTY)",
         "sku": "SSD-NEW-LEXAR-NM620-256GB-NVME",
         "from": 5,
-        "to": 4,
-        "delta": -1,
+        "to": 3,
+        "delta": -2,
         "price_lkr": 22500,
-        "value": 22500,
+        "value": 45000,
         "permalink": "https://pcbuilders.lk/lexar-ssd-new-lexar-nm620-256gb-nvme-256gb/",
         "categories": "NVMe SSD, PC Components, Storage",
         "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-22T111108.963.png"
@@ -1411,14 +1424,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 4,
+      "decrease_items": 5,
       "increase_items": 0,
-      "decrease_units": 4,
+      "decrease_units": 6,
       "increase_units": 0,
-      "decrease_value": 131000,
+      "decrease_value": 211000,
       "increase_value": 0,
-      "net_units": -4,
-      "net_value": -131000
+      "net_units": -6,
+      "net_value": -211000
     }
   }
 ]
