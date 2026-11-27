@@ -1538,5 +1538,22 @@
       "net_units": 3,
       "net_value": -294500
     }
+  },
+  {
+    "date": "2026-11-28",
+    "compared_to": "2026-11-27",
+    "generated_at": "2026-11-27T18:31:07.751Z",
+    "decreases": [],
+    "increases": [],
+    "totals": {
+      "decrease_items": 0,
+      "increase_items": 0,
+      "decrease_units": 0,
+      "increase_units": 0,
+      "decrease_value": 0,
+      "increase_value": 0,
+      "net_units": 0,
+      "net_value": 0
+    }
   }
 ]
