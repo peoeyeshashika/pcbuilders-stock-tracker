@@ -1354,7 +1354,7 @@
   {
     "date": "2026-11-27",
     "compared_to": "2026-11-27 open",
-    "generated_at": "2026-11-27T07:37:09.517Z",
+    "generated_at": "2026-11-27T07:41:43.383Z",
     "decreases": [
       {
         "id": 39579,
@@ -1366,7 +1366,7 @@
         "price_lkr": 53500,
         "value": 53500,
         "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-5700x-2/",
-        "categories": "PC Components, Processors, AMD",
+        "categories": "AMD, PC Components, Processors",
         "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4856__1_-removebg-preview.png"
       },
       {
@@ -1379,7 +1379,7 @@
         "price_lkr": 22500,
         "value": 22500,
         "permalink": "https://pcbuilders.lk/lexar-ssd-new-lexar-nm620-256gb-nvme-256gb/",
-        "categories": "PC Components, Storage, NVMe SSD",
+        "categories": "NVMe SSD, PC Components, Storage",
         "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-22T111108.963.png"
       },
       {
