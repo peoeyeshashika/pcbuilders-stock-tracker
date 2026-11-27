@@ -1354,7 +1354,7 @@
   {
     "date": "2026-11-27",
     "compared_to": "2026-11-27 open",
-    "generated_at": "2026-11-27T12:21:18.412Z",
+    "generated_at": "2026-11-27T12:23:05.559Z",
     "decreases": [
       {
         "id": 34909,
@@ -1450,6 +1450,32 @@
     ],
     "increases": [
       {
+        "id": 65751,
+        "name": "MARVEL FALCON (20cm)",
+        "sku": "FIGURE-NEW-FALCON-20CM",
+        "from": 4,
+        "to": 6,
+        "delta": 2,
+        "price_lkr": 5000,
+        "value": 10000,
+        "permalink": "https://pcbuilders.lk/marvel-figure-new-falcon-20cm/",
+        "categories": "Action Figures",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T112639.078-500x483.png"
+      },
+      {
+        "id": 65749,
+        "name": "MARVEL black panther (20cm)",
+        "sku": "FIGURE-NEW-BLACK-PANTHER-20CM",
+        "from": 4,
+        "to": 6,
+        "delta": 2,
+        "price_lkr": 5000,
+        "value": 10000,
+        "permalink": "https://pcbuilders.lk/marvel-figure-new-black-panther-20cm-black/",
+        "categories": "Action Figures",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T113247.709.png"
+      },
+      {
         "id": 65784,
         "name": "MARVEL CAPTAIN AMERICA (12.2cm)",
         "sku": "FIGURE-NEW-MARVEL-CAPTAIN-AMERICA-12-2CM",
@@ -1504,13 +1530,13 @@
     ],
     "totals": {
       "decrease_items": 7,
-      "increase_items": 4,
+      "increase_items": 6,
       "decrease_units": 8,
-      "increase_units": 8,
+      "increase_units": 12,
       "decrease_value": 231500,
-      "increase_value": 20000,
-      "net_units": 0,
-      "net_value": -211500
+      "increase_value": 40000,
+      "net_units": 4,
+      "net_value": -191500
     }
   }
 ]
