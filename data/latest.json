@@ -1,14 +1,14 @@
 {
   "date": "2026-11-27",
-  "scraped_at": "2026-11-27T12:19:14.419Z",
+  "scraped_at": "2026-11-27T12:21:18.376Z",
   "counts": {
     "products": 1102,
     "qty_known": 511,
     "qty_hidden": 41,
     "backorder": 550,
     "out_of_stock": 0,
-    "sum_qty": 1179,
-    "total_value": 33756290
+    "sum_qty": 1177,
+    "total_value": 33746290
   },
   "products": [
     {
@@ -513,8 +513,8 @@
       "permalink": "https://pcbuilders.lk/marvel-figure-new-falcon-20cm/",
       "price_lkr": 5000,
       "is_in_stock": true,
-      "stock_text": "6 in stock",
-      "qty": 6,
+      "stock_text": "4 in stock",
+      "qty": 4,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,

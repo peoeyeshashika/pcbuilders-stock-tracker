@@ -1854,5 +1854,21 @@
     "permalink": "https://pcbuilders.lk/marvel-figure-new-black-panther-20cm-black/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T113247.709.png",
     "categories": "Action Figures"
+  },
+  {
+    "at": "2026-11-27T12:21:18.376Z",
+    "date": "2026-11-27",
+    "direction": "decrease",
+    "id": 65751,
+    "name": "MARVEL FALCON (20cm)",
+    "sku": "FIGURE-NEW-FALCON-20CM",
+    "from": 6,
+    "to": 4,
+    "delta": -2,
+    "price_lkr": 5000,
+    "value": 10000,
+    "permalink": "https://pcbuilders.lk/marvel-figure-new-falcon-20cm/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T112639.078-500x483.png",
+    "categories": "Action Figures"
   }
 ]
