@@ -1354,7 +1354,7 @@
   {
     "date": "2026-11-27",
     "compared_to": "2026-11-27 open",
-    "generated_at": "2026-11-27T10:33:00.825Z",
+    "generated_at": "2026-11-27T10:35:00.893Z",
     "decreases": [
       {
         "id": 34909,
@@ -1433,18 +1433,31 @@
         "permalink": "https://pcbuilders.lk/fantech-nc22/",
         "categories": "Laptop Coolers, Laptops",
         "image": "https://pcbuilders.lk/wp-content/uploads/2025/04/image-removebg-preview-25.png"
+      },
+      {
+        "id": 35644,
+        "name": "Anker A3949H12 Soundcore R50i Earbuds (18 MONTHS WARRANTY)",
+        "sku": "GEN-NEW-ANKER-A3949H12-SOUNDCORE-R50I-EARBUDS",
+        "from": 8,
+        "to": 7,
+        "delta": -1,
+        "price_lkr": 6000,
+        "value": 6000,
+        "permalink": "https://pcbuilders.lk/anker-a3949h12/",
+        "categories": "Earbuds, Mobile, Mobile Accessories",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-63.png"
       }
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 6,
+      "decrease_items": 7,
       "increase_items": 0,
-      "decrease_units": 7,
+      "decrease_units": 8,
       "increase_units": 0,
-      "decrease_value": 225500,
+      "decrease_value": 231500,
       "increase_value": 0,
-      "net_units": -7,
-      "net_value": -225500
+      "net_units": -8,
+      "net_value": -231500
     }
   }
 ]
