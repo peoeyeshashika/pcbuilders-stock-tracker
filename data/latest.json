@@ -1,11 +1,11 @@
 {
   "date": "2026-11-27",
-  "scraped_at": "2026-11-27T10:01:13.063Z",
+  "scraped_at": "2026-11-27T10:03:02.218Z",
   "counts": {
-    "products": 1097,
+    "products": 1096,
     "qty_known": 505,
     "qty_hidden": 41,
-    "backorder": 551,
+    "backorder": 550,
     "out_of_stock": 0,
     "sum_qty": 1158,
     "total_value": 33929290
@@ -14995,21 +14995,6 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview-2024-10-16T162547.084.png",
       "categories": "NVMe SSD, PC Components, Storage"
-    },
-    {
-      "id": 24939,
-      "name": "MSI MAG PANO M100R PZ MID-TOWER WHITE CASE",
-      "sku": "CASE-NEW-MSI-MAG-PANO-M100R-PZ-MID-TOWER-WHITE-CA",
-      "permalink": "https://pcbuilders.lk/msi-case-new-msi-mag-pano-m100r-pz-mid-tower-white-ca-white/",
-      "price_lkr": 38000,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/10/image-removebg-preview.webp",
-      "categories": "PC Cases, PC Components"
     },
     {
       "id": 24939,
