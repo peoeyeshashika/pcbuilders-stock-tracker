@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "scraped_at": "2026-11-27T14:35:18.976Z",
+  "scraped_at": "2026-11-27T14:37:22.202Z",
   "counts": {
     "products": 1100,
     "qty_known": 506,
@@ -8577,6 +8577,21 @@
       "categories": "Racing Cockpits and Stands"
     },
     {
+      "id": 65443,
+      "name": "LENOVO P27Q-40 27 Monitor (3 YEARS WARRANTY)",
+      "sku": "MON-NEW-LENOVO-P27Q-40-27-MONITOR",
+      "permalink": "https://pcbuilders.lk/lenovo-mon-new-lenovo-p27q-40-27-monitor/",
+      "price_lkr": 103200,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-11T143423.048-500x496.png",
+      "categories": "Monitors"
+    },
+    {
       "id": 65083,
       "name": "THERMALTAKE TOUGHPOWER GT Snow 750W POWER SUPPLY (5 YEARS WARRANTY)",
       "sku": "PSU-NEW-THERMALTAKE-TOUGHPOWER-GT-SNOW-750W",
@@ -13494,21 +13509,6 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-25T121614.880.png",
-      "categories": "Liquid Coolers, CPU Cooling, PC Components"
-    },
-    {
-      "id": 37394,
-      "name": "Deepcool LS520S ZERO DARK Liquid CPU Cooler (5 YEARS WARRANTY)",
-      "sku": "COOL-NEW-DEEPCOOL-LS520S-ZERO-DARK-LIQUID",
-      "permalink": "https://pcbuilders.lk/deepcool-cool-new-deepcool-ls520s-zero-dark-liquid/",
-      "price_lkr": 31000,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-25T120546.717.png",
       "categories": "Liquid Coolers, CPU Cooling, PC Components"
     },
     {
