@@ -1902,5 +1902,21 @@
     "permalink": "https://pcbuilders.lk/marvel-figure-new-black-panther-20cm-black/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T113247.709.png",
     "categories": "Action Figures"
+  },
+  {
+    "at": "2026-11-27T13:35:00.021Z",
+    "date": "2026-11-27",
+    "direction": "decrease",
+    "id": 62153,
+    "name": "THERMALTAKE TOUGHPOWER GF A3 Gold 1200W TT Premium Edition POWER SUPPLY (5 YEARS WARRANTY)",
+    "sku": "PSU-NEW-THERMALTAKE-TOUGHPOWER-GF-A3-Gold-1200W",
+    "from": 3,
+    "to": 1,
+    "delta": -2,
+    "price_lkr": 75000,
+    "value": 150000,
+    "permalink": "https://pcbuilders.lk/thermaltake-psu-new-thermaltake-toughpower-gf-a3-gold-1200w-gold/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-15T154557.861.png",
+    "categories": "PC Components, Power Supplies"
   }
 ]

@@ -1,31 +1,16 @@
 {
   "date": "2026-11-27",
-  "scraped_at": "2026-11-27T13:33:10.063Z",
+  "scraped_at": "2026-11-27T13:35:00.021Z",
   "counts": {
-    "products": 1103,
-    "qty_known": 512,
+    "products": 1099,
+    "qty_known": 506,
     "qty_hidden": 41,
-    "backorder": 550,
+    "backorder": 552,
     "out_of_stock": 0,
-    "sum_qty": 1183,
-    "total_value": 33790290
+    "sum_qty": 1171,
+    "total_value": 32390790
   },
   "products": [
-    {
-      "id": 66433,
-      "name": "ARCTIC P14 PRO ARGB 140MM – 3 PACK (6 YEARS WARRANTY)",
-      "sku": "COOL-NEW-ARCTIC-P14-PRO-ARGB-140MM-3-PACK",
-      "permalink": "https://pcbuilders.lk/arctic-cool-new-arctic-p14-pro-argb-140mm-3-pack/",
-      "price_lkr": 12000,
-      "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-27T182604.060-500x478.png",
-      "categories": "Case Fans"
-    },
     {
       "id": 66429,
       "name": "MARVEL SPIDERMAN (20CM)",
@@ -325,21 +310,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-96-500x433.png",
       "categories": "Desktop RAM, Memory, PC Components"
-    },
-    {
-      "id": 65882,
-      "name": "Corsair Vengeance 32GB (1X32) DDR5 DRAM 6000MT/S Memory (10 YEARS WARRANTY)",
-      "sku": "RAM-NEW-CORSAIR-VENGEANCE-32GB-1X32-DDR5-DRAM-6000MT",
-      "permalink": "https://pcbuilders.lk/corsair-ram-new-corsair-vengeance-32gb-1x32-ddr5-dram-6000mt-32gb/",
-      "price_lkr": 187000,
-      "is_in_stock": true,
-      "stock_text": "4 in stock",
-      "qty": 4,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-15T133201.710.png",
-      "categories": "Desktop RAM"
     },
     {
       "id": 65845,
@@ -2613,8 +2583,8 @@
       "permalink": "https://pcbuilders.lk/thermaltake-psu-new-thermaltake-toughpower-gf-a3-gold-1200w-gold/",
       "price_lkr": 75000,
       "is_in_stock": true,
-      "stock_text": "3 in stock",
-      "qty": 3,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -4119,21 +4089,6 @@
       "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-21T142455.083.png",
-      "categories": "Motherboards, PC Components"
-    },
-    {
-      "id": 53654,
-      "name": "ASUS ROG STRIX Z890-F GAMING WIFI MOTHERBOARD (3 YEARS WARRANTY)",
-      "sku": "MB-NEW-ASUS-ROG-STRIX-Z890-F-GAMING-WIFI",
-      "permalink": "https://pcbuilders.lk/asus-mb-new-asus-rog-strix-z890-f-gaming-wifi/",
-      "price_lkr": 178000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/asus-rog-strix-z890-f-gaming-wifi-box-500.png",
       "categories": "Motherboards, PC Components"
     },
     {
@@ -6357,21 +6312,6 @@
       "categories": "Mobile Cables, Mobile, Mobile Accessories"
     },
     {
-      "id": 37168,
-      "name": "Arctic Liquid Freezer III PRO 360 A-RGB Black Cooler (6 YEARS WARRANTY)",
-      "sku": "COOL-NEW-ARCTIC-LIQUID-FREEZER-III-PRO-360-A-RGB-",
-      "permalink": "https://pcbuilders.lk/arctic-cool-new-arctic-liquid-freezer-iii-pro-360-a-rgb-black/",
-      "price_lkr": 47000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-20T100744.680.png",
-      "categories": "Liquid Coolers, CPU Cooling, PC Components"
-    },
-    {
       "id": 36311,
       "name": "WINDOWS KEYS",
       "sku": "GEN-NEW-WINDOWS-KEYS",
@@ -7180,21 +7120,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/11/image-removebg-preview-95.png",
       "categories": "Desktop RAM, Memory, PC Components"
-    },
-    {
-      "id": 26540,
-      "name": "Intel Core Ultra 9 Processor 285K (24 Threads , 24 Cores ) Processor (TRAY) (3 YEARS WARRANTY)",
-      "sku": "CPU-NEW-INTEL-ULTRA-9-285K-24-THREADS-24-CORES",
-      "permalink": "https://pcbuilders.lk/intel-cpu-new-intel-ultra-9-285k-24-threads-24-cores/",
-      "price_lkr": 192500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/12/image-removebg-preview-64.png",
-      "categories": "INTEL, PC Components, Processors"
     },
     {
       "id": 26417,
@@ -8080,21 +8005,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/10/image-removebg-preview-2023-10-04T225439.636.png",
       "categories": "CPU Cooling, Liquid Coolers, PC Components"
-    },
-    {
-      "id": 20679,
-      "name": "THERMALTAKE CTE C750 TG ARGB FULL-TOWER BLACK GAMING (03 ARGB FANS)",
-      "sku": "CASE-NEW-THERMALTAKE-CTE-C750-TG-ARGB-FULL-TOWER-",
-      "permalink": "https://pcbuilders.lk/thermaltake-case-new-thermaltake-cte-c750-tg-argb-full-tower-black/",
-      "price_lkr": 60000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/10/image-removebg-preview-2023-10-04T022256.581.png",
-      "categories": "PC Cases, PC Components"
     },
     {
       "id": 20644,
@@ -11515,6 +11425,21 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-25T124658.245.png",
       "categories": "Mini PCs &amp;amp; All-in-One"
+    },
+    {
+      "id": 53654,
+      "name": "ASUS ROG STRIX Z890-F GAMING WIFI MOTHERBOARD (3 YEARS WARRANTY)",
+      "sku": "MB-NEW-ASUS-ROG-STRIX-Z890-F-GAMING-WIFI",
+      "permalink": "https://pcbuilders.lk/asus-mb-new-asus-rog-strix-z890-f-gaming-wifi/",
+      "price_lkr": 178000,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/asus-rog-strix-z890-f-gaming-wifi-box-500.png",
+      "categories": "Motherboards, PC Components"
     },
     {
       "id": 53650,
@@ -15027,6 +14952,21 @@
       "categories": "CPU Cooling, Liquid Coolers, PC Components"
     },
     {
+      "id": 26540,
+      "name": "Intel Core Ultra 9 Processor 285K (24 Threads , 24 Cores ) Processor (TRAY) (3 YEARS WARRANTY)",
+      "sku": "CPU-NEW-INTEL-ULTRA-9-285K-24-THREADS-24-CORES",
+      "permalink": "https://pcbuilders.lk/intel-cpu-new-intel-ultra-9-285k-24-threads-24-cores/",
+      "price_lkr": 192500,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/12/image-removebg-preview-64.png",
+      "categories": "PC Components, Processors, INTEL"
+    },
+    {
       "id": 26484,
       "name": "AMD RYZEN 7 9700X PROCESSOR( TRAY) (3 YEARS WARRANTY)",
       "sku": "CPU-NEW-AMD-RYZEN-7-9700X",
@@ -16560,5 +16500,5 @@
   "baseline": false,
   "previous_date": "2026-11-27 open",
   "poll_interval_minutes": 2,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }

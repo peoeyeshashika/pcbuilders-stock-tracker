@@ -1354,8 +1354,21 @@
   {
     "date": "2026-11-27",
     "compared_to": "2026-11-27 open",
-    "generated_at": "2026-11-27T13:33:10.089Z",
+    "generated_at": "2026-11-27T13:35:00.058Z",
     "decreases": [
+      {
+        "id": 62153,
+        "name": "THERMALTAKE TOUGHPOWER GF A3 Gold 1200W TT Premium Edition POWER SUPPLY (5 YEARS WARRANTY)",
+        "sku": "PSU-NEW-THERMALTAKE-TOUGHPOWER-GF-A3-Gold-1200W",
+        "from": 3,
+        "to": 1,
+        "delta": -2,
+        "price_lkr": 75000,
+        "value": 150000,
+        "permalink": "https://pcbuilders.lk/thermaltake-psu-new-thermaltake-toughpower-gf-a3-gold-1200w-gold/",
+        "categories": "PC Components, Power Supplies",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-15T154557.861.png"
+      },
       {
         "id": 34909,
         "name": "ASUS B650M-AYW WIFI MOTHERBOARD (3 YEARS WARRANTY)",
@@ -1381,19 +1394,6 @@
         "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-5700x-2/",
         "categories": "AMD, PC Components, Processors",
         "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4856__1_-removebg-preview.png"
-      },
-      {
-        "id": 37168,
-        "name": "Arctic Liquid Freezer III PRO 360 A-RGB Black Cooler (6 YEARS WARRANTY)",
-        "sku": "COOL-NEW-ARCTIC-LIQUID-FREEZER-III-PRO-360-A-RGB-",
-        "from": 2,
-        "to": 1,
-        "delta": -1,
-        "price_lkr": 47000,
-        "value": 47000,
-        "permalink": "https://pcbuilders.lk/arctic-cool-new-arctic-liquid-freezer-iii-pro-360-a-rgb-black/",
-        "categories": "Liquid Coolers, CPU Cooling, PC Components",
-        "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-20T100744.680.png"
       },
       {
         "id": 25093,
@@ -1531,12 +1531,12 @@
     "totals": {
       "decrease_items": 7,
       "increase_items": 6,
-      "decrease_units": 8,
+      "decrease_units": 9,
       "increase_units": 12,
-      "decrease_value": 231500,
+      "decrease_value": 334500,
       "increase_value": 40000,
-      "net_units": 4,
-      "net_value": -191500
+      "net_units": 3,
+      "net_value": -294500
     }
   }
 ]
