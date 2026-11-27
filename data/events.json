@@ -1662,5 +1662,21 @@
     "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-5700x-2/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4856__1_-removebg-preview.png",
     "categories": "PC Components, Processors, AMD"
+  },
+  {
+    "at": "2026-11-27T08:49:07.200Z",
+    "date": "2026-11-27",
+    "direction": "decrease",
+    "id": 37168,
+    "name": "Arctic Liquid Freezer III PRO 360 A-RGB Black Cooler (6 YEARS WARRANTY)",
+    "sku": "COOL-NEW-ARCTIC-LIQUID-FREEZER-III-PRO-360-A-RGB-",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 47000,
+    "value": 47000,
+    "permalink": "https://pcbuilders.lk/arctic-cool-new-arctic-liquid-freezer-iii-pro-360-a-rgb-black/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-20T100744.680.png",
+    "categories": "Liquid Coolers, CPU Cooling, PC Components"
   }
 ]
