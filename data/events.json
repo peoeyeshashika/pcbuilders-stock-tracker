@@ -1742,5 +1742,53 @@
     "permalink": "https://pcbuilders.lk/anker-a3949h12/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-63.png",
     "categories": "Earbuds, Mobile, Mobile Accessories"
+  },
+  {
+    "at": "2026-11-27T12:15:08.609Z",
+    "date": "2026-11-27",
+    "direction": "increase",
+    "id": 65764,
+    "name": "MARVEL SPIDERMAN (12.2cm)",
+    "sku": "FIGURE-NEW-MARVEL-SPIDERMAN-12-2CM",
+    "from": 1,
+    "to": 3,
+    "delta": 2,
+    "price_lkr": 2500,
+    "value": 5000,
+    "permalink": "https://pcbuilders.lk/marvel-figure-new-marvel-war-machine-12-2cm-copy/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T123253.199.png",
+    "categories": "Action Figures"
+  },
+  {
+    "at": "2026-11-27T12:15:08.609Z",
+    "date": "2026-11-27",
+    "direction": "increase",
+    "id": 65751,
+    "name": "MARVEL FALCON (20cm)",
+    "sku": "FIGURE-NEW-FALCON-20CM",
+    "from": 4,
+    "to": 6,
+    "delta": 2,
+    "price_lkr": 5000,
+    "value": 10000,
+    "permalink": "https://pcbuilders.lk/falcon-figure-new-falcon-20cm/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T112639.078-500x483.png",
+    "categories": "Action Figures"
+  },
+  {
+    "at": "2026-11-27T12:15:08.609Z",
+    "date": "2026-11-27",
+    "direction": "increase",
+    "id": 65749,
+    "name": "MARVEL black panther (20cm)",
+    "sku": "FIGURE-NEW-BLACK-PANTHER-20CM",
+    "from": 4,
+    "to": 6,
+    "delta": 2,
+    "price_lkr": 5000,
+    "value": 10000,
+    "permalink": "https://pcbuilders.lk/black-figure-new-black-panther-20cm-black/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T113247.709.png",
+    "categories": "Action Figures"
   }
 ]
