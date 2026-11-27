@@ -1,14 +1,14 @@
 {
   "date": "2026-11-27",
-  "scraped_at": "2026-11-27T05:31:16.243Z",
+  "scraped_at": "2026-11-27T05:33:07.113Z",
   "counts": {
-    "products": 1096,
-    "qty_known": 506,
+    "products": 1095,
+    "qty_known": 505,
     "qty_hidden": 41,
     "backorder": 549,
     "out_of_stock": 0,
-    "sum_qty": 1162,
-    "total_value": 34113290
+    "sum_qty": 1161,
+    "total_value": 34082290
   },
   "products": [
     {
@@ -4915,21 +4915,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-24T165855.139.png",
       "categories": "PC Components, PC Cases"
-    },
-    {
-      "id": 48210,
-      "name": "WESTERN DIGITAL BLUE 1TB HARD DISK (3 YEARS WARRANTY)",
-      "sku": "GEN-NEW-WESTERN-DIGITAL-BLUE-1TB-HARD-DISK",
-      "permalink": "https://pcbuilders.lk/western-gen-new-western-digital-blue-1tb-hard-disk-1tb-blue/",
-      "price_lkr": 31000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-24T104805.743.png",
-      "categories": "PC Components, Storage, Hard Drives"
     },
     {
       "id": 48091,
