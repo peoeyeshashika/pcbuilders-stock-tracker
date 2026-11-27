@@ -1,14 +1,14 @@
 {
   "date": "2026-11-27",
-  "scraped_at": "2026-11-27T12:15:08.609Z",
+  "scraped_at": "2026-11-27T12:17:07.957Z",
   "counts": {
     "products": 1102,
     "qty_known": 511,
     "qty_hidden": 41,
     "backorder": 550,
     "out_of_stock": 0,
-    "sum_qty": 1174,
-    "total_value": 33787290
+    "sum_qty": 1181,
+    "total_value": 33766290
   },
   "products": [
     {
@@ -408,8 +408,8 @@
       "permalink": "https://pcbuilders.lk/marvel-figure-new-marvel-captain-america-12-2cm/",
       "price_lkr": 2500,
       "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
+      "stock_text": "3 in stock",
+      "qty": 3,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -432,14 +432,29 @@
       "categories": "Action Figures"
     },
     {
+      "id": 65778,
+      "name": "MARVEL IRON SPIDERMAN (12.2cm)",
+      "sku": "FIGURE-NEW-MARVEL-IRON-SPIDERMAN-12-2CM",
+      "permalink": "https://pcbuilders.lk/marvel-figure-new-marvel-iron-spiderman-12-2cm/",
+      "price_lkr": 2500,
+      "is_in_stock": true,
+      "stock_text": "2 in stock",
+      "qty": 2,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T131202.069.png",
+      "categories": "Action Figures"
+    },
+    {
       "id": 65775,
       "name": "MARVEL THANOS (12.2cm)",
       "sku": "FIGURE-NEW-MARVEL-THANOS-12-2CM",
       "permalink": "https://pcbuilders.lk/marvel-figure-new-marvel-thanos-12-2cm/",
       "price_lkr": 2500,
       "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
+      "stock_text": "3 in stock",
+      "qty": 3,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -483,8 +498,8 @@
       "permalink": "https://pcbuilders.lk/marvel-figure-new-marvel-war-machine-12-2cm/",
       "price_lkr": 2500,
       "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
+      "stock_text": "3 in stock",
+      "qty": 3,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -1495,21 +1510,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/arctic_mx4_45g_500.png",
       "categories": "Thermal Paste, CPU Cooling, PC Components"
-    },
-    {
-      "id": 64238,
-      "name": "THERMALTAKE View 380 XL TG ARGB Snow Mid Tower Chassis",
-      "sku": "CASE-NEW-THERMALTAKE-VIEW-380-XL-TG-ARGB-SNOW-MID-TOWE",
-      "permalink": "https://pcbuilders.lk/auto-17/",
-      "price_lkr": 41000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/image-removebg-preview-2026-10-10T165439.209.png",
-      "categories": "PC Cases"
     },
     {
       "id": 64238,

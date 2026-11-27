@@ -1790,5 +1790,53 @@
     "permalink": "https://pcbuilders.lk/black-figure-new-black-panther-20cm-black/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T113247.709.png",
     "categories": "Action Figures"
+  },
+  {
+    "at": "2026-11-27T12:17:07.957Z",
+    "date": "2026-11-27",
+    "direction": "increase",
+    "id": 65784,
+    "name": "MARVEL CAPTAIN AMERICA (12.2cm)",
+    "sku": "FIGURE-NEW-MARVEL-CAPTAIN-AMERICA-12-2CM",
+    "from": 1,
+    "to": 3,
+    "delta": 2,
+    "price_lkr": 2500,
+    "value": 5000,
+    "permalink": "https://pcbuilders.lk/marvel-figure-new-marvel-captain-america-12-2cm/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T133155.384.png",
+    "categories": "Action Figures"
+  },
+  {
+    "at": "2026-11-27T12:17:07.957Z",
+    "date": "2026-11-27",
+    "direction": "increase",
+    "id": 65775,
+    "name": "MARVEL THANOS (12.2cm)",
+    "sku": "FIGURE-NEW-MARVEL-THANOS-12-2CM",
+    "from": 1,
+    "to": 3,
+    "delta": 2,
+    "price_lkr": 2500,
+    "value": 5000,
+    "permalink": "https://pcbuilders.lk/marvel-figure-new-marvel-thanos-12-2cm/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T130815.715.png",
+    "categories": "Action Figures"
+  },
+  {
+    "at": "2026-11-27T12:17:07.957Z",
+    "date": "2026-11-27",
+    "direction": "increase",
+    "id": 65756,
+    "name": "MARVEL WAR MACHINE (12.2cm)",
+    "sku": "FIGURE-NEW-MARVEL-WAR-MACHINE-12-2CM",
+    "from": 1,
+    "to": 3,
+    "delta": 2,
+    "price_lkr": 2500,
+    "value": 5000,
+    "permalink": "https://pcbuilders.lk/marvel-figure-new-marvel-war-machine-12-2cm/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-14T123625.595.png",
+    "categories": "Action Figures"
   }
 ]
