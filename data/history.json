@@ -1354,8 +1354,21 @@
   {
     "date": "2026-11-27",
     "compared_to": "2026-11-27 open",
-    "generated_at": "2026-11-27T07:29:02.024Z",
+    "generated_at": "2026-11-27T07:33:03.906Z",
     "decreases": [
+      {
+        "id": 39579,
+        "name": "AMD RYZEN 7 5700X PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+        "sku": "CPU-NEW-AMD-RYZEN-7-5700X-2",
+        "from": 3,
+        "to": 2,
+        "delta": -1,
+        "price_lkr": 53500,
+        "value": 53500,
+        "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-5700x-2/",
+        "categories": "PC Components, Processors, AMD",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4856__1_-removebg-preview.png"
+      },
       {
         "id": 25093,
         "name": "LEXAR NM620 256GB NVMe (3 YEARS WARRANTY)",
@@ -1385,14 +1398,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 2,
+      "decrease_items": 3,
       "increase_items": 0,
-      "decrease_units": 2,
+      "decrease_units": 3,
       "increase_units": 0,
-      "decrease_value": 30500,
+      "decrease_value": 84000,
       "increase_value": 0,
-      "net_units": -2,
-      "net_value": -30500
+      "net_units": -3,
+      "net_value": -84000
     }
   }
 ]
