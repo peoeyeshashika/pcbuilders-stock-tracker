@@ -1,14 +1,14 @@
 {
   "date": "2026-11-27",
-  "scraped_at": "2026-11-27T05:19:03.936Z",
+  "scraped_at": "2026-11-27T05:21:01.815Z",
   "counts": {
     "products": 1096,
-    "qty_known": 505,
-    "qty_hidden": 42,
+    "qty_known": 506,
+    "qty_hidden": 41,
     "backorder": 549,
     "out_of_stock": 0,
-    "sum_qty": 1157,
-    "total_value": 34093290
+    "sum_qty": 1162,
+    "total_value": 34113290
   },
   "products": [
     {
@@ -6993,10 +6993,10 @@
       "permalink": "https://pcbuilders.lk/arctic-gen-new-arctic-mx-4-8g-ultimate-performance-ther/",
       "price_lkr": 4000,
       "is_in_stock": true,
-      "stock_text": " in stock",
-      "qty": null,
-      "qty_known": false,
-      "status": "in_stock_hidden",
+      "stock_text": "5 in stock",
+      "qty": 5,
+      "qty_known": true,
+      "status": "in_stock_qty",
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/02/image-removebg-preview-23.png",
       "categories": "PC Components, CPU Cooling, Thermal Paste"
