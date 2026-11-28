@@ -1542,7 +1542,7 @@
   {
     "date": "2026-11-28",
     "compared_to": "2026-11-28 open",
-    "generated_at": "2026-11-28T09:11:08.957Z",
+    "generated_at": "2026-11-28T09:13:06.175Z",
     "decreases": [
       {
         "id": 39579,
@@ -1649,6 +1649,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-26T120657.147-500x433.png"
       },
       {
+        "id": 65325,
+        "name": "MEETION IKEY C210  KEYBOARD &#038; MOUSE COMBO (1 YEARS WARRANTY)",
+        "sku": "GEN-NEW-MEETION-IKEY-C210-KEYBOARD-MOUSE-COMBO",
+        "from": 5,
+        "to": 4,
+        "delta": -1,
+        "price_lkr": 9000,
+        "value": 9000,
+        "permalink": "https://pcbuilders.lk/meetion-gen-new-meetion-ikey-c210-keyboard-mouse-combo/",
+        "categories": "Combo Kits",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-07T161235.252.png"
+      },
+      {
         "id": 53295,
         "name": "Arctic MX-7 (4g) (CN) Ultimate Performance Thermal Paste",
         "sku": "GEN-NEW-ARCTIC-MX-7-4G-CN-ULTIMATE-PERFORMANCE-T",
@@ -1716,14 +1729,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 13,
+      "decrease_items": 14,
       "increase_items": 0,
-      "decrease_units": 14,
+      "decrease_units": 15,
       "increase_units": 0,
-      "decrease_value": 167250,
+      "decrease_value": 176250,
       "increase_value": 0,
-      "net_units": -14,
-      "net_value": -167250
+      "net_units": -15,
+      "net_value": -176250
     }
   }
 ]
