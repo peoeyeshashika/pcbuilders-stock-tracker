@@ -1,14 +1,14 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T05:53:10.664Z",
+  "scraped_at": "2026-11-28T05:55:16.021Z",
   "counts": {
     "products": 1099,
-    "qty_known": 505,
+    "qty_known": 506,
     "qty_hidden": 41,
-    "backorder": 553,
+    "backorder": 552,
     "out_of_stock": 0,
-    "sum_qty": 1165,
-    "total_value": 32342640
+    "sum_qty": 1166,
+    "total_value": 32489640
   },
   "products": [
     {
@@ -7077,6 +7077,21 @@
       "categories": "Desktop RAM, Memory, PC Components"
     },
     {
+      "id": 27650,
+      "name": "AMD RYZEN 7 9800X3D PROCESSOR TRAY (3 YEARS WARRANTY)",
+      "sku": "CPU-NEW-AMD-RYZEN-7-9800X3D-PROCESSOR-TRAY",
+      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-9800x3d-processor-tray/",
+      "price_lkr": 147000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2025/01/image-removebg-preview-2025-01-24T101626.845.png",
+      "categories": "AMD, PC Components, Processors"
+    },
+    {
       "id": 27060,
       "name": "INTEL I5 – 9400 DESKTOP PROCESSOR (USED ITEM)",
       "sku": "CPU-USED-INTEL-I5-9400-DESKTOP",
@@ -13494,21 +13509,6 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-25T121614.880.png",
-      "categories": "Liquid Coolers, CPU Cooling, PC Components"
-    },
-    {
-      "id": 37394,
-      "name": "Deepcool LS520S ZERO DARK Liquid CPU Cooler (5 YEARS WARRANTY)",
-      "sku": "COOL-NEW-DEEPCOOL-LS520S-ZERO-DARK-LIQUID",
-      "permalink": "https://pcbuilders.lk/deepcool-cool-new-deepcool-ls520s-zero-dark-liquid/",
-      "price_lkr": 31000,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-25T120546.717.png",
       "categories": "Liquid Coolers, CPU Cooling, PC Components"
     },
     {
