@@ -1950,5 +1950,37 @@
     "permalink": "https://pcbuilders.lk/used-256gb-ssd-used-256gb-nvme-256gb/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-27T204701.730-500x433.png",
     "categories": "NVMe SSD, PC Components, Storage"
+  },
+  {
+    "at": "2026-11-28T03:57:03.765Z",
+    "date": "2026-11-28",
+    "direction": "decrease",
+    "id": 53295,
+    "name": "Arctic MX-7 (4g) (CN) Ultimate Performance Thermal Paste",
+    "sku": "GEN-NEW-ARCTIC-MX-7-4G-CN-ULTIMATE-PERFORMANCE-T",
+    "from": 6,
+    "to": 5,
+    "delta": -1,
+    "price_lkr": 3500,
+    "value": 3500,
+    "permalink": "https://pcbuilders.lk/arctic-gen-new-arctic-mx-7-4g-cn-ultimate-performance-t/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-06T162805.141.png",
+    "categories": "Thermal Paste, CPU Cooling, PC Components"
+  },
+  {
+    "at": "2026-11-28T03:57:03.765Z",
+    "date": "2026-11-28",
+    "direction": "decrease",
+    "id": 27930,
+    "name": "C MOS BATTERY – COMPUTER",
+    "sku": "ACC-NEW-C-MOS-BATTERY&amp;#8212;COMPUTER",
+    "from": 7,
+    "to": 6,
+    "delta": -1,
+    "price_lkr": 150,
+    "value": 150,
+    "permalink": "https://pcbuilders.lk/c/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2025/02/image-removebg-preview-29-1.png",
+    "categories": ""
   }
 ]
