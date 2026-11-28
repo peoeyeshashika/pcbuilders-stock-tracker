@@ -1,14 +1,14 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T06:39:08.525Z",
+  "scraped_at": "2026-11-28T06:41:14.130Z",
   "counts": {
     "products": 1099,
-    "qty_known": 506,
+    "qty_known": 505,
     "qty_hidden": 41,
-    "backorder": 552,
+    "backorder": 553,
     "out_of_stock": 0,
-    "sum_qty": 1165,
-    "total_value": 32489140
+    "sum_qty": 1164,
+    "total_value": 32342140
   },
   "products": [
     {
@@ -7075,21 +7075,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/01/image-removebg-preview-2025-01-24T113939.104.png",
       "categories": "Desktop RAM, Memory, PC Components"
-    },
-    {
-      "id": 27650,
-      "name": "AMD RYZEN 7 9800X3D PROCESSOR TRAY (3 YEARS WARRANTY)",
-      "sku": "CPU-NEW-AMD-RYZEN-7-9800X3D-PROCESSOR-TRAY",
-      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-9800x3d-processor-tray/",
-      "price_lkr": 147000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/01/image-removebg-preview-2025-01-24T101626.845.png",
-      "categories": "AMD, PC Components, Processors"
     },
     {
       "id": 27060,
@@ -14952,6 +14937,21 @@
       "categories": "CPU Cooling, Liquid Coolers, PC Components"
     },
     {
+      "id": 27650,
+      "name": "AMD RYZEN 7 9800X3D PROCESSOR TRAY (3 YEARS WARRANTY)",
+      "sku": "CPU-NEW-AMD-RYZEN-7-9800X3D-PROCESSOR-TRAY",
+      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-9800x3d-processor-tray/",
+      "price_lkr": 147000,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2025/01/image-removebg-preview-2025-01-24T101626.845.png",
+      "categories": "AMD, PC Components, Processors"
+    },
+    {
       "id": 26540,
       "name": "Intel Core Ultra 9 Processor 285K (24 Threads , 24 Cores ) Processor (TRAY) (3 YEARS WARRANTY)",
       "sku": "CPU-NEW-INTEL-ULTRA-9-285K-24-THREADS-24-CORES",
@@ -16500,5 +16500,5 @@
   "baseline": false,
   "previous_date": "2026-11-28 open",
   "poll_interval_minutes": 2,
-  "live_changes_this_poll": 1
+  "live_changes_this_poll": 0
 }
