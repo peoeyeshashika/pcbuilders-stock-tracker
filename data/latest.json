@@ -1,14 +1,14 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T11:11:05.698Z",
+  "scraped_at": "2026-11-28T11:13:10.973Z",
   "counts": {
-    "products": 1092,
-    "qty_known": 497,
+    "products": 1095,
+    "qty_known": 500,
     "qty_hidden": 41,
     "backorder": 554,
     "out_of_stock": 0,
-    "sum_qty": 1143,
-    "total_value": 32124890
+    "sum_qty": 1146,
+    "total_value": 32192890
   },
   "products": [
     {
@@ -7257,6 +7257,21 @@
       "categories": "Power Cables, Cables &amp;amp; Adapters"
     },
     {
+      "id": 24527,
+      "name": "INTEL CORE I5 – 12400F PROCESSOR-TRAY (USED ITEM)",
+      "sku": "CPU-USED-INTEL-CORE-I5-12400F&amp;#8211;",
+      "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-core-i5-12400f/",
+      "price_lkr": 40000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4128-removebg-preview.png",
+      "categories": "INTEL, PC Components, Processors"
+    },
+    {
       "id": 24385,
       "name": "INTEL I7 6700 PROCESSOR (USED ITEM)",
       "sku": "CPU-USED-INTEL-I7-6700",
@@ -7512,6 +7527,21 @@
       "categories": "INTEL, PC Components, Processors"
     },
     {
+      "id": 20894,
+      "name": "INTEL I3 10105F PROCESSOR (USED ITEM)",
+      "sku": "CPU-USED-INTEL-I3-10105F",
+      "permalink": "https://pcbuilders.lk/used-intel-cpu-used-intel-i3-10105f/",
+      "price_lkr": 10000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebg-preview-2024-03-08T102900.292.png",
+      "categories": "INTEL, PC Components, Processors"
+    },
+    {
       "id": 20891,
       "name": "INTEL I5 6500 6TH GEN PROCESSOR (USED ITEM)",
       "sku": "CPU-USED-INTEL-I5-6500-6TH-GEN",
@@ -7525,6 +7555,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/05/image-removebg-preview-19-300x300.png",
       "categories": "INTEL, PC Components, Processors"
+    },
+    {
+      "id": 20839,
+      "name": "GIGABYTE H410M H V2 Ultra Durable MOTHERBOARD (USED ITEM)",
+      "sku": "MB-USED-GIGABYTE-H410M-H-V2-ULTRA-DURABLE",
+      "permalink": "https://pcbuilders.lk/used-gigabyte-mb-used-gigabyte-h410m-h-v2-ultra-durable/",
+      "price_lkr": 18000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebg-preview-2024-03-09T123449.211.png",
+      "categories": "Motherboards, PC Components"
     },
     {
       "id": 20821,
