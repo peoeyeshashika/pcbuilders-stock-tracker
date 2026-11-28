@@ -1,11 +1,11 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T07:47:12.425Z",
+  "scraped_at": "2026-11-28T07:49:10.604Z",
   "counts": {
-    "products": 1101,
+    "products": 1098,
     "qty_known": 507,
     "qty_hidden": 41,
-    "backorder": 553,
+    "backorder": 550,
     "out_of_stock": 0,
     "sum_qty": 1164,
     "total_value": 32689740
@@ -9012,66 +9012,6 @@
       "categories": "Used Laptops, Laptops"
     },
     {
-      "id": 62421,
-      "name": "LENOVO THINKPAD T14 14.0&#8243; INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
-      "sku": "LAP-USED-LENOVO-THINKPAD-T14-INTEL-CORE-I5-11TH-GEN-16GB-256",
-      "permalink": "https://pcbuilders.lk/lenovo-thinkpad-t14-14-0-intel-core-i5-11th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
-      "price_lkr": 115000,
-      "is_in_stock": true,
-      "stock_text": "",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-28T173618.341.png",
-      "categories": "Used Laptops, Laptops"
-    },
-    {
-      "id": 62420,
-      "name": "DELL LATITUDE 7420 14.0&#8243; INTEL CORE I7 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
-      "sku": "LAP-USED-DELL-LATITUDE-7420-INTEL-CORE-I7-11TH-GEN-16GB-256G",
-      "permalink": "https://pcbuilders.lk/dell-latitude-7420-14-0-intel-core-i7-11th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
-      "price_lkr": 124000,
-      "is_in_stock": true,
-      "stock_text": "",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2025/02/image-removebg-preview-70.png",
-      "categories": "Used Laptops, Laptops"
-    },
-    {
-      "id": 62419,
-      "name": "DELL LATITUDE 5500 15.6&#8243; INTEL CORE I7 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
-      "sku": "LAP-USED-DELL-LATITUDE-5500-INTEL-CORE-I7-8TH-GEN-16GB-256GB",
-      "permalink": "https://pcbuilders.lk/dell-latitude-5500-15-6-intel-core-i7-8th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
-      "price_lkr": 92000,
-      "is_in_stock": true,
-      "stock_text": "",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebasdasdg-preview-2024-03-30T142640.493.png",
-      "categories": "Used Laptops, Laptops"
-    },
-    {
-      "id": 62418,
-      "name": "DELL LATITUDE 5510 15.6&#8243; INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
-      "sku": "LAP-USED-DELL-LATITUDE-5510-INTEL-CORE-I5-10TH-GEN-16GB-256G",
-      "permalink": "https://pcbuilders.lk/dell-latitude-5510-15-6-intel-core-i5-10th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
-      "price_lkr": 103000,
-      "is_in_stock": true,
-      "stock_text": "",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebasdasdg-preview-2024-03-30T142640.493.png",
-      "categories": "Used Laptops, Laptops"
-    },
-    {
       "id": 62417,
       "name": "DELL LATITUDE 5410 14.0&#8243; INTEL CORE I7 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
       "sku": "LAP-USED-DELL-LATITUDE-5410-INTEL-CORE-I7-10TH-GEN-16GB-256G",
@@ -11395,6 +11335,21 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/07/image-removebg-preview-2026-07-07T142902.301.png",
       "categories": "Desktop RAM, Memory, PC Components"
+    },
+    {
+      "id": 53919,
+      "name": "GAMDIAS AURA GC9M ARGB MICRO-TOWER WHITE CASE",
+      "sku": "CASE-NEW-GAMDIAS-AURA-GC9M-ARGB-MICRO-TOWER-WHITE",
+      "permalink": "https://pcbuilders.lk/gamdias-case-new-gamdias-aura-gc9m-argb-micro-tower-white-white/",
+      "price_lkr": 13000,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-28T134015.893.png",
+      "categories": "PC Cases, PC Components"
     },
     {
       "id": 53895,
