@@ -1542,8 +1542,21 @@
   {
     "date": "2026-11-28",
     "compared_to": "2026-11-28 open",
-    "generated_at": "2026-11-28T07:03:10.404Z",
+    "generated_at": "2026-11-28T07:05:15.021Z",
     "decreases": [
+      {
+        "id": 61557,
+        "name": "AWP AID1200 1200VA LINE INTERACTIVE UPS (UNIT 5Y / BATTERY 2Y)",
+        "sku": "GEN-NEW-AWP-AID1200-1200VA-LINE-INTERACTIVE-UPS",
+        "from": 3,
+        "to": 2,
+        "delta": -1,
+        "price_lkr": 21900,
+        "value": 21900,
+        "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
+        "categories": "UPS, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-7.png"
+      },
       {
         "id": 53622,
         "name": "DDR4 8GB 2666MHZ LAPTOP RAM (USED ITEM)",
@@ -1638,14 +1651,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 7,
+      "decrease_items": 8,
       "increase_items": 0,
-      "decrease_units": 7,
+      "decrease_units": 8,
       "increase_units": 0,
-      "decrease_value": 46150,
+      "decrease_value": 68050,
       "increase_value": 0,
-      "net_units": -7,
-      "net_value": -46150
+      "net_units": -8,
+      "net_value": -68050
     }
   }
 ]

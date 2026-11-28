@@ -2030,5 +2030,21 @@
     "permalink": "https://pcbuilders.lk/fantech-hq56/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/IOEfoo3xrwAZErGWzjoFU06bQWLx2avf0k9sVri4-500x600.webp",
     "categories": "Gaming Peripherals, Headsets"
+  },
+  {
+    "at": "2026-11-28T07:05:14.982Z",
+    "date": "2026-11-28",
+    "direction": "decrease",
+    "id": 61557,
+    "name": "AWP AID1200 1200VA LINE INTERACTIVE UPS (UNIT 5Y / BATTERY 2Y)",
+    "sku": "GEN-NEW-AWP-AID1200-1200VA-LINE-INTERACTIVE-UPS",
+    "from": 3,
+    "to": 2,
+    "delta": -1,
+    "price_lkr": 21900,
+    "value": 21900,
+    "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-7.png",
+    "categories": "UPS, PC Components"
   }
 ]
