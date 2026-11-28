@@ -1542,7 +1542,7 @@
   {
     "date": "2026-11-28",
     "compared_to": "2026-11-28 open",
-    "generated_at": "2026-11-28T14:07:12.590Z",
+    "generated_at": "2026-11-28T14:09:07.989Z",
     "decreases": [
       {
         "id": 48427,
@@ -1753,6 +1753,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-08T113911.255-500x469.png"
       },
       {
+        "id": 19116,
+        "name": "COOLMOON ARGB SPLITTER 5V 3 PIN 1 TO 4",
+        "sku": "ACC-NEW-COOLMOON-ARGB-SPLITTER-5V-3-PIN-1-TO-4",
+        "from": 4,
+        "to": 3,
+        "delta": -1,
+        "price_lkr": 1600,
+        "value": 1600,
+        "permalink": "https://pcbuilders.lk/coolmoon-argb-splitter-5v/",
+        "categories": "Other Cables, Cables &amp;amp; Adapters",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/image-removebg-preview-34.png"
+      },
+      {
         "id": 24694,
         "name": "COMPUTER CABLE – POWER CABLE",
         "sku": "ACC-NEW-COMPUTER-CABLE&amp;#8212;POWER-CABLE",
@@ -1781,14 +1794,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 18,
+      "decrease_items": 19,
       "increase_items": 0,
-      "decrease_units": 21,
+      "decrease_units": 22,
       "increase_units": 0,
-      "decrease_value": 278850,
+      "decrease_value": 280450,
       "increase_value": 0,
-      "net_units": -21,
-      "net_value": -278850
+      "net_units": -22,
+      "net_value": -280450
     }
   }
 ]
