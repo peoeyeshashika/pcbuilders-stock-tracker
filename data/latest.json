@@ -1,14 +1,14 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T07:29:13.708Z",
+  "scraped_at": "2026-11-28T07:31:27.253Z",
   "counts": {
-    "products": 1100,
-    "qty_known": 506,
+    "products": 1101,
+    "qty_known": 507,
     "qty_hidden": 41,
     "backorder": 553,
     "out_of_stock": 0,
-    "sum_qty": 1163,
-    "total_value": 32329740
+    "sum_qty": 1164,
+    "total_value": 32391240
   },
   "products": [
     {
@@ -4495,6 +4495,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-24T140508.046.png",
       "categories": "Mouse, Gaming Peripherals"
+    },
+    {
+      "id": 50140,
+      "name": "Gigabyte B760 DS3H DDR4 Motherboard (3 YEARS WARRATY)",
+      "sku": "MB-NEW-GIGABYTE-B760-DS3H-DDR4-3-YEARS-WARRATY",
+      "permalink": "https://pcbuilders.lk/gigabyte-mb-new-gigabyte-b760-ds3h-ddr4-3-years-warraty/",
+      "price_lkr": 61500,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-23T140126.042.png",
+      "categories": "Motherboards, PC Components"
     },
     {
       "id": 50140,
