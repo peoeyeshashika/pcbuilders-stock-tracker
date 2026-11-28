@@ -1542,7 +1542,7 @@
   {
     "date": "2026-11-28",
     "compared_to": "2026-11-28 open",
-    "generated_at": "2026-11-28T06:41:14.169Z",
+    "generated_at": "2026-11-28T06:43:11.419Z",
     "decreases": [
       {
         "id": 53622,
@@ -1597,6 +1597,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-06T162805.141.png"
       },
       {
+        "id": 52452,
+        "name": "FANTECH HQ56 WIRED GAMING HEADSET (6 MONTHS WARRANTY)",
+        "sku": "HS-NEW-FANTECH-HQ56-WIRED-GAMING-HEADSET",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 2500,
+        "value": 2500,
+        "permalink": "https://pcbuilders.lk/fantech-hq56/",
+        "categories": "Gaming Peripherals, Headsets",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/IOEfoo3xrwAZErGWzjoFU06bQWLx2avf0k9sVri4-500x600.webp"
+      },
+      {
         "id": 24694,
         "name": "COMPUTER CABLE – POWER CABLE",
         "sku": "ACC-NEW-COMPUTER-CABLE&amp;#8212;POWER-CABLE",
@@ -1625,14 +1638,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 6,
+      "decrease_items": 7,
       "increase_items": 0,
-      "decrease_units": 6,
+      "decrease_units": 7,
       "increase_units": 0,
-      "decrease_value": 43650,
+      "decrease_value": 46150,
       "increase_value": 0,
-      "net_units": -6,
-      "net_value": -43650
+      "net_units": -7,
+      "net_value": -46150
     }
   }
 ]
