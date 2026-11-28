@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T08:33:07.094Z",
+  "scraped_at": "2026-11-28T08:35:10.183Z",
   "counts": {
     "products": 1097,
     "qty_known": 501,
@@ -8701,7 +8701,7 @@
       "name": "GIGABYTE Radeon RX9070 GAMING OC 16GB GRAPHIC CARD (3 YEARS WARANTY)",
       "sku": "GPU-NEW-GIGABYTE-RADEON-RX9070-GAMING-OC-16GB",
       "permalink": "https://pcbuilders.lk/auto-16/",
-      "price_lkr": 320000,
+      "price_lkr": 345000,
       "is_in_stock": true,
       "stock_text": "Available on backorder",
       "qty": null,
