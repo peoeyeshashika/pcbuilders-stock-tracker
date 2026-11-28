@@ -1918,5 +1918,37 @@
     "permalink": "https://pcbuilders.lk/thermaltake-psu-new-thermaltake-toughpower-gf-a3-gold-1200w-gold/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-2026-09-15T154557.861.png",
     "categories": "PC Components, Power Supplies"
+  },
+  {
+    "at": "2026-11-28T03:53:08.990Z",
+    "date": "2026-11-28",
+    "direction": "decrease",
+    "id": 53622,
+    "name": "DDR4 8GB 2666MHZ LAPTOP RAM (USED ITEM)",
+    "sku": "RAM-USED-DDR4-8GB-2666MHZ-LAPTOP",
+    "from": 3,
+    "to": 2,
+    "delta": -1,
+    "price_lkr": 14500,
+    "value": 14500,
+    "permalink": "https://pcbuilders.lk/used-ddr4-ram-used-ddr4-8gb-2666mhz-laptop-8gb/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-18T132344.760.png",
+    "categories": "Laptop RAM, Memory, PC Components"
+  },
+  {
+    "at": "2026-11-28T03:53:08.990Z",
+    "date": "2026-11-28",
+    "direction": "decrease",
+    "id": 43919,
+    "name": "256GB NVME (USED ITEM)",
+    "sku": "SSD-USED-256GB-NVME",
+    "from": 10,
+    "to": 9,
+    "delta": -1,
+    "price_lkr": 12500,
+    "value": 12500,
+    "permalink": "https://pcbuilders.lk/used-256gb-ssd-used-256gb-nvme-256gb/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-27T204701.730-500x433.png",
+    "categories": "NVMe SSD, PC Components, Storage"
   }
 ]
