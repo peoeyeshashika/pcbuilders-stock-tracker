@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T11:39:06.875Z",
+  "scraped_at": "2026-11-28T11:41:04.389Z",
   "counts": {
     "products": 1096,
     "qty_known": 501,
@@ -14,7 +14,7 @@
     {
       "id": 66479,
       "name": "MSI PRO B760M-A (WIFI) DDR5 MOTHERBOARD (USED ITEM)",
-      "sku": "MB-NEW-MSI-PRO-B760M-A-WIFI-DDR5-2",
+      "sku": "MB-USED-MSI-PRO-B760M-A-WIFI-DDR5",
       "permalink": "https://pcbuilders.lk/used-msi-mb-new-msi-pro-b760m-a-wifi-ddr5-2/",
       "price_lkr": 48000,
       "is_in_stock": true,
