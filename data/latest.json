@@ -1,14 +1,14 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T10:07:09.579Z",
+  "scraped_at": "2026-11-28T10:09:06.986Z",
   "counts": {
     "products": 1095,
-    "qty_known": 499,
+    "qty_known": 500,
     "qty_hidden": 41,
-    "backorder": 555,
+    "backorder": 554,
     "out_of_stock": 0,
-    "sum_qty": 1147,
-    "total_value": 32224990
+    "sum_qty": 1148,
+    "total_value": 32322990
   },
   "products": [
     {
@@ -7810,6 +7810,21 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/ASROCK-FM2A68M-DG3-Motherboard-500x625.png",
       "categories": "Motherboards, PC Components"
+    },
+    {
+      "id": 18890,
+      "name": "AMD RYZEN 7 7800X3D PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+      "sku": "CPU-NEW-AMD-RYZEN-7-7800X3D",
+      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-7800x3d/",
+      "price_lkr": 98000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/02/1728141-amd-ryzen-3d-vcache-7-right-1260x709-1-500x558.webp",
+      "categories": "AMD, PC Components, Processors"
     },
     {
       "id": 18888,
@@ -15970,21 +15985,6 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/06/image-removebg-preview-2025-11-18T123137.067.png",
       "categories": "PC Components, Power Supplies"
-    },
-    {
-      "id": 18890,
-      "name": "AMD RYZEN 7 7800X3D PROCESSOR (TRAY) (3 YEARS WARRANTY)",
-      "sku": "CPU-NEW-AMD-RYZEN-7-7800X3D",
-      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-7800x3d/",
-      "price_lkr": 98000,
-      "is_in_stock": true,
-      "stock_text": "",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/02/1728141-amd-ryzen-3d-vcache-7-right-1260x709-1-500x558.webp",
-      "categories": "PC Components, Processors, AMD"
     },
     {
       "id": 18847,
