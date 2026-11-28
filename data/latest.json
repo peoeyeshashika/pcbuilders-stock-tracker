@@ -1,14 +1,14 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T04:03:06.328Z",
+  "scraped_at": "2026-11-28T04:05:07.255Z",
   "counts": {
-    "products": 1100,
-    "qty_known": 506,
+    "products": 1099,
+    "qty_known": 505,
     "qty_hidden": 41,
     "backorder": 553,
     "out_of_stock": 0,
-    "sum_qty": 1167,
-    "total_value": 32360140
+    "sum_qty": 1166,
+    "total_value": 32355140
   },
   "products": [
     {
@@ -7120,21 +7120,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/11/image-removebg-preview-95.png",
       "categories": "Desktop RAM, Memory, PC Components"
-    },
-    {
-      "id": 26417,
-      "name": "FANTECH HG25 7.1 RGB GAMING HEADPHONE (6 MONTHS WARRANTY)",
-      "sku": "HS-NEW-FANTECH-HG25-7-1-RGB-GAMING-HEADPHONE",
-      "permalink": "https://pcbuilders.lk/fantech-hg25/",
-      "price_lkr": 5000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/image_1024__2_-removebg-preview.png",
-      "categories": "Gaming Peripherals, Headsets"
     },
     {
       "id": 25905,
