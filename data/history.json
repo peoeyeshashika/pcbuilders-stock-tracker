@@ -1542,7 +1542,7 @@
   {
     "date": "2026-11-28",
     "compared_to": "2026-11-28 open",
-    "generated_at": "2026-11-28T05:21:07.878Z",
+    "generated_at": "2026-11-28T05:22:59.598Z",
     "decreases": [
       {
         "id": 53622,
@@ -1556,6 +1556,19 @@
         "permalink": "https://pcbuilders.lk/used-ddr4-ram-used-ddr4-8gb-2666mhz-laptop-8gb/",
         "categories": "Laptop RAM, Memory, PC Components",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-18T132344.760.png"
+      },
+      {
+        "id": 64855,
+        "name": "Gamdias Aura GC103M ARGB Micro-Tower Case",
+        "sku": "CASE-NEW-GAMDIAS-AURA-GC103M-ARGB-MICRO-TOWER-CASE",
+        "from": 10,
+        "to": 9,
+        "delta": -1,
+        "price_lkr": 12500,
+        "value": 12500,
+        "permalink": "https://pcbuilders.lk/gamdias-case-new-gamdias-aura-gc103m-argb-micro-tower-case/",
+        "categories": "PC Cases",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/10/image-removebg-preview-2026-10-27T131444.116.png"
       },
       {
         "id": 43919,
@@ -1599,14 +1612,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 4,
+      "decrease_items": 5,
       "increase_items": 0,
-      "decrease_units": 4,
+      "decrease_units": 5,
       "increase_units": 0,
-      "decrease_value": 30650,
+      "decrease_value": 43150,
       "increase_value": 0,
-      "net_units": -4,
-      "net_value": -30650
+      "net_units": -5,
+      "net_value": -43150
     }
   }
 ]
