@@ -1542,7 +1542,7 @@
   {
     "date": "2026-11-28",
     "compared_to": "2026-11-28 open",
-    "generated_at": "2026-11-28T06:37:12.139Z",
+    "generated_at": "2026-11-28T06:39:08.563Z",
     "decreases": [
       {
         "id": 53622,
@@ -1597,6 +1597,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-06T162805.141.png"
       },
       {
+        "id": 24694,
+        "name": "COMPUTER CABLE – POWER CABLE",
+        "sku": "ACC-NEW-COMPUTER-CABLE&amp;#8212;POWER-CABLE",
+        "from": 8,
+        "to": 7,
+        "delta": -1,
+        "price_lkr": 500,
+        "value": 500,
+        "permalink": "https://pcbuilders.lk/computer-4/",
+        "categories": "Power Cables, Cables &amp;amp; Adapters",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebg-preview-2024-03-01T123310.126.png"
+      },
+      {
         "id": 27930,
         "name": "C MOS BATTERY – COMPUTER",
         "sku": "ACC-NEW-C-MOS-BATTERY&amp;#8212;COMPUTER",
@@ -1612,14 +1625,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 5,
+      "decrease_items": 6,
       "increase_items": 0,
-      "decrease_units": 5,
+      "decrease_units": 6,
       "increase_units": 0,
-      "decrease_value": 43150,
+      "decrease_value": 43650,
       "increase_value": 0,
-      "net_units": -5,
-      "net_value": -43150
+      "net_units": -6,
+      "net_value": -43650
     }
   }
 ]
