@@ -2110,5 +2110,21 @@
     "permalink": "https://pcbuilders.lk/raidmax-case-new-raidmax-infinita-i800-argb/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-36-1.png",
     "categories": "PC Cases, PC Components"
+  },
+  {
+    "at": "2026-11-28T09:03:05.521Z",
+    "date": "2026-11-28",
+    "direction": "decrease",
+    "id": 39286,
+    "name": "Prolink Ups Battery (12V / 8.2Ah) (1 YEAR WARRANTY)",
+    "sku": "GEN-NEW-PROLINK-UPS-BATTERY-12V-8-2AH",
+    "from": 5,
+    "to": 3,
+    "delta": -2,
+    "price_lkr": 6000,
+    "value": 12000,
+    "permalink": "https://pcbuilders.lk/prolink-gen-new-prolink-ups-battery-12v-8-2ah/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-26T120657.147-500x433.png",
+    "categories": "UPS, PC Components"
   }
 ]

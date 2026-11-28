@@ -1542,7 +1542,7 @@
   {
     "date": "2026-11-28",
     "compared_to": "2026-11-28 open",
-    "generated_at": "2026-11-28T09:01:23.363Z",
+    "generated_at": "2026-11-28T09:03:05.564Z",
     "decreases": [
       {
         "id": 39579,
@@ -1636,6 +1636,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/01/image-removebg-preview-2026-01-27T204701.730-500x433.png"
       },
       {
+        "id": 39286,
+        "name": "Prolink Ups Battery (12V / 8.2Ah) (1 YEAR WARRANTY)",
+        "sku": "GEN-NEW-PROLINK-UPS-BATTERY-12V-8-2AH",
+        "from": 5,
+        "to": 3,
+        "delta": -2,
+        "price_lkr": 6000,
+        "value": 12000,
+        "permalink": "https://pcbuilders.lk/prolink-gen-new-prolink-ups-battery-12v-8-2ah/",
+        "categories": "UPS, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2025/10/image-removebg-preview-2025-10-26T120657.147-500x433.png"
+      },
+      {
         "id": 53295,
         "name": "Arctic MX-7 (4g) (CN) Ultimate Performance Thermal Paste",
         "sku": "GEN-NEW-ARCTIC-MX-7-4G-CN-ULTIMATE-PERFORMANCE-T",
@@ -1703,14 +1716,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 12,
+      "decrease_items": 13,
       "increase_items": 0,
-      "decrease_units": 12,
+      "decrease_units": 14,
       "increase_units": 0,
-      "decrease_value": 155250,
+      "decrease_value": 167250,
       "increase_value": 0,
-      "net_units": -12,
-      "net_value": -155250
+      "net_units": -14,
+      "net_value": -167250
     }
   }
 ]
