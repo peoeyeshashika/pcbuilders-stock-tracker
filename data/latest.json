@@ -1,14 +1,14 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T07:45:11.097Z",
+  "scraped_at": "2026-11-28T07:47:12.425Z",
   "counts": {
-    "products": 1102,
-    "qty_known": 508,
+    "products": 1101,
+    "qty_known": 507,
     "qty_hidden": 41,
     "backorder": 553,
     "out_of_stock": 0,
-    "sum_qty": 1165,
-    "total_value": 32707740
+    "sum_qty": 1164,
+    "total_value": 32689740
   },
   "products": [
     {
@@ -7647,21 +7647,6 @@
       "categories": "Desktop RAM, Memory, PC Components"
     },
     {
-      "id": 20784,
-      "name": "ASUS PRIME B450M – A MOTHERBOARD (USED ITEM)",
-      "sku": "MB-USED-ASUS-PRIME-B450M-A",
-      "permalink": "https://pcbuilders.lk/used-asus-mb-used-asus-prime-b450m-a/",
-      "price_lkr": 18000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-74-500x464.png",
-      "categories": "Motherboards, PC Components"
-    },
-    {
       "id": 20596,
       "name": "SEAGATE BARRACUDA 1TB ST1000DM010 (3 YEARS WARRANTY)",
       "sku": "GEN-NEW-SEAGATE-BARRACUDA-1TB-ST1000DM010",
@@ -7723,7 +7708,7 @@
     },
     {
       "id": 19898,
-      "name": "MSI B450M-A PRO MAX II DDR4 MOTHERBOARD (3 YEARS WARRANTY)",
+      "name": "MSI B450M-A PRO MAX II DDR4 MOTHERBOARD (USED ITEM)",
       "sku": "MB-NEW-MSI-B450M-A-PRO-MAX-II-DDR4",
       "permalink": "https://pcbuilders.lk/msi-mb-new-msi-b450m-a-pro-max-ii-ddr4/",
       "price_lkr": 18000,
