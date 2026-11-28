@@ -1542,7 +1542,7 @@
   {
     "date": "2026-11-28",
     "compared_to": "2026-11-28 open",
-    "generated_at": "2026-11-28T10:01:12.825Z",
+    "generated_at": "2026-11-28T10:03:04.323Z",
     "decreases": [
       {
         "id": 39579,
@@ -1662,6 +1662,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-07T161235.252.png"
       },
       {
+        "id": 61221,
+        "name": "MEETION P100 Large Extended Gaming Mouse Pad (1 YEAR WARRANTY)",
+        "sku": "ACC-NEW-MEETION-P100-LARGE-EXTENDED-MOUSE-PAD",
+        "from": 3,
+        "to": 1,
+        "delta": -2,
+        "price_lkr": 2000,
+        "value": 4000,
+        "permalink": "https://pcbuilders.lk/meetion-acc-new-meetion-p100-large-extended-mouse-pad/",
+        "categories": "Gaming Peripherals, Mouse Mats",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/p100-meetion-official.png"
+      },
+      {
         "id": 53295,
         "name": "Arctic MX-7 (4g) (CN) Ultimate Performance Thermal Paste",
         "sku": "GEN-NEW-ARCTIC-MX-7-4G-CN-ULTIMATE-PERFORMANCE-T",
@@ -1729,14 +1742,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 14,
+      "decrease_items": 15,
       "increase_items": 0,
-      "decrease_units": 15,
+      "decrease_units": 17,
       "increase_units": 0,
-      "decrease_value": 176250,
+      "decrease_value": 180250,
       "increase_value": 0,
-      "net_units": -15,
-      "net_value": -176250
+      "net_units": -17,
+      "net_value": -180250
     }
   }
 ]
