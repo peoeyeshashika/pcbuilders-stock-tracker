@@ -1542,7 +1542,7 @@
   {
     "date": "2026-11-28",
     "compared_to": "2026-11-28 open",
-    "generated_at": "2026-11-28T10:39:07.969Z",
+    "generated_at": "2026-11-28T10:41:09.467Z",
     "decreases": [
       {
         "id": 39579,
@@ -1556,6 +1556,19 @@
         "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-5700x-2/",
         "categories": "AMD, PC Components, Processors",
         "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4856__1_-removebg-preview.png"
+      },
+      {
+        "id": 48573,
+        "name": "Jungle Leopard ASTROBEAT DGT 240 LIQUID COOLER – BLACK (3 YEARS WARRANTY)",
+        "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROBEAT-DGT-240&amp;#8212;BLACK",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 23000,
+        "value": 23000,
+        "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-astrobeat-dgt-240-black-black/",
+        "categories": "Liquid Coolers, CPU Cooling, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-05-26T113244.742-500x492.png"
       },
       {
         "id": 61557,
@@ -1662,6 +1675,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-07T161235.252.png"
       },
       {
+        "id": 66285,
+        "name": "R8 KEYBOARD – GK101 Compact Wired RGB Mechanical Gaming Keyboard (6 months warranty)",
+        "sku": "KB-NEW-R8-KEYBOARD-GK101-COMPACT-WIRED-RGB-MECHANICA",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 5600,
+        "value": 5600,
+        "permalink": "https://pcbuilders.lk/r8-kb-new-r8-keyboard-gk101-compact-wired-rgb-mechanica/",
+        "categories": "Keyboards",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-25T121555.030.png"
+      },
+      {
         "id": 61221,
         "name": "MEETION P100 Large Extended Gaming Mouse Pad (1 YEAR WARRANTY)",
         "sku": "ACC-NEW-MEETION-P100-LARGE-EXTENDED-MOUSE-PAD",
@@ -1742,14 +1768,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 15,
+      "decrease_items": 17,
       "increase_items": 0,
-      "decrease_units": 17,
+      "decrease_units": 19,
       "increase_units": 0,
-      "decrease_value": 180250,
+      "decrease_value": 208850,
       "increase_value": 0,
-      "net_units": -17,
-      "net_value": -180250
+      "net_units": -19,
+      "net_value": -208850
     }
   }
 ]

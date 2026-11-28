@@ -2158,5 +2158,37 @@
     "permalink": "https://pcbuilders.lk/meetion-acc-new-meetion-p100-large-extended-mouse-pad/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/p100-meetion-official.png",
     "categories": "Gaming Peripherals, Mouse Mats"
+  },
+  {
+    "at": "2026-11-28T10:41:09.426Z",
+    "date": "2026-11-28",
+    "direction": "decrease",
+    "id": 66285,
+    "name": "R8 KEYBOARD – GK101 Compact Wired RGB Mechanical Gaming Keyboard (6 months warranty)",
+    "sku": "KB-NEW-R8-KEYBOARD-GK101-COMPACT-WIRED-RGB-MECHANICA",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 5600,
+    "value": 5600,
+    "permalink": "https://pcbuilders.lk/r8-kb-new-r8-keyboard-gk101-compact-wired-rgb-mechanica/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/11/image-removebg-preview-2026-11-25T121555.030.png",
+    "categories": "Keyboards"
+  },
+  {
+    "at": "2026-11-28T10:41:09.426Z",
+    "date": "2026-11-28",
+    "direction": "decrease",
+    "id": 48573,
+    "name": "Jungle Leopard ASTROBEAT DGT 240 LIQUID COOLER – BLACK (3 YEARS WARRANTY)",
+    "sku": "COOL-NEW-JUNGLE-LEOPARD-ASTROBEAT-DGT-240&amp;#8212;BLACK",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 23000,
+    "value": 23000,
+    "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-astrobeat-dgt-240-black-black/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-05-26T113244.742-500x492.png",
+    "categories": "Liquid Coolers, CPU Cooling, PC Components"
   }
 ]
