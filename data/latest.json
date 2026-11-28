@@ -1,14 +1,14 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T07:43:09.125Z",
+  "scraped_at": "2026-11-28T07:45:11.097Z",
   "counts": {
     "products": 1102,
-    "qty_known": 507,
+    "qty_known": 508,
     "qty_hidden": 41,
-    "backorder": 554,
+    "backorder": 553,
     "out_of_stock": 0,
-    "sum_qty": 1164,
-    "total_value": 32689740
+    "sum_qty": 1165,
+    "total_value": 32707740
   },
   "products": [
     {
@@ -7722,6 +7722,21 @@
       "categories": "Motherboards, PC Components"
     },
     {
+      "id": 19898,
+      "name": "MSI B450M-A PRO MAX II DDR4 MOTHERBOARD (3 YEARS WARRANTY)",
+      "sku": "MB-NEW-MSI-B450M-A-PRO-MAX-II-DDR4",
+      "permalink": "https://pcbuilders.lk/msi-mb-new-msi-b450m-a-pro-max-ii-ddr4/",
+      "price_lkr": 18000,
+      "is_in_stock": true,
+      "stock_text": "1 in stock",
+      "qty": 1,
+      "qty_known": true,
+      "status": "in_stock_qty",
+      "on_backorder": false,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2023/11/b450.png",
+      "categories": "Motherboards, PC Components"
+    },
+    {
       "id": 19872,
       "name": "MSI A620M-E PRO DDR5 MOTHERBOARD (3 YEARS WARRANTY)",
       "sku": "MB-NEW-MSI-A620M-E-PRO-DDR5",
@@ -10495,21 +10510,6 @@
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-22T115355.462-500x478.png",
       "categories": "Monitors, Monitors &amp;amp; Display"
-    },
-    {
-      "id": 55800,
-      "name": "ARCTIC P14 Max (White) Fan (6 YEARS WARRANTY)",
-      "sku": "COOL-NEW-ARCTIC-P14-MAX-WHITE-FAN",
-      "permalink": "https://pcbuilders.lk/arctic-cool-new-arctic-p14-max-white-fan-white/",
-      "price_lkr": 5800,
-      "is_in_stock": true,
-      "stock_text": "Available on backorder",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/08/image-removebg-preview-2026-08-21T164658.253.png",
-      "categories": "Case Fans, PC Components"
     },
     {
       "id": 55800,
