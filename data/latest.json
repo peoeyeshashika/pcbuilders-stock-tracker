@@ -1,14 +1,14 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T07:49:10.604Z",
+  "scraped_at": "2026-11-28T07:51:06.149Z",
   "counts": {
     "products": 1098,
-    "qty_known": 507,
+    "qty_known": 503,
     "qty_hidden": 41,
-    "backorder": 550,
+    "backorder": 554,
     "out_of_stock": 0,
-    "sum_qty": 1164,
-    "total_value": 32689740
+    "sum_qty": 1157,
+    "total_value": 32487040
   },
   "products": [
     {
@@ -4032,21 +4032,6 @@
       "categories": "Motherboards, PC Components"
     },
     {
-      "id": 53919,
-      "name": "GAMDIAS AURA GC9M ARGB MICRO-TOWER WHITE CASE",
-      "sku": "CASE-NEW-GAMDIAS-AURA-GC9M-ARGB-MICRO-TOWER-WHITE",
-      "permalink": "https://pcbuilders.lk/gamdias-case-new-gamdias-aura-gc9m-argb-micro-tower-white-white/",
-      "price_lkr": 13000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/06/image-removebg-preview-2026-06-28T134015.893.png",
-      "categories": "PC Cases, PC Components"
-    },
-    {
       "id": 53808,
       "name": "Chuwi CoreBook Air PLUS-H Ryzen 7 H 255 LAPTOP (2 YEARS WARRANTY)",
       "sku": "LAP-NEW-CHUWI-COREBOOK-AIR-PLUS-H-RYZEN-7-H-255-",
@@ -4407,21 +4392,6 @@
       "categories": "Headsets, Gaming Peripherals"
     },
     {
-      "id": 51218,
-      "name": "MSI GEFORCE RTX 3050 VENTUS 2X XS 8GB OC GRAPHICS CARD (USED ITEM)",
-      "sku": "GPU-USED-MSI-RTX-3050-VENTUS-2X-XS-8GB-OC",
-      "permalink": "https://pcbuilders.lk/used-msi-rtx-3050-8gb/",
-      "price_lkr": 88000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/image-removebg-preview-2026-05-09T152223.855.png",
-      "categories": "Graphics Cards, PC Components"
-    },
-    {
       "id": 50636,
       "name": "ARCTIC LIQUID FREEZER III PRO 360 BLACK COOLER (6 YEARS WARRANTY)",
       "sku": "COOL-NEW-ARCTIC-LIQUID-FREEZER-III-PRO-360-BLACK",
@@ -4773,8 +4743,8 @@
       "permalink": "https://pcbuilders.lk/control/",
       "price_lkr": 2100,
       "is_in_stock": true,
-      "stock_text": "19 in stock",
-      "qty": 19,
+      "stock_text": "18 in stock",
+      "qty": 18,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -4938,8 +4908,8 @@
       "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-kf620-dgt-argb-white-white/",
       "price_lkr": 14600,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -6093,8 +6063,8 @@
       "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-5700x-2/",
       "price_lkr": 53500,
       "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
+      "stock_text": "1 in stock",
+      "qty": 1,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -7707,21 +7677,6 @@
       "categories": "Motherboards, PC Components"
     },
     {
-      "id": 19898,
-      "name": "MSI B450M-A PRO MAX II DDR4 MOTHERBOARD (USED ITEM)",
-      "sku": "MB-NEW-MSI-B450M-A-PRO-MAX-II-DDR4",
-      "permalink": "https://pcbuilders.lk/msi-mb-new-msi-b450m-a-pro-max-ii-ddr4/",
-      "price_lkr": 18000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/11/b450.png",
-      "categories": "Motherboards, PC Components"
-    },
-    {
       "id": 19872,
       "name": "MSI A620M-E PRO DDR5 MOTHERBOARD (3 YEARS WARRANTY)",
       "sku": "MB-NEW-MSI-A620M-E-PRO-DDR5",
@@ -7765,21 +7720,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-24T113534.087.png",
       "categories": "INTEL, PC Components, Processors"
-    },
-    {
-      "id": 19627,
-      "name": "GAMDIAS KRATOS M1-600B RGB 600 WATT 80 PLUS BRONZ POWER SUPPLY (2 YEARS WARRANTY)",
-      "sku": "PSU-NEW-GAMDIAS-KRATOS-M1-600B-RGB-600-WATT-BRON",
-      "permalink": "https://pcbuilders.lk/gamdias-psu-new-gamdias-kratos-m1-600b-rgb-600-watt-bron/",
-      "price_lkr": 13500,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/01/image-removebg-preview-2024-01-24T101414.689.png",
-      "categories": "PC Components, Power Supplies"
     },
     {
       "id": 19422,
@@ -9009,6 +8949,66 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-28T173618.341.png",
+      "categories": "Used Laptops, Laptops"
+    },
+    {
+      "id": 62421,
+      "name": "LENOVO THINKPAD T14 14.0&#8243; INTEL CORE I5 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "sku": "LAP-USED-LENOVO-THINKPAD-T14-INTEL-CORE-I5-11TH-GEN-16GB-256",
+      "permalink": "https://pcbuilders.lk/lenovo-thinkpad-t14-14-0-intel-core-i5-11th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
+      "price_lkr": 115000,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2026/04/image-removebg-preview-2026-04-28T173618.341.png",
+      "categories": "Used Laptops, Laptops"
+    },
+    {
+      "id": 62420,
+      "name": "DELL LATITUDE 7420 14.0&#8243; INTEL CORE I7 11TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "sku": "LAP-USED-DELL-LATITUDE-7420-INTEL-CORE-I7-11TH-GEN-16GB-256G",
+      "permalink": "https://pcbuilders.lk/dell-latitude-7420-14-0-intel-core-i7-11th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
+      "price_lkr": 124000,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2025/02/image-removebg-preview-70.png",
+      "categories": "Used Laptops, Laptops"
+    },
+    {
+      "id": 62419,
+      "name": "DELL LATITUDE 5500 15.6&#8243; INTEL CORE I7 8TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "sku": "LAP-USED-DELL-LATITUDE-5500-INTEL-CORE-I7-8TH-GEN-16GB-256GB",
+      "permalink": "https://pcbuilders.lk/dell-latitude-5500-15-6-intel-core-i7-8th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
+      "price_lkr": 92000,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebasdasdg-preview-2024-03-30T142640.493.png",
+      "categories": "Used Laptops, Laptops"
+    },
+    {
+      "id": 62418,
+      "name": "DELL LATITUDE 5510 15.6&#8243; INTEL CORE I5 10TH GEN 16GB RAM 256GB NVME SSD LAPTOP (USED ITEM) (1 MONTH WARRANTY)",
+      "sku": "LAP-USED-DELL-LATITUDE-5510-INTEL-CORE-I5-10TH-GEN-16GB-256G",
+      "permalink": "https://pcbuilders.lk/dell-latitude-5510-15-6-intel-core-i5-10th-gen-16gb-ram-256gb-nvme-ssd-laptop/",
+      "price_lkr": 103000,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/03/image-removebasdasdg-preview-2024-03-30T142640.493.png",
       "categories": "Used Laptops, Laptops"
     },
     {
@@ -16485,5 +16485,5 @@
   "baseline": false,
   "previous_date": "2026-11-28 open",
   "poll_interval_minutes": 2,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 3
 }

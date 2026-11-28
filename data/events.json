@@ -2046,5 +2046,53 @@
     "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-7.png",
     "categories": "UPS, PC Components"
+  },
+  {
+    "at": "2026-11-28T07:51:06.149Z",
+    "date": "2026-11-28",
+    "direction": "decrease",
+    "id": 48952,
+    "name": "ARGB Control Switch and RGB Fan Hub Splitter",
+    "sku": "GEN-NEW-ARGB-CONTROL-SWITCH-RGB-FAN-HUB-SPLITTER",
+    "from": 19,
+    "to": 18,
+    "delta": -1,
+    "price_lkr": 2100,
+    "value": 2100,
+    "permalink": "https://pcbuilders.lk/control/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-08T113911.255-500x469.png",
+    "categories": "ARGB Controllers, PC Components, PC Lighting"
+  },
+  {
+    "at": "2026-11-28T07:51:06.149Z",
+    "date": "2026-11-28",
+    "direction": "decrease",
+    "id": 48554,
+    "name": "JUNGLE LEOPARD KF620-DGT ARGB WHITE (6 MONTHS WARRANTY)",
+    "sku": "COOL-NEW-JUNGLE-LEOPARD-KF620-DGT-ARGB-WHITE",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 14600,
+    "value": 14600,
+    "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-kf620-dgt-argb-white-white/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-03T101658.155.png",
+    "categories": "Air Coolers, CPU Cooling, PC Components"
+  },
+  {
+    "at": "2026-11-28T07:51:06.149Z",
+    "date": "2026-11-28",
+    "direction": "decrease",
+    "id": 39579,
+    "name": "AMD RYZEN 7 5700X PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+    "sku": "CPU-NEW-AMD-RYZEN-7-5700X-2",
+    "from": 2,
+    "to": 1,
+    "delta": -1,
+    "price_lkr": 53500,
+    "value": 53500,
+    "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-5700x-2/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4856__1_-removebg-preview.png",
+    "categories": "AMD, PC Components, Processors"
   }
 ]

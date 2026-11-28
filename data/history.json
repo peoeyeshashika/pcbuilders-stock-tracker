@@ -1542,8 +1542,21 @@
   {
     "date": "2026-11-28",
     "compared_to": "2026-11-28 open",
-    "generated_at": "2026-11-28T07:49:10.644Z",
+    "generated_at": "2026-11-28T07:51:06.209Z",
     "decreases": [
+      {
+        "id": 39579,
+        "name": "AMD RYZEN 7 5700X PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+        "sku": "CPU-NEW-AMD-RYZEN-7-5700X-2",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 53500,
+        "value": 53500,
+        "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-5700x-2/",
+        "categories": "AMD, PC Components, Processors",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4856__1_-removebg-preview.png"
+      },
       {
         "id": 61557,
         "name": "AWP AID1200 1200VA LINE INTERACTIVE UPS (UNIT 5Y / BATTERY 2Y)",
@@ -1556,6 +1569,19 @@
         "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
         "categories": "UPS, PC Components",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-7.png"
+      },
+      {
+        "id": 48554,
+        "name": "JUNGLE LEOPARD KF620-DGT ARGB WHITE (6 MONTHS WARRANTY)",
+        "sku": "COOL-NEW-JUNGLE-LEOPARD-KF620-DGT-ARGB-WHITE",
+        "from": 2,
+        "to": 1,
+        "delta": -1,
+        "price_lkr": 14600,
+        "value": 14600,
+        "permalink": "https://pcbuilders.lk/jungle-cool-new-jungle-leopard-kf620-dgt-argb-white-white/",
+        "categories": "Air Coolers, CPU Cooling, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-03T101658.155.png"
       },
       {
         "id": 53622,
@@ -1623,6 +1649,19 @@
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/IOEfoo3xrwAZErGWzjoFU06bQWLx2avf0k9sVri4-500x600.webp"
       },
       {
+        "id": 48952,
+        "name": "ARGB Control Switch and RGB Fan Hub Splitter",
+        "sku": "GEN-NEW-ARGB-CONTROL-SWITCH-RGB-FAN-HUB-SPLITTER",
+        "from": 19,
+        "to": 18,
+        "delta": -1,
+        "price_lkr": 2100,
+        "value": 2100,
+        "permalink": "https://pcbuilders.lk/control/",
+        "categories": "ARGB Controllers, PC Components, PC Lighting",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/03/image-removebg-preview-2026-03-08T113911.255-500x469.png"
+      },
+      {
         "id": 24694,
         "name": "COMPUTER CABLE – POWER CABLE",
         "sku": "ACC-NEW-COMPUTER-CABLE&amp;#8212;POWER-CABLE",
@@ -1651,14 +1690,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 8,
+      "decrease_items": 11,
       "increase_items": 0,
-      "decrease_units": 8,
+      "decrease_units": 11,
       "increase_units": 0,
-      "decrease_value": 68050,
+      "decrease_value": 138250,
       "increase_value": 0,
-      "net_units": -8,
-      "net_value": -68050
+      "net_units": -11,
+      "net_value": -138250
     }
   }
 ]
