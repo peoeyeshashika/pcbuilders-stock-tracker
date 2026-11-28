@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T05:55:16.021Z",
+  "scraped_at": "2026-11-28T05:57:13.457Z",
   "counts": {
     "products": 1099,
     "qty_known": 506,
@@ -11697,21 +11697,6 @@
       "categories": "Computer Desks, Gaming &amp;amp; Desk Setup"
     },
     {
-      "id": 52353,
-      "name": "FANTECH GROOVE BAR PRO BS162 B/T SPEAKER (6 MONTHS WARRANTY)",
-      "sku": "GEN-NEW-FANTECH-GROOVE-BAR-PRO-BS162-B-T-SPEAKER",
-      "permalink": "https://pcbuilders.lk/fantech-gen-new-fantech-groove-bar-pro-bs162-b-t-speaker/",
-      "price_lkr": 6500,
-      "is_in_stock": true,
-      "stock_text": "",
-      "qty": null,
-      "qty_known": false,
-      "status": "backorder",
-      "on_backorder": true,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2026/05/image-removebg-preview-2026-05-23T134134.167.png",
-      "categories": "Speakers and Sound, Gaming Peripherals"
-    },
-    {
       "id": 51637,
       "name": "MEETION CHR32 Ergonomic Breathable Gaming Chair with Footrest (6 MONTHS WARRANTY)",
       "sku": "GEN-NEW-MEETION-CHR32-BREATHABLE-GAMING-CHAIR-FO-2",
@@ -13509,6 +13494,21 @@
       "status": "backorder",
       "on_backorder": true,
       "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-25T121614.880.png",
+      "categories": "Liquid Coolers, CPU Cooling, PC Components"
+    },
+    {
+      "id": 37394,
+      "name": "Deepcool LS520S ZERO DARK Liquid CPU Cooler (5 YEARS WARRANTY)",
+      "sku": "COOL-NEW-DEEPCOOL-LS520S-ZERO-DARK-LIQUID",
+      "permalink": "https://pcbuilders.lk/deepcool-cool-new-deepcool-ls520s-zero-dark-liquid/",
+      "price_lkr": 31000,
+      "is_in_stock": true,
+      "stock_text": "Available on backorder",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2025/09/image-removebg-preview-2025-09-25T120546.717.png",
       "categories": "Liquid Coolers, CPU Cooling, PC Components"
     },
     {
