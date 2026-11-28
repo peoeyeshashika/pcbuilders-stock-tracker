@@ -1542,8 +1542,21 @@
   {
     "date": "2026-11-28",
     "compared_to": "2026-11-28 open",
-    "generated_at": "2026-11-28T12:07:10.219Z",
+    "generated_at": "2026-11-28T12:09:08.250Z",
     "decreases": [
+      {
+        "id": 48427,
+        "name": "MSI Pro MP243L E14 24.5&#8243; Inch 144Hz 1ms FHD IPS Productivity Monitor (3 YEARS WARRANTY)",
+        "sku": "MON-NEW-MSI-PRO-MP243L-E14-24-5-INCH-144HZ-1MS-F",
+        "from": 10,
+        "to": 8,
+        "delta": -2,
+        "price_lkr": 35000,
+        "value": 70000,
+        "permalink": "https://pcbuilders.lk/msi-pro-mp243l/",
+        "categories": "Monitors, Monitors &amp;amp; Display",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2026/02/image-removebg-preview-2026-02-28T144709.770.png"
+      },
       {
         "id": 39579,
         "name": "AMD RYZEN 7 5700X PROCESSOR (TRAY) (3 YEARS WARRANTY)",
@@ -1768,14 +1781,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 17,
+      "decrease_items": 18,
       "increase_items": 0,
-      "decrease_units": 19,
+      "decrease_units": 21,
       "increase_units": 0,
-      "decrease_value": 208850,
+      "decrease_value": 278850,
       "increase_value": 0,
-      "net_units": -19,
-      "net_value": -208850
+      "net_units": -21,
+      "net_value": -278850
     }
   }
 ]
