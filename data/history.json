@@ -1542,7 +1542,7 @@
   {
     "date": "2026-11-28",
     "compared_to": "2026-11-28 open",
-    "generated_at": "2026-11-28T08:25:14.103Z",
+    "generated_at": "2026-11-28T08:27:07.334Z",
     "decreases": [
       {
         "id": 39579,
@@ -1569,6 +1569,19 @@
         "permalink": "https://pcbuilders.lk/awp-gen-new-awp-aid1200-1200va-line-interactive-ups/",
         "categories": "UPS, PC Components",
         "image": "https://pcbuilders.lk/wp-content/uploads/2026/09/image-removebg-preview-7.png"
+      },
+      {
+        "id": 23738,
+        "name": "RAIDMAX INFINITA I800 ARGB MID-TOWER GAMING CASE",
+        "sku": "CASE-NEW-RAIDMAX-INFINITA-I800-ARGB",
+        "from": 4,
+        "to": 3,
+        "delta": -1,
+        "price_lkr": 17000,
+        "value": 17000,
+        "permalink": "https://pcbuilders.lk/raidmax-case-new-raidmax-infinita-i800-argb/",
+        "categories": "PC Cases, PC Components",
+        "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-36-1.png"
       },
       {
         "id": 48554,
@@ -1690,14 +1703,14 @@
     ],
     "increases": [],
     "totals": {
-      "decrease_items": 11,
+      "decrease_items": 12,
       "increase_items": 0,
-      "decrease_units": 11,
+      "decrease_units": 12,
       "increase_units": 0,
-      "decrease_value": 138250,
+      "decrease_value": 155250,
       "increase_value": 0,
-      "net_units": -11,
-      "net_value": -138250
+      "net_units": -12,
+      "net_value": -155250
     }
   }
 ]

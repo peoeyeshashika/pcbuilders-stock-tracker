@@ -2094,5 +2094,21 @@
     "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-5700x-2/",
     "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/4856__1_-removebg-preview.png",
     "categories": "AMD, PC Components, Processors"
+  },
+  {
+    "at": "2026-11-28T08:27:07.299Z",
+    "date": "2026-11-28",
+    "direction": "decrease",
+    "id": 23738,
+    "name": "RAIDMAX INFINITA I800 ARGB MID-TOWER GAMING CASE",
+    "sku": "CASE-NEW-RAIDMAX-INFINITA-I800-ARGB",
+    "from": 4,
+    "to": 3,
+    "delta": -1,
+    "price_lkr": 17000,
+    "value": 17000,
+    "permalink": "https://pcbuilders.lk/raidmax-case-new-raidmax-infinita-i800-argb/",
+    "image": "https://pcbuilders.lk/wp-content/uploads/2024/09/image-removebg-preview-36-1.png",
+    "categories": "PC Cases, PC Components"
   }
 ]

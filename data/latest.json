@@ -1,14 +1,14 @@
 {
   "date": "2026-11-28",
-  "scraped_at": "2026-11-28T08:25:14.077Z",
+  "scraped_at": "2026-11-28T08:27:07.299Z",
   "counts": {
-    "products": 1098,
-    "qty_known": 503,
+    "products": 1097,
+    "qty_known": 501,
     "qty_hidden": 41,
-    "backorder": 554,
+    "backorder": 555,
     "out_of_stock": 0,
-    "sum_qty": 1157,
-    "total_value": 32487040
+    "sum_qty": 1153,
+    "total_value": 32246040
   },
   "products": [
     {
@@ -6012,21 +6012,6 @@
       "categories": "CPU Cooling, Liquid Coolers, PC Components"
     },
     {
-      "id": 39777,
-      "name": "AMD RYZEN 5 5600GT PROCESSOR (TARY) (3 YEARS WARRANTY)",
-      "sku": "CPU-NEW-AMD-RYZEN-5-5600GT-TARY",
-      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-5-5600gt-tary/",
-      "price_lkr": 63000,
-      "is_in_stock": true,
-      "stock_text": "2 in stock",
-      "qty": 2,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2023/07/3788-removebg-preview.png",
-      "categories": "AMD, PC Components, Processors"
-    },
-    {
       "id": 39631,
       "name": "SOEYI V100 WHITE CASING WITH 500W POWER SUPPLY",
       "sku": "CASE-NEW-SOEYI-V100-WHITE-500W",
@@ -7383,8 +7368,8 @@
       "permalink": "https://pcbuilders.lk/raidmax-case-new-raidmax-infinita-i800-argb/",
       "price_lkr": 17000,
       "is_in_stock": true,
-      "stock_text": "4 in stock",
-      "qty": 4,
+      "stock_text": "3 in stock",
+      "qty": 3,
       "qty_known": true,
       "status": "in_stock_qty",
       "on_backorder": false,
@@ -7855,21 +7840,6 @@
       "on_backorder": false,
       "image": "https://pcbuilders.lk/wp-content/uploads/2023/12/ASROCK-FM2A68M-DG3-Motherboard-500x625.png",
       "categories": "Motherboards, PC Components"
-    },
-    {
-      "id": 18890,
-      "name": "AMD RYZEN 7 7800X3D PROCESSOR (TRAY) (3 YEARS WARRANTY)",
-      "sku": "CPU-NEW-AMD-RYZEN-7-7800X3D",
-      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-7800x3d/",
-      "price_lkr": 98000,
-      "is_in_stock": true,
-      "stock_text": "1 in stock",
-      "qty": 1,
-      "qty_known": true,
-      "status": "in_stock_qty",
-      "on_backorder": false,
-      "image": "https://pcbuilders.lk/wp-content/uploads/2024/02/1728141-amd-ryzen-3d-vcache-7-right-1260x709-1-500x558.webp",
-      "categories": "AMD, PC Components, Processors"
     },
     {
       "id": 18888,
@@ -16032,6 +16002,21 @@
       "categories": "PC Components, Power Supplies"
     },
     {
+      "id": 18890,
+      "name": "AMD RYZEN 7 7800X3D PROCESSOR (TRAY) (3 YEARS WARRANTY)",
+      "sku": "CPU-NEW-AMD-RYZEN-7-7800X3D",
+      "permalink": "https://pcbuilders.lk/amd-cpu-new-amd-ryzen-7-7800x3d/",
+      "price_lkr": 98000,
+      "is_in_stock": true,
+      "stock_text": "",
+      "qty": null,
+      "qty_known": false,
+      "status": "backorder",
+      "on_backorder": true,
+      "image": "https://pcbuilders.lk/wp-content/uploads/2024/02/1728141-amd-ryzen-3d-vcache-7-right-1260x709-1-500x558.webp",
+      "categories": "PC Components, Processors, AMD"
+    },
+    {
       "id": 18847,
       "name": "ADDLINK S70 LITE 512GB SSD NVME PCIE GEN3X4 M.2 (3 YEARS WARRANTY)",
       "sku": "SSD-NEW-ADDLINK-S70-LITE-512GB-NVME",
@@ -16485,5 +16470,5 @@
   "baseline": false,
   "previous_date": "2026-11-28 open",
   "poll_interval_minutes": 2,
-  "live_changes_this_poll": 0
+  "live_changes_this_poll": 1
 }
